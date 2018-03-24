@@ -1,6 +1,7 @@
 ---
 date: 2012-05-14
 title: Stage All Deleted Files In A Git Repository
+type: post
 ---
 Sometimes I use `rm` instead of `git rm` to delete files in a git repository.
 This simple mistake means that the deleted files are not staged when I try to commit my changes.

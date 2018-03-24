@@ -1,7 +1,8 @@
 ---
 date: 2012-05-24
 title: Responsive Web Design
-description:  Let your content adapt to the size of the screen
+description: Let your content adapt to the size of the screen
+type: post
 ---
 
 In 2010 [Ethan Marcotte][1] coined the term _[responseive web design][2]_ to describe a process for creating flexible, versatile websites.
