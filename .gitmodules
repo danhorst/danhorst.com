@@ -1,6 +1,0 @@
-[submodule "public"]
-	path = public
-	url = git@github.com:danhorst/danhorst.github.io.git
-[submodule "themes/tufte-css"]
-	path = themes/tufte-css
-	url = git@github.com:danhorst/hugo-theme-tufte-css.git
