@@ -35,6 +35,23 @@ body { width: 87.5%;
        max-width: 1400px;
        counter-reset: sidenote-counter; }
 
+header { padding-top: 2rem; }
+
+nav { font-style: italic;
+      padding-right: 12.5%; }
+
+nav > span { font-size: 1.4rem;
+             line-height: 2rem; }
+
+nav > ul { display: inline;
+           list-style-type: none;
+	   float: right;
+           margin: 0;
+	   padding: 0; }
+
+nav li { display: inline;
+         padding-left: 1rem; }
+
 h1 { font-weight: 400;
      margin-top: 4rem;
      margin-bottom: 1.5rem;
@@ -82,6 +99,8 @@ section { padding-top: 1rem;
 
 p, ol, ul { font-size: 1.4rem;
             line-height: 2rem; }
+
+ul { list-style-type: square; }
 
 p { margin-top: 1.4rem;
     margin-bottom: 1.4rem;
@@ -244,6 +263,7 @@ label.margin-toggle:not(.sidenote-number) { display: none; }
 @media (max-width: 760px) { body { width: 84%;
                                    padding-left: 8%;
                                    padding-right: 8%; }
+			    nav { padding-right: 8%; } 
                             hr, section > p, section > footer, section > table { width: 100%; }
                             pre.code { width: 97%; }
                             section > ol { width: 90%; }
