@@ -264,6 +264,8 @@ label.margin-toggle:not(.sidenote-number) { display: none; }
                                    padding-left: 8%;
                                    padding-right: 8%; }
 			    nav { padding-right: 8%; } 
+			    h1 { margin-top: 2rem; }
+			    article { padding-top: 3rem; }
                             hr, section > p, section > footer, section > table { width: 100%; }
                             pre.code { width: 97%; }
                             section > ol { width: 90%; }
