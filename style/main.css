@@ -80,6 +80,8 @@ hr { display: block;
      margin: 1em 0;
      padding: 0; }
 
+abbr { text-decoration: none; }
+
 p.subtitle { font-style: italic;
              margin-top: 1rem;
              margin-bottom: 1rem;
