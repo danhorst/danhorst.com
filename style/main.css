@@ -277,6 +277,8 @@ label.margin-toggle:not(.sidenote-number) { display: none; }
                                    padding-right: 8%; }
 			    nav { padding-right: 8%; } 
 			    h1 { margin-top: 2rem; }
+                            h1 + div.epigraph { margin: 5em 0 3em; }
+                            h1 + div.epigraph > blocquote { margin-bottom: 2em; }
 			    article { padding-top: 3rem; }
                             hr, section > p, section > footer, section > table { width: 100%; }
                             pre.code { width: 97%; }
