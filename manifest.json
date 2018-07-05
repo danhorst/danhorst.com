@@ -1,0 +1,21 @@
+{
+  "short_name": "DBH",
+  "name": "Dan Horst",
+  "icons": [
+    {
+      "src": "/images/DBH-400.png",
+      "type": "image/png",
+      "sizes": "400x400"
+    },
+    {
+      "src": "/icon.png",
+      "type": "image/png",
+      "sizes": "180x180"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#fffff8",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#fffff8"
+}
