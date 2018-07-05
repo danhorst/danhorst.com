@@ -251,6 +251,10 @@ span.newthought { font-variant: small-caps;
 
 input.margin-toggle { display: none; }
 
+.margin-toggle small { font-size: 1.1em;
+                       font-variant: small-caps;
+	               vertical-align: text-bottom; }
+
 label.sidenote-number { display: inline; }
 
 label.margin-toggle:not(.sidenote-number) { display: none; }
