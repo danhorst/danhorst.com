@@ -1,7 +1,5 @@
 @charset "UTF-8";
 
-/* Import ET Book styles */
-
 @font-face { font-family: "et-book";
              src: url("/style/et-book/et-book-roman-line-figures.woff2") format("woff2");
                   url("/style/et-book/et-book-roman-line-figures.woff") format("woff");
