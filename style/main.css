@@ -310,6 +310,7 @@ label.margin-toggle:not(.sidenote-number) { display: none; }
                             pre.code { width: 97%; }
                             section > ol { width: 90%; }
                             section > ul { width: 90%; }
+                            ul > li { clear: both; }
                             figure { max-width: 90%; }
                             figcaption, figure.fullwidth figcaption { margin-right: 0%;
                                                                       max-width: none; }
