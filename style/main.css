@@ -106,7 +106,11 @@ p, ol, ul { font-size: 1.4rem;
 
 ul { list-style-type: none; }
 
-ul > li:before { content: "\2219"; }
+ul > li { position: relative; }
+
+article ul > li:before { content: "\2219";
+                 left: -.9rem;
+	         position: absolute; }
 
 p { margin-top: 1.4rem;
     margin-bottom: 1.4rem;
