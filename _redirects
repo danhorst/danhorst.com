@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+https://loving-ritchie-0e6eda.netlify.com/* https://www.danhorst.com/:splat 301!
