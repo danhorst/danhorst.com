@@ -10,6 +10,15 @@
 
     <link rel="apple-touch-icon" href="/icon.png">
     <link rel="stylesheet" href="/style/main.css"/>
+    <script>
+      if ('serviceWorker' in navigator) {
+	navigator.serviceWorker.register('/sw.js').then((reg) => {
+	  console.log('Registered service worker', reg);
+	}).catch((err) => {
+	  console.log('Service worker unavailable', err);
+	});
+      }
+    </script>
   </head>
 
   <body>
