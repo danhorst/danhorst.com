@@ -112,7 +112,7 @@ ul { list-style-type: none; }
 
 ul > li { position: relative; }
 
-article ul > li:before { content: "\2219";
+main ul > li:before { content: "\2219";
                  left: -.9rem;
 	         position: absolute; }
 
