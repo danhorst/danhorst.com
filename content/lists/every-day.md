@@ -1,5 +1,6 @@
 ---
 title: "Every Day"
+description: "Things I do every day"
 date: 2018-07-18T18:33:27-04:00
 ---
 

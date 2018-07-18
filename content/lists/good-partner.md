@@ -1,0 +1,102 @@
+---
+title: "Be A Good Partner"
+description: "Ways to be a good partner"
+date: 2018-07-18T19:12:49-04:00
+---
+
+<div class="epigraph">
+<blockquote>
+  <p>
+  The only thing in this world more difficult than caring about other people is finding other people who genuinely care about you.
+  </p>
+  <footer>
+    <cite>&mdash;<a href="https://lareviewofbooks.org/article/american-loneliness/">Emma Healey</a></cite>
+  </footer>
+</blockquote>
+</div>
+
+<section>
+<h2 id="trust">Build Trust</h2>
+
+<p>
+  <label for="explain-attune" class="margin-toggle">
+    <small>source</small> &loz;
+  </label>
+  <input type="checkbox" id="explain-attune" class="margin-toggle"/><span class="marginnote">
+    This list comes from the <a href="https://www.gottman.com/blog/trust/">Gottman Institute</a>.
+    It is also a mnemonic acronym: <abbr title="Awareness, Turning toward, Tolerance, Understanding, Non-defensive responding, Empathy">ATTUNE</abbr>
+  </span> 
+</p>
+
+<ul>
+  <li>Awareness</li>
+  <li>Turning toward</li>
+  <li>Tolerance</li>
+  <li>Understanding</li>
+  <li>Non-defensive responding</li>
+  <li>Empathy</li>
+</ul>
+</section>
+
+<section>
+<h2 id="love">Express Your Love</h2>
+
+<ul>
+  <li>
+    Know your love languages and those of your partner
+    <label for="love-languages" class="margin-toggle sidenote-number"></label>
+    <input type="checkbox" id="love-languages" class="margin-toggle"/>
+    <span class="sidenote">
+      There are 5 <a href="https://en.wikipedia.org/wiki/The_Five_Love_Languages">love languages</a>: words, time, gifts, acts, touch.
+      The best way to show love to your partner is to do the things <em>they</em> value most.
+      Make an extra effort if their love languages are different from your own.
+    </span>
+  </li>
+  <li>Tell them you love them every day</li>
+  <li>Show them you love them every day</li>
+  <li>Share emotional labor</li>
+  <li>Remember important dates and make them memorable</li>
+  <li>Take initiative and plan something as a surprise</li>
+  <li>Tell them when something is bothering you</li>
+  <li>Ask them if they want to talk if something is bothering them</li>
+  <li>Be passionate</li>
+  <li>Be completely loyal to them</li>
+  <li>Be completely devoted to them</li>
+  <li>Invest time in building intimacy</li>
+  <li>Make sure their needs are met; strive to exceed expectations</li>
+  <li>Take care of yourself; it takes energy to maintain a relationship</li>
+  <li>Spend time together</li>
+  <li>Take walks together</li>
+  <li>Hold hands</li>
+  <li>Always offer to help</li>
+  <li>Make small gestures: open doors, carry bags, wash dishes</li>
+</ul>
+</section>
+
+<section>
+<h2 id="behavior">Exemplify Behavior</h2>
+
+<p>
+  <label for="explain-behavior" class="margin-toggle">
+    <small>source</small> &loz;
+  </label>
+  <input type="checkbox" id="explain-behavior" class="margin-toggle"/>
+  <span class="marginnote">
+    From the “Fruits of the Spirit”;<br>
+    Galatians 5:22–23
+  </span> 
+</p>
+
+<ul>
+  <li>Love</li>
+  <li>Joy</li>
+  <li>Peace</li>
+  <li>Patience</li>
+  <li>Kindness</li>
+  <li>Goodness</li>
+  <li>Faithfulness</li>
+  <li>Gentleness</li>
+  <li>Self-control</li>
+</ul>
+</section>
+</article>
