@@ -1,0 +1,17 @@
+{{ define "header" }}
+  <nav role="navigation">
+    <span><a href="/">Dan Horst</a></span>
+    <ul>
+      <li>Lists</li>
+      <li><a href="/about">About</a></li>
+    </ul>
+  </nav>
+{{ end }}
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  <ul class="listing">
+    {{ range .Paginator.Pages }}
+    <li><a href="{{ .Permalink }}">{{.Title}}</a></li>
+    {{ end }}
+  </ul>
+{{ end }}
