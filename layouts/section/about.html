@@ -1,7 +1,9 @@
-{{ partial "header.html" . }}
-<main>
-  <article>
-    {{ .Content }}
-  </article>
-</main>
-{{ partial "footer.html" . }}
+{{ define "header" }}
+  <nav role="navigation">
+    <span><a href="/">Dan Horst</a></span>
+    <ul>
+      <li><a href="/lists">Lists</a></li>
+      <li>About</li>
+    </ul>
+  </nav>
+{{ end }}

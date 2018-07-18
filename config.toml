@@ -1,4 +1,3 @@
 baseURL = "https://danhorst.com/"
 languageCode = "en-us"
 title = "Dan Horst"
-theme = "blank"

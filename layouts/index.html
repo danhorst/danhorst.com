@@ -1,9 +1,9 @@
-{{ partial "header.html" . }}
-	<main>
-		{{ $paginator := .Paginate (where .Site.Pages "Type" "post") }}
-		{{ range $paginator.Pages }}
-			{{ partial "summary.html" . }}
-		{{ end }}
-		{{ partial "pagination.html" . }}
-	</main>
-{{ partial "footer.html" . }}
+{{ define "header" }}
+  <nav role="navigation">
+    <span>Dan Horst</span>
+    <ul>
+      <li><a href="/lists">Lists</a></li>
+      <li><a href="/about">About</a></li>
+    </ul>
+  </nav>
+{{ end }}

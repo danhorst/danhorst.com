@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+  {{ partial "head.html" . }}
+  <body>
+    <header role="banner">
+      {{ block "header" . }}
+        <nav role="navigation">
+	  <span><a href="/">Dan Horst</a></span>
+          <ul>
+            <li><a href="/lists">Lists</a></li>
+            <li><a href="/about">About</a></li>
+          </ul>
+        </nav>
+      {{ end }}
+    </header>
+    <main role="main">
+      {{ block "main" . }}
+        {{ .Content }}
+      {{ end }}
+    </main>
+    {{ block "footer" . }}
+    {{ end }}
+  </body>
+</html>
