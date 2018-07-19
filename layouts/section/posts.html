@@ -15,9 +15,19 @@
 
 {{ define "main" }}
   <h1>Blog</h1>
-  <ul class="listing">
-    {{ range .Paginator.Pages }}
-    <li><span class="post-time">{{ .Date.Format "2006-01-02" }}</span> <a href="{{ .Permalink }}">{{.Title}}</a></li>
+  {{ range (.Paginate (.Pages.GroupByDate "2006")).PageGroups }}
+    <h2>{{.Key}}</h2>
+     <ol class="post-list">
+     {{ range .Pages }}
+     <li>
+       <a href="{{ .Permalink }}">
+	 {{.Title | markdownify}}<br/>
+         <small class="post-time">{{ .Date.Format "January 2" }}</small>
+       </a>
+       <p>{{.Description | markdownify}}</p>
+     </li>
     {{ end }}
-  </ul>
+     </ol>
+  {{ end }}
+
 {{ end }}

@@ -281,6 +281,10 @@ label.margin-toggle:not(.sidenote-number) { display: none; }
 
 .post-meta { font-style: italic; }
 
+.post-list { list-style-type: none;
+             padding-left: 0; }
+.post-list li:before { content:''; }
+
 .task-list { padding-left: 1em; }
 .task-list li:before { content:''; }
 .task-list-item {}
