@@ -1,16 +1,20 @@
+{{ define "title" }}
+  Blog
+{{ end }}
+
 {{ define "header" }}
   <nav role="navigation">
     <span><a href="/">Dan Horst</a></span>
     <ul>
-      <li><a href="/posts/">Blog</a></li>
-      <li>Lists</li>
-      <li><a href="/about">About</a></li>
+      <li>Blog</li>
+      <li><a href="/lists/">Lists</a></li>
+      <li><a href="/about/">About</a></li>
     </ul>
   </nav>
 {{ end }}
 
 {{ define "main" }}
-  <h1>{{ .Title }}</h1>
+  <h1>Blog</h1>
   <ul class="listing">
     {{ range .Paginator.Pages }}
     <li><a href="{{ .Permalink }}">{{.Title}}</a></li>
