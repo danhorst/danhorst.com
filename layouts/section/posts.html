@@ -21,8 +21,11 @@
      {{ range .Pages }}
      <li>
        <a href="{{ .Permalink }}">
-	 {{.Title | markdownify}}<br/>
-         <small class="post-time">{{ .Date.Format "January 2" }}</small>
+	 {{.Title | markdownify}}
+         <small class="post-date">
+	   <span class="month">{{ .Date.Format "January" }}</span>
+	   <span class="day">{{ .Date.Format "2" }}</span>
+	 </small>
        </a>
        <p>{{.Description | markdownify}}</p>
      </li>
