@@ -1,3 +1,6 @@
-baseURL = "https://danhorst.com/"
-languageCode = "en-us"
+baseURL =  "https://danhorst.com/"
+languageCode =  "en-us"
 title = "Dan Horst"
+
+[params]
+  author = "Dan Horst"
