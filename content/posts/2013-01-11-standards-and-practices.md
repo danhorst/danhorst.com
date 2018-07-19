@@ -1,7 +1,5 @@
 ---
-filename:    2013-01-11-standards-and-practices.md
-layout:      document
-category:    notes
+type:        post
 author:      Dan Brubaker Horst
 description: There is a semantic difference between a standard and a practice. I offer my definition of both terms.
 title:       Standards &amp; Practices

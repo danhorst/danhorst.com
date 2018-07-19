@@ -1,7 +1,5 @@
 ---
-filename:    2013-01-22-an-excellent-user-experience.md
-layout:      document
-category:    notes
+type:        post
 author:      Dan Brubaker Horst
 description: Providing an excellent user experience requires more than you might think.
 title:       An Excellent User Experience

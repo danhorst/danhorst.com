@@ -1,9 +1,6 @@
 ---
-filename:    2013-01-14-building-an-image-pipeline.md
-layout:      document
-category:    planning
+type:        post
 author:      Dan Brubaker Horst
-revised:     2013-02-19
 description: Our needs for image dissemination are a bit different than normal.
 title:       Building an Image Pipeline
 ---

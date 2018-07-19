@@ -4,3 +4,6 @@ title = "Dan Horst"
 
 [params]
   author = "Dan Horst"
+
+[frontmatter]
+  date  = [":filename", ":default"]

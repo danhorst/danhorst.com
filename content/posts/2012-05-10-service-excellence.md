@@ -1,7 +1,5 @@
 ---
-filename:    2012-05-10-service-excellence.md
-layout:      document
-category:    notes
+type:        post
 author:      Dan Brubaker Horst
 description: What we need to do to serve our patrons well.
 title:       Service Excellence

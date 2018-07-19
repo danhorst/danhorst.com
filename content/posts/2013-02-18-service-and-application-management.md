@@ -1,7 +1,5 @@
 ---
-filename:    2013-02-18-service-and-application-management.md
-layout:      document
-category:    planning
+type:        post
 author:      Dan Brubaker Horst
 description: This is how we propose to manage different types of applications across environments.
 title:       Service &amp; Application Management

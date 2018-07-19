@@ -1,9 +1,6 @@
 ---
-filename:    2013-01-10-application-environments.md
-layout:      document
-category:    planning
+type:        post
 author:      Dan Brubaker Horst
-revised:     2013-01-16
 description: Defining our expectations for deploying and managing applications.
 title:       Application Environments
 ---

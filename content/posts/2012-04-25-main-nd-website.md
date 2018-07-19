@@ -1,11 +1,10 @@
 ---
-filename:    2012-04-25-main-nd-website.md
-layout:      document
-category:    notes
+type:        post
 author:      Dan Brubaker Horst
 description: Observations and notes about the 2012 responsive redesign of nd.edu.
 title:       What I Know About The nd.edu Website
 ---
+
 ## The present (2011) website
  - is the second responsive design for nd.edu
    - there are layout adjustments at: 481px, 530px, 700px, 701px, 768px, 960px, 1050px, 1200px, and 1400px

@@ -1,10 +1,6 @@
 ---
-filename:    2012-10-29-infrastructure-as-code.md
-layout:      document
-category:    planning
+type:        post
 author:      Dan Brubaker Horst
-date:        2012-10-29
-revised:     2013-07-09
 description: Forging a path to developer happiness through DevOps.
 title:       Infrastructure As Code
 ---

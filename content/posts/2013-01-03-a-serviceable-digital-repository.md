@@ -1,7 +1,5 @@
 ---
-filename:    2013-01-03-a-serviceable-digital-repository.md
-layout:      document
-category:    planning
+type:        post
 author:      Dan Brubaker Horst
 description: A modest proposal for taming Hydra
 title:       A Digital Repository We Can Live With

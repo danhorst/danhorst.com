@@ -1,9 +1,6 @@
 ---
-filename:    2012-04-23-taking-seaside-to-the-next-level.md
-layout:      document
-category:    planning
+type:        post
 author:      Dan Brubaker Horst
-date:        2012-09-21
 description: An outline for future development on the Seaside Research Portal.
 title:       Next Steps for the Seaside Research Portal
 ---

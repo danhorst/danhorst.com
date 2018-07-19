@@ -1,7 +1,5 @@
 ---
-filename:    2013-11-13-rbsc-and-architecture-digital-needs.md
-layout:      document
-category:    planning
+type:        post
 author:      Dan Brubaker Horst
 description: We have evolving needs for our digital services. Let's find a way to meet them.
 title:       RBSC &amp; Architecture Digital Needs
