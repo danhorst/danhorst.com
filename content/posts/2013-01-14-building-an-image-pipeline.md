@@ -46,12 +46,12 @@ Thumbnails will be made available to the public for all of our image content _un
 ## Image Processing
 
 <figure class="illustration">
+<figcaption class="marginnote">
+  Image Pipeline Block Diagram
+</figcaption>
 <div id="image-pipeline-design" class="canvas">
   <img src="/img/image-pipeline-design.svg" alt="A line drawing of the components of the proposed image pipeline.">
 </div>
-<figcaption>
-  Image Pipeline Block Diagram
-</figcaption>
 </figure>
 
 The image pipeline only accommodates raster image files of particular file types.

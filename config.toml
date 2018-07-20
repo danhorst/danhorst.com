@@ -1,6 +1,7 @@
 baseURL =  "https://danhorst.com/"
 languageCode =  "en-us"
 title = "Dan Horst"
+paginate = 500
 
 [params]
   author = "Dan Horst"
