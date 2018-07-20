@@ -22,11 +22,15 @@
      <li>
        <a href="{{ .Permalink }}">
 	 {{.Title | markdownify}}
-         <small class="post-date">
-	   <span class="month">{{ .Date.Format "January" }}</span>
-	   <span class="day">{{ .Date.Format "2" }}</span>
-	 </small>
        </a>
+       <small class="post-list-meta">
+         <span class="month">{{ .Date.Format "January" }}</span>
+         <span class="day">{{ .Date.Format "2" }}</span>
+         <span class="categories">{{ if .Params.categories }}
+         {{ range $index, $category := .Params.categories }}{{ if gt $index 0 }}, {{ end }}<a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}" rel="category tag">{{ . }}</a>{{ end }}
+         {{ end }}
+         </span>
+       </small>
        <p>{{.Description | markdownify}}</p>
      </li>
     {{ end }}

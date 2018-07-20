@@ -294,14 +294,14 @@ label.margin-toggle:not(.sidenote-number) { display: none; }
 .post-list p { font-size: 1.2rem;
                margin-top: .4rem; }
 
-.post-date { background: none;
-	     display: block;
-	     font-size: .67em; }
+.post-list-meta { background: none;
+	          display: block;
+	          font-size: .67em;
+       	          letter-spacing: .1em;
+	          text-transform: uppercase; }
 
-.post-date .day { font-family: "et-book-roman-old-style"; }
-
-.post-date .month { letter-spacing: .1em;
-	            text-transform: uppercase; }
+.post-list-meta .day { font-family: "et-book-roman-old-style";
+                       letter-spacing: normal; }
 
 .task-list { padding-left: 1em; }
 .task-list li:before { content:''; }
