@@ -2,6 +2,7 @@
 type:        post
 author:      Dan Brubaker Horst
 description: This is how we propose to manage different types of applications across environments.
+markup:      mmark
 categories:
  - Archived
 title:       Service &amp; Application Management
@@ -58,19 +59,14 @@ As [web applications][1] are being developed they will pass through 5 different 
  - A new high-availability cluster needs to be built with RHEL 6.
  - The CI environment must be configured to test software packaged as a VM.
 
-*[VM]:   Virtual Machine
-*[CI]:   Continuous Integration
-*[RHEL]: Redhat Enterprise Linux
-*[OS]:   Operating System
-
-[1]: {{site.baseurl}}/glossary#web-application               (definition)
-[2]: {{site.baseurl}}/glossary#web-service                   (definition)
+[1]: /posts/glossary#web-application               (definition)
+[2]: /posts/glossary#web-service                   (definition)
 [3]: http://www.redhat.com/products/enterprise-linux-add-ons/high-availability/
-[4]: {{site.baseurl}}/glossary#internal-service              (definition)
-[5]: {{site.baseurl}}/glossary#continuous-integration        (definition)
+[4]: /posts/glossary#internal-service              (definition)
+[5]: /posts/glossary#continuous-integration        (definition)
 [6]: https://puppetlabs.com/
 
-[development]:    {{site.baseurl}}/glossary#development      (definition)
-[pre-production]: {{site.baseurl}}/glossary#pre-production   (definition)
-[production]:     {{site.baseurl}}/glossary#production       (definition)
-[staging]:        {{site.baseurl}}/glossary#staging          (definition)
+[development]:    /posts/glossary#development      (definition)
+[pre-production]: /posts/glossary#pre-production   (definition)
+[production]:     /posts/glossary#production       (definition)
+[staging]:        /posts/glossary#staging          (definition)
