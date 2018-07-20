@@ -39,6 +39,9 @@
       {{ end }}
     </header>
     <main role="main">
+      {{ block "heading" . }}
+        {{ .Content }}
+      {{ end }}
       {{ block "main" . }}
         {{ .Content }}
       {{ end }}
