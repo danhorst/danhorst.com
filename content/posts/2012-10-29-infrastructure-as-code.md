@@ -131,7 +131,7 @@ The second deliverable is a [KVM VM][31] for a staging environment where the pre
 [31]: https://github.com/jedi4ever/veewee/blob/master/doc/kvm.md
 [32]: http://www.12factor.net
 [33]: http://martinfowler.com/bliki/ImmutableServer.html
-[33]: http://www.heroku.com/
-[34]: https://devcenter.heroku.com/articles/buildpacks
+[34]: http://www.heroku.com/
+[35]: https://devcenter.heroku.com/articles/buildpacks
 
-[^1]: [Heroku][33]'s [buildpacks][34] sound interesting but may be limited to their proprietary service architecture.
+[^1]: [Heroku][34]'s [buildpacks][35] sound interesting but may be limited to their proprietary service architecture.
