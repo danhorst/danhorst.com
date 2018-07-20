@@ -2,6 +2,8 @@
 type:        post
 author:      Dan Brubaker Horst
 description: Let your content adapt to the size of the screen
+categories:
+ - Design
 title:       Responsive Web Design
 ---
 

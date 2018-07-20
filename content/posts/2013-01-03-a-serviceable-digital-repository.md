@@ -2,6 +2,8 @@
 type:        post
 author:      Dan Brubaker Horst
 description: A modest proposal for taming Hydra
+categories:
+ - Archived
 title:       A Digital Repository We Can Live With
 ---
 

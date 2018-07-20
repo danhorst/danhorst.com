@@ -2,6 +2,8 @@
 type:        post
 author:      Dan Brubaker Horst
 description: We have evolving needs for our digital services. Let's find a way to meet them.
+categories:
+ - Archived
 title:       RBSC &amp; Architecture Digital Needs
 ---
 
@@ -98,4 +100,4 @@ They would love to make that kind of discovery experience available to their pat
 [9]:  http://www.e-codices.unifr.ch
 [10]: http://books.northwestern.edu/
 [11]: http://iiif.io
-[12]: http://www3.nd.edu/~dbrubak1/planning/building-an-image-pipeline/
+[12]: /posts/building-an-image-pipeline/

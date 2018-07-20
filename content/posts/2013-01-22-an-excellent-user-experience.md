@@ -2,6 +2,8 @@
 type:        post
 author:      Dan Brubaker Horst
 description: Providing an excellent user experience requires more than you might think.
+categories:
+ - Archived
 title:       An Excellent User Experience
 ---
 

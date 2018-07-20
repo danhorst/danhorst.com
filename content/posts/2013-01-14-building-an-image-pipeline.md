@@ -2,6 +2,8 @@
 type:        post
 author:      Dan Brubaker Horst
 description: Our needs for image dissemination are a bit different than normal.
+categories:
+ - Archived
 title:       Building an Image Pipeline
 ---
 

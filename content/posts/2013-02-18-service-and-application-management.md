@@ -2,6 +2,8 @@
 type:        post
 author:      Dan Brubaker Horst
 description: This is how we propose to manage different types of applications across environments.
+categories:
+ - Archived
 title:       Service &amp; Application Management
 ---
 

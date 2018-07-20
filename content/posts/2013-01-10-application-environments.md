@@ -2,6 +2,8 @@
 type:        post
 author:      Dan Brubaker Horst
 description: Defining our expectations for deploying and managing applications.
+categories:
+ - Archived
 title:       Application Environments
 ---
 
@@ -87,9 +89,9 @@ Mastery of these tools will be an ongoing process.
 We, as the development team, want to be a part of that process.
 
 
-[1]: /~dbrubak1/planning/a-serviceable-digital-repository/
+[1]: /posts/a-serviceable-digital-repository/
 [2]: http://www.vagrantup.com/
-[3]: http://www3.nd.edu/~dbrubak1/planning/infrastructure-as-code/
+[3]: /posts/infrastructure-as-code/
 [4]: http://git-scm.com/
 [5]: http://rspec.info/
 [6]: http://jenkins-ci.org/

@@ -2,6 +2,8 @@
 type:        post
 author:      Dan Brubaker Horst
 description: There is a semantic difference between a standard and a practice. I offer my definition of both terms.
+categories:
+ - Archived
 title:       Standards &amp; Practices
 ---
 
