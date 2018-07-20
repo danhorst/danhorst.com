@@ -15,6 +15,14 @@
 
 {{ define "main" }}
   <h1>Blog</h1>
+  <nav class="topic-list">
+    <ul>
+      <li><a href="/categories/design/">Design</a></li>
+      <li><a href="/categories/development/">Development</a></li>
+      <li><a href="/categories/personal/">Personal</a></li>
+      <li><a href="/categories/archived/">Archived</a></li>
+    </ul>
+  </nav>
   {{ range (.Paginate (.Pages.GroupByDate "2006")).PageGroups }}
     <section>
       <h2>{{.Key}}</h2>
