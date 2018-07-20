@@ -21,8 +21,8 @@ An excellent user experience is the culmination of:
 
 <figure class="illustration">
 <div id="user-experience-spectrum">
-  <a href="http://www.flickr.com/photos/formforce/3663684287/">
-    <img src="http://farm4.staticflickr.com/3380/3663684287_15f68a8b3e_o.gif" alt="An illustration of all the supporting functions that define the user experience. A Venn diagram of three primary colors representing business, technology, and design on a black background.">
+  <a href="https://www.flickr.com/photos/formforce/3663684287/">
+    <img src="https://farm4.staticflickr.com/3380/3663684287_15f68a8b3e_o.gif" alt="An illustration of all the supporting functions that define the user experience. A Venn diagram of three primary colors representing business, technology, and design on a black background.">
   </a>
 </div>
 <figcaption>
@@ -66,13 +66,13 @@ To fulfill this commitment we must make design a top priority as we build the co
 Many of the skills and methods needed to do this are within our reach.
 What we need as a team are [practices][10] that put the user experience at the core of everything we do.
 
-[1]:  http://en.wikipedia.org/wiki/Interaction_design
-[2]:  http://en.wikipedia.org/wiki/Information_architecture
+[1]:  https://en.wikipedia.org/wiki/Interaction_design
+[2]:  https://en.wikipedia.org/wiki/Information_architecture
 [3]:  https://twitter.com/iA
-[4]:  http://www.flickr.com/photos/formforce/3663696937
-[5]:  http://www.flickr.com/photos/formforce/3664501594
-[6]:  http://www.flickr.com/photos/formforce/3664507020
-[7]:  http://www.flickr.com/photos/formforce/3664510680
-[8]:  http://informationarchitects.net/blog/the-spectrum-of-user-experience-1/
+[4]:  https://www.flickr.com/photos/formforce/3663696937
+[5]:  https://www.flickr.com/photos/formforce/3664501594
+[6]:  https://www.flickr.com/photos/formforce/3664507020
+[7]:  https://www.flickr.com/photos/formforce/3664510680
+[8]:  https://ia.net/topics/the-spectrum-of-user-experience-1
 [9]:  /posts/service-excellence/
 [10]: /posts/standards-and-practices/
