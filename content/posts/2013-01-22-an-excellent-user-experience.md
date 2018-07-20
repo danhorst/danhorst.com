@@ -74,5 +74,5 @@ What we need as a team are [practices][10] that put the user experience at the c
 [6]:  http://www.flickr.com/photos/formforce/3664507020
 [7]:  http://www.flickr.com/photos/formforce/3664510680
 [8]:  http://informationarchitects.net/blog/the-spectrum-of-user-experience-1/
-[9]:  {{site.baseurl}}/notes/service-excellence/
-[10]: {{site.baseurl}}/notes/standards-and-practices/
+[9]:  /posts/service-excellence/
+[10]: /posts/standards-and-practices/

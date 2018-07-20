@@ -47,7 +47,7 @@ Thumbnails will be made available to the public for all of our image content _un
 
 <figure class="illustration">
 <div id="image-pipeline-design" class="canvas">
-  <img src="{{site.baseurl}}/images/image-pipeline-design.svg" alt="A line drawing of the components of the proposed image pipeline.">
+  <img src="/img/image-pipeline-design.svg" alt="A line drawing of the components of the proposed image pipeline.">
 </div>
 <figcaption>
   Image Pipeline Block Diagram

@@ -1,0 +1,728 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.2"
+   width="540"
+   height="495"
+   id="svg2">
+  <defs
+     id="defs4">
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="Arrow2Mstart"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(0.6,0.6)"
+         id="path4844"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="Arrow2Mend"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)"
+         id="path4847"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="Arrow1Mend"
+       style="overflow:visible">
+      <path
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         id="path4829"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="Arrow1Send"
+       style="overflow:visible">
+      <path
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         transform="matrix(-0.2,0,0,-0.2,-1.2,0)"
+         id="path4835"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt" />
+    </marker>
+    <marker
+       refX="0"
+       refY="0"
+       orient="auto"
+       id="Arrow2Lend"
+       style="overflow:visible">
+      <path
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="matrix(-1.1,0,0,-1.1,-1.1,0)"
+         id="path4841"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(0,-557.36)"
+     id="layer1">
+    <flowRoot
+       transform="translate(0,602.3598)"
+       id="flowRoot3799"
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:123.00000191%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:'Minion Pro',Georgia,Times,serif;-inkscape-font-specification:'Minion Pro',Georgia,Times,serif"><flowRegion
+         id="flowRegion3801"><rect
+           width="90.714287"
+           height="18.571428"
+           x="16.428572"
+           y="72.85714"
+           id="rect3803" /></flowRegion><flowPara
+         id="flowPara3805" /></flowRoot>    <g
+       transform="translate(-185,92.50003)"
+       id="g4702">
+      <text
+         x="250.35356"
+         y="813.24799"
+         id="text3827"
+         xml:space="preserve"
+         style="font-size:24px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:123.00000191%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro"><tspan
+           x="250.35356"
+           y="813.24799"
+           id="tspan3829">Solr</tspan></text>
+      <rect
+         width="90"
+         height="90"
+         x="225"
+         y="759.85999"
+         id="rect4690"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    </g>
+    <g
+       transform="translate(-20,112.50002)"
+       id="g4793">
+      <text
+         x="218.02275"
+         y="817.44202"
+         id="text3823"
+         xml:space="preserve"
+         style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:123.00000191%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro"><tspan
+           x="218.02275"
+           y="817.44202"
+           id="tspan3825">Fedora</tspan></text>
+      <rect
+         width="220"
+         height="129.99998"
+         x="160"
+         y="739.85999"
+         id="rect4692"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    </g>
+    <g
+       transform="translate(130,-12.499802)"
+       id="g3899-8-6"
+       style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">
+      <text
+         x="269.92355"
+         y="825.35779"
+         id="text3831-6-8"
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:95.99999785%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro"><tspan
+           x="269.92355"
+           y="825.35779"
+           id="tspan3833-8-2">Content</tspan><tspan
+           x="269.92355"
+           y="838.79779"
+           id="tspan3835-2-0">Model</tspan></text>
+      <rect
+         width="60"
+         height="35"
+         x="240"
+         y="809.8598"
+         id="rect3889-1-3"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    </g>
+    <g
+       transform="translate(130,27.5002)"
+       id="g3899-6-8-2"
+       style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">
+      <text
+         x="269.92355"
+         y="825.35779"
+         id="text3831-3-81-4"
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:95.99999785%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro"><tspan
+           x="269.92355"
+           y="825.35779"
+           id="tspan3833-6-9-92">Content</tspan><tspan
+           x="269.92355"
+           y="838.79779"
+           id="tspan3835-9-2-9">Model</tspan></text>
+      <rect
+         width="60"
+         height="35"
+         x="240"
+         y="809.8598"
+         id="rect3889-9-92-4"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    </g>
+    <g
+       transform="translate(130,67.50021)"
+       id="g3899-6-8-1-1"
+       style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">
+      <text
+         x="269.92355"
+         y="825.35779"
+         id="text3831-3-81-37-3"
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:95.99999785%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro"><tspan
+           x="269.92355"
+           y="825.35779"
+           id="tspan3833-6-9-1-8">Content</tspan><tspan
+           x="269.92355"
+           y="838.79779"
+           id="tspan3835-9-2-2-6">Model</tspan></text>
+      <rect
+         width="60"
+         height="35"
+         x="240"
+         y="809.8598"
+         id="rect3889-9-92-6-5"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    </g>
+    <g
+       transform="translate(130,107.5002)"
+       id="g3899-6-8-6-2-1"
+       style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">
+      <text
+         x="269.92355"
+         y="825.35779"
+         id="text3831-3-81-3-9-3"
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:95.99999785%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro"><tspan
+           x="269.92355"
+           y="825.35779"
+           id="tspan3833-6-9-9-4-5">Content</tspan><tspan
+           x="269.92355"
+           y="838.79779"
+           id="tspan3835-9-2-1-4-8">Model</tspan></text>
+      <rect
+         width="60"
+         height="35"
+         x="240"
+         y="809.8598"
+         id="rect3889-9-92-0-0-9"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    </g>
+    <g
+       transform="translate(195,-12.499802)"
+       id="g3899-8-6-9"
+       style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">
+      <text
+         x="269.92355"
+         y="825.35779"
+         id="text3831-6-8-3"
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:95.99999785%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro"><tspan
+           x="269.92355"
+           y="825.35779"
+           id="tspan3833-8-2-8">Content</tspan><tspan
+           x="269.92355"
+           y="838.79779"
+           id="tspan3835-2-0-1">Model</tspan></text>
+      <rect
+         width="60"
+         height="35"
+         x="240"
+         y="809.8598"
+         id="rect3889-1-3-7"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    </g>
+    <g
+       transform="translate(195,27.5002)"
+       id="g3899-6-8-2-0"
+       style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">
+      <text
+         x="269.92355"
+         y="825.35779"
+         id="text3831-3-81-4-6"
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:95.99999785%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro"><tspan
+           x="269.92355"
+           y="825.35779"
+           id="tspan3833-6-9-92-3">Content</tspan><tspan
+           x="269.92355"
+           y="838.79779"
+           id="tspan3835-9-2-9-8">Model</tspan></text>
+      <rect
+         width="60"
+         height="35"
+         x="240"
+         y="809.8598"
+         id="rect3889-9-92-4-8"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    </g>
+    <g
+       transform="translate(195,67.50021)"
+       id="g3899-6-8-1-1-8"
+       style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">
+      <text
+         x="269.92355"
+         y="825.35779"
+         id="text3831-3-81-37-3-9"
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:95.99999785%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro"><tspan
+           x="269.92355"
+           y="825.35779"
+           id="tspan3833-6-9-1-8-6">Content</tspan><tspan
+           x="269.92355"
+           y="838.79779"
+           id="tspan3835-9-2-2-6-3">Model</tspan></text>
+      <rect
+         width="60"
+         height="35"
+         x="240"
+         y="809.8598"
+         id="rect3889-9-92-6-5-7"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    </g>
+    <g
+       transform="translate(195,107.5002)"
+       id="g3899-6-8-6-2-1-1"
+       style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">
+      <text
+         x="269.92355"
+         y="825.35779"
+         id="text3831-3-81-3-9-3-8"
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:95.99999785%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro"><tspan
+           x="269.92355"
+           y="825.35779"
+           id="tspan3833-6-9-9-4-5-1">Content</tspan><tspan
+           x="269.92355"
+           y="838.79779"
+           id="tspan3835-9-2-1-4-8-6">Model</tspan></text>
+      <rect
+         width="60"
+         height="35"
+         x="240"
+         y="809.8598"
+         id="rect3889-9-92-0-0-9-9"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    </g>
+    <g
+       transform="translate(415,140.00021)"
+       id="g3894-8-4"
+       style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">
+      <text
+         x="25.945831"
+         y="832.25281"
+         id="text3837-3-1"
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:123.00000191%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro"><tspan
+           x="25.945831"
+           y="832.25281"
+           id="tspan3839-6-51">Serializer</tspan></text>
+      <rect
+         width="65"
+         height="19.999989"
+         x="20"
+         y="817.3598"
+         id="rect3025-33-6-9"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    </g>
+    <g
+       transform="translate(415,165.00022)"
+       id="g3894-8-9-8"
+       style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">
+      <text
+         x="25.945831"
+         y="832.25281"
+         id="text3837-3-9-4"
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:123.00000191%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro"><tspan
+           x="25.945831"
+           y="832.25281"
+           id="tspan3839-6-5-5">Serializer</tspan></text>
+      <rect
+         width="65"
+         height="19.999989"
+         x="20"
+         y="817.3598"
+         id="rect3025-33-6-7-9"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    </g>
+    <g
+       transform="translate(415,190.00022)"
+       id="g3894-8-2-6-6-5"
+       style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">
+      <text
+         x="25.945831"
+         y="832.25281"
+         id="text3837-3-2-3-3-4"
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:123.00000191%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro"><tspan
+           x="25.945831"
+           y="832.25281"
+           id="tspan3839-6-8-1-5-7">Serializer</tspan></text>
+      <rect
+         width="65"
+         height="19.999989"
+         x="20"
+         y="817.3598"
+         id="rect3025-33-6-0-8-5-2"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    </g>
+    <g
+       transform="translate(345,140.00021)"
+       id="g3894-8-0"
+       style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">
+      <text
+         x="25.945831"
+         y="832.25281"
+         id="text3837-3-7"
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:123.00000191%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro"><tspan
+           x="25.945831"
+           y="832.25281"
+           id="tspan3839-6-9">Serializer</tspan></text>
+      <rect
+         width="65"
+         height="19.999989"
+         x="20"
+         y="817.3598"
+         id="rect3025-33-6-3"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    </g>
+    <g
+       transform="translate(345,165.00022)"
+       id="g3894-8-9-4"
+       style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">
+      <text
+         x="25.945831"
+         y="832.25281"
+         id="text3837-3-9-1"
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:123.00000191%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro"><tspan
+           x="25.945831"
+           y="832.25281"
+           id="tspan3839-6-5-8">Serializer</tspan></text>
+      <rect
+         width="65"
+         height="19.999989"
+         x="20"
+         y="817.3598"
+         id="rect3025-33-6-7-2"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    </g>
+    <g
+       transform="translate(345,190.00022)"
+       id="g3894-8-2-6-6-1"
+       style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">
+      <text
+         x="25.945831"
+         y="832.25281"
+         id="text3837-3-2-3-3-6"
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:123.00000191%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro"><tspan
+           x="25.945831"
+           y="832.25281"
+           id="tspan3839-6-8-1-5-6">Serializer</tspan></text>
+      <rect
+         width="65"
+         height="19.999989"
+         x="20"
+         y="817.3598"
+         id="rect3025-33-6-0-8-5-5"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    </g>
+    <g
+       transform="translate(20,190.00021)"
+       id="g3980-3-91">
+      <rect
+         width="90"
+         height="19.999989"
+         x="20"
+         y="632.3598"
+         id="rect3025-5-1"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      <text
+         x="25"
+         y="647.3598"
+         id="text3807-9-49"
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:123.00000191%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro"><tspan
+           x="25"
+           y="647.3598"
+           id="tspan3809-4-3">Blacklight</tspan></text>
+    </g>
+    <g
+       transform="translate(232.5,165.00021)"
+       id="g3975-4-9">
+      <text
+         x="25"
+         y="672.3598"
+         id="text3811-3-7"
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:123.00000191%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro"><tspan
+           x="25"
+           y="672.3598"
+           id="tspan3813-4-76">Om</tspan></text>
+      <rect
+         width="90"
+         height="19.999989"
+         x="20"
+         y="657.3598"
+         id="rect3025-8-2-3"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    </g>
+    <g
+       transform="translate(137.5,115.00021)"
+       id="g3965-4-0">
+      <text
+         x="25"
+         y="722.3598"
+         id="text3819-3-6"
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:123.00000191%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro"><tspan
+           x="25"
+           y="722.3598"
+           id="tspan3821-9-5">Rubydora</tspan></text>
+      <rect
+         width="90"
+         height="19.999989"
+         x="20"
+         y="707.3598"
+         id="rect3025-3-6-43"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    </g>
+    <g
+       transform="translate(185,115.00021)"
+       id="g3970-4-6">
+      <text
+         x="25"
+         y="697.3598"
+         id="text3815-7-8"
+         xml:space="preserve"
+         style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:123.00000191%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro"><tspan
+           x="25"
+           y="697.3598"
+           id="tspan3817-9-9">ActiveFedora</tspan></text>
+      <rect
+         width="90"
+         height="19.999989"
+         x="20"
+         y="682.3598"
+         id="rect3025-1-4-5"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    </g>
+    <rect
+       width="480"
+       height="255"
+       x="30"
+       y="787.35999"
+       id="rect7087"
+       style="fill:none;stroke:#000000;stroke-width:0.98521984;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:0.98521988, 0.98521988;stroke-dashoffset:0" />
+    <text
+       x="30"
+       y="782.35999"
+       id="text7269"
+       xml:space="preserve"
+       style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:123.00000191%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro Bold"><tspan
+         x="30"
+         y="782.35999"
+         id="tspan7271">Hypermedia API Wrapper</tspan></text>
+    <g
+       transform="translate(35,7.5000046)"
+       id="g7495">
+      <g
+         id="g7399">
+        <rect
+           width="90"
+           height="19.999989"
+           x="30"
+           y="632.35999"
+           id="rect3025-5-1-1"
+           style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+        <text
+           x="35"
+           y="647.35999"
+           id="text3807-9-49-8"
+           xml:space="preserve"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:123.00000191%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro"><tspan
+             x="35"
+             y="647.35999"
+             id="tspan3809-4-3-8">API Client</tspan></text>
+      </g>
+      <rect
+         width="110"
+         height="40"
+         x="20"
+         y="65"
+         transform="translate(0,557.36)"
+         id="rect7303"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1, 1;stroke-dashoffset:0" />
+    </g>
+    <g
+       transform="translate(35,-4.9999854)"
+       id="g7480">
+      <g
+         transform="translate(55,-30)"
+         id="g7394">
+        <rect
+           width="90"
+           height="19.999989"
+           x="160"
+           y="687.35999"
+           id="rect3025-5-1-1-9"
+           style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+        <text
+           x="165"
+           y="702.35999"
+           id="text3807-9-49-8-0"
+           xml:space="preserve"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:123.00000191%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro"><tspan
+             x="165"
+             y="702.35999"
+             id="tspan3809-4-3-8-1">API Client</tspan></text>
+      </g>
+      <rect
+         width="160"
+         height="65.000015"
+         x="155"
+         y="622.35999"
+         id="rect7303-6"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1, 1;stroke-dashoffset:0" />
+      <g
+         transform="translate(195,1.9775391e-4)"
+         id="g3980-3-91-4">
+        <rect
+           width="90"
+           height="19.999989"
+           x="20"
+           y="632.3598"
+           id="rect3025-5-1-0"
+           style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+        <text
+           x="25"
+           y="647.3598"
+           id="text3807-9-49-85"
+           xml:space="preserve"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:123.00000191%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro"><tspan
+             x="25"
+             y="647.3598"
+             id="tspan3809-4-3-2">Blacklight</tspan></text>
+      </g>
+      <g
+         transform="translate(-82.5,-149.99999)"
+         id="g7407">
+        <text
+           x="258.53958"
+           y="809.75299"
+           id="text3827-6"
+           xml:space="preserve"
+           style="font-size:15.74999619px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:123.00000191%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro"><tspan
+             x="258.53958"
+             y="809.75299"
+             id="tspan3829-3"
+             style="font-size:14px">Solr</tspan></text>
+        <rect
+           width="44.999989"
+           height="44.999989"
+           x="247.5"
+           y="782.35999"
+           id="rect4690-3"
+           style="fill:none;stroke:#000000;stroke-width:1.12499964;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      </g>
+    </g>
+    <g
+       transform="translate(35,-4.9999854)"
+       id="g7469">
+      <g
+         transform="translate(315,25.000015)"
+         id="g7399-1">
+        <rect
+           width="90"
+           height="19.999989"
+           x="30"
+           y="632.35999"
+           id="rect3025-5-1-1-6"
+           style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+        <text
+           x="35"
+           y="647.35999"
+           id="text3807-9-49-8-02"
+           xml:space="preserve"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:123.00000191%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro"><tspan
+             x="35"
+             y="647.35999"
+             id="tspan3809-4-3-8-3">API Client</tspan></text>
+      </g>
+      <rect
+         width="110"
+         height="65.000015"
+         x="335"
+         y="622.35999"
+         id="rect7303-2"
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:1, 1;stroke-dashoffset:0" />
+      <g
+         transform="translate(325,-184.9998)"
+         id="g3894-8-0-2"
+         style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">
+        <text
+           x="25.945831"
+           y="832.25281"
+           id="text3837-3-7-4"
+           xml:space="preserve"
+           style="font-size:14px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:123.00000191%;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Myriad Pro;-inkscape-font-specification:Myriad Pro"><tspan
+             x="25.945831"
+             y="832.25281"
+             id="tspan3839-6-9-8">Serializer</tspan></text>
+        <rect
+           width="65"
+           height="19.999989"
+           x="20"
+           y="817.3598"
+           id="rect3025-33-6-3-1"
+           style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+      </g>
+    </g>
+    <path
+       d="m 105,120 90,100"
+       transform="translate(0,557.36)"
+       id="path7502"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow2Mstart);marker-end:url(#Arrow2Mend)" />
+    <path
+       d="m 270,130 0,90"
+       transform="translate(0,557.36)"
+       id="path7504"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow2Mstart);marker-end:url(#Arrow2Mend)" />
+    <path
+       d="M 320,220 420,135"
+       transform="translate(0,557.36)"
+       id="path7506"
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#Arrow2Mstart);marker-end:url(#Arrow2Mend)" />
+  </g>
+</svg>

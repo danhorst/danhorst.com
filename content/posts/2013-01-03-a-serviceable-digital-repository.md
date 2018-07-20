@@ -51,7 +51,7 @@ I think this will create a maintenance nightmare.
 
 <figure class="illustration">
 <div id="current-hydra-architecture" class="canvas">
-  <img src="{{site.baseurl}}/images/hydra-architecture-current.svg" alt="A line drawing of of the current repository arcitecture. Each application must manage it's connection to both Solr and Fedora. There are several duplicated components accross applications. ">
+  <img src="/img/hydra-architecture-current.svg" alt="A line drawing of of the current repository arcitecture. Each application must manage it's connection to both Solr and Fedora. There are several duplicated components accross applications. ">
 </div>
 <figcaption>
   <strong>Our Current Repository Architecture</strong>
@@ -72,7 +72,7 @@ This should lower the barrier of implementation for client applications after an
 
 <figure class="illustration">
 <div id="proposed-hydra-architecture" class="canvas">
-  <img src="{{site.baseurl}}/images/hydra-architecture-proposed.svg" alt="A line drawing of of the proposed arcitecture. Solr, Fedora, and the modeling logic are wrapped in a Hypermedia API container. Subscribing applications have much fewer components.">
+  <img src="/img/hydra-architecture-proposed.svg" alt="A line drawing of of the proposed arcitecture. Solr, Fedora, and the modeling logic are wrapped in a Hypermedia API container. Subscribing applications have much fewer components.">
 </div>
 <figcaption>
   <strong>The Proposed Repository Architecture</strong>
