@@ -50,13 +50,13 @@ We already have half a dozen applications and will build at least that many this
 I think this will create a maintenance nightmare.
 
 <figure class="illustration">
+<figcaption class="marginnote">
+  <em>Our Current Repository Architecture</em>
+  The APIs for Fedora and Solr are the integration layer between applications.
+</figcaption>
 <div id="current-hydra-architecture" class="canvas">
   <img src="/img/hydra-architecture-current.svg" alt="A line drawing of of the current repository arcitecture. Each application must manage it's connection to both Solr and Fedora. There are several duplicated components accross applications. ">
 </div>
-<figcaption>
-  <strong>Our Current Repository Architecture</strong>
-  The APIs for Fedora and Solr are the integration layer between applications.
-</figcaption>
 </figure>
 
 ## An API-Driven Architecture
@@ -71,14 +71,14 @@ This will effectively move the point of integration between our applications fro
 This should lower the barrier of implementation for client applications after an upfront investment in time.
 
 <figure class="illustration">
-<div id="proposed-hydra-architecture" class="canvas">
-  <img src="/img/hydra-architecture-proposed.svg" alt="A line drawing of of the proposed arcitecture. Solr, Fedora, and the modeling logic are wrapped in a Hypermedia API container. Subscribing applications have much fewer components.">
-</div>
-<figcaption>
-  <strong>The Proposed Repository Architecture</strong>
+<figcaption class="marginnote">
+  <em>The Proposed Repository Architecture</em>
   The persistence mechanism of digital objects is obfuscated by a common API.
   Complexity is centralized allowing for simpler client applications.
 </figcaption>
+<div id="proposed-hydra-architecture" class="canvas">
+  <img src="/img/hydra-architecture-proposed.svg" alt="A line drawing of of the proposed arcitecture. Solr, Fedora, and the modeling logic are wrapped in a Hypermedia API container. Subscribing applications have much fewer components.">
+</div>
 </figure>
 
 One of the topics that perennially pops up at Hydra meetings is: "What would Hydra look like without Fedora?"

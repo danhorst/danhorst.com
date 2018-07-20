@@ -9,7 +9,7 @@
    xmlns="http://www.w3.org/2000/svg"
    version="1.2"
    width="540"
-   height="495"
+   height="460"
    id="svg2">
   <defs
      id="defs4">
@@ -87,7 +87,7 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(0,-557.36)"
+     transform="translate(0,-610)"
      id="layer1">
     <flowRoot
        transform="translate(0,602.3598)"
