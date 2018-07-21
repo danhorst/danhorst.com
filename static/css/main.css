@@ -314,7 +314,25 @@ dt { font-size: 1.7rem;
 
 .task-list { padding-left: 1em; }
 .task-list li:before { content:''; }
-.task-list-item {}
+
+.task-list-item { visibility: hidden;
+                  margin-right: .5rem;
+                  position: relative; }
+
+.task-list-item:before { border: 1px solid #111;
+                         content: '';
+                         display: block;
+			 padding: .4rem;
+			 left: -.035rem;
+		         position: absolute;
+		         top: -.26rem;
+		         visibility: visible; }
+
+.task-list-item[checked]:after { content: '\2713';
+                                 font-size: 1.4rem;
+				 position: absolute;
+				 top: -.75rem;
+                                 visibility: visible; }
 
 .topic-list { font-size: .67em;
               font-style: normal;
