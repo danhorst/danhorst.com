@@ -14,6 +14,7 @@ date: 2018-07-18T19:07:22-04:00
 ## Domestic Travel
 - [ ] Explore New Orleans
 - [ ] Explore Washington DC
+- [ ] Explore Miami
 - [ ] Explore Key West
 - [ ] Explore San Francisco
 - [ ] Explore Los Angeles
