@@ -5,19 +5,23 @@ date: 2018-07-18T18:33:27-04:00
 ---
 
 ## Morning
+- Drink water
+- Make the bed
+- Journal, gratitude
+- Feed the cats
 - Meditate
 - Journal, check-in
-- Feed the cats
+- Take morning supplements
+- Brush teeth
+- Mouthwash
 - Give Kira her meds
 - Feed the dogs
 - Cardio or flexibility
 - Exercise Hugh
 - Scoop the litter boxes
-- Take morning medication
-- Take supplements
 - Shower
 - Shave
-- Hair treatment
+- Take morning medication
 
 ## Afternoon
 - Meditate
@@ -29,17 +33,18 @@ date: 2018-07-18T18:33:27-04:00
 - Wash dishes
 - Clear off all kitchen surfaces
 - Wipe down all kitchen surfaces
+- Log expenses
+- Review plan for tomorrow
 - Feed the cats
 - Feed the dogs
 - Give Kira her meds
 - Scoop the litter boxes
 - Let the cats out
+- Take evening supplements
+- Brush teeth
+- Mouthwash
 - Meditate
 - Journal, daily review
-- Review plan for tomorrow
-- Log expenses
 - Take evening medication
-- Take evening supplements
-- Hair treatment
 - Mark off calendar
 - Read
