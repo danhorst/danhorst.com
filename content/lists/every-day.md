@@ -8,17 +8,19 @@ date: 2018-07-18T18:33:27-04:00
 - Drink water
 - Make the bed
 - Journal, gratitude
+- Set up whole house fan (weather permitting)
 - Feed the cats
-- Meditate
-- Journal, check-in
 - Take morning supplements
 - Brush teeth
 - Mouthwash
+- Meditate
 - Give Kira her meds
 - Feed the dogs
+- Journal, check-in
 - Cardio or flexibility
 - Exercise Hugh
 - Scoop the litter boxes
+- Check mouse traps
 - Shower
 - Shave
 - Take morning medication
