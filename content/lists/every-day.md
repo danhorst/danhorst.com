@@ -38,10 +38,11 @@ date: 2018-07-18T18:33:27-04:00
 - Log expenses
 - Review plan for tomorrow
 - Feed the cats
-- Feed the dogs
 - Give Kira her meds
+- Feed the dogs
 - Scoop the litter boxes
 - Let the cats out
+- Read
 - Take evening supplements
 - Brush teeth
 - Mouthwash
@@ -49,4 +50,3 @@ date: 2018-07-18T18:33:27-04:00
 - Journal, daily review
 - Take evening medication
 - Mark off calendar
-- Read
