@@ -4,6 +4,9 @@ author:      Dan Brubaker Horst
 description: What we need to do to serve our patrons well.
 categories:
  - Archived
+tags:
+ - design
+ - UX
 title:       Service Excellence
 ---
 

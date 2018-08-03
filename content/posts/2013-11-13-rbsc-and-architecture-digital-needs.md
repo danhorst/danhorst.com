@@ -4,6 +4,9 @@ author:      Dan Brubaker Horst
 description: We have evolving needs for our digital services. Let's find a way to meet them.
 categories:
  - Archived
+tags:
+ - digital humanities
+ - ND
 title:       RBSC &amp; Architecture Digital Needs
 ---
 

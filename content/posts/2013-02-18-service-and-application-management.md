@@ -5,6 +5,10 @@ description: This is how we propose to manage different types of applications ac
 markup:      mmark
 categories:
  - Archived
+tags:
+ - architecture
+ - devops
+ - infrastructure
 title:       Service &amp; Application Management
 ---
 

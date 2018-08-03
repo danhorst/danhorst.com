@@ -3,7 +3,10 @@ type:        post
 author:      Dan Brubaker Horst
 description: Saving time with git after files have been removed
 categories:
- - Development
+ - Notes
+tags:
+ - development
+ - git
 title:       Stage All Deleted Files In A Git Repository
 ---
 

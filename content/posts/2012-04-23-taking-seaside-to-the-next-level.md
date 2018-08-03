@@ -4,6 +4,10 @@ author:      Dan Brubaker Horst
 description: An outline for future development on the Seaside Research Portal.
 categories:
  - Archived
+tags:
+ - digital humanities
+ - ND
+ - Seaside
 title:       Next Steps for the Seaside Research Portal
 ---
 

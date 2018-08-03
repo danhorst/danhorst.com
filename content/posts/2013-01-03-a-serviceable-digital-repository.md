@@ -4,6 +4,13 @@ author:      Dan Brubaker Horst
 description: A modest proposal for taming Hydra
 categories:
  - Archived
+tags:
+ - API
+ - architecture
+ - archives
+ - digital humanities
+ - ND
+ - repository
 title:       A Digital Repository We Can Live With
 ---
 

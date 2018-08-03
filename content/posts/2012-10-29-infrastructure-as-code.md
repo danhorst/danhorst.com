@@ -4,6 +4,11 @@ author:      Dan Brubaker Horst
 description: Forging a path to developer happiness through DevOps.
 categories:
  - Archived
+tags:
+ - automation
+ - devops
+ - infrastructure
+ - ND
 title:       Infrastructure As Code
 ---
 

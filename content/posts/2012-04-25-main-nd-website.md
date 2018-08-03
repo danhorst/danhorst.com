@@ -4,6 +4,11 @@ author:      Dan Brubaker Horst
 description: Observations and notes about the 2012 responsive redesign of nd.edu.
 categories:
  - Archived
+tags:
+ - design
+ - mobile
+ - ND
+ - responsive
 title:       What I Know About The nd.edu Website
 ---
 

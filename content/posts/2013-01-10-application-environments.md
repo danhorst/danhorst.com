@@ -4,6 +4,10 @@ author:      Dan Brubaker Horst
 description: Defining our expectations for deploying and managing applications.
 categories:
  - Archived
+tags:
+ - architecture
+ - infrastructure
+ - ND
 title:       Application Environments
 ---
 
