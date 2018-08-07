@@ -1,5 +1,5 @@
 ---
-type:        post
+type:        writing
 author:      Dan Brubaker Horst
 description: Observations and notes about the 2012 responsive redesign of nd.edu.
 categories:
@@ -64,7 +64,7 @@ Conferences Agency has developers to:
 [5]:  http://www.woothemes.com/flexslider/
 [6]:  http://www.abookapart.com/products/responsive-web-design
 [7]:  https://twitter.com/beep
-[8]:  /posts/responsive-design
+[8]:  /writing/responsive-design
 [9]:  http://bdconf.com/
 [10]: http://www.highedweb.org/
 [11]: http://railsconf.com/

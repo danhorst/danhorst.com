@@ -1,5 +1,5 @@
 ---
-type:        post
+type:        writing
 author:      Dan Brubaker Horst
 description: Saving time with git after files have been removed
 categories:

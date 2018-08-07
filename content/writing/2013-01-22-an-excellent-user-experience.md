@@ -1,5 +1,5 @@
 ---
-type:        post
+type:        writing
 author:      Dan Brubaker Horst
 description: Providing an excellent user experience requires more than you might think.
 categories:
@@ -78,5 +78,5 @@ What we need as a team are [practices][10] that put the user experience at the c
 [6]:  https://www.flickr.com/photos/formforce/3664507020
 [7]:  https://www.flickr.com/photos/formforce/3664510680
 [8]:  https://ia.net/topics/the-spectrum-of-user-experience-1
-[9]:  /posts/service-excellence/
-[10]: /posts/standards-and-practices/
+[9]:  /writing/service-excellence/
+[10]: /writing/standards-and-practices/

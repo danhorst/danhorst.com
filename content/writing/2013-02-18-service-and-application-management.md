@@ -1,5 +1,5 @@
 ---
-type:        post
+type:        writing
 author:      Dan Brubaker Horst
 description: This is how we propose to manage different types of applications across environments.
 markup:      mmark
@@ -63,14 +63,14 @@ As [web applications][1] are being developed they will pass through 5 different 
  - A new high-availability cluster needs to be built with RHEL 6.
  - The CI environment must be configured to test software packaged as a VM.
 
-[1]: /posts/glossary#web-application               (definition)
-[2]: /posts/glossary#web-service                   (definition)
+[1]: /writing/glossary#web-application               (definition)
+[2]: /writing/glossary#web-service                   (definition)
 [3]: http://www.redhat.com/products/enterprise-linux-add-ons/high-availability/
-[4]: /posts/glossary#internal-service              (definition)
-[5]: /posts/glossary#continuous-integration        (definition)
+[4]: /writing/glossary#internal-service              (definition)
+[5]: /writing/glossary#continuous-integration        (definition)
 [6]: https://puppetlabs.com/
 
-[development]:    /posts/glossary#development      (definition)
-[pre-production]: /posts/glossary#pre-production   (definition)
-[production]:     /posts/glossary#production       (definition)
-[staging]:        /posts/glossary#staging          (definition)
+[development]:    /writing/glossary#development      (definition)
+[pre-production]: /writing/glossary#pre-production   (definition)
+[production]:     /writing/glossary#production       (definition)
+[staging]:        /writing/glossary#staging          (definition)

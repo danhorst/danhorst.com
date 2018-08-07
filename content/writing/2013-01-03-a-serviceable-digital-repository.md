@@ -1,5 +1,5 @@
 ---
-type:        post
+type:        writing
 author:      Dan Brubaker Horst
 description: A modest proposal for taming Hydra
 categories:

@@ -1,5 +1,5 @@
 ---
-type:        post
+type:        writing
 author:      Dan Brubaker Horst
 description: Defining our expectations for deploying and managing applications.
 categories:
@@ -93,9 +93,9 @@ Mastery of these tools will be an ongoing process.
 We, as the development team, want to be a part of that process.
 
 
-[1]: /posts/a-serviceable-digital-repository/
+[1]: /writing/a-serviceable-digital-repository/
 [2]: http://www.vagrantup.com/
-[3]: /posts/infrastructure-as-code/
+[3]: /writing/infrastructure-as-code/
 [4]: http://git-scm.com/
 [5]: http://rspec.info/
 [6]: http://jenkins-ci.org/

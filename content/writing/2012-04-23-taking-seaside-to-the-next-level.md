@@ -1,5 +1,5 @@
 ---
-type:        post
+type:        writing
 author:      Dan Brubaker Horst
 description: An outline for future development on the Seaside Research Portal.
 categories:

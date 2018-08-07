@@ -1,4 +1,4 @@
-# Blog Categories
+# Writing Categories
 
 - [Design][1]
 - [Development][2]
