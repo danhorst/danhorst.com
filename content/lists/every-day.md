@@ -39,11 +39,11 @@ date: 2018-07-18T18:33:27-04:00
 ## Evening
 - Process mail
 - Let the dogs out
+- Log expenses
+- Determine evening tasks
 - Check water bowls
 - Meditate
 - Journal, daily review
-- Log expenses
-- Determine evening tasks
 - Dinner
 - Wash dishes
 - Clear off all kitchen surfaces
