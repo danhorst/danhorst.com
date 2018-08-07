@@ -2,3 +2,6 @@
   <h1>{{ .Title }}</h1>
   {{ .Content }}
 {{ end }}
+
+
+{{ define "attributes" }}{{ if .Params.tags }}{{ range $index, $tag := .Params.tags }}{{ if eq $tag "interactive" }}class="interactive"{{ end }}{{ end }}{{ end }}{{ end }}

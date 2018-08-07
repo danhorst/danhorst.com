@@ -38,7 +38,7 @@
         </nav>
       {{ end }}
     </header>
-    <main role="main">
+    <main role="main" {{ block "attributes" . }}{{ end }}>
       {{ block "heading" . }}{{ end }}
       {{ block "main" . }}
         {{ .Content }}
