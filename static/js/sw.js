@@ -2,11 +2,11 @@ const version = "v1::" // Change value to force cache regeneration
 const staticCacheName = `${version}static-resources`;
 
 const offlineFiles = [
-  '/style/et-book/et-book-bold-line-figures.woff2',
-  '/style/et-book/et-book-display-italic-old-style-figures.woff2',
-  '/style/et-book/et-book-roman-line-figures.woff2',
-  '/style/et-book/et-book-roman-old-style-figures.woff2',
-  '/style/et-book/et-book-semi-bold-old-style-figures.woff2'
+  '/css/et-book/et-book-bold-line-figures.woff2',
+  '/css/et-book/et-book-display-italic-old-style-figures.woff2',
+  '/css/et-book/et-book-roman-line-figures.woff2',
+  '/css/et-book/et-book-roman-old-style-figures.woff2',
+  '/css/et-book/et-book-semi-bold-old-style-figures.woff2'
 ]
 
 self.addEventListener('install', (event) => {
