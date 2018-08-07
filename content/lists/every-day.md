@@ -16,6 +16,7 @@ date: 2018-07-18T18:33:27-04:00
 - Meditate
 - Give Kira her meds
 - Feed the dogs
+- Let the dogs out
 - Journal, check-in
 - Cardio or flexibility
 - Exercise Hugh
@@ -30,6 +31,8 @@ date: 2018-07-18T18:33:27-04:00
 - Meditate
 - Journal, check-in
 - Give Kira her meds
+- Let the dogs out
+- Check water bowls
 
 ## Evening
 - Process mail
