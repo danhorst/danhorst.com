@@ -7,8 +7,10 @@ date: 2018-07-18T18:33:27-04:00
 ## Morning
 - Drink water
 - Make the bed
+- Morning warm-up
 - Journal, gratitude
 - Set up whole house fan (weather permitting)
+- Check water bowls
 - Feed the cats
 - Take morning supplements
 - Brush teeth
@@ -18,14 +20,14 @@ date: 2018-07-18T18:33:27-04:00
 - Feed the dogs
 - Let the dogs out
 - Journal, check-in
-- Cardio or flexibility
 - Exercise Hugh
+- HIIT
 - Scoop the litter boxes
 - Check mouse traps
 - Shower
 - Shave
 - Take morning medication
-- Check water bowls
+- Check dog water bowl
 
 ## Afternoon
 - Meditate
