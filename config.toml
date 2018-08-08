@@ -2,6 +2,7 @@ baseURL =  "https://danhorst.com/"
 languageCode =  "en-us"
 title = "Dan Horst"
 paginate = 500
+disableLiveReload = true
 
 [params]
   author = "Dan Horst"
