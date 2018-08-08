@@ -6,7 +6,8 @@ const offlineFiles = [
   '/css/et-book/et-book-display-italic-old-style-figures.woff2',
   '/css/et-book/et-book-roman-line-figures.woff2',
   '/css/et-book/et-book-roman-old-style-figures.woff2',
-  '/css/et-book/et-book-semi-bold-old-style-figures.woff2'
+  '/css/et-book/et-book-semi-bold-old-style-figures.woff2',
+  '/js/turbolinks.js'
 ]
 
 self.addEventListener('install', (event) => {

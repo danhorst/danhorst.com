@@ -23,6 +23,12 @@
         });
       }
     </script>
+    <script src="/js/turbolinks.js"></script>
+    <script>
+      document.addEventListener("turbolinks:load", function() {
+        document.querySelectorAll("main.interactive input[disabled]").forEach(function(item, i){item.removeAttribute("disabled")});
+      });
+    </script>
     {{ if .RSSLink -}}<link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}">{{- end }}
   </head>
   <body>
@@ -45,9 +51,6 @@
       {{ end }}
     </main>
     {{ block "footer" . }}
-    {{ end }}
-
-    {{ block "script" . }}
     {{ end }}
   </body>
 </html>

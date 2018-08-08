@@ -5,9 +5,3 @@
 
 
 {{ define "attributes" }}{{ if .Params.tags }}{{ range $index, $tag := .Params.tags }}{{ if eq $tag "interactive" }}class="interactive"{{ end }}{{ end }}{{ end }}{{ end }}
-
-{{ define "script" }}
-<script>
-  document.querySelectorAll("main.interactive input[disabled]").forEach(function(item, i){item.removeAttribute("disabled")});
-</script>
-{{ end }}
