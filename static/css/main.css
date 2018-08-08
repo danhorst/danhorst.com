@@ -334,10 +334,11 @@ dt { font-size: 1.7rem;
 		         visibility: visible; }
 
 .task-list-item:checked:after { content: '\2713';
-                                 font-size: 1.4rem;
-				 position: absolute;
-				 top: -.75rem;
-                                 visibility: visible; }
+                                font-size: 1.4rem;
+                                left: 1rem;
+                                position: absolute;
+                                top: -.75rem;
+                                visibility: visible; }
 
 .topic-list { font-size: .67em;
               font-style: normal;
