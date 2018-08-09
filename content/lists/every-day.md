@@ -64,4 +64,5 @@ date: 2018-07-18T18:33:27-04:00
 - [ ] Pack bag
 - [ ] Choose clothes
 - [ ] Take evening medication
+- [ ] Refill water bottle
 - [ ] Mark off calendar
