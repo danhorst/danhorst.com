@@ -57,12 +57,15 @@ date: 2018-07-18T18:33:27-04:00
 - [ ] Scoop the litter boxes
 - [ ] Let the cats out
 - [ ] Read (or additional tasks)
-- [ ] Take evening supplements
-- [ ] Brush teeth
-- [ ] Mouthwash
 - [ ] Determine critical tasks for tomorrow
 - [ ] Pack bag
 - [ ] Choose clothes
-- [ ] Take evening medication
+- [ ] Take evening supplements
+- [ ] Floss teeth
+- [ ] Brush teeth
+- [ ] Mouthwash
+- [ ] Let the dogs out
 - [ ] Refill water bottle
+- [ ] Take evening medication
 - [ ] Mark off calendar
+- [ ] Hand lotion
