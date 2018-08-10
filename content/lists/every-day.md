@@ -61,6 +61,8 @@ date: 2018-07-18T18:33:27-04:00
 - [ ] Pack bag
 - [ ] Choose clothes
 - [ ] Take evening supplements
+- [ ] Wash face
+- [ ] Face lotion
 - [ ] Floss teeth
 - [ ] Brush teeth
 - [ ] Mouthwash
