@@ -12,19 +12,19 @@ date: 2018-07-18T18:33:27-04:00
 - [ ] Morning warm-up
 - [ ] Journal, gratitude
 - [ ] Set up whole house fan (weather permitting)
-- [ ] Check water bowls
-- [ ] Feed the cats
 - [ ] Take morning supplements
 - [ ] Brush teeth
 - [ ] Mouthwash
+- [ ] Check water bowls
+- [ ] Feed the cats
 - [ ] Meditate
 - [ ] Give Kira her meds
 - [ ] Feed the dogs
 - [ ] Let the dogs out
 - [ ] Journal, check-in
 - [ ] Exercise Hugh
-- [ ] HIIT
 - [ ] Scoop the litter boxes
+- [ ] HIIT
 - [ ] Check mouse traps
 - [ ] Shower
 - [ ] Shave
@@ -42,10 +42,10 @@ date: 2018-07-18T18:33:27-04:00
 - [ ] Process mail
 - [ ] Let the dogs out
 - [ ] Log expenses
-- [ ] Determine evening tasks
 - [ ] Check water bowls
 - [ ] Meditate
 - [ ] Journal, daily review
+- [ ] Determine evening tasks
 - [ ] Dinner
 - [ ] Wash dishes
 - [ ] Clear off all kitchen surfaces
