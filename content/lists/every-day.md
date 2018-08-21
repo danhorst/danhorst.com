@@ -9,9 +9,9 @@ date: 2018-07-18T18:33:27-04:00
 ## Morning
 - [ ] Drink water
 - [ ] Make the bed
+- [ ] Set up whole house fan (weather permitting)
 - [ ] Morning warm-up
 - [ ] Journal, gratitude
-- [ ] Set up whole house fan (weather permitting)
 - [ ] Take morning supplements
 - [ ] Brush teeth
 - [ ] Mouthwash
@@ -23,12 +23,12 @@ date: 2018-07-18T18:33:27-04:00
 - [ ] Let the dogs out
 - [ ] Journal, check-in
 - [ ] Exercise Hugh
-- [ ] Scoop the litter boxes
 - [ ] HIIT
 - [ ] Check mouse traps
 - [ ] Shower
 - [ ] Shave
 - [ ] Take morning medication
+- [ ] Scoop the litter boxes
 - [ ] Check dog water bowl
 
 ## Afternoon
@@ -41,11 +41,10 @@ date: 2018-07-18T18:33:27-04:00
 ## Evening
 - [ ] Process mail
 - [ ] Let the dogs out
-- [ ] Log expenses
 - [ ] Check water bowls
 - [ ] Meditate
 - [ ] Journal, daily review
-- [ ] Determine evening tasks
+- [ ] Choose evening tasks
 - [ ] Dinner
 - [ ] Wash dishes
 - [ ] Clear off all kitchen surfaces
@@ -56,10 +55,11 @@ date: 2018-07-18T18:33:27-04:00
 - [ ] Feed the dogs
 - [ ] Scoop the litter boxes
 - [ ] Let the cats out
-- [ ] Read (or additional tasks)
-- [ ] Determine critical tasks for tomorrow
-- [ ] Pack bag
-- [ ] Choose clothes
+- [ ] Read (or task time)
+- [ ] Tomorrow: Critical tasks
+- [ ] Tomorrow: Breakfast prep
+- [ ] Tomorrow: Pack bag
+- [ ] Tomorrow: Choose clothes
 - [ ] Take evening supplements
 - [ ] Wash face
 - [ ] Face lotion
