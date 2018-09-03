@@ -2,7 +2,7 @@
 
 @font-face { font-display: fallback;
 	     font-family: "et-book";
-             src: url("/css/et-book/et-book-roman-line-figures.woff2") format("woff2");
+             src: url("/css/et-book/et-book-roman-line-figures.woff2") format("woff2"),
                   url("/css/et-book/et-book-roman-line-figures.woff") format("woff");
              font-weight: normal;
              font-style: normal; }
@@ -51,9 +51,8 @@ nav > span { font-size: 1.4rem;
 
 nav > ul { display: inline;
            list-style-type: none;
-	   float: right;
            margin: 0;
-	   padding: 0; }
+	         padding: 0; }
 
 nav li { display: inline;
          padding-left: 1rem; }
