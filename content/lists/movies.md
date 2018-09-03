@@ -3,7 +3,11 @@ title: "Movies"
 date: 2018-09-03T16:07:35-04:00
 ---
 
-> I like movies for different reasons. Sometimes it is the worldbuilding. Sometimes it is the character development. Sometimes it is the way it makes me feel at the end.
+<div class="epigraph">
+  <blockquote>
+    <p>I like movies for different reasons. Sometimes it is the worldbuilding. Sometimes it is the character development. Sometimes it is the way it makes me feel at the end.</p>
+  </blockquote>
+</div>
 
 - [The Lord of the Rings: Fellowship of the Ring](https://www.imdb.com/title/tt0120737/)
 - [The Lord of the Rings: Two Towers](https://www.imdb.com/title/tt0167261/)
