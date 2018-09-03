@@ -3,11 +3,19 @@ title: "Interests"
 date: 2018-09-03T16:46:04-04:00
 ---
 
-> I am interested in a lot of things. The primary themes are: focus, pleasure, excitement, independence, enrichment, and surrounding myself with beautiful, functional, things.
+> I am interested in a lot of things. The primary themes are: focus, beauty, pleasure, excitement, independence.
 
 - Photography
 - Mindfulness
   - Meditation
+  - Yoga
+- Learning
+  - Reading
+  - DIY
+  - Programming
+  - Web development
+  - Home renovation & repair
+  - Vehicle maintenance
 - Fitness
 - Being outdoors
   - Cycling 
@@ -17,6 +25,7 @@ date: 2018-09-03T16:46:04-04:00
   - Beaches
   - Kayaking
   - SCUBA Diving (underwater counts too)
+- Motorcycles
 - Travel
   - Museums
   - National parks
@@ -41,10 +50,5 @@ date: 2018-09-03T16:46:04-04:00
   - Product design
   - EDC
   - Architecture
-- DIY
-  - Programming
-  - Web development
-  - Home renovation & repair
-  - Vehicle maintenance
 - [Movies](/lists/movies/)
 - Music
