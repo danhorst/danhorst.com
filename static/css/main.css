@@ -49,8 +49,8 @@ nav { font-style: italic;
 nav > span { font-size: 1.4rem;
              line-height: 2rem; }
 
-nav > ul { display: inline;
-           list-style-type: none;
+nav > ul { list-style-type: none;
+           float: right;
            margin: 0;
 	         padding: 0; }
 
@@ -132,6 +132,11 @@ div.epigraph > blockquote, div.epigraph > blockquote > p { font-style: italic; }
 div.epigraph > blockquote > footer { font-style: normal; }
 
 div.epigraph > blockquote > footer > cite { font-style: italic; }
+
+main > h1 + blockquote { margin-top: 3em;
+                         margin-bottom: 3em;
+                         font-style: italic; }
+
 /* end chapter epigraphs styles */
 
 blockquote { font-size: 1.4rem; }

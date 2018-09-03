@@ -3,11 +3,7 @@ title: "Podcasts"
 date: 2018-09-03T15:48:45-04:00
 ---
 
-<div class="epigraph">
-  <blockquote>
-    <p>I listen to a lot of podcasts. They are one of my principal means of entertainament. Most of them are from <a href="https://www.npr.org/podcasts/">NPR</a>, <a href="https://www.radiotopia.fm/">Radiotopia</a>, or <a href="https://www.gimletmedia.com/">Gimlet Media</a>.</p>
-  </blockquote>
-</div>
+> I listen to a lot of podcasts. They are one of my principal means of entertainment. Most of them are from [NPR](https://www.npr.org/podcasts/), [Radiotopia](https://www.radiotopia.fm/), or [Gimlet Media](https://www.gimletmedia.com/).
 
 - [This American Life](https://www.thisamericanlife.org/)
 - [Radio Lab](https://www.wnycstudios.org/shows/radiolab)
