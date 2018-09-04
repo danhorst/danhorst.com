@@ -3,7 +3,7 @@ title: "Interests"
 date: 2018-09-03T16:46:04-04:00
 ---
 
-> I am interested in a lot of things. The primary themes are: focus, pleasure, excitement, enrichment, self-reliance, and surrounding myself with beautiful, functional, things.
+> I have many interests. The primary themes are: focus, pleasure, excitement, enrichment, self-reliance, and surrounding myself with beautiful, functional, things.
 
 - Photography
 - Mindfulness
