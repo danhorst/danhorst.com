@@ -29,7 +29,7 @@ date: 2018-09-03T16:46:04-04:00
 - Travel
   - Museums
   - National parks
-  - Theme parks
+  - Theme parks (really, I mean Disney World)
   - Amusement parks
   - New cities
 - Food
