@@ -3,7 +3,7 @@ title: "Movies"
 date: 2018-09-03T16:07:35-04:00
 ---
 
-> I like movies for different reasons. Sometimes it is the worldbuilding. Sometimes it is the character development. Sometimes it is the way it makes me feel at the end.
+> I like movies for different reasons. Sometimes it is the worldbuilding. Sometimes it is the character development. Sometimes it is the way it makes me feel at the end. Most of these are on the [IMDB Top 250](https://www.imdb.com/chart/top); I'd like to see more of the [AFI top 100](https://www.afi.com/100Years/movies.aspx).
 
 - [The Lord of the Rings: Fellowship of the Ring](https://www.imdb.com/title/tt0120737/)
 - [The Lord of the Rings: Two Towers](https://www.imdb.com/title/tt0167261/)
