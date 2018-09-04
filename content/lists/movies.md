@@ -3,19 +3,21 @@ title: "Movies"
 date: 2018-09-03T16:07:35-04:00
 ---
 
-> I like movies for different reasons. Sometimes it is the worldbuilding. Sometimes it is the character development. Sometimes it is the way it makes me feel at the end. Most of these are on the [IMDB Top 250](https://www.imdb.com/chart/top); I'd like to see more of the [AFI top 100](https://www.afi.com/100Years/movies.aspx).
+> I like movies for different reasons. Sometimes it is the worldbuilding. Sometimes it is the character development. Sometimes it is the way it makes me feel at the end.
+> 
+> Most of these are on the [IMDB Top 250](https://www.imdb.com/chart/top); I'd like to see more of the [AFI top 100](https://www.afi.com/100Years/movies.aspx) too. This list is not strictly ordered.
 
+- [Requiem for a Dream](https://www.imdb.com/title/tt0180093/)
+- [The Shawshank Redemption](https://www.imdb.com/title/tt0111161/)
+- [Casablanca](https://www.imdb.com/title/tt0034583/)
+- [The Godfather](https://www.imdb.com/title/tt0068646/)
+- [The Godfather: Part 2](https://www.imdb.com/title/tt0071562/)
 - [The Lord of the Rings: Fellowship of the Ring](https://www.imdb.com/title/tt0120737/)
 - [The Lord of the Rings: Two Towers](https://www.imdb.com/title/tt0167261/)
 - [The Lord of the Rings: Return of the King](https://www.imdb.com/title/tt0167260/)
 - [Star Wars: Episode IV - A New Hope](https://www.imdb.com/title/tt0076759/)
 - [Star Wars: Episode V - The Empire Strikes Back](https://www.imdb.com/title/tt0080684/)
 - [Star Wars: Episode VI - Return of the Jedi](https://www.imdb.com/title/tt0086190/)
-- [Requiem for a Dream](https://www.imdb.com/title/tt0180093/)
-- [The Shawshank Redemption](https://www.imdb.com/title/tt0111161/)
-- [Casablanca](https://www.imdb.com/title/tt0034583/)
-- [The Godfather](https://www.imdb.com/title/tt0068646/)
-- [The Godfather: Part 2](https://www.imdb.com/title/tt0071562/)
 - [Mad Max: Fury Road](https://www.imdb.com/title/tt1392190/)
 - [Black Panther](https://www.imdb.com/title/tt1825683/)
 - [The Dark Knight](https://www.imdb.com/title/tt0468569/)
