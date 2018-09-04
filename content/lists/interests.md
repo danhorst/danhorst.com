@@ -48,8 +48,8 @@ categories:
   - Mixed drinks
   - Wine
 - Design
-  - Typography
-  - Polynesian pop (tiki)
+  - [Typography](https://practicaltypography.com/typography-in-ten-minutes.html)
+  - [Polynesian pop](https://www.pinterest.com/danhorst/polynesian-pop/) (tiki)
   - Product design
   - Art [^1]
   - Architecture
