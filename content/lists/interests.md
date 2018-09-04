@@ -1,6 +1,8 @@
 ---
 title: "Interests"
 date: 2018-09-03T16:46:04-04:00
+categories:
+ - Stuff I Like
 ---
 
 > I have many interests. The primary themes are: focus, pleasure, enrichment, self-reliance, and surrounding myself with beautiful, functional, things.

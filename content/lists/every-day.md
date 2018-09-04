@@ -4,6 +4,8 @@ description: "Things I do every day"
 tags:
  - interactive
 date: 2018-07-18T18:33:27-04:00
+categories:
+ - Goals
 ---
 
 ## Morning

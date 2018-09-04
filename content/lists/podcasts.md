@@ -1,6 +1,8 @@
 ---
 title: "Podcasts"
 date: 2018-09-03T15:48:45-04:00
+categories:
+ - Stuff I Like
 ---
 
 > I listen to a lot of podcasts. They are one of my principal means of entertainment. Most of them are from [NPR](https://www.npr.org/podcasts/), [Radiotopia](https://www.radiotopia.fm/), or [Gimlet Media](https://www.gimletmedia.com/).

@@ -1,9 +1,11 @@
 ---
 title: "Office Workout"
 date: 2018-09-04T16:53:15-04:00
-draft: true
+categories:
+ - Goals
 tags:
  - interactive
+draft: true
 ---
 
 - [ ] [Tyler twists][6]

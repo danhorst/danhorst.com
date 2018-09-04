@@ -1,6 +1,8 @@
 ---
 title: "Movies"
 date: 2018-09-03T16:07:35-04:00
+categories:
+ - Stuff I Like
 ---
 
 > I like movies for different reasons. Sometimes it is the worldbuilding. Sometimes it is the character development. Sometimes it is the way it makes me feel at the end.
