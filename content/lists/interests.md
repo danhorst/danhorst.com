@@ -47,6 +47,7 @@ date: 2018-09-03T16:46:04-04:00
   - Wine
 - Design
   - Typography
+  - Polynesian pop (tiki)
   - Product design
   - EDC
   - Architecture
