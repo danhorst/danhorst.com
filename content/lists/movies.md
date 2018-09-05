@@ -5,9 +5,11 @@ categories:
  - Stuff I Like
 ---
 
-> I like movies for different reasons. Sometimes it is the worldbuilding. Sometimes it is the character development. Sometimes it is the way it makes me feel at the end.
+> I like movies for different reasons. It could be the worldbuilding, character development, soundtrack, cinematography, or just the way it makes me feel when it comes to the end—oh, and nostalgia.
 > 
-> Most of these are on the [IMDB Top 250](https://www.imdb.com/chart/top); I'd like to see more of the [AFI top 100](https://www.afi.com/100Years/movies.aspx) too. This list is not strictly ordered.
+> Most of these are on the [IMDB Top 250](https://www.imdb.com/chart/top); I'd like to see more of the [AFI top 100](https://www.afi.com/100Years/movies.aspx) too.
+>
+> This list is loosely grouped and not strictly ordered.
 
 - [Requiem for a Dream](https://www.imdb.com/title/tt0180093/)
 - [The Shawshank Redemption](https://www.imdb.com/title/tt0111161/)
@@ -20,16 +22,21 @@ categories:
 - [Star Wars: Episode IV - A New Hope](https://www.imdb.com/title/tt0076759/)
 - [Star Wars: Episode V - The Empire Strikes Back](https://www.imdb.com/title/tt0080684/)
 - [Star Wars: Episode VI - Return of the Jedi](https://www.imdb.com/title/tt0086190/)
+- [Rogue One: A Star Wars Story](https://www.imdb.com/title/tt3748528/)
 - [Mad Max: Fury Road](https://www.imdb.com/title/tt1392190/)
 - [Black Panther](https://www.imdb.com/title/tt1825683/)
 - [The Dark Knight](https://www.imdb.com/title/tt0468569/)
 - [Fight Club](https://www.imdb.com/title/tt0137523/)
+- [Mission: Impossible - Fallout](https://www.imdb.com/title/tt4912910/)
 - [Princess Mononoke](https://www.imdb.com/title/tt0119698/)
 - [My Neighbor Totoro](https://www.imdb.com/title/tt0096283/)
+- [Robin Hood](https://www.imdb.com/title/tt0070608/)
+- [The Rescuers Down Under](https://www.imdb.com/title/tt0100477/)
+- [The Lion King](https://www.imdb.com/title/tt0110357/)
+- [Wreck-It Ralph](https://www.imdb.com/title/tt1772341/)
+- [The Incredibles 2](https://www.imdb.com/title/tt3606756/)
 - [2001: A Space Oddesy](https://www.imdb.com/title/tt0062622/)
-- [Jaws](https://www.imdb.com/title/tt0073195/)
 - [Pulp Fiction](https://www.imdb.com/title/tt0110912/)
 - [The Princess Bride](https://www.imdb.com/title/tt0093779/)
-- [The Incredibles 2](https://www.imdb.com/title/tt3606756/)
+- [Jaws](https://www.imdb.com/title/tt0073195/)
 - [The Witch](https://www.imdb.com/title/tt4263482/)
-- [Mission: Impossible - Fallout](https://www.imdb.com/title/tt4912910/)
