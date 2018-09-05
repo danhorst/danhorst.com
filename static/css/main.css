@@ -357,6 +357,8 @@ dt { font-size: 1.7rem;
 
 .topic-list li:before { content:''; }
 
+.footnote-ref { font-size: .8rem; }
+
 /* Utility classes */
 
 .nowrap {
