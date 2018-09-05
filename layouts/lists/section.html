@@ -1,0 +1,28 @@
+{{ define "title" }}
+  Lists
+{{ end }}
+
+{{ define "header" }}
+  <nav role="navigation">
+    <span><a href="/">Dan Horst</a></span>
+    <ul>
+      <li><a href="/writing/">Writing</a></li>
+      <li>Lists</li>
+      <li><a href="/about/">About</a></li>
+    </ul>
+  </nav>
+{{ end }}
+
+{{ define "main" }}
+  <h1>Lists</h1>
+  {{ range $key, $taxonomy := .Site.Taxonomies.categories }}
+     {{ if in "goals stuff-i-like" $key }}
+       <h2 id="{{ $key }}">{{ $key | humanize | title }}</h2>
+       <ul>
+       {{ range $taxonomy.Pages }}
+	  {{ .Render "summary" }}
+       {{ end }}
+       </ul>
+    {{ end }}
+  {{ end }}
+{{ end }}
