@@ -5,7 +5,7 @@ categories:
  - Stuff I Like
 ---
 
-> I have many interests. The primary themes are: focus, enrichment, self-reliance, pleasure, and surrounding myself with beautiful, functional, things.
+> I have many interests. The primary themes are: focus, enrichment, self-reliance & pleasure. I also try to surround myself with beautiful, functional, things.
 
 - Photography
 - Mindfulness
