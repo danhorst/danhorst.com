@@ -58,4 +58,4 @@ categories:
 - [Movies](/lists/movies/)
 - Music
 
-[^1]: I know that art is not a subset of design. The [elements of art](https://en.wikipedia.org/wiki/Elements_of_art) do not overlap with the [principles of design](https://en.wikipedia.org/wiki/Visual_design_elements_and_principles#Principles_of_design). I am not well-versed in the study of art. I find it more abstract than I can easily relate to. I categorized it this way because I am drawn to art and art pieces through the _lense_ of design.
+[^1]: Art is not a subset of design. The [elements of art](https://en.wikipedia.org/wiki/Elements_of_art) do not overlap with the [principles of design](https://en.wikipedia.org/wiki/Visual_design_elements_and_principles#Principles_of_design). I am not well-versed in the study of art. It is more abstract than I can easily relate to. I am drawn to art and art pieces through the _lense_ of design.
