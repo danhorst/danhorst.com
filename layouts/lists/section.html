@@ -19,7 +19,7 @@
      {{ if in "goals stuff-i-like" $key }}
        <h2 id="{{ $key }}">{{ $key | humanize | title }}</h2>
        <ul>
-       {{ range $taxonomy.Pages }}
+       {{ range sort $taxonomy.Pages ".Title" }}
 	  {{ .Render "summary" }}
        {{ end }}
        </ul>
