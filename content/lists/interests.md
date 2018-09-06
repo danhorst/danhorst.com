@@ -9,6 +9,7 @@ categories:
 >
 > I also try to surround myself with beautiful, functional, things.
 
+<section>
 <ul>
 <li>Photography</li>
 <li>Mindfulness
@@ -83,4 +84,4 @@ categories:
 <li><a href="/lists/movies/">Movies</a></li>
 <li><a href="/lists/music/">Music</a></li>
 </ul>
-
+</section>
