@@ -16,6 +16,8 @@ categories:
   - Dragonforce
   - Rasphody of Fire
 - French House
+  - Justice
+  - Daft Punk
 - [Chiptune](https://open.spotify.com/user/bioshinra/playlist/3RhYP7iu0UHKgQ1MD3TOeH?si=xL2oguXtTCOG1nSRoH04IA)
 
 ## At Rest
