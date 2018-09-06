@@ -5,7 +5,7 @@ categories:
  - Stuff I Like
 ---
 
-> Music is important to me. My preferences are vary based on what I'm doing. I prefer instrumental music when I need to concentrate.
+> Music is important to me. My listening preferences vary based on what I'm doing. I prefer instrumental music when I need to concentrate.
 
 ## At Work
 - [Outrun](https://open.spotify.com/user/spotify/playlist/37i9dQZF1DXdLEN7aqioXM?si=a5cyQo7MRFy-yP8Z4eB8Xg) / [Synthwave](https://open.spotify.com/user/playstation_music/playlist/6uSS2mA8CQmtwxTn9MBwcy?si=brT75g77TzWFoDuclXR5lw)
