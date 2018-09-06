@@ -9,53 +9,78 @@ categories:
 >
 > I also try to surround myself with beautiful, functional, things.
 
-- Photography
-- Mindfulness
-  - Meditation
-  - Yoga
-- Learning
-  - Reading
-  - DIY
-  - Programming
-  - Web development
-  - Home renovation & repair
-  - Vehicle maintenance
-- Fitness
-- Being outdoors
-  - Cycling 
-  - Hiking
-  - Trail running
-  - Camping
-  - Beaches
-  - Kayaking
-  - SCUBA Diving (underwater counts too)
-- Motorcycles
-- Travel
-  - Museums
-  - National parks
-  - Theme parks (really, I mean Disney World)
-  - Amusement parks
-  - New cities
-- Food
-  - Cooking
-  - Baking
-  - BBQ
-  - Hot Sauce
-  - Fine dining
-  - Hole-in-the-wall restaurants
-  - Festival food
-- Drink
-  - Rum
-  - Whiskey
-  - Mixed drinks
-  - Wine
-- Design
-  - [Typography](https://practicaltypography.com/typography-in-ten-minutes.html)
-  - [Polynesian pop](https://www.pinterest.com/danhorst/polynesian-pop/) (tiki)
-  - Product design
-  - Art [^1]
-  - Architecture
-- [Movies](/lists/movies/)
-- [Music](/lists/music/)
+<ul>
+<li>Photography</li>
+<li>Mindfulness
+  <ul>
+  <li>Meditation</li>
+  <li>Yoga</li>
+  </ul>
+<li>Learning</li>
+  <ul>
+  <li>Reading</li>
+  <li>DIY</li>
+  <li>Programming</li>
+  <li>Web development</li>
+  <li>Home renovation &amp; repair</li>
+  <li>Vehicle maintenance</li>
+  </ul>
+<li>Fitness</li>
+<li>Being outdoors
+  <ul>
+  <li>Cycling</li>
+  <li>Hiking</li>
+  <li>Trail running</li>
+  <li>Camping</li>
+  <li>Beaches</li>
+  <li>Kayaking</li>
+  <li>SCUBA Diving (underwater counts too)</li>
+  </ul>
+<li>Motorcycles
+<li>Travel
+  <ul>
+  <li>Museums</li>
+  <li>National parks</li>
+  <li>Theme parks (really, I mean Disney World)</li>
+  <li>Amusement parks</li>
+  <li>New cities</li>
+  </ul>
+<li>Food
+  <ul>
+  <li>Cooking</li>
+  <li>Baking</li>
+  <li>BBQ</li>
+  <li>Hot Sauce</li>
+  <li>Fine dining</li>
+  <li>Hole-in-the-wall restaurants</li>
+  <li>Festival food</li>
+  </ul>
+<li>Drink
+  <ul>
+  <li>Rum</li>
+  <li>Whiskey</li>
+  <li>Mixed drinks</li>
+  <li>Wine</li>
+  </ul>
+<li>Design
+  <ul>
+  <li><a href="https://practicaltypography.com/typography-in-ten-minutes.html">Typography</a></li>
+  <li><a href="https://www.pinterest.com/danhorst/polynesian-pop/">Polynesian pop</a> (tiki)</li>
+  <li>Product design</li>
+  <li>Art
+  <label for="art" class="margin-toggle sidenote-number"></label>
+  <input type="checkbox" id="art" class="margin-toggle"/>
+  <span class="sidenote">
+  Art is not a subset of design.
+  The <a href="https://en.wikipedia.org/wiki/Elements_of_art">elements of art</a> do not overlap with the <a href="https://en.wikipedia.org/wiki/Visual_design_elements_and_principles#Principles_of_design">principles of design</a>.
+  I am not well-versed in the study of art.
+  It is more abstract than I can easily relate to.
+  I am drawn to art and art pieces through the <em>lense</em> of design.
+  </span>
+  </li>
+  <li>Architecture</li>
+  </ul>
+<li><a href="/lists/movies/">Movies</a></li>
+<li><a href="/lists/music/">Music</a></li>
+</ul>
 
-[^1]: Art is not a subset of design. The [elements of art](https://en.wikipedia.org/wiki/Elements_of_art) do not overlap with the [principles of design](https://en.wikipedia.org/wiki/Visual_design_elements_and_principles#Principles_of_design). I am not well-versed in the study of art. It is more abstract than I can easily relate to. I am drawn to art and art pieces through the _lense_ of design.
