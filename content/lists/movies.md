@@ -9,7 +9,7 @@ categories:
 > 
 > Most of these are on the [IMDB Top 250](https://www.imdb.com/chart/top); I'd like to see more of the [AFI top 100](https://www.afi.com/100Years/movies.aspx) too.
 >
-> This list is loosely grouped and not strictly ordered.
+> This list is loosely grouped by genre and not strictly ordered.
 
 - [Requiem for a Dream](https://www.imdb.com/title/tt0180093/)
 - [The Shawshank Redemption](https://www.imdb.com/title/tt0111161/)
@@ -35,7 +35,7 @@ categories:
 - [The Lion King](https://www.imdb.com/title/tt0110357/)
 - [Wreck-It Ralph](https://www.imdb.com/title/tt1772341/)
 - [The Incredibles 2](https://www.imdb.com/title/tt3606756/)
-- [2001: A Space Oddesy](https://www.imdb.com/title/tt0062622/)
+- [2001: A Space Odyssey](https://www.imdb.com/title/tt0062622/)
 - [Pulp Fiction](https://www.imdb.com/title/tt0110912/)
 - [The Princess Bride](https://www.imdb.com/title/tt0093779/)
 - [Jaws](https://www.imdb.com/title/tt0073195/)
