@@ -5,7 +5,7 @@ categories:
  - Stuff I Like
 ---
 
-> I like movies for different reasons. It could be the worldbuilding, character development, soundtrack, cinematography, or just the way it makes me feel when it comes to the end—oh, and nostalgia.
+> I like movies for different reasons. It could be the worldbuilding, character development, soundtrack, cinematography, or just the way it makes me feel when it comes to the end—oh, or nostalgia.
 > 
 > Most of these are on the [IMDB Top 250](https://www.imdb.com/chart/top); I'd like to see more of the [AFI top 100](https://www.afi.com/100Years/movies.aspx) too.
 >
