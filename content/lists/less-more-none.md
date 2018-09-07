@@ -22,24 +22,25 @@ categories:
 - Physical intimacy
 - Paying off debt
 - Self-care
-- Meditation
+  - Meditation
+  - Portion control
+  - Intense cardio
+  - Weight training
 - Time outside
-- Hiking
-- Kayaking
-- Cycling
-- Motorcycling
-- Portion control
-- Intense cardio
-- Weight training
+  - Hiking
+  - Kayaking
+  - Cycling
+  - Motorcycling
 - Leisure reading
 - Writing
 - Drawing
 - Making things
 - Organized, clean, clutter-free places
-- Giving pets attention &amp; affection
-- Taking &amp; sharing pictures
-- Talking to friends &amp; family
-- Writing letters to friends &amp; family
+- Investing in relationships
+  - Giving pets attention &amp; affection
+  - Taking &amp; sharing pictures
+  - Talking to friends &amp; family
+  - Writing letters to friends &amp; family
 
 ## None
 - Adding new debt
