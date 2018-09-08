@@ -9,7 +9,7 @@ categories:
 > 
 > Most of these are on the [IMDB Top 250](https://www.imdb.com/chart/top); I'd like to see more of the [AFI top 100](https://www.afi.com/100Years/movies.aspx) too.
 >
-> This list is loosely grouped by genre and not strictly ordered.
+> This list is roughly grouped by genre and loosely ordered by my favor.
 
 - [Requiem for a Dream](https://www.imdb.com/title/tt0180093/)
 - [The Shawshank Redemption](https://www.imdb.com/title/tt0111161/)
