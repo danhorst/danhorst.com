@@ -17,7 +17,7 @@ categories:
 - [ ] Explore New Orleans
 - [ ] Explore Washington DC
 - [ ] Explore Miami
-- [ ] Explore Key West
+- [x] Explore Key West
 - [ ] Explore San Francisco
 - [ ] Explore Los Angeles
 - [ ] Go to Alaska
@@ -25,15 +25,17 @@ categories:
 - [x] Visit Mammoth Cave National Park
 - [x] Visit Grand Teton National Park
 - [ ] Visit Redwood National Park
-- [ ] Visit Yellowstone National Park
-- [ ] Visit Yosemite National Park
+- [x] Visit Yellowstone National Park
+- [x] Visit Yosemite National Park
 - [ ] Visit Glacier National Park
 - [ ] Visit Grand Canyon National Park
+- [ ] Visit Zion National Park
 - [ ] Stay overnight at Dry Tortugas National Park
 - [ ] Road trip on California SR-1
 - [ ] Go to Disneyland
 - [ ] Go to the Met Opera
 - [ ] Go to the top of the One World Trade Center
+- [ ] Go to the [Skydeck](https://theskydeck.com/) in the [Willis Tower](https://en.wikipedia.org/wiki/Willis_Tower)
 - [x] Go to the top of the World Trade Center
 - [x] Go to the top of the Empire State Building
 - [x] Climb the Statue of Liberty
