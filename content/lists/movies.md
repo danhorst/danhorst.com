@@ -11,7 +11,7 @@ categories:
 > Most of these are on the [IMDB Top 250](https://www.imdb.com/chart/top).
 > I'd like to see more of the [AFI top 100](https://www.afi.com/100Years/movies.aspx) and the [top 200 on Rotten Tomatoes](https://editorial.rottentomatoes.com/guide/200-essential-movies-to-watch-now/).
 >
-> This list is roughly grouped by genre and loosely ordered by my favor.
+> This list is grouped roughly by genre and ordered loosely by my preference.
 
 - [Requiem for a Dream](https://www.imdb.com/title/tt0180093/)
 - [The Shawshank Redemption](https://www.imdb.com/title/tt0111161/)
