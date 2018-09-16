@@ -25,6 +25,7 @@ categories:
 - [Star Wars: Episode V - The Empire Strikes Back](https://www.imdb.com/title/tt0080684/)
 - [Star Wars: Episode VI - Return of the Jedi](https://www.imdb.com/title/tt0086190/)
 - [Rogue One: A Star Wars Story](https://www.imdb.com/title/tt3748528/)
+- [Casino Royale](https://www.imdb.com/title/tt0381061/)
 - [Mad Max: Fury Road](https://www.imdb.com/title/tt1392190/)
 - [Black Panther](https://www.imdb.com/title/tt1825683/)
 - [The Dark Knight](https://www.imdb.com/title/tt0468569/)
