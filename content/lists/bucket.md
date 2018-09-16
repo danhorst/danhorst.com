@@ -43,8 +43,9 @@ categories:
 ## International Travel
 - [x] Visit Stonehenge
 - [x] Hike the Inca trail to Machu Picchu
-- [x] Visit Chichen Itza
 - [x] Visit the Amazon rainforest
+- [x] Visit Chichen Itza
+- [ ] Visit Cuba before it changes too much
 - [x] Visit Rome
 - [ ] Visit Paris
 - [ ] Visit Bordeaux
