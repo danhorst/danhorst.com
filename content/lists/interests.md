@@ -7,7 +7,7 @@ categories:
 
 > The principal themes of my interests are: focus, enrichment, self-reliance & pleasure.
 >
-> I also try to surround myself with beautiful, functional, things.
+> I also appreciate beautiful, functional, things.
 
 <section>
 <ul>
