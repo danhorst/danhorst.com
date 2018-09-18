@@ -9,11 +9,9 @@ categories:
 ---
 
 ## Morning
-- [ ] Drink water
 - [ ] Make the bed
 - [ ] Set up whole house fan (weather permitting)
-- [ ] Morning warm-up
-- [ ] Journal, gratitude
+- [ ] Drink water
 - [ ] Take morning supplements
 - [ ] Brush teeth
 - [ ] Mouthwash
