@@ -58,10 +58,10 @@ categories:
   </ul>
 <li>Drink
   <ul>
+  <li>Cocktails</li>
   <li>Rum</li>
-  <li>Whiskey</li>
-  <li>Mixed drinks</li>
   <li>Wine</li>
+  <li>Whiskey</li>
   </ul>
 <li>Design
   <ul>
@@ -76,7 +76,7 @@ categories:
   The <a href="https://en.wikipedia.org/wiki/Elements_of_art">elements of art</a> do not overlap with the <a href="https://en.wikipedia.org/wiki/Visual_design_elements_and_principles#Principles_of_design">principles of design</a>.
   I am not well-versed in the study of art.
   It is more abstract than I can easily relate to.
-  I am drawn to art and art pieces through the <em>lense</em> of design.
+  Instead, I am drawn to art and art pieces through the <em>lense</em> of design.
   </span>
   </li>
   <li>Architecture</li>
