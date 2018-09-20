@@ -76,12 +76,25 @@ categories:
   The <a href="https://en.wikipedia.org/wiki/Elements_of_art">elements of art</a> do not overlap with the <a href="https://en.wikipedia.org/wiki/Visual_design_elements_and_principles#Principles_of_design">principles of design</a>.
   I am not well-versed in the study of art.
   It is more abstract than I can easily relate to.
-  Instead, I am drawn to art and art pieces through the <em>lense</em> of design.
+  Instead, I am drawn to art and art pieces through the <em>lens</em> of design.
   </span>
   </li>
   <li>Architecture</li>
   </ul>
 <li><a href="/lists/movies/">Movies</a></li>
 <li><a href="/lists/music/">Music</a></li>
+<li>Gear
+  <label for="gear" class="margin-toggle sidenote-number"></label>
+  <input type="checkbox" id="gear" class="margin-toggle"/>
+  <span class="sidenote">
+  I have fallen into the <a href="https://youtu.be/R3SFqV0hMyo">&ldquo;get the gear&rdquo;</a> trap more than once.
+  I make an extra effort to value the <em>experience</em> over the equipment for hobbies like photography and SCUBA.
+  </span>
+  <ul>
+  <li>Mechanical Keyboards</li>
+  <li>Flashlights</li>
+  <li>Tools</li>
+  <li>Office supplies (pens, pencils, notebooks&mdash;yes, seriously)</li>
+  </ul>
 </ul>
 </section>
