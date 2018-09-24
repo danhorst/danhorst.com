@@ -14,23 +14,25 @@ categories:
 - [ ] Pass an ABATE rider course
 
 ## Domestic Travel
-- [ ] Explore New Orleans
-- [ ] Explore Washington DC
-- [ ] Explore Miami
-- [x] Explore Key West
-- [ ] Explore San Francisco
-- [ ] Explore Los Angeles
+- [ ] Explore new cities
+  - [ ] New Orleans
+  - [ ] Washington DC
+  - [ ] Miami
+  - [x] Key West
+  - [ ] San Francisco
+  - [ ] Los Angeles
+- [ ] Explore National Parks
+  - [x] Mammoth Cave National Park
+  - [x] Grand Teton National Park
+  - [ ] Redwood National Park
+  - [x] Yellowstone National Park
+  - [x] Yosemite National Park
+  - [ ] Glacier National Park
+  - [ ] Grand Canyon National Park
+  - [ ] Zion National Park
+  - [ ] Dry Tortugas National Park (hopefully stay overnight)
 - [ ] Go to Alaska
 - [ ] Go to Hawaii
-- [x] Visit Mammoth Cave National Park
-- [x] Visit Grand Teton National Park
-- [ ] Visit Redwood National Park
-- [x] Visit Yellowstone National Park
-- [x] Visit Yosemite National Park
-- [ ] Visit Glacier National Park
-- [ ] Visit Grand Canyon National Park
-- [ ] Visit Zion National Park
-- [ ] Stay overnight at Dry Tortugas National Park
 - [ ] Road trip on California SR-1
 - [ ] Go to Disneyland
 - [ ] Go to the Met Opera
@@ -45,7 +47,7 @@ categories:
 - [x] Hike the Inca trail to Machu Picchu
 - [x] Visit the Amazon rainforest
 - [x] Visit Chichen Itza
-- [ ] Visit Cuba before it changes too much
+- [ ] Visit Cuba (before it changes too much)
 - [x] Visit Rome
 - [ ] Visit Paris
 - [ ] Visit Bordeaux

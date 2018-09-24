@@ -45,6 +45,7 @@ categories:
 - [ ] Meditate
 - [ ] Journal, daily review
 - [ ] Choose evening tasks
+- [ ] Take evening supplements
 - [ ] Dinner
 - [ ] Wash dishes
 - [ ] Clear off all kitchen surfaces
@@ -56,18 +57,19 @@ categories:
 - [ ] Scoop the litter boxes
 - [ ] Let the cats out
 - [ ] Read (or task time)
-- [ ] Tomorrow: Critical tasks
-- [ ] Tomorrow: Breakfast prep
-- [ ] Tomorrow: Pack bag
-- [ ] Tomorrow: Choose clothes
-- [ ] Take evening supplements
-- [ ] Wash face
-- [ ] Face lotion
-- [ ] Floss teeth
-- [ ] Brush teeth
-- [ ] Mouthwash
+- [ ] Prepare for tomorrow
+  - [ ] 3 Critical tasks
+  - [ ] Breakfast prep
+  - [ ] Pack bag
+  - [ ] Choose clothes
+- [ ] EOD Personal Care
+  - [ ] Wash face
+  - [ ] Face lotion
+  - [ ] Floss teeth
+  - [ ] Brush teeth
+  - [ ] Mouthwash
+  - [ ] Evening medication
 - [ ] Let the dogs out
 - [ ] Refill water bottle
-- [ ] Take evening medication
 - [ ] Mark off calendar
 - [ ] Hand lotion
