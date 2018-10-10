@@ -21,8 +21,7 @@ categories:
 <h2 id="basics">Cover the Basics</h2>
 
 <ul>
-  <li>Take care of yourself
-    <label for="self-care" class="margin-toggle sidenote-number"></label>
+  <li>Take care of yourself<label for="self-care" class="margin-toggle sidenote-number"></label>
     <input type="checkbox" id="self-care" class="margin-toggle"/>
     <span class="sidenote">
       Self-care is like oxygen masks on an airplane.
@@ -33,13 +32,13 @@ categories:
   <li>Eat well</li>
   <li>Sleep well</li>
   <li>Exercise</li>
-  <li>Invest in your mental health
-    <label for="mental-health" class="margin-toggle sidenote-number"></label>
+  <li>Invest in your mental health<label for="mental-health" class="margin-toggle sidenote-number"></label>
     <input type="checkbox" id="mental-health" class="margin-toggle"/>
     <span class="sidenote">
       For me, this means cultivating mindfullness though medidataion, acknowledging and addressing when I feel emotionally aroused, and trying to improve my emotional intelligence.
     </span>
   </li>
+  <li>Routinely go to the doctor, dentist, eye doctor, etc.</li>
   </ul>
   </li>
   <li>Be authentic
@@ -89,8 +88,7 @@ categories:
 
 <ul>
   <li>
-    Know your love languages and those of your partner
-    <label for="love-languages" class="margin-toggle sidenote-number"></label>
+    Know your love languages and those of your partner<label for="love-languages" class="margin-toggle sidenote-number"></label>
     <input type="checkbox" id="love-languages" class="margin-toggle"/>
     <span class="sidenote">
       There are 5 <a href="https://en.wikipedia.org/wiki/The_Five_Love_Languages">love languages</a>: words, time, gifts, acts, touch.
