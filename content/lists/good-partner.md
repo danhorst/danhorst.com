@@ -18,6 +18,50 @@ categories:
 </div>
 
 <section>
+<h2 id="basics">Cover the Basics</h2>
+
+<ul>
+  <li>Take care of yourself
+    <label for="self-care" class="margin-toggle sidenote-number"></label>
+    <input type="checkbox" id="self-care" class="margin-toggle"/>
+    <span class="sidenote">
+      Self-care is like oxygen masks on an airplane.
+      If you don&lsquo;t take care of yourself first there is no way you can take care of those around you.
+      (<a href="https://www.greenmountainhypnosis.com/blogs/post/The-Oxygen-Mask-Theory-How-to-Take-Care-of-Everyone/">I&rsquo;m not the first person to think of this.</a>)
+    </span>
+  <ul>
+  <li>Eat well</li>
+  <li>Sleep well</li>
+  <li>Exercise</li>
+  <li>Invest in your mental health
+    <label for="mental-health" class="margin-toggle sidenote-number"></label>
+    <input type="checkbox" id="mental-health" class="margin-toggle"/>
+    <span class="sidenote">
+      For me, this means cultivating mindfullness though medidataion, acknowledging and addressing when I feel emotionally aroused, and trying to improve my emotional intelligence.
+    </span>
+  </li>
+  </ul>
+  </li>
+  <li>Be authentic
+  <ul>
+  <li>Know <a href="/lists/less-more-none/#more">what you are passionate about</a> and keep doing it</li>
+  <li>Think about <a href="/lists/bucket/">the future you want</a> and work towards it</li>
+  <li>Be honest and assertive about your needs</a>
+  </ul>
+  </li>
+  <li>Be a Responsible Adult
+  <ul>
+  <li>Invest in your career</li>
+  <li>Have your finances in order</li>
+  <li>Take good care of the space where you live</li>
+  <li>Meet your own transportation needs</li>
+  <li>Dress appropriately; have a sense of style</li>
+  </ul>
+  </li>
+</ul>
+</section>
+
+<section>
 <h2 id="trust">Build Trust</h2>
 
 <p>
@@ -56,22 +100,30 @@ categories:
   </li>
   <li>Tell them you love them every day</li>
   <li>Show them you love them every day</li>
-  <li>Share emotional labor</li>
+  <li>Always offer your support</li>
+  <li>Share emotional labor
+  <ul>
   <li>Remember important dates and make them memorable</li>
   <li>Take initiative and plan something as a surprise</li>
   <li>Tell them when something is bothering you</li>
   <li>Ask them if they want to talk if something is bothering them</li>
+  </ul>
+  </li>
+  <li>Invest time in building intimacy
+  <ul>
   <li>Be passionate</li>
   <li>Be completely loyal to them</li>
   <li>Be completely devoted to them</li>
-  <li>Invest time in building intimacy</li>
   <li>Make sure their needs are met; strive to exceed expectations</li>
-  <li>Take care of yourself; it takes energy to maintain a relationship</li>
-  <li>Spend time together</li>
+  </ul>
+  </li>
+  <li>Spend time together
+  <ul>
   <li>Take walks together</li>
   <li>Hold hands</li>
-  <li>Always offer to help</li>
   <li>Make small gestures: open doors, carry bags, wash dishes</li>
+  </ul>
+  </li>
 </ul>
 </section>
 
