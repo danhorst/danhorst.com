@@ -12,6 +12,8 @@ categories:
 > I'd like to see more of the [AFI top 100](https://www.afi.com/100Years/movies.aspx) and the [top 200 on Rotten Tomatoes](https://editorial.rottentomatoes.com/guide/200-essential-movies-to-watch-now/).
 >
 > This list is grouped roughly by genre and ordered loosely by my preference.
+>
+> My [profile on Letterboxd](https://letterboxd.com/danhorst/) lists [every movie I have ever seen](https://letterboxd.com/danhorst/films/) (as best as I can remember).
 
 - [Requiem for a Dream](https://www.imdb.com/title/tt0180093/)
 - [The Shawshank Redemption](https://www.imdb.com/title/tt0111161/)
