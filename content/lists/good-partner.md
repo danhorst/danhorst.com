@@ -44,7 +44,7 @@ categories:
   </li>
   <li>Be authentic
   <ul>
-  <li>Know <a href="/lists/less-more-none/#more">what you are passionate about</a> and keep doing it</li>
+  <li>Know <a href="/lists/interests/">what you are passionate about</a> and keep doing it</li>
   <li>Think about <a href="/lists/bucket/">the future you want</a> and work towards it</li>
   <li>Be honest and assertive about your needs</a>
   </ul>
