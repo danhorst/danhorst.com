@@ -12,6 +12,7 @@ categories:
 - [ ] Finish a triathlon
 - [ ] Complete a rite of passage
 - [ ] Pass an ABATE rider course
+- [ ] Get [NAR](http://www.nar.org/) [level 3 certified](http://www.nar.org/high-power-rocketry-info/level-3-certification/)
 
 ## Domestic Travel
 - [ ] Explore new cities
