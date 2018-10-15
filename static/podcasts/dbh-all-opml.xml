@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<opml version="1.0">
+  <head>
+    <title>Pocket Casts Feeds</title>
+  </head>
+  <body>
+    <outline text="feeds">
+      <outline type="rss" text="99% Invisible" xmlUrl="http://feeds.99percentinvisible.org/99percentinvisible" />
+      <outline type="rss" text="Radio Diaries" xmlUrl="http://feed.radiodiaries.org/radio-diaries?id=510288" />
+      <outline type="rss" text="Manager Tools" xmlUrl="https://files.manager-tools.com/files/public/feeds/manager-tools-podcasts.xml" />
+      <outline type="rss" text="Criminal" xmlUrl="http://feeds.thisiscriminal.com/CriminalShow" />
+      <outline type="rss" text="Gastropod" xmlUrl="https://gastropod.com/feed/podcast/" />
+      <outline type="rss" text="Song Exploder" xmlUrl="http://songexploder.libsyn.com/rss" />
+      <outline type="rss" text="Hidden Brain" xmlUrl="https://www.npr.org/rss/podcast.php?id=510308" />
+      <outline type="rss" text="Serial" xmlUrl="http://feeds.serialpodcast.org/serialpodcast" />
+      <outline type="rss" text="Reply All" xmlUrl="HTTP://Feeds.gimletmedia.com/hearreplyall" />
+      <outline type="rss" text="Radiolab" xmlUrl="http://feeds.wnyc.org/radiolab" />
+      <outline type="rss" text="The Heart" xmlUrl="http://feeds.theheartradio.org/TheHeartRadio" />
+      <outline type="rss" text="DFB Podcast" xmlUrl="http://www.dfbpodcast.com/feed/podcast/" />
+      <outline type="rss" text="Radiolab Presents: More Perfect" xmlUrl="http://feeds.wnyc.org/moreperfect" />
+      <outline type="rss" text="Love + Radio" xmlUrl="http://feeds.feedburner.com/loveplusradio" />
+      <outline type="rss" text="Uncivil" xmlUrl="https://feeds.megaphone.fm/uncivil" />
+      <outline type="rss" text="StoryCorps" xmlUrl="https://www.npr.org/rss/podcast.php?id=510200" />
+      <outline type="rss" text="Impact Makers Podcast with Jennifer McClure" xmlUrl="http://impactmakers.libsyn.com/rss" />
+      <outline type="rss" text="Bundyville" xmlUrl="https://podcasts.opb.org/rss/bundyville" />
+      <outline type="rss" text="S-Town" xmlUrl="http://feeds.stownpodcast.org/stownpodcast" />
+      <outline type="rss" text="Benjamen Walker's Theory of Everything" xmlUrl="http://feeds.prx.org/toe" />
+      <outline type="rss" text="The Allusionist" xmlUrl="http://feeds.theallusionist.org/Allusionist" />
+      <outline type="rss" text="The Shadows" xmlUrl="https://www.cbc.ca/podcasting/includes/theshadows.xml" />
+      <outline type="rss" text="On Margins" xmlUrl="http://onmargins.craigmod.com/rss" />
+      <outline type="rss" text="This American Life" xmlUrl="http://feed.thisamericanlife.org/talpodcast" />
+      <outline type="rss" text="Invisibilia" xmlUrl="https://www.npr.org/rss/podcast.php?id=510307" />
+      <outline type="rss" text="Popaganda" xmlUrl="http://bitchradio.pagatim.libsynpro.com" />
+      <outline type="rss" text="The Moth Podcast" xmlUrl="http://feeds.feedburner.com/themothpodcast" />
+      <outline type="rss" text="The Kitchen Sisters Present" xmlUrl="http://feeds.fugitivewaves.org/fugitivewaves" />
+      <outline type="rss" text="Heavyweight" xmlUrl="http://feeds.gimletmedia.com/heavyweightpodcast" />
+      <outline type="rss" text="Hit The Streets with Valerie Jardin" xmlUrl="http://valeriejardinphotography.libsyn.com/rss" />
+      <outline type="rss" text="The Mortified Podcast" xmlUrl="http://feeds.getmortified.com/MortifiedPod" />
+      <outline type="rss" text="the memory palace" xmlUrl="http://feeds.thememorypalace.us/thememorypalace" />
+    </outline>
+  </body>
+</opml>
