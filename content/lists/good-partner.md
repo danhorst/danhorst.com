@@ -50,7 +50,7 @@ categories:
   </li>
   <li>Be a Responsible Adult
   <ul>
-  <li>Invest in your career</li>
+  <li>Take charge of your career</li>
   <li>Have your finances in order</li>
   <li>Take good care of the space where you live</li>
   <li>Meet your own transportation needs</li>
