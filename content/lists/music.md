@@ -24,5 +24,4 @@ categories:
 - Polynesian pop / Tiki
 - Sinatra et. al.
 - 50s music
-- Classic rock
 - WDW soundtrack loops
