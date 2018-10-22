@@ -18,7 +18,6 @@ categories:
   - [S-Town](https://stownpodcast.org/)
   - [Bundyville](https://www.npr.org/podcasts/606441988/bundyville)
   - [The Habitat](https://www.gimletmedia.com/the-habitat)
-  - [Theory of Everything](http://theoryofeverythingpodcast.com/)
 - Science, Design, Non-fiction deep-dive
   - [99% Invisible](https://99percentinvisible.org/)
   - [Radio Lab](https://www.wnycstudios.org/shows/radiolab)
