@@ -15,9 +15,9 @@ categories:
   - [Criminal](https://thisiscriminal.com/)
   - [Radio Diaries](http://www.radiodiaries.org/)
   - [Serial](https://serialpodcast.org/)
-  - [S-Town](https://stownpodcast.org/)
-  - [Bundyville](https://www.npr.org/podcasts/606441988/bundyville)
-  - [The Habitat](https://www.gimletmedia.com/the-habitat)
+  - [S-Town](https://stownpodcast.org/) (short series)
+  - [Bundyville](https://www.npr.org/podcasts/606441988/bundyville) (short series)
+  - [The Habitat](https://www.gimletmedia.com/the-habitat) (short series)
 - Science, Design, Non-fiction deep-dive
   - [99% Invisible](https://99percentinvisible.org/)
   - [Radio Lab](https://www.wnycstudios.org/shows/radiolab)
@@ -34,7 +34,7 @@ categories:
   - [Uncivil](http://www.gimletmedia.com/uncivil)
 - Love, Sex, Gender
   - [The Heart](https://www.theheartradio.org/)
-  - [The Shadows](https://www.cbc.ca/radio/podcasts/the-shadows/)
+  - [The Shadows](https://www.cbc.ca/radio/podcasts/the-shadows/) (short series)
   - [Love + Radio](http://loveandradio.org/)
   - [Bitch Media](https://www.bitchmedia.org/feminist-podcasts)
 - Business, Professional Development
