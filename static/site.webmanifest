@@ -3,14 +3,9 @@
   "name": "Dan Horst",
   "icons": [
     {
-      "src": "/images/DBH-400.png",
+      "src": "/images/DBH.png",
       "type": "image/png",
-      "sizes": "400x400"
-    },
-    {
-      "src": "/icon.png",
-      "type": "image/png",
-      "sizes": "180x180"
+      "sizes": "512x512"
     }
   ],
   "start_url": "/",
