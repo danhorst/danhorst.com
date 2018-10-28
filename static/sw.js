@@ -12,7 +12,7 @@ https://erikrunyon.com/
 (function(){
   'use strict';
 
-  const version = 'v2018-10-27T20:00:00::';
+  const version = 'v2018-10-27T20:12:00::';
   const staticCacheName = version + 'static';
   const pagesCacheName = version + 'pages';
   const imagesCacheName = version + 'images';
@@ -24,6 +24,7 @@ https://erikrunyon.com/
   ];
 
   const staticAssets = [
+    '/css/main.css',
     '/css/et-book/et-book-bold-line-figures.woff2',
     '/css/et-book/et-book-display-italic-old-style-figures.woff2',
     '/css/et-book/et-book-roman-line-figures.woff2',
