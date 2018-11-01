@@ -22,4 +22,4 @@ _Practices are what actually happen._
 
 Practices arise out of patterns of behavior created while people do their work.
 Practices are enforced by social contracts.
-Without leadership practices diverge organically.
+Practices diverge organically without clear leadership.
