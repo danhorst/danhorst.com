@@ -20,7 +20,7 @@ Let's break this down a bit. First, a "service" is any function that supports a 
 It many organizations, these two concerns are addressed using the ITIL model (ITIL stands for _Information Technology Infrastructure Library_ but it really just a name for a specific operational and organizational framework).
 
 ## The Role of Enterprise Architecture
-When I was in my 20s I looked at enterprise architects with borderline contempt. The examples I saw were all old white men that created, and argued over, architecture diagrams with little-to-no indication that they had mastered the tools and techniques required to actually accomplish the work.
+When I was in my 20s I looked at enterprise architects with borderline contempt. The examples I saw were all old white men that created, and argued over, architecture diagrams with little-to-no indication that they had mastered the tools and techniques required to actually accomplish the work they had outlined.
 
 ### Strategy, Alignment, and Focus
 
