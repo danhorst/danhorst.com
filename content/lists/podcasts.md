@@ -39,7 +39,6 @@ categories:
   - [Bitch Media](https://www.bitchmedia.org/feminist-podcasts)
 - Business, Professional Development
   - [Manager Tools](https://www.manager-tools.com/podcasts)
-  - [Impact Makers](https://impactmakers.libsyn.com/)
 - Travel, Photography
   - [Hit the Streets](http://valeriejardinphotography.com/podcast/)
   - [The DFB Podcast](http://www.dfbpodcast.com/)
