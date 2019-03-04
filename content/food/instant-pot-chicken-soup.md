@@ -6,22 +6,23 @@ categories:
 tags:
  - Instant Pot
  - Keto
+ - interactive
 ---
 
-> Based on [How to Make Chicken Soup in the Pressure Cooker Recipe][1].
 > This is perfect on a crisp day or if you are feeling sick.
+> Based on [How to Make Chicken Soup in the Pressure Cooker Recipe][1].
 
 ## Ingredients
-- 1 whole chicken, 3-4 pound
-- 4 ribs celery, sliced
-- 3 medium carrots, peeled and sliced
-- 1 medium yellow onion, diced
-- 3 cloves garlic, peeled and minced
-- 12 sprigs fresh flat leaf parsley
-- 3 large sprigs fresh thyme
-- 7 teaspoons salt
-- 8 cups water
-- 1 cup frozen peas
+- [ ] 1 whole chicken, 3-4 pound
+- [ ] 4 ribs celery, sliced
+- [ ] 3 medium carrots, peeled and sliced
+- [ ] 1 medium yellow onion, diced
+- [ ] 3 cloves garlic, peeled and minced
+- [ ] 12 sprigs fresh flat leaf parsley
+- [ ] 3 large sprigs fresh thyme
+- [ ] 7 teaspoons salt
+- [ ] 8 cups water
+- [ ] 1 cup frozen peas
 
 ## Instructions
 1. Place chicken in Instant Pot, breast side up
