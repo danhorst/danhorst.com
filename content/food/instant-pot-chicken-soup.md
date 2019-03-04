@@ -25,10 +25,10 @@ tags:
 - [ ] 1 cup frozen peas
 
 ## Instructions
-1. Place chicken in Instant Pot, breast side up
-2. Put all other ingredients, except the frozen peas, on top of the chicken and then add water
+1. Place whole chicken in Instant Pot, breast-side up
+2. Put all other ingredients, except the frozen peas, on top of the chicken then add water
 3. Pressure cook on High for 25 minutes
-4. Wait 15 minutes after it is done cooking before releasing the remainder of the pressure
+4. Wait 15 minutes after it is done cooking before releasing the pressure
 5. Remove the chicken, pick the carcass, and shred the meat using two forks; discard skin, bones, and cartilage
 6. Stir shredded chicken and frozen peas into soup
 
