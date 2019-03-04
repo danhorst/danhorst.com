@@ -3,6 +3,7 @@ languageCode =  "en-us"
 title = "Dan Horst"
 paginate = 500
 disableLiveReload = true
+pluralizelisttitles = false
 
 [params]
   author = "Dan Horst"
