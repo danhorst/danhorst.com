@@ -1,0 +1,12 @@
+{{ define "main" }}
+
+{{ $paginator := .Paginate (where .Data.Pages "Type" "food") }}
+<section>
+  <ol class="post-list">
+    {{ range $paginator.Pages }}
+      {{ .Render "summary" }}
+    {{ end }}
+  </ol>
+</section>
+
+{{ end }}

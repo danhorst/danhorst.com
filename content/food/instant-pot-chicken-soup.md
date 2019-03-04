@@ -1,6 +1,11 @@
 ---
 title: "Instant Pot Chicken Soup"
 date: 2019-03-04T10:38:41-05:00
+categories:
+ - Recipes
+tags:
+ - Instant Pot
+ - Keto
 ---
 
 > Based on [How to Make Chicken Soup in the Pressure Cooker Recipe][1].
