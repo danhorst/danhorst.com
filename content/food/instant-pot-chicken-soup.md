@@ -11,15 +11,18 @@ tags:
 
 > This is perfect on a crisp day or if you are feeling sick.
 > Based on [How to Make Chicken Soup in the Pressure Cooker Recipe][1].
+>
+> Like most soups, it is best after 24 hours.
+> This gives the flavors time to meld together.
 
 ## Ingredients
-- [ ] 1 whole chicken, 3-4 pound
+- [ ] 1 whole chicken, 3-4 pounds
 - [ ] 4 ribs celery, sliced
 - [ ] 3 medium carrots, peeled and sliced
 - [ ] 1 medium yellow onion, diced
 - [ ] 3 cloves garlic, peeled and minced
-- [ ] 12 sprigs fresh flat leaf parsley
-- [ ] 3 large sprigs fresh thyme
+- [ ] Dried parsley to taste (~2 TBSP) or lots of fresh parsley, if preferred
+- [ ] Dried thyme to taste (~1 TBSP) or some fresh thyme, if preferred
 - [ ] 7 teaspoons salt
 - [ ] 8 cups water
 - [ ] 1 cup frozen peas
