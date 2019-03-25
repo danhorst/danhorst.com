@@ -13,7 +13,7 @@ categories:
   - Carpenter Brut
 - Power Metal / Speed Metal
   - Blind Guardian
-  - Dragonforce
+  - DragonForce
   - Rasphody of Fire
 - French House
   - Justice
