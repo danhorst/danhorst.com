@@ -9,27 +9,25 @@ categories:
 ---
 
 ## Morning
+- [ ] Take morning medication
+- [ ] Drink water
+- [ ] Meditate
 - [ ] Make the bed
 - [ ] Set up whole house fan (weather permitting)
-- [ ] Drink water
-- [ ] Take morning supplements
 - [ ] Brush teeth
 - [ ] Mouthwash
 - [ ] Check water bowls
 - [ ] Feed the cats
-- [ ] Meditate
 - [ ] Give Kira her meds
 - [ ] Feed the dogs
 - [ ] Let the dogs out
 - [ ] Journal, check-in
-- [ ] Exercise Hugh
-- [ ] HIIT
 - [ ] Check mouse traps
-- [ ] Shower
-- [ ] Shave
-- [ ] Take morning medication
 - [ ] Scoop the litter boxes
 - [ ] Check dog water bowl
+- [ ] Take morning supplements
+- [ ] Exercise
+- [ ] Shower
 
 ## Afternoon
 - [ ] Meditate
@@ -42,10 +40,8 @@ categories:
 - [ ] Process mail
 - [ ] Let the dogs out
 - [ ] Check water bowls
-- [ ] Meditate
 - [ ] Journal, daily review
 - [ ] Choose evening tasks
-- [ ] Take evening supplements
 - [ ] Dinner
 - [ ] Wash dishes
 - [ ] Clear off all kitchen surfaces
@@ -64,12 +60,14 @@ categories:
   - [ ] Choose clothes
 - [ ] EOD Personal Care
   - [ ] Wash face
+  - [ ] Shave
   - [ ] Face lotion
   - [ ] Floss teeth
   - [ ] Brush teeth
   - [ ] Mouthwash
-  - [ ] Evening medication
+  - [ ] Take evening supplements
 - [ ] Let the dogs out
 - [ ] Refill water bottle
 - [ ] Mark off calendar
 - [ ] Hand lotion
+- [ ] Meditate
