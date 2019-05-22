@@ -15,9 +15,25 @@ My initial design looked like this:
 - Store the compiled site in S3
   - NOTE: DO NOT configure the S3 bucket to serve the website since CloudFront will be handling the requests. Use the "block all public requests" option to force the issue.
 - Use [Bitbucket pipelines][5] to trigger a Lambda function or [SAM process][6] and/or use [CodeBuild][7] to compile the site
-- Serve the website from CloudFront
-  - Use AWS Certificate Manager to provide SSL certificates
-- Secure the website using cloudfront-auth & Okta
+- Serve the website from CloudFront with Security provided
+  - Use AWS Certificate Manager to provide the SSL certificate
+  - Create a CloudFront distribution for a restricted bucket
+  - Create an OpenIDConnect Web application in Okta
+  - Create the Lambda function for handling requests
+  - Configure the CloudFront distribution to use the Lambda
+
+
+CNAME
+secure.danhorst.com
+secure.danhorst.com.s3.amazonaws.com
+
+https://github.com/Widen/cloudfront-auth
+
+https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/CNAMEs.html
+
+https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/private-content-restricting-access-to-s3.html#private-content-creating-oai-console
+
+https://aws.amazon.com/blogs/networking-and-content-delivery/serving-private-content-using-amazon-cloudfront-aws-lambdaedge/
 
 - Build environment
   - You want to have dependencies cached so the build doesn't take forever
