@@ -16,6 +16,7 @@ tags:
 > This gives the flavors time to meld together.
 
 ## Ingredients
+
 - [ ] 1 whole chicken, 3-4 pounds
 - [ ] 4 ribs celery, sliced
 - [ ] 3 medium carrots, peeled and sliced
@@ -28,6 +29,7 @@ tags:
 - [ ] 1 cup frozen peas
 
 ## Instructions
+
 1. Place whole chicken in Instant Pot, breast-side up
 2. Put all other ingredients, except the frozen peas, on top of the chicken then add water
 3. Pressure cook on High for 25 minutes

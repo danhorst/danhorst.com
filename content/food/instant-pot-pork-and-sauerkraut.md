@@ -14,6 +14,7 @@ draft: true
 > I can get all the ingredients at Costco.
 
 ## Ingredients
+
 - [ ] Sausage
 - [ ] Pork loin
 - [ ] Sauerkrout
