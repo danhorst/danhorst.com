@@ -1,6 +1,6 @@
 ---
-title: "Instant Pot Chicken Soup"
-date: 2019-05-22T10:38:41-05:00
+title: "Instant Pot Taco Chicken"
+date: 2019-05-21T10:38:41-05:00
 categories:
  - Recipes
 tags:
