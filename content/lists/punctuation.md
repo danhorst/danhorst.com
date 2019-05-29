@@ -17,6 +17,7 @@ categories:
 | Ellipsis                | …        | `&hellip;`            | `&#8230;`           |
 | Em dash                 | —        | `&mdash;`             | `&#8212;`           |
 | En dash                 | –        | `&ndash;`             | `&#8211;`           |
+| Lozenge                 | ◊        | `&loz;`               | `&#9674;`           |
 | Middle dot              | ·        | `&middot;`            | `&#183;`            |
 | Numero                  | №        | `&numero;`            | `&#8470;`           |
 | Pilcrow                 | ¶        | `&para;`              | `&#182;`            |
