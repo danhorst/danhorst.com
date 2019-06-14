@@ -20,7 +20,7 @@ categories:
   - [ ] Washington DC
   - [ ] Miami
   - [x] Key West
-  - [ ] San Francisco
+  - [x] San Francisco
   - [ ] Los Angeles
 - [ ] Explore National Parks
   - [x] Mammoth Cave National Park
@@ -54,4 +54,4 @@ categories:
 - [ ] Visit Bordeaux
 - [ ] Visit Germany
 - [ ] Visit Japan
-- [ ] Go to Tokyo Disney Seas
+  - [ ] Go to Tokyo Disney Seas
