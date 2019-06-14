@@ -38,7 +38,7 @@ categories:
 - [ ] Go to Disneyland
 - [ ] Go to the Met Opera
 - [ ] Go to the top of the One World Trade Center
-- [ ] Go to the [Skydeck](https://theskydeck.com/) in the [Willis Tower](https://en.wikipedia.org/wiki/Willis_Tower)
+- [ ] Go to the [Skydeck](https://theskydeck.com/) in the [~~Willis~~ Sears Tower](https://en.wikipedia.org/wiki/Willis_Tower)
 - [x] Go to the top of the World Trade Center
 - [x] Go to the top of the Empire State Building
 - [x] Climb the Statue of Liberty
