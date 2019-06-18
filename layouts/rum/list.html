@@ -1,0 +1,36 @@
+{{ define "header" }}
+  <nav role="navigation">
+    <span><a href="/">Dan Horst</a></span>
+    <ul>
+      <li><a href="/rum">Rum Guide</a></li>
+    </ul>
+  </nav>
+{{ end }}
+
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+
+  <section>
+    <h2>Rum, an Introduction</h2>
+
+    <p>Rum is part of a larger family of spirits that are derived from sugar cane:</p>
+
+    <ul>
+      <li><i>Rum:</i> spirit made from molasses &amp; molasses byproducts, originally produced by European colonies in the Caribbean.</li>
+      <li><i>Rhum:</i> alternate spelling of rum. The alternate spelling may, or may not, indicate an agricole style rum.</li>
+      <li><i>Rhum Agricole:</i> spirit distilled from sugar cane juice instead of molasses &amp; molasses byproducts. It originated in former French colonies.</li>
+      <li><i>Cachaça:</i> A Brazilian spirit distilled from cane juice, similar to rhum agricole, using process developed by the Portuguese in 1532, thus predating rum production in the Caribbean.</li>
+    </ul>
+
+    <p>Although it is now produced in countries all over the world, modern originated in the Caribbean.</p>
+  </section>
+
+  <section>
+    <h2>Further Reading</h2>
+    <ul class="listing">
+      {{ range .Paginator.Pages }}
+      <li><a href="{{ .Permalink }}">{{.Title}}</a></li>
+      {{ end }}
+    </ul>
+  </section>
+{{ end }}

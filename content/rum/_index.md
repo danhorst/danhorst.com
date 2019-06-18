@@ -1,9 +1,8 @@
 ---
-type: standalone
-author: Dan Horst
-title: "Rum, an Introduction"
+title: "Dan’s Rum Guide"
+date: 2019-03-04T13:54:49-05:00
 description: "An overview of rum and a brief guide to how appricate it"
-slug: '/rum'
+type: rum
 ---
 
 Rum is part of a larger family of spirits that are derived from sugar cane:
