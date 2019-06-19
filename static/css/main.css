@@ -121,8 +121,8 @@ p.subtitle { font-style: italic;
              display: block;
              line-height: 1; }
 
-.prefix { margin-left:-1.4rem;
-          margin-right: .3rem; }
+.prefix { left: -1.5rem;
+          position: absolute; }
 
 .numeral { font-family: et-book-roman-old-style; }
 
