@@ -17,7 +17,7 @@ Pot still aged
 Pot still long aged
 
 <span class="prefix">②</span>_Blended lightly aged_  
-<span class= "prefix">③</span>_Blended aged_  
+<span class="prefix">③</span>_Blended aged_  
 Blended long aged
 
 Column still lightly aged  

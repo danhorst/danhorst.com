@@ -7,7 +7,6 @@ categories:
 tags:
  - drink
  - rum
-draft: true
 ---
 
 ## Mai Tai

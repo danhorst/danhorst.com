@@ -7,5 +7,6 @@ categories:
 tags:
  - drink
  - rum
-draft: true
 ---
+
+You don't have to be a rum collector to cover the bases.
