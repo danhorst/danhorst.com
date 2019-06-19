@@ -1,5 +1,5 @@
 {{ define "title" }}
-  Food
+  Rum Guide
 {{ end }}
 
 {{ define "header" }}
@@ -30,7 +30,7 @@
      {{ if in "rum" $key }}
      <section>
        <h2 id="further-reading">Further Reading</h2>
-       {{ range sort $taxonomy.Pages ".Title" }}
+       {{ range sort $taxonomy.Pages ".Date" }}
 	  {{ .Render "summary" }}
        {{ end }}
      </section>
