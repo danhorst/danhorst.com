@@ -1,7 +1,7 @@
 ---
 title: "Classifying Rum"
 date: 2019-03-04T13:54:49-05:00
-description: "An explanation of the differences in rum"
+description: "Building a taxonomy"
 categories:
  - Rum
 tags:
