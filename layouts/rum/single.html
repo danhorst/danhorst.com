@@ -19,4 +19,15 @@
     {{ .Content }}
   </section>
 </article>
+
+{{ end }}
+
+{{ define "footer" }}
+<footer>
+  <nav class="section-navigation">
+  {{if .PrevInSection}}<a class="prev element" href="{{.PrevInSection.Permalink}}"><small>Previous</small> {{.PrevInSection.Title}}</a>{{else}}<a class="prev element" href="/rum/"><small>Previous</small> Rum Guide</a>{{end}}
+  <a class="home element" href="/rum/"><small>Home</small>Rum Guide</a>
+  {{if .NextInSection}}<a class="next element" href="{{.NextInSection.Permalink}}"><small>Next</small> {{.NextInSection.Title}}</a>{{end}}
+  </nav>
+</footer>
 {{ end }}

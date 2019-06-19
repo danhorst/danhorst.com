@@ -32,6 +32,7 @@
 html { font-size: 15px; }
 
 body { width: 87.5%;
+       margin-bottom: -1px;
        margin-left: auto;
        margin-right: auto;
        padding-left: 12.5%;
@@ -42,6 +43,32 @@ body { width: 87.5%;
        counter-reset: sidenote-counter; }
 
 header { padding-top: 2rem; }
+
+.section-navigation { font-size: 0;
+                      width: 55%; }
+
+.section-navigation .element { border: 1px solid #ccc;
+                               display: inline-block;
+                               font-size: 1.4rem;
+                               padding: 1rem 2%;
+                               width: 29%; }
+
+.section-navigation small { display: block;
+                            font-size: 1rem;
+                            font-style: normal;
+                            letter-spacing: .05em;
+                            line-height: 2;
+                            text-transform: uppercase; }
+
+.section-navigation a:link { background: none; }
+
+
+.section-navigation .home { text-align: center; }
+
+.section-navigation .prev { border-right: 0;
+                            text-align: right; }
+
+.section-navigation .next { border-left: 0; }
 
 nav { font-style: italic;
       padding-right: 12.5%; }
@@ -99,7 +126,7 @@ p.subtitle { font-style: italic;
 .danger { color: red; }
 
 main { position: relative;
-          padding: 5rem 0rem; }
+       padding: 5rem 0rem; }
 
 section { padding-top: 1rem;
           padding-bottom: 1rem; }
@@ -390,7 +417,7 @@ dt { font-size: 1.7rem;
                             h1 + div.epigraph { margin: 5em 0 3em; }
                             h1 + div.epigraph > blocquote { margin-bottom: 2em; }
 			    main { padding-top: 3rem; }
-                            hr, section > p, section > footer, section > table { width: 100%; }
+                            hr, section > p, section > footer, section > table, footer > nav { width: 100%; }
                             pre.code { width: 97%; }
                             section > dl, section > ol, section > ul, .footnotes { width: 90%; }
                             ul > li { clear: both; }
