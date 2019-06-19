@@ -32,9 +32,9 @@
 html { font-size: 15px; }
 
 body { width: 87.5%;
-       margin-bottom: -1px;
        margin-left: auto;
        margin-right: auto;
+       margin-bottom: -1px;
        padding-left: 12.5%;
        font-family: et-book, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
        background-color: #fffff8;
@@ -44,7 +44,7 @@ body { width: 87.5%;
 
 header { padding-top: 2rem; }
 
-.section-navigation { font-size: 0;
+.section-navigation { display: flex;
                       width: 55%; }
 
 .section-navigation .element { border: 1px solid #ccc;
@@ -422,7 +422,7 @@ dt { font-size: 1.7rem;
                             h1 + div.epigraph { margin: 5em 0 3em; }
                             h1 + div.epigraph > blocquote { margin-bottom: 2em; }
 			    main { padding-top: 3rem; }
-                            hr, section > p, section > footer, section > table, footer > nav { width: 100%; }
+                            hr, section > p, section > footer, section > table, .section-navigation { width: 100%; }
                             pre.code { width: 97%; }
                             section > dl, section > ol, section > ul, .footnotes { width: 90%; }
                             ul > li { clear: both; }
