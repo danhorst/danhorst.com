@@ -37,5 +37,5 @@ tags:
 ## Strength
 
 -  Rum has always been a high-alcohol spirit. One of the early names for rum was "kill-devil" to impart that it was "a hot, hellish, and terrible liquor".
-- The British developed the proof system for measuring alcohol content in order to determine what rate to tax rum. Gunpowder does not burn if soaked in rum that is less than 57.15% ABV (roughly 4/7). Thus, if the rum was strong enough for the gunpowder to light it was "proof" of sufficient strength. (Unlike the British system, which measured specific gravity, the American proof system measures the percent alcohol spirit so the proof numbers between the two standards differ.)
+- The British developed the proof system for measuring alcohol content in order to determine what rate to tax rum. Gunpowder does not burn if soaked in rum that is less than 57.15% ABV (roughly <small>4/7</small>). Thus, if the rum was strong enough for the gunpowder to light it was "proof" of sufficient strength. (Unlike the British system, which measured specific gravity, the American proof system measures the percent alcohol spirit so the proof numbers between the two standards differ.)
 - Rums are typically 80 proof but there are also "overproof" rums e.g. Journeyman Road's End Rum (90 proof), Plantation OFTD (138 proof), and Bacardi 151 (151 proof).

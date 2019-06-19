@@ -1,4 +1,4 @@
-@charset "UTF-8";
+charset "UTF-8";
 
 @font-face { font-display: fallback;
 	     font-family: "et-book";
@@ -127,6 +127,8 @@ p.subtitle { font-style: italic;
 
 main { position: relative;
        padding: 5rem 0rem; }
+
+main li small { line-height: 1; }
 
 section { padding-top: 1rem;
           padding-bottom: 1rem; }
