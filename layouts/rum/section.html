@@ -1,15 +1,17 @@
+{{ define "title" }}
+  Food
+{{ end }}
+
 {{ define "header" }}
   <nav role="navigation">
     <span><a href="/">Dan Horst</a></span>
     <ul>
-      <li><a href="/rum">Rum Guide</a></li>
+      <li>Rum Guide (section)</li>
     </ul>
   </nav>
 {{ end }}
 
 {{ define "main" }}
-  <h1>{{ .Title }}</h1>
-
   <section>
     <h2>Rum, an Introduction</h2>
 
@@ -24,13 +26,14 @@
 
     <p>Although it is now produced in countries all over the world, modern originated in the Caribbean.</p>
   </section>
-
-  <section>
-    <h2>Further Reading</h2>
-    <ul class="listing">
-      {{ range .Paginator.Pages }}
-      <li><a href="{{ .Permalink }}">{{.Title}}</a></li>
-      {{ end }}
-    </ul>
-  </section>
+  {{ range $key, $taxonomy := .Site.Taxonomies.categories }}
+     {{ if in "rum" $key }}
+     <section>
+       <h2 id="further-reading">Further Reading</h2>
+       {{ range sort $taxonomy.Pages ".Title" }}
+	  {{ .Render "summary" }}
+       {{ end }}
+     </section>
+    {{ end }}
+  {{ end }}
 {{ end }}

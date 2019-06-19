@@ -1,11 +1,15 @@
 {{ define "title" }}{{ .Title | markdownify }} | {{ .Site.Title }}{{ end }}
 
-{{ define "heading" }}
-HAI
+{{ define "header" }}
+  <nav role="navigation">
+    <span><a href="/">Dan Horst</a></span>
+    <ul>
+      <li><a href="/rum/">Rum Guide</a></li>
+    </ul>
+  </nav>
 {{ end }}
 
 {{ define "main" }}
-{{ $dateFormat := default "Mon Jan 2, 2006" (index .Site.Params "date_format") }}
 <article>
   <header>
     <h1>{{ .Title | markdownify }}</h1>
