@@ -6,7 +6,7 @@
   <nav role="navigation">
     <span><a href="/">Dan Horst</a></span>
     <ul>
-      <li>Rum Guide (section)</li>
+      <li>Rum Guide</li>
     </ul>
   </nav>
 {{ end }}
@@ -29,7 +29,7 @@
   {{ range $key, $taxonomy := .Site.Taxonomies.categories }}
      {{ if in "rum" $key }}
      <section>
-       <h2 id="further-reading">Further Reading</h2>
+       <h2 id="more">Delving Deeper</h2>
        {{ range sort $taxonomy.Pages ".Date" }}
 	  {{ .Render "summary" }}
        {{ end }}
