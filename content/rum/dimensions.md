@@ -27,14 +27,16 @@ tags:
 ## Aging
 
 <ul>
-  <li>Like most spirits, rum is aged in barrels (or stainless steel basins lined with strips of wood). Rum is traditionally aged in oak casks.</li>
-  <li>
-    Most rum is aged near where it is distilled: in the tropics. The warm, humid environment catalyzes the aging process. Because of this, an 8-year rum from Puerto Rico will taste closer to a 12-year Scotch than an 8-year Scotch<label for="love-languages" class="margin-toggle sidenote-number"></label>.
-    <input type="checkbox" id="love-languages" class="margin-toggle"/>
-    <span class="sidenote">
-      Scotch wiskey is aged in Scotland. Scotland is a <em>long</em> way from the tropics.
-    </span>
-  </li>
+<li>Like most spirits, rum is aged in barrels (or stainless steel basins lined with strips of wood). Rum is traditionally aged in oak casks.</li>
+<li>
+  Most rum is aged near where it is distilled: in the tropics.
+  The warm, humid environment catalyzes the aging process.
+  Because of this, an 8-year rum from Puerto Rico will taste closer to a 12-year Scotch than an 8-year Scotch.<label for="take-the-low-road" class="margin-toggle sidenote-number"></label>
+  <input type="checkbox" id="take-the-low-road" class="margin-toggle"/>
+  <span class="sidenote">
+  Scotch wiskey is aged in Scotland. Scotland is a <em>long</em> way from the tropics.
+  </span>
+</li>
 </ul>
 
 ## Region
