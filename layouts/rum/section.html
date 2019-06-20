@@ -15,6 +15,69 @@
   <section>
     <h1>Dan’s Rum Guide</h1>
 
+    <p>
+      In America, rum takes a back seat to whiskey<label for="american-history" class="margin-toggle sidenote-number"></label>.
+      <input type="checkbox" id="american-history" class="margin-toggle"/>
+      <span class="sidenote">
+        This has been the case since the founding of the country.
+        One of the reasons that France backed the 13 colonies in the Revolutionary War was the desire to sell rum from French colonies to the American market without the taxes imposed by the British.
+        However, the newly minted United States eschewed rum, due in large part to its association with the British colonial powers, in favor of domestically produced whiskey.
+      </span>
+      Appreciating a fine Bourbon or an aged Scotch has a certain panache.
+      In the public eye, rum doesn’t fair as well.
+      There are lots of reasons for this:
+    </p>
+
+    <ul>
+      <li>Most people encounter lackluster varieties of rum first and then don’t move on.
+        <ul>
+          <li>
+            <i>Captain Morgan</i> introduced spiced rum to the American market in the 80’s.
+            It, and commercially available spiced rum in general, is an attempt to upsell mediocre rum.
+          </li>
+          <li>
+            <i>Malibu Coconut Rum</i> is extremely sweet and heavily flavored.
+            This is also an attempt to make mediocre rum more palatable.<label for="malibu-shame" class="margin-toggle sidenote-number"></label>
+            <input type="checkbox" id="malibu-shame" class="margin-toggle"/>
+            <span class="sidenote">
+              That being said, it is delicious when mixed with root beer. Stay classy.
+            </span>
+          </li> 
+        </ul>
+      </li>
+      <li>
+        There is a chicken-and-egg problem with rum selections at bars.
+        Without demand, there is no reason for bars&mdash;outside of specialized venues&mdash;to stock top-shelf rum.
+        This lack of supply keeps consumers in the dark about what is possible.
+      </li>
+      <li>
+        Rum is inexorably linked to pirates in the public concious.<label for="captain-jack" class="margin-toggle sidenote-number"></label>
+        <input type="checkbox" id="captain-jack" class="margin-toggle"/>
+        <span class="sidenote">
+          Depending on who you ask, Johnny Depp either made this slightly better or much worse.
+        </span>
+        This imagery does not impart any reason to reach for a top-shelf bottle of rum.
+      </li>
+      <li>
+        Despite massive consolidation in the international beverage industry, most rum producers simply do not have the marketing dollars and brand cachet to compete for attention.<label for="captain-jack" class="margin-toggle sidenote-number"></label>
+        <input type="checkbox" id="captain-jack" class="margin-toggle"/>
+        <span class="sidenote">
+          Bacardi is a notable exception but even their best rums fall short of extraordinary.
+        </span>
+      </li>
+    </ul>
+
+    <p>
+      I got into rum when I got swept up in the Tiki revival of the early aughts.
+      Rum is a delicious, underappreciated beverage.
+      It is also a good value&mdash;an equivalent whiskey can cost almost twice a much.<label for="captain-jack" class="margin-toggle sidenote-number"></label>
+        <input type="checkbox" id="captain-jack" class="margin-toggle"/>
+        <span class="sidenote">
+          This is changing slightly as rum is gaining popularity.
+          The biggest difference is the emergence of many mid-tier blended rums packaged in fancy bottles and sold at top-shelf prices.
+        </span>
+    </p>
+
     <h2>Setting the Stage</h2>
 
     <p>Rum is part of a larger family of spirits that are derived from sugar cane:</p>
@@ -26,12 +89,16 @@
       <li><i>Cachaça:</i> A Brazilian spirit distilled from cane juice, similar to rhum agricole, using process developed by the Portuguese in 1532, thus predating rum production in the Caribbean.</li>
     </ul>
 
-    <p>Although it is now produced in countries all over the world, modern rum originated in the Caribbean.</p>
+    <p>
+      Although it is now produced in countries all over the world, modern rum originated in the Caribbean.
+      But the locale is only one of the aspects of what determines the flavor of a rum.
+      <i><a href="/rum/dimensions">Dimensions of Rum</a></i> explores the 6 ways rums are differentiated.
+    </p>
   </section>
   {{ range $key, $taxonomy := .Site.Taxonomies.categories }}
      {{ if in "rum" $key }}
      <section>
-       <h2 id="more">Delving Deeper</h2>
+       <h2 id="more">Chapters</h2>
        {{ range sort $taxonomy.Pages ".Date" }}
 	  {{ .Render "summary" }}
        {{ end }}

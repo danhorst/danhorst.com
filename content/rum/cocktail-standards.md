@@ -29,7 +29,7 @@ Coke is an excellent mixer and can work with a wide variety of rum.
 - Squeeze 2-3 lime wedges over ice then add squeezed wedges to glass
 - Add 8-10oz Coke
 - Top with 1-2oz rum
-- Agitate the glass with a swizzle stick to lightly mix (a table knife or a bar spoon works too)
+- Agitate the glass with a swizzle stick to lightly mix (a bar spoon or even a table knife will work in a pinch)
 
 ### Rum Recommendations
 
@@ -45,3 +45,6 @@ Coke is an excellent mixer and can work with a wide variety of rum.
 
 ## Dark & Stormy
 
+
+
+[1]: https://www.esquire.com/food-drink/drinks/recipes/a3856/ti-punch-drink-recipe/
