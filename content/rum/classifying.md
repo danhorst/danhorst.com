@@ -39,7 +39,7 @@ Cane AOC Martinique rhum agricole long aged
 Pot still unaged cachaça  
 Pot still aged cachaça
 
-All varieties of rum have their uses, but the 8 italicized varieties are most widely used in rum-based cocktails. Unaged rums are excluded from most cocktails as they are harsh spirits and thus difficult to blend. Conversely, the nuances of long-aged rums are best appreciated when it is served neat; they can also shine in very simple cocktails.
+All varieties of rum have their uses, but the 8 italicized varieties are most widely used in rum-based cocktails. Unaged rums are excluded from most cocktails as they are harsh spirits and thus difficult to blend. Conversely, the nuances of long-aged rums are best appreciated when served neat; they can also shine in very simple cocktails.
 
 [1]: https://www.amazon.com/dp/1607747324
 [2]: http://www.smugglerscovesf.com/
