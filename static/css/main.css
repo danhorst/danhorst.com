@@ -210,6 +210,11 @@ figcaption { float: right;
 
 figure.fullwidth figcaption { margin-right: 24%; }
 
+figure.masthead { margin-bottom: 4rem;
+                  text-align: center; }
+                  
+figure .half-width { max-width: 50%; }
+
 /* Links: replicate underline that clears descenders */
 a:link, a:visited { color: inherit; }
 
@@ -429,6 +434,8 @@ dt { font-size: 1.7rem;
                             figure { max-width: 90%; }
                             figcaption, figure.fullwidth figcaption { margin-right: 0%;
                                                                       max-width: none; }
+                            figure.masthead { margin-bottom: 3rem; }
+                            figure .half-width { max-width: 60%; }
                             blockquote { margin-left: 1.5em;
                                          margin-right: 0em; }
                             blockquote p, blockquote footer { width: 100%; }
