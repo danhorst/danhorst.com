@@ -10,3 +10,13 @@ tags:
 ---
 
 You don't have to be a rum collector to cover the bases.
+
+## Bacardi 8-Year
+
+## Gosling's Black Seal
+
+## Journeyman Road's End
+
+## Appleton Estate Reserve 12
+
+## Barbencourt 8
