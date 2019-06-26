@@ -43,8 +43,8 @@ Ti Punch is a traditional cocktail from Marinique
 
 Because of it's origin, Ti Punch should be made with a rum agricole. Specifically:
 
-<span class="prefix">⑦</span>_Cane AOC Martinique rhum agricole blanc_  
-<span class="prefix">⑧</span>_Cane AOC Martinique rhum agricole vieux_
+<span class="prefix">⑦</span>Cane AOC Martinique rhum agricole blanc  
+<span class="prefix">⑧</span>Cane AOC Martinique rhum agricole vieux
 
 You can also use a Cane Coffe Still Aged Rhum like the Barbancourt 8 to a similar end.
 
@@ -82,7 +82,7 @@ Although people sometimes use different ingredients, a [true Dark 'n Stormy®][4
 - Gosling’s Stormy Ginger Beer
 
 I stick to this combination becuase both the rum and the ginger beer are fantastic&mdash;it's like they were made for each other.
-I'm not a huge fan of a company trademarking the name of a cocktail but _does_ taste good.
+I'm not a huge fan of a company trademarking the name of a cocktail but it _does_ taste good.
 
 It also couldn't be easier to make:
 
