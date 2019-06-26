@@ -12,7 +12,7 @@ https://erikrunyon.com/
 (function(){
   'use strict';
 
-  const version = 'v2019-06-25T09:12:00::';
+  const version = 'v2019-06-26T09:12:00::';
   const staticCacheName = version + 'static';
   const pagesCacheName = version + 'pages';
   const imagesCacheName = version + 'images';

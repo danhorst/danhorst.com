@@ -434,7 +434,7 @@ dt { font-size: 1.7rem;
                             figure { max-width: 90%; }
                             figcaption, figure.fullwidth figcaption { margin-right: 0%;
                                                                       max-width: none; }
-                            figure.masthead { margin-bottom: 3rem; }
+                            figure.masthead { margin: 0 0 3rem 0; max-width: none; }
                             figure .half-width { max-width: 60%; }
                             blockquote { margin-left: 1.5em;
                                          margin-right: 0em; }
