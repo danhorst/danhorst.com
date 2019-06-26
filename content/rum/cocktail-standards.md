@@ -11,9 +11,13 @@ tags:
 
 ## Daiquiri
 
+_Ingredients_
+
 - <small>3/4</small> oz fresh lime juice
 - <small>1/2</small> oz demerara syrup
 - 2 oz rum
+
+_Preparation_
 
 1. Add ingredients to cocktail shaker
 2. Add ice
@@ -30,18 +34,22 @@ However, simple syrup and lime make almost any (①②③④) rum shine.
 
 Ti Punch is a traditional cocktail from Marinique
 
+_Ingredients_
+
 - 1 teaspoon [Petite Canne Sugar Cane Syrup][1] (or demerara syrup in a pinch)
 - 2 oz Rhum Agricole
 - 2 juice from two lime wedges 
 
+_Preparation_
+
 1. Add rum and syrup to glass
 2. Squeeze lime wedges into glass
-3. Stir
+3. Stir with bar spoon
 4. Add squeezed lime wedges to the glass
 
 ### Rum Recommendations
 
-Because of it's origin, Ti Punch should be made with a rum agricole. Specifically:
+Because of it's origin, Ti Punch should be made with a rhum agricole. Specifically:
 
 <span class="prefix">⑦</span>Cane AOC Martinique rhum agricole blanc  
 <span class="prefix">⑧</span>Cane AOC Martinique rhum agricole vieux
@@ -56,11 +64,19 @@ You can also use a Cane Coffe Still Aged Rhum like the Barbancourt 8 to a simila
 The Cuba Libre (or "rum & Coke" if you must) is fast, easy, and a crowd pleaser.
 Coke is an excellent mixer and can work with a wide variety of rum.
 
-- Fill a highball glass <small>3/4</small> full with ice
-- Squeeze 2-3 lime wedges over ice then add squeezed wedges to glass
-- Add 8-10oz Coke
-- Top with 1-2oz rum
-- Agitate the glass with a swizzle stick to lightly mix (a bar spoon, or even a table knife, will work in a pinch)
+_Ingredients_
+
+- Coke
+- 2 lime wedges
+- 1.5 oz rum
+
+_Preparation_
+
+1. Fill a highball glass <small>3/4</small> full with ice
+2. Squeeze 2-3 lime wedges over ice
+3. Add 8-10oz Coke
+4. Top with rum
+5. Add squeezed lime wedges to glass
 
 ### Rum Recommendations
 
@@ -68,10 +84,11 @@ Coke is an excellent mixer and can work with a wide variety of rum.
   - Plantation 3 star (this would make a more traditional Cuba Libre)
   - Plantation OFTD
   - Journeyman Road's End
-  - Bacardi 8 year (or 4 year)
+  - Bacardi 8 year
 - Cheap, but still good
-  - Cruzan coconut
-  - Cruzan blackstrap
+  - Bacardi 4 year
+  - Cruzan Coconut
+  - Cruzan Blackstrap
 
 
 ## Dark 'n Stormy
@@ -84,7 +101,7 @@ Although people sometimes use different ingredients, a [true Dark 'n Stormy®][4
 I stick to this combination becuase both the rum and the ginger beer are fantastic&mdash;it's like they were made for each other.
 I'm not a huge fan of a company trademarking the name of a cocktail but it _does_ taste good.
 
-It also couldn't be easier to make:
+_Preparation_
 
 1. Fill a lowball glass with ice
 2. Add ginger beer
