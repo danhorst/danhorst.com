@@ -99,4 +99,3 @@ If you use lowball glasses, one can of ginger beer makes two drinks.
 [2]: https://beachbarbums.com/2016/09/20/the-best-ti-punch-riff-youll-ever-have/
 [3]: https://www.plantationrum.com/plantation-stiggins-fancy-pineapple
 [4]: https://www.goslingsrum.com/cocktails/dark-n-stormy-cocktail/
-lden Syrup
