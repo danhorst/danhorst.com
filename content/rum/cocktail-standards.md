@@ -12,19 +12,25 @@ tags:
 ## Daiquiri
 
 - <small>3/4</small> oz fresh lime juice
-- <small>1/2</small> oz demera syrup
-- 2 oz blended lightly aged rum ②
+- <small>1/2</small> oz demerara syrup
+- 2 oz rum
 
 1. Add ingredients to cocktail shaker
 2. Add ice
 3. Shake
 4. Pour with gated finish
 
+### Rum Recommendations
+
+Traditionally, this drink is prepared with a blended lightly aged rum (②).
+However, simple syrup and lime make almost any (①②③④) rum shine.
+
+
 ## Ti Punch
 
 Ti Punch is a traditional cocktail from Marinique
 
-- 1 teaspoon [Petite Canne Sugar Cane Syrup][1] (or demera syrup in a pinch)
+- 1 teaspoon [Petite Canne Sugar Cane Syrup][1] (or demerara syrup in a pinch)
 - 2 oz Rhum Agricole
 - 2 juice from two lime wedges 
 
@@ -35,14 +41,14 @@ Ti Punch is a traditional cocktail from Marinique
 
 ### Rum Recommendations
 
-Because of it's orgigin, it is most appropriate to use:
+Because of it's origin, Ti Punch should be made with a rum agricole. Specifically:
 
 <span class="prefix">⑦</span>_Cane AOC Martinique rhum agricole blanc_  
 <span class="prefix">⑧</span>_Cane AOC Martinique rhum agricole vieux_
 
 You can also use a Cane Coffe Still Aged Rhum like the Barbancourt 8 to a similar end.
 
-[Tom at Beach Bar Bums][2] has different take using [Plantation Pineapple Rum Stiggns’ Fancy][3] and, although it flies in the face of tradition, it tastes good to me.
+[Tom at Beach Bar Bums][2] suggests using [Plantation Pineapple Rum Stiggns’ Fancy][3] and, although it flies in the face of tradition, it tastes good to me.
 
 
 ## Cuba Libre
@@ -62,13 +68,13 @@ Coke is an excellent mixer and can work with a wide variety of rum.
   - Plantation 3 star (this would make a more traditional Cuba Libre)
   - Plantation OFTD
   - Journeyman Road's End
-  - Bacardi 8 year (or 5 year)
+  - Bacardi 8 year (or 4 year)
 - Cheap, but still good
   - Cruzan coconut
   - Cruzan blackstrap
 
 
-## Dark 'n Stormy®
+## Dark 'n Stormy
 
 Although people sometimes use different ingredients, a [true Dark 'n Stormy®][4] is made with:
 
@@ -85,6 +91,7 @@ It also couldn't be easier to make:
 3. Top with rum
 
 If you use lowball glasses, one can of ginger beer makes two drinks.
+
 
 ## Caipirinha
 
