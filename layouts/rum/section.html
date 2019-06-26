@@ -6,7 +6,7 @@
   <nav role="navigation">
     <span><a href="/">Dan Horst</a></span>
     <ul>
-      <li>Rum Guide</li>
+      <li><a href="#toc">Table of Contents</a></li>
     </ul>
   </nav>
 {{ end }}
@@ -94,7 +94,7 @@
         </span>
     </p>
 
-    <h2>Setting the Stage</h2>
+    <h2 id="names">What’s in a Name?</h2>
 
     <p>Rum is part of a larger family of spirits that are derived from sugar cane:</p>
 
@@ -114,7 +114,7 @@
   {{ range $key, $taxonomy := .Site.Taxonomies.categories }}
      {{ if in "rum" $key }}
      <section>
-       <h2 id="more">Chapters</h2>
+       <h2 id="toc">Chapters</h2>
        {{ range sort $taxonomy.Pages ".Date" }}
 	  {{ .Render "summary" }}
        {{ end }}
