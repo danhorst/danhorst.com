@@ -11,9 +11,11 @@ tags:
 
 In [_Smuggler's Cove_][1], Martin Cate, proprietor of the [renowned tiki bar in San Francisco of the same name][2], groups the [dimensions of rum][3] into the following categories:
 
+## Molasses & Evaporated Cane Rums
+
 Pot still unaged  
-Pot still aged  
 <span class="prefix">①</span>_Pot still lightly aged_  
+Pot still aged  
 Pot still long aged
 
 <span class="prefix">②</span>_Blended lightly aged_  
@@ -28,6 +30,8 @@ Black pot still
 
 <span class="prefix">⑤</span>_Black blended_  
 <span class="prefix">⑥</span>_Black blended overproof_  
+
+## Fresh Cane Juice Rums
 
 Cane Coffey still aged  
 Cane Pot still unaged
