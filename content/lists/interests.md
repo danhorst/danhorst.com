@@ -59,7 +59,7 @@ categories:
 <li>Drink
   <ul>
   <li>Cocktails</li>
-  <li>Rum</li>
+  <li><a href="/rum/">Rum</a></li>
   <li>Wine</li>
   <li>Whiskey</li>
   </ul>
