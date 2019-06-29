@@ -453,3 +453,7 @@ dt { font-size: 1.7rem;
                             label { cursor: pointer; }
                             div.table-wrapper, table { width: 85%; }
                             img { width: 100%; } }
+
+@media (prefers-color-scheme: dark) { background-color: #000;
+                                      color: #fffff8;
+                                    }
