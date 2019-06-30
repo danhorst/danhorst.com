@@ -11,6 +11,8 @@ tags:
 
 ## Daiquiri
 
+Classic cocktail originally from Cuba.
+
 _Ingredients_
 
 - <small>3/4</small> oz fresh lime juice
@@ -54,7 +56,7 @@ Because of it's origin, Ti Punch should be made with a rhum agricole. Specifical
 <span class="prefix">⑦</span>Cane AOC Martinique rhum agricole blanc  
 <span class="prefix">⑧</span>Cane AOC Martinique rhum agricole vieux
 
-You can also use a Cane Coffe Still Aged Rhum like the Barbancourt 8 to a similar end.
+You can also use a Cane Coffe Still Aged Rhum, like the Barbancourt 8, to a similar end.
 
 [Tom at Beach Bar Bums][2] suggests using [Plantation Pineapple Rum Stiggns’ Fancy][3] and, although it flies in the face of tradition, it tastes good to me.
 
@@ -76,7 +78,7 @@ _Preparation_
 2. Squeeze 2-3 lime wedges over ice
 3. Add 8-10oz Coke
 4. Top with rum
-5. Add squeezed lime wedges to glass
+5. Add squeezed lime wedges to gelass
 
 ### Rum Recommendations
 
@@ -111,6 +113,23 @@ If you use lowball glasses, one can of ginger beer makes two drinks.
 
 
 ## Caipirinha
+
+The national cocktail of Brazil
+
+_Ingredients_
+
+- Half a lime, cut into 4 wedges
+- 2 tsp sugar (or 1 oz simple syrup)
+- 2 oz Cachaça
+
+_Preparation_
+
+1. Add lime and sugar (or syrup) to any "bucket" glassware
+2. Muddle to extract lime juice and dissolve sugar
+3. Add cachaça
+4. Add ice
+5. Stir
+6. OPTIONAL: Garnish with lime wedge
 
 [1]: https://www.kegworks.com/petite-canne-sugar-cane-syrup
 [2]: https://beachbarbums.com/2016/09/20/the-best-ti-punch-riff-youll-ever-have/
