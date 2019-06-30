@@ -5,14 +5,13 @@ This is a modified version of the Service Worker from www.nd.edu created by Erik
 Thanks to Jeremy, Filament Group, and Eric for this, and everything else they do.
 
 https://adactio.com/about/
-https://www.filamentgroup.com/
-https://erikrunyon.com/
+https://www.filamentgroup.com/ https://erikrunyon.com/
 */
 
 (function(){
   'use strict';
 
-  const version = 'v2019-06-26T09:12:00::';
+  const version = 'v2019-06-29T09:12:00::';
   const staticCacheName = version + 'static';
   const pagesCacheName = version + 'pages';
   const imagesCacheName = version + 'images';

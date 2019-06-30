@@ -184,7 +184,11 @@ section > p, section > footer, section > table { width: 55%; }
 
 /* 50 + 5 == 55, to be the same width as paragraph */
 section > dl, section > ol, section > ul, .footnotes { width: 50%;
-                                                       -webkit-padding-start: 5%; }
+                                                       -webkit-padding-start: 5%;
+                                                       -moz-padding-start: 5%;
+                                                       padding-start: 5: }
+
+section > dl .sidenote, section > ol .sidenote, section > ul .sidenote { -moz-margin-start:6% }
 
 li:not(:first-child) { margin-top: 0.25rem; }
 
@@ -454,6 +458,18 @@ dt { font-size: 1.7rem;
                             div.table-wrapper, table { width: 85%; }
                             img { width: 100%; } }
 
-@media (prefers-color-scheme: dark) { background-color: #000;
-                                      color: #fffff8;
+@media (prefers-color-scheme: dark) { body { background-color: #000;
+                                             color: #fff; }
+                                      a:link { text-decoration: none;
+                                               background: -webkit-linear-gradient(#000, #000), -webkit-linear-gradient(#000, #000), -webkit-linear-gradient(#fff, #fff);
+                                               background: linear-gradient(#000, #000), linear-gradient(#000, #000), linear-gradient(#fff, #fff);
+                                               -webkit-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
+                                               -moz-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
+                                               background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
+                                               background-repeat: no-repeat, no-repeat, repeat-x;
+                                               text-shadow: 0.03em 0 #000, -0.03em 0 #000, 0 0.03em #000, 0 -0.03em #000, 0.06em 0 #000, -0.06em 0 #000, 0.09em 0 #000, -0.09em 0 #000, 0.12em 0 #000, -0.12em 0 #000, 0.15em 0 #000, -0.15em 0 #000;
+                                               background-position: 0% 93%, 100% 93%, 0% 93%; }
+
+                                      #rum-guide-stamp .a, #rum-guide-stamp .f {fill: #fff;}
+                                      #rum-guide-stamp .b, #rum-guide-stamp .e, #rum-guide-stamp .f {stroke: #fff;}
                                     }
