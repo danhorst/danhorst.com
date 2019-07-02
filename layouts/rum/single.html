@@ -1,5 +1,12 @@
 {{ define "title" }}{{ .Title | markdownify }} | Dan’s Rum Guide{{ end }}
 
+{{ define "favicon" }}
+<link rel="icon" type="image/png" sizes="32x32" href="/rum-guide-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/rum-guide-16x16.png">
+<link rel="shortcut icon" type="image/x-icon" href="/img/rum-guide.ico">
+<link rel="icon" type="image/x-icon" href="/img/rum-guide.ico">
+{{ end }}
+
 {{ define "attributes" }}{{ if .Params.tags }}{{ range $index, $tag := .Params.tags }}{{ if eq $tag "interactive" }}class="interactive"{{ end }}{{ end }}{{ end }}{{ end }}
 
 {{ define "header" }}

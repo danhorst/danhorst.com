@@ -32,6 +32,7 @@
       });
     </script>
     {{ if .RSSLink -}}<link href="{{ .RSSLink }}" rel="feed" type="application/rss+xml" title="{{ .Site.Title }}" />{{- end }}
+    {{ block "favicon" . }}{{ end }}
   </head>
   <body>
     <header role="banner">
