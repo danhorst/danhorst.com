@@ -1,5 +1,4 @@
 ---
- - interactive
 title: "Cocktail Standards"
 date: 2019-03-04T13:54:49-05:00
 description: "Rum-based cocktails for easy entertaining"

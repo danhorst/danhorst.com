@@ -1,5 +1,7 @@
 {{ define "title" }}{{ .Title | markdownify }} | Dan’s Rum Guide{{ end }}
 
+{{ define "attributes" }}{{ if .Params.tags }}{{ range $index, $tag := .Params.tags }}{{ if eq $tag "interactive" }}class="interactive"{{ end }}{{ end }}{{ end }}{{ end }}
+
 {{ define "header" }}
   <nav role="navigation">
     <span><a href="/">Dan Horst</a></span>

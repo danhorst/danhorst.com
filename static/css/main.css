@@ -131,7 +131,8 @@ p.subtitle { font-style: italic;
 main { position: relative;
        padding: 5rem 0rem; }
 
-main li small { line-height: 1; }
+main li small { line-height: 1;
+                padding-right: 1.5rem; }
 
 section { padding-top: 1rem;
           padding-bottom: 1rem; }
