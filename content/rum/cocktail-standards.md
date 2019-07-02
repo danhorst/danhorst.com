@@ -42,9 +42,9 @@ Ti Punch is a traditional cocktail from Marinique
 
 _Ingredients_
 
-- [ ] 1 teaspoon [Petite Canne Sugar Cane Syrup][1] (or demerara syrup in a pinch)
+- [ ] 1 teaspoon [Petite Canne Sugar Cane Syrup][1] (or demerara syrup)
 - [ ] 2 oz Rhum Agricole
-- [ ] 2 juice from two lime wedges 
+- [ ] 2 lime wedges
 
 _Preparation_
 

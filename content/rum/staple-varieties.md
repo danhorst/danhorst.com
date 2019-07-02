@@ -9,7 +9,7 @@ tags:
  - rum
 ---
 
-You don't have to be a rum collector to cover the bases.
+_You don't have to be a rum collector to cover the basics._
 
 ## Bacardi Reserva Ocho (8-Year)
 

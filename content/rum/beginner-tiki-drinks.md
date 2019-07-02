@@ -84,7 +84,7 @@ _Ingredients_
 - [ ] 1<small>1/2</small>oz passion fruit syrup
 - [ ] <small>1/4</small>oz demerara syrup
 - [ ] <small>1/4</small>oz Luxardo Maraschino liqueur
-- [ ] 1<small>1/2</small>oz blended aged rum
+- [ ] 1<small>1/2</small>oz blended aged rum ③
 
 _Preparation_
 
