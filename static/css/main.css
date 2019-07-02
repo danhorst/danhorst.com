@@ -473,4 +473,8 @@ dt { font-size: 1.7rem;
 
                                       #rum-guide-stamp .a, #rum-guide-stamp .f {fill: #fff;}
                                       #rum-guide-stamp .b, #rum-guide-stamp .e, #rum-guide-stamp .f {stroke: #fff;}
+
+                                      main ul > li:before { color: #fff; }
+                                      .task-list-item:before { border-color: #fff; }
+                                      .task-list-item:checked:after { color: #fff; }
                                     }
