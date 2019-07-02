@@ -11,7 +11,7 @@ https://www.filamentgroup.com/ https://erikrunyon.com/
 (function(){
   'use strict';
 
-  const version = 'v2019-07-30T09:12:00::';
+  const version = 'v2019-07-30T10:12:00::';
   const staticCacheName = version + 'static';
   const pagesCacheName = version + 'pages';
   const imagesCacheName = version + 'images';

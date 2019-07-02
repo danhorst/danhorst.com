@@ -132,7 +132,7 @@ main { position: relative;
        padding: 5rem 0rem; }
 
 main li small { line-height: 1;
-                padding-right: 1.5rem; }
+                padding-right: .15rem; }
 
 section { padding-top: 1rem;
           padding-bottom: 1rem; }
