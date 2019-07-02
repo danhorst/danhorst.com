@@ -1,4 +1,5 @@
 ---
+ - interactive
 title: "Cocktail Standards"
 date: 2019-03-04T13:54:49-05:00
 description: "Rum-based cocktails for easy entertaining"
@@ -7,6 +8,7 @@ categories:
 tags:
  - drink
  - rum
+ - interactive
 ---
 
 ## Daiquiri
@@ -15,9 +17,9 @@ Classic cocktail originally from Cuba.
 
 _Ingredients_
 
-- <small>3/4</small> oz fresh lime juice
-- <small>1/2</small> oz demerara syrup
-- 2 oz rum
+- [ ] <small>3/4</small> oz fresh lime juice
+- [ ] <small>1/2</small> oz demerara syrup
+- [ ] 2 oz rum
 
 _Preparation_
 
@@ -25,6 +27,8 @@ _Preparation_
 2. Add ice
 3. Shake
 4. Pour with gated finish
+
+_Smuggler's Cove p168_
 
 ### Rum Recommendations
 
@@ -38,9 +42,9 @@ Ti Punch is a traditional cocktail from Marinique
 
 _Ingredients_
 
-- 1 teaspoon [Petite Canne Sugar Cane Syrup][1] (or demerara syrup in a pinch)
-- 2 oz Rhum Agricole
-- 2 juice from two lime wedges 
+- [ ] 1 teaspoon [Petite Canne Sugar Cane Syrup][1] (or demerara syrup in a pinch)
+- [ ] 2 oz Rhum Agricole
+- [ ] 2 juice from two lime wedges 
 
 _Preparation_
 
@@ -68,17 +72,17 @@ Coke is an excellent mixer and can work with a wide variety of rum.
 
 _Ingredients_
 
-- Coke
-- 2 lime wedges
-- 1.5 oz rum
+- [ ] Coke
+- [ ] 2 lime wedges
+- [ ] 1.5 oz rum
 
 _Preparation_
 
 1. Fill a highball glass <small>3/4</small> full with ice
 2. Squeeze 2-3 lime wedges over ice
-3. Add 8-10oz Coke
-4. Top with rum
-5. Add squeezed lime wedges to gelass
+3. Add squeezed lime wedges to gelass
+4. Add 8-10oz Coke
+5. Top with rum
 
 ### Rum Recommendations
 
@@ -97,8 +101,8 @@ _Preparation_
 
 Although people sometimes use different ingredients, a [true Dark 'n Stormy®][4] is made with:
 
-- 1.5 oz Gosling’s Black Seal Rum
-- Gosling’s Stormy Ginger Beer
+- [ ] 1.5 oz Gosling’s Black Seal Rum
+- [ ] Gosling’s Stormy Ginger Beer
 
 I stick to this combination becuase both the rum and the ginger beer are fantastic&mdash;it's like they were made for each other.
 I'm not a huge fan of a company trademarking the name of a cocktail but it _does_ taste good.
@@ -108,6 +112,7 @@ _Preparation_
 1. Fill a lowball glass with ice
 2. Add ginger beer
 3. Top with rum
+6. OPTIONAL: Garnish with lime wedge
 
 If you use lowball glasses, one can of ginger beer makes two drinks.
 
@@ -118,9 +123,9 @@ The national cocktail of Brazil
 
 _Ingredients_
 
-- Half a lime, cut into 4 wedges
-- 2 tsp sugar (or 1 oz simple syrup)
-- 2 oz Cachaça
+- [ ] Half a lime, cut into 4 wedges
+- [ ] 2 tsp sugar (or 1 oz simple syrup)
+- [ ] 2 oz Cachaça
 
 _Preparation_
 

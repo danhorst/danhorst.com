@@ -36,7 +36,7 @@ A blended aged rum (③) with enough pot still rum to make it richer and more co
 In addition to being a delight on it's own, it is a good fit for many cocktails.
 It is a good expanding rum to expand your palate.
 
-## Rhum Barbencourt Réserve Sépciale (8-Year)
+## Rhum Barbencourt Réserve Sépciale (5 star/8-Year)
 
 A readily-available cane coffey still aged rum made from fresh cane juice.
 This is a good introduction to this style of spirit.
