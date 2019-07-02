@@ -27,13 +27,14 @@ _Preparation_
 3. Shake
 4. Pour with gated finish
 
-_Smuggler's Cove p168_
-
 ### Rum Recommendations
 
 Traditionally, this drink is prepared with a blended lightly aged rum (②).
 However, simple syrup and lime make almost any (①②③④) rum shine.
 
+_Smuggler's Cove p168_
+
+----
 
 ## Ti Punch
 
@@ -63,6 +64,7 @@ You can also use a Cane Coffe Still Aged Rhum, like the Barbancourt 8, to a simi
 
 [Tom at Beach Bar Bums][2] suggests using [Plantation Pineapple Rum Stiggns’ Fancy][3] and, although it flies in the face of tradition, it tastes good to me.
 
+----
 
 ## Cuba Libre
 
@@ -95,6 +97,7 @@ _Preparation_
   - Cruzan Coconut
   - Cruzan Blackstrap
 
+----
 
 ## Dark 'n Stormy
 
@@ -115,6 +118,7 @@ _Preparation_
 
 If you use lowball glasses, one can of ginger beer makes two drinks.
 
+----
 
 ## Caipirinha
 

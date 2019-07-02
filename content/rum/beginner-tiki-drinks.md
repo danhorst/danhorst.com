@@ -30,6 +30,8 @@ _Preparation_
 
 _Smuggler's Cove p258_
 
+----
+
 ## Painkiller
 
 Official Cocktail of the British Virgin Islands
@@ -50,6 +52,8 @@ _Preparation_
 4. Grate fresh nutmeg on top
 
 [_The Infamous Pusser’s Painkiller™_][1]
+
+----
 
 ## Hurricane
 
@@ -89,7 +93,9 @@ _Preparation_
 3. Flash blend
 4. Pour with gated finish into glass
 
-_Smuggler's Cove p44__
+_Smuggler's Cove p44_
+
+----
 
 ## Mai Tai
 
