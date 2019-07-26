@@ -25,7 +25,7 @@ categories:
     <input type="checkbox" id="self-care" class="margin-toggle"/>
     <span class="sidenote">
       Self-care is like the oxygen masks on an airplane.
-      If you don&rsquo;t take care of yourself first there is no way you can take care of those around you.
+      If you don&rsquo;t take care of yourself first, there is no way you can take care of those around you.
       (<a href="https://www.greenmountainhypnosis.com/blogs/post/The-Oxygen-Mask-Theory-How-to-Take-Care-of-Everyone/">I&rsquo;m not the first person to think of this.</a>)
     </span>
   <ul>
@@ -35,7 +35,7 @@ categories:
   <li>Invest in your mental health<label for="mental-health" class="margin-toggle sidenote-number"></label>
     <input type="checkbox" id="mental-health" class="margin-toggle"/>
     <span class="sidenote">
-      For me, this means cultivating mindfullness though medidataion, acknowledging and addressing when I feel emotionally aroused, and trying to improve my emotional intelligence.
+      For me, this means cultivating mindfulness through meditation, acknowledging and addressing when I feel emotionally aroused, and trying to improve my emotional intelligence.
     </span>
   </li>
   <li>Routinely go to the doctor, dentist, eye doctor, etc.</li>
