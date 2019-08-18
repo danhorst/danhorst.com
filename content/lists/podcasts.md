@@ -10,16 +10,15 @@ categories:
 - Stories, Human Interest
   - [This American Life](https://www.thisamericanlife.org/)
   - [The Moth](https://themoth.org/podcast)
-  - [Mortified](http://getmortified.com/podcast/)
   - [Criminal](https://thisiscriminal.com/)
   - [Radio Diaries](http://www.radiodiaries.org/)
   - [Serial](https://serialpodcast.org/)
   - [S-Town](https://stownpodcast.org/) (short series)
   - [Bundyville](https://www.npr.org/podcasts/606441988/bundyville) (short series)
   - [The Habitat](https://www.gimletmedia.com/the-habitat) (short series)
-- Science, Design, Non-fiction deep-dive
+- Science, Design, Non-fiction
   - [99% Invisible](https://99percentinvisible.org/)
-  - [Radio Lab](https://www.wnycstudios.org/shows/radiolab)
+  - [RadioLab](https://www.wnycstudios.org/shows/radiolab)
   - [Invisibilia](https://www.npr.org/podcasts/510307/invisibilia)
   - [Reply All](https://www.gimletmedia.com/reply-all)
   - [Hidden Brain](https://www.npr.org/podcasts/510308/hidden-brain)
@@ -29,19 +28,24 @@ categories:
   - [More Perfect](https://www.wnycstudios.org/shows/radiolabmoreperfect)
   - [On Margins](https://craigmod.com/onmargins/)
   - [Conversations with Tyler](https://conversationswithtyler.com/)
-- History
-  - [The Memory Palace](http://thememorypalace.us/)
-  - [Uncivil](http://www.gimletmedia.com/uncivil)
 - Love, Sex, Gender
   - [The Heart](https://www.theheartradio.org/)
   - [The Shadows](https://www.cbc.ca/radio/podcasts/the-shadows/) (short series)
+  - [Where Should We Begin?](https://www.estherperel.com/podcast)
   - [Love + Radio](http://loveandradio.org/)
   - [Bitch Media](https://www.bitchmedia.org/feminist-podcasts)
-- Business, Professional Development
-  - [Manager Tools](https://www.manager-tools.com/podcasts)
+- Fitness
+  - [Stronger by Science](https://www.strongerbyscience.com/podcast/)
+  - [Iron Culture](https://ironculture.libsyn.com/)
+- History
+  - [The Memory Palace](http://thememorypalace.us/)
+  - [Uncivil](http://www.gimletmedia.com/uncivil)
 - Travel, Photography
   - [Hit the Streets](http://valeriejardinphotography.com/podcast/)
   - [The DFB Podcast](http://www.dfbpodcast.com/)
+- Business, Professional Development
+  - [Manager Tools](https://www.manager-tools.com/podcasts)
+  - [Ladybug Podcast: Women in Tech](https://ladybug.dev/)
 - Gaming
   - [Glass Cannon Podcast](https://glasscannonpodcast.com/)
 
