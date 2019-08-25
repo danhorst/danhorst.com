@@ -16,9 +16,9 @@ tags:
 ## Ingredients
 
 - [ ] 4 boneless skinless chicken breasts
-- [ ] 1 can chipotle chilies in adobo sauce
+- [ ] 1 7oz can chipotle chilies in adobo sauce
 - [ ] Taco seasoning to taste
-- [ ] 1 can tomato purée (optional)
+- [ ] OPTIONAL: 1 14oz can tomatos (purée, diced&mdash;your choice)
 
 ## Instructions
 
