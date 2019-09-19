@@ -2,6 +2,8 @@
 title: Enterprise Architecture
 date: 2018-12-19T17:52:33-04:00
 draft: true
+tags:
+ - Enterprise Architecture
 ---
 
 In my day job, I am a Divisional Architect for central IT at a well-known university. A Divisional Architect is`an Enterprise Architect that focuses on the needs of a group of the departments. To do this well I _also_ have to know as much as possible about the needs and direction of the organization as a whole. With that information in hand, I can ensure that our divisional initiatives properly align with the rest of the organization.

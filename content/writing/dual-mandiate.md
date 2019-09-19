@@ -2,6 +2,8 @@
 title: Dual Mandate of IT Organizations
 date: 2019-02-04T08:38:58-05:00
 draft: true
+tags:
+ - Enterprise Architecture
 ---
 
 IT Organizations have two charges:
