@@ -7,13 +7,11 @@ categories:
 ---
 
 ## Less
-- Digital distractions
 - Couching statements
 - Idle worry
 - Delaying decisions
 - Carbs, especially sugar
 - Reading technology news
-- Researching photography gear
 - Aimless web browsing
 
 ## More
@@ -21,6 +19,8 @@ categories:
 - Emotional intimacy
 - Physical intimacy
 - Paying off debt
+- Leisure reading
+- Organized, clean, clutter-free places
 - Self-care
   - Meditation
   - Portion control
@@ -28,14 +28,12 @@ categories:
   - Weight training
 - Time outside
   - Hiking
-  - Kayaking
   - Cycling
   - Motorcycling
-- Leisure reading
-- Writing
-- Drawing
-- Making things
-- Organized, clean, clutter-free places
+- Creating
+  - Writing
+  - Drawing
+  - Making things
 - Investing in relationships
   - Giving pets attention &amp; affection
   - Taking &amp; sharing pictures
@@ -47,6 +45,5 @@ categories:
 - Ignoring my feelings
 - Ignoring the feelings of others
 - Neglecting my well-being
-- Self-loathing
 - Keeping secrets
 - Obsessive online research &amp; categorization
