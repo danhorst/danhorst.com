@@ -94,29 +94,35 @@
                 }
             }
         }
+
+        function log(value){
+            if (document.cookie == "debug=true") {
+                console.log(value);
+            }
+        }
     
         function remainingDays(){
             var today = todaysDate(),
                 dayCount = dateDiff(today, eoyDate),
                 remaining = dayCount;
     
-            console.log(today);
-            console.log(dayCount);
+            log(today);
+            log(dayCount);
     
             if (dayCount > 0) {
                 for (var i = 0; i < dayCount; i++) {
                     var scanDate = offsetDay(today, i);
-                    console.log(scanDate);
+                    log(scanDate);
     
                     if (isWeekendDay(scanDate)) {
                         remaining -= 1;
-                        console.log("weekend");
+                        log("weekend");
                         continue;
                     }
     
                     if (isHoliday(scanDate)) {
                         remaining -= 1;
-                        console.log("holiday");
+                        log("holiday");
                     }
                 }
     
