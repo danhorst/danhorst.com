@@ -1,17 +1,18 @@
 /*
 This is a modified version of the Service Worker from www.nd.edu created by Erik Runyon
- It, in turn, is based on Jeremy Keith’s service worker (https://adactio.com/serviceworker.js), with a few additional edits borrowed from Filament Group’s. (https://www.filamentgroup.com/sw.js)
+It, in turn, is based on Jeremy Keith’s service worker (https://adactio.com/serviceworker.js), with a few additional edits borrowed from Filament Group’s. (https://www.filamentgroup.com/sw.js)
 
-Thanks to Jeremy, Filament Group, and Eric for this, and everything else they do.
+Thanks to [Jeremy][1], [Filament Group][2], and [Erik][3] for this, and everything else they do.
 
-https://adactio.com/about/
-https://www.filamentgroup.com/ https://erikrunyon.com/
+[1]: https://adactio.com/about/
+[2]: https://www.filamentgroup.com/
+[3]: https://erikrunyon.com/
 */
 
 (function(){
   'use strict';
 
-  const version = 'v2019-07-27T10:12:00::';
+  const version = 'v2019-11-26T10:12:00::';
   const staticCacheName = version + 'static';
   const pagesCacheName = version + 'pages';
   const imagesCacheName = version + 'images';
@@ -34,12 +35,18 @@ https://www.filamentgroup.com/ https://erikrunyon.com/
   ];
 
   function stashInCache(cacheName, request, response){
-    caches.open(cacheName)
-      .then( cache => cache.put(request, response) );
+    // We don't want to cache assets served by Chrome extensions
+    var isWebResource = (request.url.indexOf('http') === 0);
+
+    if(isWebResource){
+      caches.open(cacheName)
+        .then( cache => cache.put(request, response) );
+      }
+    }
   }
 
   function updateStaticCache(){
-    //try to fetch static top level pages - can be done after install.
+    // Try to fetch static top level pages - can be done after install.
     caches.open(pagesCacheName)
       .then( cache => {
         // These items must be cached for the Service Worker to complete installation
