@@ -12,11 +12,6 @@ categories:
 <section>
 <ul>
 <li>Photography</li>
-<li>Mindfulness
-  <ul>
-  <li>Meditation</li>
-  <li>Yoga</li>
-  </ul></li>
 <li>Learning
   <ul>
   <li>Reading</li>
@@ -24,7 +19,12 @@ categories:
   <li>Programming</li>
   <li>Web development</li>
   </ul></li>
-<li>Fitness</li>
+<li>Wellness
+  <ul>
+  <li>Strength training</li>
+  <li>Nutrition</li>
+  <li>Meditation</li>
+  </ul></li>
 <li>Being outdoors
   <ul>
   <li>Cycling</li>
