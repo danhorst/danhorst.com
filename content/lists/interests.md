@@ -34,7 +34,6 @@ categories:
   <li>Trail running</li>
   <li>Camping</li>
   <li>Beaches</li>
-  <li>Kayaking</li>
   <li>SCUBA Diving (underwater counts too)</li>
   </ul>
 <li>Motorcycles
