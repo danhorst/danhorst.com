@@ -23,8 +23,6 @@ categories:
   <li>DIY</li>
   <li>Programming</li>
   <li>Web development</li>
-  <li>Home renovation &amp; repair</li>
-  <li>Vehicle maintenance</li>
   </ul>
 <li>Fitness</li>
 <li>Being outdoors
