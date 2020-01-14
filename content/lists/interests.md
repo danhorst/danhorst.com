@@ -13,21 +13,18 @@ categories:
 <ul>
 <li>Rocketry</li>
 <li>Photography</li>
-<li>Learning
-  <ul>
+<li>Learning<ul>
   <li>Reading</li>
   <li>DIY</li>
   <li>Programming</li>
   <li>Web development</li>
   </ul></li>
-<li>Wellness
-  <ul>
+<li>Wellness<ul>
   <li>Strength training</li>
   <li>Nutrition</li>
   <li>Meditation</li>
   </ul></li>
-<li>Being outdoors
-  <ul>
+<li>Being outdoors<ul>
   <li>Cycling</li>
   <li>Hiking</li>
   <li>Trail running</li>
@@ -36,16 +33,14 @@ categories:
   <li>SCUBA Diving (underwater counts too)</li>
   </ul></li>
 <li>Motorcycles</li>
-<li>Travel
-  <ul>
+<li>Travel<ul>
   <li>Museums</li>
   <li>National parks</li>
   <li>Theme parks (really, I mean Disney World)</li>
   <li>Amusement parks</li>
   <li>New cities</li>
   </ul></li>
-<li>Food
-  <ul>
+<li>Food<ul>
   <li>Cooking</li>
   <li>Baking</li>
   <li>BBQ</li>
@@ -54,15 +49,13 @@ categories:
   <li>Hole-in-the-wall restaurants</li>
   <li>Festival food</li>
   </ul></li>
-<li>Drink
-  <ul>
+<li>Drink<ul>
   <li>Cocktails</li>
   <li><a href="/rum/">Rum</a></li>
   <li>Wine</li>
   <li>Whiskey</li>
   </ul></li>
-<li>Design
-  <ul>
+<li>Design<ul>
   <li><a href="https://practicaltypography.com/typography-in-ten-minutes.html">Typography</a></li>
   <li><a href="https://www.pinterest.com/danhorst/polynesian-pop/">Polynesian pop</a> (tiki)</li>
   <li>Product design</li>
@@ -85,8 +78,7 @@ categories:
   <span class="sidenote">
   I fall into the <a href="https://youtu.be/R3SFqV0hMyo">&ldquo;get the gear&rdquo;</a> trap pretty easily.
   I make an extra effort to value the <em>experience</em> over the equipment for hobbies like photography and SCUBA.
-  </span>
-  <ul>
+  </span><ul>
   <li>Mechanical Keyboards</li>
   <li>Flashlights</li>
   <li>Tools</li>
