@@ -11,6 +11,7 @@ categories:
 
 <section>
 <ul>
+<li>Rocketry</li>
 <li>Photography</li>
 <li>Learning
   <ul>
