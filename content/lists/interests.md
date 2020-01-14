@@ -16,14 +16,14 @@ categories:
   <ul>
   <li>Meditation</li>
   <li>Yoga</li>
-  </ul>
-<li>Learning</li>
+  </ul></li>
+<li>Learning
   <ul>
   <li>Reading</li>
   <li>DIY</li>
   <li>Programming</li>
   <li>Web development</li>
-  </ul>
+  </ul></li>
 <li>Fitness</li>
 <li>Being outdoors
   <ul>
@@ -33,8 +33,8 @@ categories:
   <li>Camping</li>
   <li>Beaches</li>
   <li>SCUBA Diving (underwater counts too)</li>
-  </ul>
-<li>Motorcycles
+  </ul></li>
+<li>Motorcycles</li>
 <li>Travel
   <ul>
   <li>Museums</li>
@@ -42,7 +42,7 @@ categories:
   <li>Theme parks (really, I mean Disney World)</li>
   <li>Amusement parks</li>
   <li>New cities</li>
-  </ul>
+  </ul></li>
 <li>Food
   <ul>
   <li>Cooking</li>
@@ -52,14 +52,14 @@ categories:
   <li>Fine dining</li>
   <li>Hole-in-the-wall restaurants</li>
   <li>Festival food</li>
-  </ul>
+  </ul></li>
 <li>Drink
   <ul>
   <li>Cocktails</li>
   <li><a href="/rum/">Rum</a></li>
   <li>Wine</li>
   <li>Whiskey</li>
-  </ul>
+  </ul></li>
 <li>Design
   <ul>
   <li><a href="https://practicaltypography.com/typography-in-ten-minutes.html">Typography</a></li>
@@ -75,7 +75,7 @@ categories:
   </span>
   </li>
   <li>Architecture</li>
-  </ul>
+  </ul></li>
 <li><a href="/lists/movies/">Movies</a></li>
 <li><a href="/lists/music/">Music</a></li>
 <li>Gear
@@ -90,6 +90,6 @@ categories:
   <li>Flashlights</li>
   <li>Tools</li>
   <li>Office supplies (pens, pencils, notebooks&mdash;yes, seriously)</li>
-  </ul>
+  </ul></li>
 </ul>
 </section>
