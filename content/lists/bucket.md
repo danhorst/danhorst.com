@@ -8,11 +8,12 @@ categories:
 
 ## Personal Development
 - [x] Run a half marathon
-- [ ] Learn Olympic lifting
-- [ ] Finish a triathlon
-- [ ] Complete a rite of passage
-- [ ] Pass an ABATE rider course
-- [ ] Get [NAR](http://www.nar.org/) [level 3 certified](http://www.nar.org/high-power-rocketry-info/level-3-certification/)
+- [ ] Pass an [ABATE rider course](https://registration.abateonline.org/education/motorcycle-rider-course/)
+- [ ] Get [NAR](http://www.nar.org/) & [Tripoli](http://www.tripoli.org/) HPR certifications
+  - [ ] Re-earn [level 1 certification](https://www.nar.org/high-power-rocketry-info/level-1-hpr-certification/)
+  - [ ] Re-earn [level 2 certification](https://www.nar.org/high-power-rocketry-info/level-2-hpr-certification/)
+  - [ ] Earn [level 3 certification](http://www.nar.org/high-power-rocketry-info/level-3-certification/)
+- [ ] Complete a [rite of passage](https://wildernessquest.org/)
 
 ## Domestic Travel
 - [ ] Explore new cities
