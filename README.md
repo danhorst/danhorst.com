@@ -4,7 +4,7 @@
 
 New blog entry:
 
-NOTE: Leave off the "content" directory at the beginning of the path. It is implicit.
+NOTE: Leave off the "content" directory at the beginning of the path when generating a new file. It is implicit.
 
 ```
 hugo new writing/name_of_post.md
