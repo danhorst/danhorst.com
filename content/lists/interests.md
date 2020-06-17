@@ -11,7 +11,7 @@ categories:
 
 <section>
 <ul>
-<li>Rocketry</li>
+<li><a href="https://rocketlabdelta.com">Rocketry</a></li>
 <li>Photography</li>
 <li>Learning<ul>
   <li>Reading</li>
