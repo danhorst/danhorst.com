@@ -2,14 +2,12 @@
 title: "Foundation"
 description: "Build your house upon the rock"
 date: 2019-04-03T16:59:53-04:00
-draft: true
 categories:
  - Goals
 ---
 
-> Creativity takes discipline.
-
-> Discipline is applied focus.
+> Creativity takes discipline.  
+> Discipline takes focus.
 
 - Invest in your body
 	- Eat well
