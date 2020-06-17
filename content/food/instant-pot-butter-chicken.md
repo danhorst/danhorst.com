@@ -39,7 +39,6 @@ Cube or shred chicken (if desired) and recombine with sauce
 
 OPTIONAL: Garnish with &#188;&ndash;&#189; cup chopped cilantro
 
-
 [1]: https://twosleevers.com/instant-pot-butter-chicken/
 [2]: https://www.amazon.com/gp/product/1641520434
 [3]: https://thewirecutter.com/reviews/best-immersion-blender/

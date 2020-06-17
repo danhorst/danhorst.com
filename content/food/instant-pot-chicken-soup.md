@@ -35,6 +35,6 @@ tags:
 3. Pressure cook on High for 25 minutes
 4. Wait 15 minutes after it is done cooking before releasing the pressure
 5. Remove the chicken, pick the carcass, and shred the meat using two forks; discard skin, bones, and cartilage
-6. Stir shredded chicken and frozen peas into soup
+6. Stir the shredded chicken and frozen peas into soup
 
 [1]: https://www.simplyrecipes.com/recipes/how_to_make_chicken_soup_in_the_pressure_cooker/
