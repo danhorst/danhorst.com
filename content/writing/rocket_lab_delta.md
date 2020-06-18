@@ -18,8 +18,8 @@ I wrote two essays about this over at [Rocket Lab Delta][1]--the website I made 
 - [Rocket Lab Delta Backstory][2]
 - [Why I Like Rocketry][3]
 
-In the past 15 years a lot of has changed in my personal life, fabrication tools and materials that are available to the hobbyist, and the entire world of consumer electronics.
-These have had some effect on hobby rocketry but the core of it remains the same and thus familiar and comforting to me.
+In the past 15 years a lot of has changed in my personal life, the tools and fabrication methods and materials available to a hobbyist, and the entire world of consumer electronics.
+These changes have had some effect on hobby rocketry but the core of it remains the same and thus both familiar and comforting to me.
 
 I updated my [bucket list][4] with some more specific goals for rocketry.
 However, I'm not just interested in certification, I'd love to move towards _mastery_ of the domain.<label for="take-the-low-road" class="margin-toggle sidenote-number"></label>
