@@ -9,25 +9,31 @@ categories:
 ---
 
 ## Morning
-- [ ] Take morning medication
 - [ ] Drink water
-- [ ] Meditate
 - [ ] Make the bed
 - [ ] Set up whole house fan (weather permitting)
+- [ ] Take morning supplements
 - [ ] Brush teeth
-- [ ] Mouthwash
 - [ ] Check water bowls
+- [ ] BOD Fermentaiton Tasks
+  - [ ] Refrigerate milk kefir
+  - [ ] Check bottled water kefir
 - [ ] Feed the cats
 - [ ] Give Kira her meds
 - [ ] Feed the dogs
 - [ ] Let the dogs out
-- [ ] Journal, check-in
-- [ ] Check mouse traps
+- [ ] Journal, daily manifest
 - [ ] Scoop the litter boxes
-- [ ] Check dog water bowl
-- [ ] Take morning supplements
+- [ ] Check mouse traps
+- [ ] Meditate
+- [ ] Pre-workout
 - [ ] Exercise
-- [ ] Shower
+- [ ] BOD Personal Care
+  - [ ] Shower
+  - [ ] Shave
+  - [ ] Sunscreen
+  - [ ] Hair oil
+- Breakfast
 
 ## Afternoon
 - [ ] Meditate
@@ -46,28 +52,28 @@ categories:
 - [ ] Wash dishes
 - [ ] Clear off all kitchen surfaces
 - [ ] Wipe down all kitchen surfaces
-- [ ] Evening task time
+- [ ] Evening task time (at least 30 min)
 - [ ] Feed the cats
-- [ ] Give Kira her meds
 - [ ] Feed the dogs
+- [ ] Let the dogs out
 - [ ] Scoop the litter boxes
-- [ ] Let the cats out
-- [ ] Read (or task time)
-- [ ] Prepare for tomorrow
-  - [ ] 3 Critical tasks
-  - [ ] Breakfast prep
-  - [ ] Pack bag
-  - [ ] Choose clothes
+- [ ] Read or hobby time
+- [ ] EOD Fermination tasks
+  - [ ] Check bottled water kefir
+  - [ ] Milk Kefir
+  - [ ] Water Kefir (every second day)
+  - [ ] Garlic Honey (every second day)
+  - [ ] Ginger Beer (every third day)
+  - [ ] Overnight oats
 - [ ] EOD Personal Care
   - [ ] Wash face
-  - [ ] Shave
   - [ ] Face lotion
   - [ ] Floss teeth
   - [ ] Brush teeth
-  - [ ] Mouthwash
   - [ ] Take evening supplements
+  - [ ] Hair oil
+- [ ] Give Kira her meds
 - [ ] Let the dogs out
-- [ ] Refill water bottle
-- [ ] Mark off calendar
+- [ ] Fill water bottle
 - [ ] Hand lotion
 - [ ] Meditate
