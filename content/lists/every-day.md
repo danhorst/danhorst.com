@@ -10,30 +10,31 @@ categories:
 
 ## Morning
 - [ ] Drink water
+- [ ] Complete health check
+- [ ] Plan the day
 - [ ] Make the bed
 - [ ] Set up whole house fan (weather permitting)
-- [ ] Take morning supplements
-- [ ] Brush teeth
-- [ ] Check water bowls
 - [ ] BOD Fermentaiton Tasks
   - [ ] Refrigerate milk kefir
   - [ ] Check bottled water kefir
-- [ ] Feed the cats
+- [ ] Check water bowls
 - [ ] Give Kira her meds
 - [ ] Feed the dogs
 - [ ] Let the dogs out
-- [ ] Journal, daily manifest
+- [ ] Feed the cats
 - [ ] Scoop the litter boxes
 - [ ] Check mouse traps
 - [ ] Meditate
 - [ ] Pre-workout
 - [ ] Exercise
 - [ ] BOD Personal Care
+  - [ ] Take morning supplements
+  - [ ] Brush teeth
   - [ ] Shower
   - [ ] Shave
   - [ ] Sunscreen
   - [ ] Hair oil
-- Breakfast
+- [ ] Breakfast
 
 ## Afternoon
 - [ ] Meditate
@@ -46,8 +47,6 @@ categories:
 - [ ] Process mail
 - [ ] Let the dogs out
 - [ ] Check water bowls
-- [ ] Journal, daily review
-- [ ] Choose evening tasks
 - [ ] Dinner
 - [ ] Wash dishes
 - [ ] Clear off all kitchen surfaces
@@ -56,7 +55,6 @@ categories:
 - [ ] Feed the cats
 - [ ] Feed the dogs
 - [ ] Let the dogs out
-- [ ] Scoop the litter boxes
 - [ ] Read or hobby time
 - [ ] EOD Fermination tasks
   - [ ] Check bottled water kefir
@@ -72,8 +70,8 @@ categories:
   - [ ] Brush teeth
   - [ ] Take evening supplements
   - [ ] Hair oil
+- [ ] Scoop the litter boxes
 - [ ] Give Kira her meds
 - [ ] Let the dogs out
 - [ ] Fill water bottle
 - [ ] Hand lotion
-- [ ] Meditate
