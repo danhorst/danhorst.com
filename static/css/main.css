@@ -181,7 +181,7 @@ blockquote footer { width: 55%;
                     font-size: 1.1rem;
                     text-align: right; }
 
-section > p, section > footer, section > table { width: 55%; }
+section > p, section > footer, section > table, section > pre, section > pre > code { width: 55%; }
 
 /* 50 + 5 == 55, to be the same width as paragraph */
 section > dl, section > ol, section > ul, .footnotes { width: 50%;
@@ -283,7 +283,8 @@ div.table-wrapper { overflow-x: auto;
 
 code { font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
        font-size: 1.0rem;
-       line-height: 1.42; }
+       line-height: 1.42;
+       white-space: pre-line;}
 
 .sans > code { font-size: 1.2rem; }
 
