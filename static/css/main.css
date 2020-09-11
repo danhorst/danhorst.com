@@ -87,6 +87,7 @@ nav li { display: inline;
 h1 { font-weight: 400;
      margin-top: 4rem;
      margin-bottom: 1.5rem;
+     margin-right: 12.5%;
      font-size: 3.2rem;
      line-height: 1; }
 
@@ -182,7 +183,10 @@ blockquote footer { width: 55%;
                     font-size: 1.1rem;
                     text-align: right; }
 
-section > p, section > footer, section > table, section > pre, section > pre > code { width: 55%; }
+section > p, section > footer, section > table { width: 55%; }
+
+section > pre, section > pre > code { width: 52%; }
+section > pre { margin-left: 3%; }
 
 /* 50 + 5 == 55, to be the same width as paragraph */
 section > dl, section > ol, section > ul, .footnotes { width: 50%;

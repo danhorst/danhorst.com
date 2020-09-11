@@ -1,6 +1,7 @@
 ---
 title: "What Happens When You Type a URL Into a Browser"
 date: 2020-09-11T11:13:47-04:00
+description: Some basics of how the Internet works
 ---
 
 I started listening to the ["How the Internet Works" episode][1] of the Ladybug [podcast][2] today.
