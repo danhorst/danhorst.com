@@ -360,7 +360,8 @@ dt { font-size: 1.7rem;
        	          letter-spacing: .1em;
 	          text-transform: uppercase; }
 
-.post-list-meta .day { font-family: "et-book-roman-old-style";
+.post-list-meta .day,
+.post-list-meta .year { font-family: "et-book-roman-old-style";
                        letter-spacing: normal; }
 
 .task-list { padding-left: 1em; }

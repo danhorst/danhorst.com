@@ -2,7 +2,8 @@
   <a href="{{ .Permalink }}">{{ .Title | markdownify }}</a>
   <small class="post-list-meta">
     <span class="month">{{ .Date.Format "January" }}</span>
-    <span class="day">{{ .Date.Format "2" }}</span>
+    <span class="day">{{ .Date.Format "2" }}</span>,
+    <span class="year">{{ .Date.Format "2006" }}</span>
     <span class="categories">{{ if .Params.categories }}
       {{ range $index, $category := .Params.categories }}{{ if gt $index 0 }}, {{ end }}<a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}" rel="category tag">{{ . }}</a>{{ end }}
       {{ end }}
