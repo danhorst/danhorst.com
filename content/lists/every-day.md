@@ -3,21 +3,15 @@ title: "Every Day"
 description: "Things I do every day"
 tags:
  - interactive
-date: 2018-07-18T18:33:27-04:00
+date: 2020-10-10T21:09:27-04:00
 categories:
  - Goals
 ---
 
 ## Morning
-- [ ] Drink water
 - [ ] Complete health check
-- [ ] Plan the day
 - [ ] Make the bed
 - [ ] Set up whole house fan (weather permitting)
-- [ ] BOD Fermentaiton Tasks
-  - [ ] Refrigerate milk kefir
-  - [ ] Check bottled water kefir
-- [ ] Check water bowls
 - [ ] Give Kira her meds
 - [ ] Feed the dogs
 - [ ] Let the dogs out
@@ -32,37 +26,26 @@ categories:
   - [ ] Brush teeth
   - [ ] Shower
   - [ ] Shave
-  - [ ] Sunscreen
+  - [ ] Sunscreen or face lotion
   - [ ] Hair oil
 - [ ] Breakfast
 
 ## Afternoon
 - [ ] Meditate
-- [ ] Journal, check-in
 - [ ] Give Kira her meds
-- [ ] Let the dogs out
-- [ ] Check water bowls
 
 ## Evening
+- [ ] Plan tomorrow
+- [ ] Journal, check-in
 - [ ] Process mail
-- [ ] Let the dogs out
-- [ ] Check water bowls
+- [ ] Short run
 - [ ] Dinner
-- [ ] Wash dishes
-- [ ] Clear off all kitchen surfaces
-- [ ] Wipe down all kitchen surfaces
+- [ ] Wash dishes and/or clean kitchen
 - [ ] Evening task time (at least 30 min)
+- [ ] Read or hobby time
 - [ ] Feed the cats
 - [ ] Feed the dogs
-- [ ] Let the dogs out
-- [ ] Read or hobby time
-- [ ] EOD Fermination tasks
-  - [ ] Check bottled water kefir
-  - [ ] Milk Kefir
-  - [ ] Water Kefir (every second day)
-  - [ ] Garlic Honey (every second day)
-  - [ ] Ginger Beer (every third day)
-  - [ ] Overnight oats
+- [ ] Prepare breakfast for tomorrow
 - [ ] EOD Personal Care
   - [ ] Wash face
   - [ ] Face lotion
@@ -72,6 +55,4 @@ categories:
   - [ ] Hair oil
 - [ ] Scoop the litter boxes
 - [ ] Give Kira her meds
-- [ ] Let the dogs out
-- [ ] Fill water bottle
 - [ ] Hand lotion
