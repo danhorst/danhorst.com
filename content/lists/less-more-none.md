@@ -1,35 +1,29 @@
 ---
 title: "Less, More, None"
 description: "Things I want to start doing more, start doing less, and stop doing entirely."
-date: 2018-07-18T19:04:25-04:00
+date: 2020-10-10T21:01:25-04:00
 categories:
  - Goals
 ---
 
 ## Less
+- Time on my phone
 - Couching statements
-- Idle worry
 - Delaying decisions
-- Carbs, especially sugar
-- Reading technology news
-- Aimless web browsing
+- Idle worry
 
 ## More
 - Confidence
 - Emotional intimacy
 - Physical intimacy
-- Paying off debt
 - Leisure reading
 - Organized, clean, clutter-free places
+- Time outside
 - Self-care
   - Meditation
   - Portion control
   - Intense cardio
   - Weight training
-- Time outside
-  - Hiking
-  - Cycling
-  - Motorcycling
 - Creating
   - Writing
   - Drawing
@@ -41,9 +35,6 @@ categories:
   - Writing letters to friends &amp; family
 
 ## None
-- Adding new debt
-- Ignoring my feelings
-- Ignoring the feelings of others
-- Neglecting my well-being
-- Keeping secrets
+- Avoiding my feelings
+- Avoiding the feelings of others out of fear
 - Obsessive online research &amp; categorization
