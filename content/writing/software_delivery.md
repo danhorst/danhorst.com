@@ -9,7 +9,7 @@ tags:
 title: Software Delivery
 ---
 
-> This was extracted from an internal document I wrote for work but I reference it so often I wanted to give it a more germinate home.
+> This was extracted from an internal document I wrote for work but I reference it so often I wanted to give it a more permanent home.
 
 Efficient, reliable, and reproducible software delivery keeps the cost of introducing change low over the lifetime of a service offering.
 With this as a foundation, organizations can iterate toward adopting and leveraging enterprise integrations that reduce maintenance burden and decrease time to delivery for new work.
