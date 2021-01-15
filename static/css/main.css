@@ -71,6 +71,7 @@ header { padding-top: 2rem; }
 .section-navigation .next { border-left: 0; }
 
 nav { font-style: italic;
+      height: 4em;
       padding-right: 12.5%; }
 
 nav > span { font-size: 1.4rem;
@@ -428,6 +429,10 @@ dt { font-size: 1.7rem;
   position: absolute;
   width: 1px;
   white-space: nowrap;
+}
+
+@media (min-width: 390px) {
+  nav { height: auto; }
 }
 
 @media (max-width: 760px) { body { width: 84%;
