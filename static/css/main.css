@@ -28,6 +28,8 @@
              font-weight: normal;
              font-style: normal; }
 
+:root { color-scheme: light dark; }
+
 /* Tufte CSS styles */
 html { font-size: 15px; }
 
