@@ -1,12 +1,16 @@
 ---
 title: "Organizational Culture"
 date: 2021-01-21T16:17:04-04:00
+categories:
  - Reference
 ---
 
-> The Westrum Model of organizational is defined in "A typology of organisational cultures" ([doi: 10.1136/qshc.2003.009522][1]; [PDF][2])
+## How Organizations Process Information
 
-| PATHOLOGICAL                  | BUREAUCRATIC              | GENERATIVE               |
+> The Westrum Model of organizational is defined in "A typology of organisational cultures" ([doi: 10.1136/qshc.2003.009522][1]; [PDF][2]).
+> This topology shows how communication and interaction varies in different organizations.
+
+| Pathological                  | Bureaucratic              | Generative               |
 |-------------------------------|---------------------------|--------------------------|
 | _Power-oriented_              | _Rule-oriented_           | _Performance-oriented_   |
 | Low cooperation               | Modest cooperation        | High cooperation         |
