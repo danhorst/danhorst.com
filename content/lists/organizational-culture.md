@@ -1,3 +1,4 @@
+---
 title: "Organizational Culture"
 date: 2021-01-21T16:17:04-04:00
  - Reference
