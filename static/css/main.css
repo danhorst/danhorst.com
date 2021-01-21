@@ -157,6 +157,14 @@ p { margin-top: 1.4rem;
     padding-right: 0;
     vertical-align: baseline; }
 
+td { font-size: 1.2rem; }
+
+th { font-size: 1.4rem;
+     font-weight: normal;
+     letter-spacing: .1rem;
+     padding-bottom: .4rem;
+     text-transform: uppercase;
+     text-align: left; }
 
 /* Chapter Epigraphs */
 div.epigraph { margin: 5em 0; }
@@ -186,7 +194,7 @@ blockquote footer { width: 55%;
                     font-size: 1.1rem;
                     text-align: right; }
 
-section > p, section > footer, section > table { width: 55%; }
+section > p, section > footer, section > table, main > table { width: 55%; }
 
 section > pre, section > pre > code { width: 52%; }
 section > pre { margin-left: 3%; }
@@ -225,7 +233,7 @@ figure.fullwidth figcaption { margin-right: 24%; }
 
 figure.masthead { margin-bottom: 4rem;
                   text-align: center; }
-                  
+
 figure .half-width { max-width: 50%; }
 
 /* Links: replicate underline that clears descenders */
@@ -445,7 +453,7 @@ dt { font-size: 1.7rem;
                             h1 + div.epigraph { margin: 5em 0 3em; }
                             h1 + div.epigraph > blocquote { margin-bottom: 2em; }
 			    main { padding-top: 3rem; }
-                            hr, section > p, section > footer, section > table, .section-navigation { width: 100%; }
+                            hr, section > p, section > footer, section > table main > table, .section-navigation { width: 100%; }
                             pre.code { width: 97%; }
                             section > dl, section > ol, section > ul, .footnotes { width: 90%; }
                             ul > li { clear: both; }
