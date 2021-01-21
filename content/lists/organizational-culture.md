@@ -1,0 +1,19 @@
+title: "Organizational Culture"
+date: 2021-01-21T16:17:04-04:00
+ - Reference
+---
+
+> The Westrum Model of organizational is defined in "A typology of organisational cultures" ([doi: 10.1136/qshc.2003.009522][1]; [PDF][2])
+
+| PATHOLOGICAL                  | BUREAUCRATIC              | GENERATIVE               |
+|-------------------------------|---------------------------|--------------------------|
+| _Power-oriented_              | _Rule-oriented_           | _Performance-oriented_   |
+| Low cooperation               | Modest cooperation        | High cooperation         |
+| Messengers shot               | Messengers neglected      | Messengers trained       |
+| Responsibilities shirked      | Narrow responsibilities   | Risks are shared         |
+| Bridging discouraged          | Bridging tolerated        | Bridging encouraged      |
+| Failure leads to scapegoating | Failure leads to justice  | Failure leads to inquiry |
+| Novelty crushed               | Novelty leads to problems | Novelty implemented      |
+
+[1]: http://dx.doi.org/10.1136/qshc.2003.009522
+[2]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1765804/pdf/v013p0ii22.pdf
