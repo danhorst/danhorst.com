@@ -7,8 +7,8 @@ categories:
 
 ## How Organizations Process Information
 
-> The Westrum Model of organizational is defined in "A typology of organisational cultures" ([doi: 10.1136/qshc.2003.009522][1]; [PDF][2]).
-> This topology shows how communication and interaction varies in different organizations.
+> The Westrum Model is defined in "A Typology of Organisational Cultures" ([doi: 10.1136/qshc.2003.009522][1]; [PDF][2]).
+> This topology shows how communication and interaction varies in different types of organizations.
 
 | Pathological                  | Bureaucratic              | Generative               |
 |-------------------------------|---------------------------|--------------------------|
