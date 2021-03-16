@@ -17,7 +17,7 @@ With this as a foundation, organizations can iterate toward adopting and leverag
 ## Key Measures
 
 From [Accelerate](https://itrevolution.com/book/accelerate/), Appendix B and [The Key to High Performance (free PDF e-book; email sign-up required) p3](https://itrevolution.com/book/accelerate/) ([YouTube](https://www.youtube.com/watch?v=RBuPlMTXuFc)).
-The more painful code deployments are, the poorer the software delivery performance and culture.
+The more painful code deployments are, the poorer the software delivery performance and [culture](/lists/organizational-culture/).
 
 - _Deploy frequency:_ How often are changes made to production? Favor small, frequent changes.
   - [Continuous Delivery](#continuous-delivery)
