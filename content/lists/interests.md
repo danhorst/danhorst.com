@@ -5,13 +5,15 @@ categories:
  - Stuff I Like
 ---
 
-> The principal themes of my interests are: focus, enrichment, self-reliance & pleasure.
+> Overall themes: focus, enrichment, self-reliance & pleasure.
 >
-> I also appreciate beautiful, functional, things.
+> I appreciate beautiful, functional, things.
+> I delight in understanding.
+> I find satisfaction in working with my hands.
 
 <section>
 <ul>
-<li><a href="https://rocketlabdelta.com">Rocketry</a></li>
+<li><a href="https://rocketlabdelta.com">Hobby Rocketry</a></li>
 <li>Photography</li>
 <li>Learning<ul>
   <li>Reading</li>
@@ -36,7 +38,7 @@ categories:
 <li>Travel<ul>
   <li>Museums</li>
   <li>National parks</li>
-  <li>Theme parks (really, I mean Disney World)</li>
+  <li>Theme parks (primarily Disney World)</li>
   <li>Amusement parks</li>
   <li>New cities</li>
   </ul></li>
@@ -47,13 +49,12 @@ categories:
   <li>Hot Sauce</li>
   <li>Fine dining</li>
   <li>Hole-in-the-wall restaurants</li>
-  <li>Festival food</li>
+  <li>Festivals</li>
   </ul></li>
 <li>Drink<ul>
   <li>Cocktails</li>
   <li><a href="/rum/">Rum</a></li>
   <li>Wine</li>
-  <li>Whiskey</li>
   </ul></li>
 <li>Design<ul>
   <li><a href="https://practicaltypography.com/typography-in-ten-minutes.html">Typography</a></li>
@@ -63,7 +64,7 @@ categories:
   <label for="art" class="margin-toggle sidenote-number"></label>
   <input type="checkbox" id="art" class="margin-toggle"/>
   <span class="sidenote">
-  I know art is not a subset of design.
+  Art is not a subset of design.
   (The <a href="https://en.wikipedia.org/wiki/Elements_of_art">elements of art</a> do not overlap with the <a href="https://en.wikipedia.org/wiki/Visual_design_elements_and_principles#Principles_of_design">principles of design</a>.)
   I am drawn to art and art pieces through the <em>lens</em> of design.
   </span>
@@ -82,7 +83,7 @@ categories:
   <li>Mechanical Keyboards</li>
   <li>Flashlights</li>
   <li>Tools</li>
-  <li>Office supplies (pens, pencils, notebooks&mdash;yes, seriously)</li>
+  <li>Office supplies (pens, pencils, notebooks&mdash;things that add pleasure to the act of writing)</li>
   </ul></li>
 </ul>
 </section>
