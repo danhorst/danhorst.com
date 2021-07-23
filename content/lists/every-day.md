@@ -9,50 +9,43 @@ categories:
 ---
 
 ## Morning
-- [ ] Complete health check
-- [ ] Make the bed
+- [ ] Let Ishka out
 - [ ] Set up whole house fan (weather permitting)
-- [ ] Give Kira her meds
-- [ ] Feed the dogs
-- [ ] Let the dogs out
+- [ ] Take morning medication
+- [ ] OPTIONAL: Chore time
+- [ ] Give Hugh his meds
+- [ ] Let Hugh out
+- [ ] Feed Ishka
 - [ ] Feed the cats
-- [ ] Scoop the litter boxes
-- [ ] Check mouse traps
+- [ ] Scoop litter boxes
 - [ ] Meditate
-- [ ] Pre-workout
 - [ ] Exercise
 - [ ] BOD Personal Care
-  - [ ] Take morning supplements
-  - [ ] Brush teeth
-  - [ ] Shower
-  - [ ] Shave
-  - [ ] Sunscreen or face lotion
-  - [ ] Hair oil
 - [ ] Breakfast
+
+### Mid-morning
+- [ ] Feed Hugh
+- [ ] Let Ishka out
 
 ## Afternoon
 - [ ] Meditate
-- [ ] Give Kira her meds
+
+### Mid-afternoon
+- [ ] Let Ishka out
 
 ## Evening
 - [ ] Plan tomorrow
 - [ ] Journal, check-in
 - [ ] Process mail
-- [ ] Short run
+- [ ] Strengh workout
 - [ ] Dinner
 - [ ] Wash dishes and/or clean kitchen
 - [ ] Evening task time (at least 30 min)
 - [ ] Read or hobby time
-- [ ] Feed the cats
+- [ ] Give Hugh his meds
 - [ ] Feed the dogs
-- [ ] Prepare breakfast for tomorrow
+- [ ] Feed the cats
 - [ ] EOD Personal Care
-  - [ ] Wash face
-  - [ ] Face lotion
-  - [ ] Floss teeth
-  - [ ] Brush teeth
-  - [ ] Take evening supplements
-  - [ ] Hair oil
+- [ ] Check mouse traps
 - [ ] Scoop the litter boxes
-- [ ] Give Kira her meds
 - [ ] Hand lotion
