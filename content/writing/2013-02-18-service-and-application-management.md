@@ -2,7 +2,6 @@
 type:        writing
 author:      Dan Brubaker Horst
 description: This is how we propose to manage different types of applications across environments.
-markup:      mmark
 categories:
  - Archived
 tags:
