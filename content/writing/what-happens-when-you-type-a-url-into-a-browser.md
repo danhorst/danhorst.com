@@ -4,6 +4,11 @@ date: 2020-09-11T11:13:47-04:00
 description: Some basics of how the Internet works
 ---
 
+
+UPDATE 2021-08-30: Jenna Pederson over on the [AWS blog wrote a much better response to the question I try to answer here.](https://aws.amazon.com/blogs/mobile/what-happens-when-you-type-a-url-into-your-browser/)
+
+---
+
 I started listening to the ["How the Internet Works" episode][1] of the Ladybug [podcast][2] today.
 They set out to answer the technical interview question:
 
