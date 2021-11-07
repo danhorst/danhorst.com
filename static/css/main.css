@@ -351,6 +351,30 @@ dt { font-size: 1.7rem;
      margin-bottom: .6em;
      margin-top: 2rem; }
 
+.color-bands {
+  max-width: 100%;
+  padding-right:14.5%;
+  position: relative;
+}
+
+.color-bands a:link {
+  background: none;
+  display: block;
+}
+
+.color-bands figcaption {
+  margin-right: 1rem;
+}
+
+.color-bands b {
+  text-transform: lowercase;
+  font-variant: small-caps;
+}
+
+.color-bands svg {
+  width: 100%;
+}
+
 .post-meta { font-style: italic; }
 
 .post-list { list-style-type: none;

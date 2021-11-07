@@ -2,3 +2,123 @@
 title: "Dan Horst"
 description: "My personal website (there is some professional content too)"
 ---
+
+<figure class="color-bands">
+  <a href="/color-bands/">
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="133.5 0 433 430">
+  <defs><style>.a{fill:#ff5200}.b{fill:#008215}.c{fill:#ffcb00}.d{fill:#005a9f}.e{fill:#c6001c}.f{fill:#41266b}</style></defs>
+  <circle class="a" cx="297" cy="421.5" r="297"/>
+  <circle class="b" cx="297" cy="421.5" r="288"/>
+  <circle class="c" cx="297" cy="421.5" r="279"/>
+  <circle class="d" cx="297" cy="421.5" r="270"/>
+  <circle class="e" cx="297" cy="421.5" r="261"/>
+  <circle class="f" cx="297" cy="421.5" r="252"/>
+  <circle class="a" cx="297" cy="421.5" r="243"/>
+  <circle class="c" cx="297" cy="421.5" r="234"/>
+  <circle class="d" cx="297" cy="421.5" r="225"/>
+  <circle class="e" cx="297" cy="421.5" r="216"/>
+  <circle class="b" cx="297" cy="421.5" r="207"/>
+  <circle class="a" cx="297" cy="421.5" r="198"/>
+  <circle class="d" cx="297" cy="421.5" r="189"/>
+  <circle class="c" cx="297" cy="421.5" r="180"/>
+  <circle class="f" cx="297" cy="421.5" r="171"/>
+  <circle class="e" cx="297" cy="421.5" r="162"/>
+  <circle class="a" cx="297" cy="421.5" r="153"/>
+  <circle class="f" cx="297" cy="421.5" r="144"/>
+  <circle class="d" cx="297" cy="421.5" r="135"/>
+  <circle class="b" cx="297" cy="421.5" r="126"/>
+  <circle class="f" cx="297" cy="421.5" r="117"/>
+  <circle class="c" cx="297" cy="421.5" r="108"/>
+  <circle class="e" cx="297" cy="421.5" r="99"/>
+  <circle class="b" cx="297" cy="421.5" r="90"/>
+  <circle class="a" cx="297" cy="421.5" r="81"/>
+  <circle class="d" cx="297" cy="421.5" r="72"/>
+  <circle class="c" cx="297" cy="421.5" r="63"/>
+  <circle class="f" cx="297" cy="421.5" r="54"/>
+  <circle class="e" cx="297" cy="421.5" r="45"/>
+  <circle class="b" cx="297" cy="421.5" r="36"/>
+  <circle class="a" cx="297" cy="421.5" r="27"/>
+  <circle class="f" cx="297" cy="421.5" r="18"/>
+  <circle class="d" cx="297" cy="421.5" r="9"/>
+  <path d="M133.5 0v432h433V0Zm424 421.5h-261v-144h261Z"/>
+  <path class="e" d="M142.5 8h145v9h-145z"/>
+  <path class="d" d="M142.5 17h145v9h-145z"/>
+  <path class="a" d="M142.5 26h145v9h-145z"/>
+  <path class="b" d="M142.5 35h145v9h-145z"/>
+  <path class="c" d="M142.5 44h145v9h-145z"/>
+  <path class="d" d="M142.5 53h145v9h-145z"/>
+  <path class="f" d="M142.5 62h145v9h-145z"/>
+  <path class="d" d="M142.5 71h145v9h-145z"/>
+  <path class="e" d="M142.5 80h145v9h-145z"/>
+  <path class="a" d="M142.5 89h145v9h-145z"/>
+  <path class="b" d="M142.5 98h145v9h-145z"/>
+  <path class="f" d="M142.5 107h145v9h-145z"/>
+  <path class="c" d="M142.5 116h145v9h-145z"/>
+  <path class="d" d="M142.5 125h145v9h-145z"/>
+  <path class="f" d="M142.5 134h145v9h-145z"/>
+  <path class="b" d="M142.5 143h145v9h-145z"/>
+  <path class="e" d="M142.5 152h145v9h-145z"/>
+  <path class="a" d="M142.5 161h145v9h-145z"/>
+  <path class="d" d="M142.5 170h145v9h-145z"/>
+  <path class="c" d="M142.5 179h145v9h-145z"/>
+  <path class="f" d="M142.5 188h145v9h-145z"/>
+  <path class="b" d="M142.5 197h145v9h-145z"/>
+  <path class="f" d="M142.5 206h145v9h-145z"/>
+  <path class="d" d="M142.5 215h145v9h-145z"/>
+  <path class="a" d="M142.5 224h145v9h-145z"/>
+  <path class="b" d="M142.5 233h145v9h-145z"/>
+  <path class="e" d="M142.5 242h145v9h-145z"/>
+  <path class="c" d="M142.5 251h145v9h-145z"/>
+  <path class="f" d="M142.5 260h145v9h-145z"/>
+  <path class="a" d="M142.5 269h145v9h-145z"/>
+  <path class="e" d="M142.5 278h145v9h-145z"/>
+  <path class="d" d="M142.5 287h145v9h-145z"/>
+  <path class="b" d="M142.5 296h145v9h-145z"/>
+  <path class="f" d="M142.5 305h145v9h-145z"/>
+  <path class="d" d="M142.5 314h145v9h-145z"/>
+  <path class="e" d="M142.5 323h145v9h-145z"/>
+  <path class="b" d="M142.5 332h145v9h-145z"/>
+  <path class="a" d="M142.5 341h145v9h-145z"/>
+  <path class="f" d="M142.5 350h145v9h-145z"/>
+  <path class="b" d="M142.5 359h145v9h-145z"/>
+  <path class="e" d="M142.5 368h145v9h-145z"/>
+  <path class="c" d="M142.5 377h145v9h-145z"/>
+  <path class="d" d="M142.5 386h145v9h-145z"/>
+  <path class="b" d="M142.5 395h145v9h-145z"/>
+  <path class="e" d="M142.5 404h145v9h-145z"/>
+  <path class="a" d="M142.5 413h145v9h-145z"/>
+  <path class="c" d="M296.5 8h9v261h-9z"/>
+  <path class="a" d="M305.5 8h9v261h-9z"/>
+  <path class="f" d="M314.5 8h9v261h-9z"/>
+  <path class="e" d="M323.5 8h9v261h-9z"/>
+  <path class="b" d="M332.5 8h9v261h-9z"/>
+  <path class="d" d="M341.5 8h9v261h-9z"/>
+  <path class="c" d="M350.5 8h9v261h-9z"/>
+  <path class="d" d="M359.5 8h9v261h-9z"/>
+  <path class="b" d="M368.5 8h9v261h-9z"/>
+  <path class="f" d="M377.5 8h9v261h-9z"/>
+  <path class="e" d="M386.5 8h9v261h-9z"/>
+  <path class="d" d="M395.5 8h9v261h-9z"/>
+  <path class="c" d="M404.5 8h9v261h-9z"/>
+  <path class="b" d="M413.5 8h9v261h-9z"/>
+  <path class="e" d="M422.5 8h9v261h-9z"/>
+  <path class="a" d="M431.5 8h9v261h-9z"/>
+  <path class="f" d="M440.5 8h9v261h-9z"/>
+  <path class="d" d="M449.5 8h9v261h-9z"/>
+  <path class="c" d="M458.5 8h9v261h-9z"/>
+  <path class="b" d="M467.5 8h9v261h-9z"/>
+  <path class="e" d="M476.5 8h9v261h-9z"/>
+  <path class="f" d="M485.5 8h9v261h-9z"/>
+  <path class="a" d="M494.5 8h9v261h-9z"/>
+  <path class="e" d="M503.5 8h9v261h-9z"/>
+  <path class="c" d="M512.5 8h9v261h-9z"/>
+  <path class="d" d="M521.5 8h9v261h-9z"/>
+  <path class="e" d="M530.5 8h9v261h-9z"/>
+  <path class="f" d="M539.5 8h9v261h-9z"/>
+  <path class="b" d="M548.5 8h9v261h-9z"/>
+  </svg>
+  <figcaption>
+    <b>Color Bands</b>&hairsp;&mdash;&hairsp;Sol LeWitt
+  <figcaption>
+  </a>
+</figure>
