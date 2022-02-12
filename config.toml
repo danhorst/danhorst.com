@@ -10,3 +10,8 @@ pluralizelisttitles = false
 
 [frontmatter]
   date  = [":filename", ":default"]
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
