@@ -1,52 +1,36 @@
 ---
 title: "Podcasts"
-date: 2019-02-04T11:02:45-04:00
+date: 2022-02-12T11:19:45-04:00
 categories:
  - Stuff I Like
 ---
 
-> I listen to a lot of podcasts. They are one of my principal means of entertainment. Most of them are from [NPR](https://www.npr.org/podcasts/), [Radiotopia](https://www.radiotopia.fm/), or [Gimlet Media](https://www.gimletmedia.com/).
+> I listen to a lot of podcasts, but less than I used to.
+> I have a limited about of time where I can consume spoken word audio; I find it hard to focus with it playing in the background.
 
+- Entertainment
+  - [Glass Cannon Podcast](https://glasscannonpodcast.com/)
+- Rocketry & Space
+  - [The Rocketry Show](https://www.therocketryshow.com/)
+  - [The Model Rocket Show](https://themodelrocketshow.com/)
+  - [But it is Rocket Science](https://www.butitisrocketscience.com/)
 - Stories, Human Interest
   - [This American Life](https://www.thisamericanlife.org/)
-  - [The Moth](https://themoth.org/podcast)
-  - [Criminal](https://thisiscriminal.com/)
-  - [Radio Diaries](http://www.radiodiaries.org/)
   - [Serial](https://serialpodcast.org/)
-  - [S-Town](https://stownpodcast.org/) (short series)
-  - [Bundyville](https://www.npr.org/podcasts/606441988/bundyville) (short series)
-  - [The Habitat](https://www.gimletmedia.com/the-habitat) (short series)
+  - [The Memory Palace](http://thememorypalace.us/)
+  - [The Heart](https://www.theheartradio.org/)
 - Science, Design, Non-fiction
   - [99% Invisible](https://99percentinvisible.org/)
-  - [RadioLab](https://www.wnycstudios.org/shows/radiolab)
-  - [Invisibilia](https://www.npr.org/podcasts/510307/invisibilia)
-  - [Reply All](https://www.gimletmedia.com/reply-all)
+  - [Nice Try!](https://podcasts.voxmedia.com/show/nice-try)
   - [Hidden Brain](https://www.npr.org/podcasts/510308/hidden-brain)
-  - [Gastropod](https://gastropod.com/)
-  - [The Allusionist](https://www.theallusionist.org/)
   - [Song Exploder](http://songexploder.net/)
-  - [More Perfect](https://www.wnycstudios.org/shows/radiolabmoreperfect)
-  - [On Margins](https://craigmod.com/onmargins/)
-  - [Conversations with Tyler](https://conversationswithtyler.com/)
-- Love, Sex, Gender
-  - [The Heart](https://www.theheartradio.org/)
-  - [The Shadows](https://www.cbc.ca/radio/podcasts/the-shadows/) (short series)
-  - [Where Should We Begin?](https://www.estherperel.com/podcast)
-  - [Love + Radio](http://loveandradio.org/)
-  - [Bitch Media](https://www.bitchmedia.org/feminist-podcasts)
 - Fitness
   - [Stronger by Science](https://www.strongerbyscience.com/podcast/)
-  - [Iron Culture](https://ironculture.libsyn.com/)
-- History
-  - [The Memory Palace](http://thememorypalace.us/)
-  - [Uncivil](http://www.gimletmedia.com/uncivil)
-- Travel, Photography
-  - [Hit the Streets](http://valeriejardinphotography.com/podcast/)
-  - [The DFB Podcast](http://www.dfbpodcast.com/)
+- Spirituality
+  - [Buddhism Guide](https://yesherabgye.com/podcast/)
 - Business, Professional Development
-  - [Manager Tools](https://www.manager-tools.com/podcasts)
-  - [Ladybug Podcast: Women in Tech](https://ladybug.dev/)
-- Gaming
-  - [Glass Cannon Podcast](https://glasscannonpodcast.com/)
-
-[Download an OPML file of all these podcasts](/podcasts/dbh-all-opml.xml) and import them into your "podcatcher" of choice. I recommend [Pocket Casts](https://www.pocketcasts.com/) but I hear [Overcast](https://overcast.fm/) is great too.
+  - [Career Tools](https://manager-tools.com/career-tools-podcasts)
+  - [Manager Tools](https://manager-tools.com/manager-tools-podcasts)
+  - [Executive Tools](https://manager-tools.com/executive-tools-podcasts)
+  - [Thoughtworks Technology Podcast](https://www.thoughtworks.com/insights/podcasts/technology-podcasts)
+  - [StaffEng Podcast](https://podcast.staffeng.com/) (ceased production 2021-12)
