@@ -32,8 +32,8 @@ There are lots of pitfalls when you're starting:
   - Be mindful of [Conway's Law][4]. Reimagining your work requires changing your organizational structure. There are [existing][5] [resources][6] to help with this.
 - Leadership needs to believe in the benefits of these organizational capabilities
   - Lack of buy-in from upper management limits the potential scope & impact of changes.
-  - If you're heavily invested in ITIL, or another lumbering change-management system,
   - Increasing the pace of change is threatening instead of exciting to organizations that have adopted strict ITIL or another lumbering change-management system.
+  - InfoSec and your auditors need to be allies or you won't get far
 
 Many of the tools and practices in this space have been around for years.
 Unless you have novel use cases or operate on a grand scale, you'll only run into modest technical hurdles.
