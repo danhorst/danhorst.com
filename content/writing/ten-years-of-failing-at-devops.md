@@ -2,7 +2,6 @@
 type:        writing
 author:      Dan Brubaker Horst
 date:        2022-02-24T14:44:20-04:00
-draft:       true
 description: A cinical take on transforming software delivery
 tags:
  - DevOps
@@ -11,34 +10,40 @@ title: Ten Years of Failing at DevOps
 ---
 
 I started [writing about DevOps][1] in 2012.
-For better or worse, the conversations I'm having in the OIT ten years later sound suspicially similar to the ones I was having in the Hesburgh Libraries ten years ago.
-This is a sobering realization.
+The conversations I'm having in the OIT now sound suspiciously similar to ones I had in the Hesburgh Libraries ten years ago.
+I am not pleased with this sense of déjà vu.
 
-Today I attended a higher-ed meetup for about "DevOps" and they asked everyone to define both what that term means and how it worked--or didn't--at their institution.
-This is what I said:
+Today I attended a higher-ed meetup about "DevOps."
+The organizers asked a panel to define what that term means and how it worked--or didn't--at their institution.
+In response, I said:
 
-> DevOps--and "splat"-Ops in general like DevSecOps, GitOps, ChatOps, etc.--attempts to change organization culture, structure, and practices to improve software delivery performance.
+> DevOps--and "splat"-Ops in general like DevSecOps, GitOps, ChatOps, etc.--attempts to change organizational culture, structure, and practices to improve software delivery performance.
 > [Software delivery performance][2] has industry-defined measures, indicators, and associated practices.
 > It asserts that making fast, frequent changes to your services and infrastructure without compromising their integrity is a foundational capability for successful organizations.
 
-I also said, in a few different ways, that we're having a hard time doing these things.
-There are lots of pitfalls when you're starting out:
+I also said that we're having a hard time doing these things.
+There are lots of pitfalls when you're starting:
 
-- DevOps enthusiasts want to talk about tools
-  - Many DevOps tools are developed in the vein of "move fast and break things"
-  - Don't start a conversation about [kuberneties][3][^1]
-- Changing behavior in large, established organizations is hard
-  - Organization change managment--even when done successfully--takes _years_
-  - Be mindful of [Conway's Law][4]; to reimagine your work you will need to change your organizational structure. There are [existing][5] [resources][6] to help with this.
-- Leadership needs to believe in the benefits of these organizational capabilites
-  - Without buy-in from above changes will be limited in scope & impact
-  - If you're heavily invested in ITIL, or other burdensome change-management systems,
+- DevOps enthusiasts want to talk about tools.
+  - Many DevOps tools adopt a "move fast and break things" mentality; caveat emptor.
+  - Don't start a conversation about [kuberneties][3][^1].
+- It is hard to change the behavior of large, established organizations.
+  - Organization change management--even when done successfully--takes _years_.
+  - Be mindful of [Conway's Law][4]. Reimagining your work requires changing your organizational structure. There are [existing][5] [resources][6] to help with this.
+- Leadership needs to believe in the benefits of these organizational capabilities
+  - Lack of buy-in from upper management limits the potential scope & impact of changes.
+  - If you're heavily invested in ITIL, or another lumbering change-management system,
+  - Increasing the pace of change is threatening instead of exciting to organizations that have adopted strict ITIL or another lumbering change-management system.
 
 Many of the tools and practices in this space have been around for years.
-Unless you have novel use cases or operate on a grand scale you'll only run into modest technical hurdles.
-The real challenge is re-skilling, reorienting, and realigning the teams that do the work.
+Unless you have novel use cases or operate on a grand scale, you'll only run into modest technical hurdles.
+The hard part of changing an organization is re-skilling, reorienting, and realigning the people.
 
-[^1]: I'm being a bit facetious here. There's a [vast and powerful array of tooling][7] that takes advantage of the APIs provided by K8s. Even so, avoid using it directly unless you are building _platforms_ not _solutions_. Avoid building platforms unless it provides a key business capability you can't get another way--otherwise have an IaaS partner run them for you.
+Organizations do not change overnight.
+It takes a lot of hard work from knowledgeable, well-intentioned people to make a meaningful difference.
+I take some solace from the fact that our aspirational peers are quick to acknowledge they're working on issues too.
+
+[^1]: I'm being a bit facetious here. There's a [vast and powerful array of tooling][7] that takes advantage of the APIs provided by K8s. Even so, avoid using it directly unless you are building _platforms_ instead of _solutions_. Avoid building platforms unless they provide key business capabilities you can't get another way--otherwise, have an IaaS partner run them for you.
 
 [1]: /writing/infrastructure-as-code/
 [2]: /writing/software-delivery/
@@ -46,4 +51,4 @@ The real challenge is re-skilling, reorienting, and realigning the teams that do
 [4]: https://en.wikipedia.org/wiki/Conway%27s_law
 [5]: https://teamtopologies.com/
 [6]: https://web.devopstopologies.com/
-[6]: https://www.cncf.io/
+[7]: https://www.cncf.io/
