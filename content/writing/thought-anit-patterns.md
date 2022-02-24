@@ -2,6 +2,7 @@
 type:        writing
 author:      Dan Brubaker Horst
 description: Let's explore the pitfalls and roadblocks employed by my restless, dissatisfied brain
+draft:       true
 tags:
  - mental health
 title:       Thought Anti-Patterns
