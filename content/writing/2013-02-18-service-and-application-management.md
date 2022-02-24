@@ -6,7 +6,7 @@ categories:
  - Archived
 tags:
  - architecture
- - devops
+ - DevOps
  - infrastructure
 title:       Service &amp; Application Management
 ---

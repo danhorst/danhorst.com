@@ -6,7 +6,7 @@ categories:
  - Archived
 tags:
  - automation
- - devops
+ - DevOps
  - infrastructure
  - ND
 title:       Infrastructure As Code
