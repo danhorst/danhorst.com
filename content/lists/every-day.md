@@ -9,13 +9,12 @@ categories:
 ---
 
 ## Morning
-- [ ] Let Ishka out
+- [ ] Let the dogs out
 - [ ] Set up whole house fan (weather permitting)
 - [ ] Take morning medication
 - [ ] OPTIONAL: Chore time
 - [ ] Give Hugh his meds
-- [ ] Let Hugh out
-- [ ] Feed Ishka
+- [ ] Feed the dogs (Hugh probably won't eat anything)
 - [ ] Feed the cats
 - [ ] Scoop litter boxes
 - [ ] Meditate
@@ -24,28 +23,28 @@ categories:
 - [ ] Breakfast
 
 ### Mid-morning
-- [ ] Feed Hugh
-- [ ] Let Ishka out
+- [ ] Let the dogs out
 
-## Afternoon
-- [ ] Meditate
+### Noon
+- [ ] Let the dogs out
+- [ ] Feed the dogs
 
 ### Mid-afternoon
-- [ ] Let Ishka out
+- [ ] Meditate
+- [ ] Let the dogs out
 
 ## Evening
 - [ ] Plan tomorrow
-- [ ] Journal, check-in
 - [ ] Process mail
-- [ ] Strengh workout
+- [ ] Exercise
 - [ ] Dinner
 - [ ] Wash dishes and/or clean kitchen
-- [ ] Evening task time (at least 30 min)
-- [ ] Read or hobby time
+- [ ] OPTIONAL: Evening task time (at least 30 min)
+- [ ] BONUS: Reading or hobby time
 - [ ] Give Hugh his meds
 - [ ] Feed the dogs
 - [ ] Feed the cats
-- [ ] EOD Personal Care
 - [ ] Check mouse traps
 - [ ] Scoop the litter boxes
-- [ ] Hand lotion
+- [ ] Journal, check-in
+- [ ] EOD Personal Care
