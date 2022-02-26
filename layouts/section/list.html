@@ -10,10 +10,20 @@
 {{ end }}
 
 {{ define "main" }}
+<article>
   <h1>{{ .Title }}</h1>
+{{ if .Content }}
+  <section>
+    {{ .Content }}
+  <section>
+{{ end }}
+
+{{ if .Pages }}
   <ul class="listing">
     {{ range .Paginator.Pages }}
     <li><a href="{{ .Permalink }}">{{.Title}}</a></li>
     {{ end }}
   </ul>
+{{ end }}
+</article>
 {{ end }}
