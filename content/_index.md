@@ -5,118 +5,118 @@ description: "My personal website (there is some professional content too)"
 
 <figure class="color-bands">
   <a href="/color-bands/">
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="133.5 0 433 430">
-  <defs><style>.a{fill:#ff5200}.b{fill:#008215}.c{fill:#ffcb00}.d{fill:#005a9f}.e{fill:#c6001c}.f{fill:#41266b}</style></defs>
-  <circle class="a" cx="297" cy="421.5" r="297"/>
-  <circle class="b" cx="297" cy="421.5" r="288"/>
-  <circle class="c" cx="297" cy="421.5" r="279"/>
-  <circle class="d" cx="297" cy="421.5" r="270"/>
-  <circle class="e" cx="297" cy="421.5" r="261"/>
-  <circle class="f" cx="297" cy="421.5" r="252"/>
-  <circle class="a" cx="297" cy="421.5" r="243"/>
-  <circle class="c" cx="297" cy="421.5" r="234"/>
-  <circle class="d" cx="297" cy="421.5" r="225"/>
-  <circle class="e" cx="297" cy="421.5" r="216"/>
-  <circle class="b" cx="297" cy="421.5" r="207"/>
-  <circle class="a" cx="297" cy="421.5" r="198"/>
-  <circle class="d" cx="297" cy="421.5" r="189"/>
-  <circle class="c" cx="297" cy="421.5" r="180"/>
-  <circle class="f" cx="297" cy="421.5" r="171"/>
-  <circle class="e" cx="297" cy="421.5" r="162"/>
-  <circle class="a" cx="297" cy="421.5" r="153"/>
-  <circle class="f" cx="297" cy="421.5" r="144"/>
-  <circle class="d" cx="297" cy="421.5" r="135"/>
-  <circle class="b" cx="297" cy="421.5" r="126"/>
-  <circle class="f" cx="297" cy="421.5" r="117"/>
-  <circle class="c" cx="297" cy="421.5" r="108"/>
-  <circle class="e" cx="297" cy="421.5" r="99"/>
-  <circle class="b" cx="297" cy="421.5" r="90"/>
-  <circle class="a" cx="297" cy="421.5" r="81"/>
-  <circle class="d" cx="297" cy="421.5" r="72"/>
-  <circle class="c" cx="297" cy="421.5" r="63"/>
-  <circle class="f" cx="297" cy="421.5" r="54"/>
-  <circle class="e" cx="297" cy="421.5" r="45"/>
-  <circle class="b" cx="297" cy="421.5" r="36"/>
-  <circle class="a" cx="297" cy="421.5" r="27"/>
-  <circle class="f" cx="297" cy="421.5" r="18"/>
-  <circle class="d" cx="297" cy="421.5" r="9"/>
-  <path d="M133.5 0v432h433V0Zm424 421.5h-261v-144h261Z"/>
-  <path class="e" d="M142.5 8h145v9h-145z"/>
-  <path class="d" d="M142.5 17h145v9h-145z"/>
-  <path class="a" d="M142.5 26h145v9h-145z"/>
-  <path class="b" d="M142.5 35h145v9h-145z"/>
-  <path class="c" d="M142.5 44h145v9h-145z"/>
-  <path class="d" d="M142.5 53h145v9h-145z"/>
-  <path class="f" d="M142.5 62h145v9h-145z"/>
-  <path class="d" d="M142.5 71h145v9h-145z"/>
-  <path class="e" d="M142.5 80h145v9h-145z"/>
-  <path class="a" d="M142.5 89h145v9h-145z"/>
-  <path class="b" d="M142.5 98h145v9h-145z"/>
-  <path class="f" d="M142.5 107h145v9h-145z"/>
-  <path class="c" d="M142.5 116h145v9h-145z"/>
-  <path class="d" d="M142.5 125h145v9h-145z"/>
-  <path class="f" d="M142.5 134h145v9h-145z"/>
-  <path class="b" d="M142.5 143h145v9h-145z"/>
-  <path class="e" d="M142.5 152h145v9h-145z"/>
-  <path class="a" d="M142.5 161h145v9h-145z"/>
-  <path class="d" d="M142.5 170h145v9h-145z"/>
-  <path class="c" d="M142.5 179h145v9h-145z"/>
-  <path class="f" d="M142.5 188h145v9h-145z"/>
-  <path class="b" d="M142.5 197h145v9h-145z"/>
-  <path class="f" d="M142.5 206h145v9h-145z"/>
-  <path class="d" d="M142.5 215h145v9h-145z"/>
-  <path class="a" d="M142.5 224h145v9h-145z"/>
-  <path class="b" d="M142.5 233h145v9h-145z"/>
-  <path class="e" d="M142.5 242h145v9h-145z"/>
-  <path class="c" d="M142.5 251h145v9h-145z"/>
-  <path class="f" d="M142.5 260h145v9h-145z"/>
-  <path class="a" d="M142.5 269h145v9h-145z"/>
-  <path class="e" d="M142.5 278h145v9h-145z"/>
-  <path class="d" d="M142.5 287h145v9h-145z"/>
-  <path class="b" d="M142.5 296h145v9h-145z"/>
-  <path class="f" d="M142.5 305h145v9h-145z"/>
-  <path class="d" d="M142.5 314h145v9h-145z"/>
-  <path class="e" d="M142.5 323h145v9h-145z"/>
-  <path class="b" d="M142.5 332h145v9h-145z"/>
-  <path class="a" d="M142.5 341h145v9h-145z"/>
-  <path class="f" d="M142.5 350h145v9h-145z"/>
-  <path class="b" d="M142.5 359h145v9h-145z"/>
-  <path class="e" d="M142.5 368h145v9h-145z"/>
-  <path class="c" d="M142.5 377h145v9h-145z"/>
-  <path class="d" d="M142.5 386h145v9h-145z"/>
-  <path class="b" d="M142.5 395h145v9h-145z"/>
-  <path class="e" d="M142.5 404h145v9h-145z"/>
-  <path class="a" d="M142.5 413h145v9h-145z"/>
-  <path class="c" d="M296.5 8h9v261h-9z"/>
-  <path class="a" d="M305.5 8h9v261h-9z"/>
-  <path class="f" d="M314.5 8h9v261h-9z"/>
-  <path class="e" d="M323.5 8h9v261h-9z"/>
-  <path class="b" d="M332.5 8h9v261h-9z"/>
-  <path class="d" d="M341.5 8h9v261h-9z"/>
-  <path class="c" d="M350.5 8h9v261h-9z"/>
-  <path class="d" d="M359.5 8h9v261h-9z"/>
-  <path class="b" d="M368.5 8h9v261h-9z"/>
-  <path class="f" d="M377.5 8h9v261h-9z"/>
-  <path class="e" d="M386.5 8h9v261h-9z"/>
-  <path class="d" d="M395.5 8h9v261h-9z"/>
-  <path class="c" d="M404.5 8h9v261h-9z"/>
-  <path class="b" d="M413.5 8h9v261h-9z"/>
-  <path class="e" d="M422.5 8h9v261h-9z"/>
-  <path class="a" d="M431.5 8h9v261h-9z"/>
-  <path class="f" d="M440.5 8h9v261h-9z"/>
-  <path class="d" d="M449.5 8h9v261h-9z"/>
-  <path class="c" d="M458.5 8h9v261h-9z"/>
-  <path class="b" d="M467.5 8h9v261h-9z"/>
-  <path class="e" d="M476.5 8h9v261h-9z"/>
-  <path class="f" d="M485.5 8h9v261h-9z"/>
-  <path class="a" d="M494.5 8h9v261h-9z"/>
-  <path class="e" d="M503.5 8h9v261h-9z"/>
-  <path class="c" d="M512.5 8h9v261h-9z"/>
-  <path class="d" d="M521.5 8h9v261h-9z"/>
-  <path class="e" d="M530.5 8h9v261h-9z"/>
-  <path class="f" d="M539.5 8h9v261h-9z"/>
-  <path class="b" d="M548.5 8h9v261h-9z"/>
-  </svg>
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="133.5 0 433 430">
+    <defs><style>.a{fill:#ff5200;}.b{fill:#008215;}.c{fill:#ffcb00;}.d{fill:#005a9f;}.e{fill:#c6001c;}.f{fill:#41266b;}circle{cx:297; cy:422.5}</style></defs>
+    <circle class="a" r="297"/>
+    <circle class="b" r="288"/>
+    <circle class="c" r="279"/>
+    <circle class="d" r="270"/>
+    <circle class="e" r="261"/>
+    <circle class="f" r="252"/>
+    <circle class="a" r="243"/>
+    <circle class="c" r="234"/>
+    <circle class="d" r="225"/>
+    <circle class="e" r="216"/>
+    <circle class="b" r="207"/>
+    <circle class="a" r="198"/>
+    <circle class="d" r="189"/>
+    <circle class="c" r="180"/>
+    <circle class="f" r="171"/>
+    <circle class="e" r="162"/>
+    <circle class="a" r="153"/>
+    <circle class="f" r="144"/>
+    <circle class="d" r="135"/>
+    <circle class="b" r="126"/>
+    <circle class="f" r="117"/>
+    <circle class="c" r="108"/>
+    <circle class="e" r="99"/>
+    <circle class="b" r="90"/>
+    <circle class="a" r="81"/>
+    <circle class="d" r="72"/>
+    <circle class="c" r="63"/>
+    <circle class="f" r="54"/>
+    <circle class="e" r="45"/>
+    <circle class="b" r="36"/>
+    <circle class="a" r="27"/>
+    <circle class="f" r="18"/>
+    <circle class="d" r="9"/>
+    <path d="M132.5 0v434h435V0Zm425 422.5h-261v-144h261Z"/>
+    <rect class="d" x="142.5" y="18" width="145" height="9"/>
+    <rect class="e" x="142.5" y="9" width="145" height="9"/>
+    <rect class="a" x="142.5" y="27" width="145" height="9"/>
+    <rect class="b" x="142.5" y="36" width="145" height="9"/>
+    <rect class="c" x="142.5" y="45" width="145" height="9"/>
+    <rect class="d" x="142.5" y="54" width="145" height="9"/>
+    <rect class="f" x="142.5" y="63" width="145" height="9"/>
+    <rect class="d" x="142.5" y="72" width="145" height="9"/>
+    <rect class="e" x="142.5" y="81" width="145" height="9"/>
+    <rect class="f" x="142.5" y="108" width="145" height="9"/>
+    <rect class="b" x="142.5" y="99" width="145" height="9"/>
+    <rect class="c" x="142.5" y="117" width="145" height="9"/>
+    <rect class="d" x="142.5" y="126" width="145" height="9"/>
+    <rect class="f" x="142.5" y="135" width="145" height="9"/>
+    <rect class="b" x="142.5" y="144" width="145" height="9"/>
+    <rect class="e" x="142.5" y="153" width="145" height="9"/>
+    <rect class="a" x="142.5" y="162" width="145" height="9"/>
+    <rect class="a" x="142.5" y="90" width="145" height="9"/>
+    <rect class="d" x="142.5" y="171" width="145" height="9"/>
+    <rect class="c" x="142.5" y="180" width="145" height="9"/>
+    <rect class="f" x="142.5" y="189" width="145" height="9"/>
+    <rect class="b" x="142.5" y="198" width="145" height="9"/>
+    <rect class="f" x="142.5" y="207" width="145" height="9"/>
+    <rect class="d" x="142.5" y="216" width="145" height="9"/>
+    <rect class="a" x="142.5" y="225" width="145" height="9"/>
+    <rect class="b" x="142.5" y="234" width="145" height="9"/>
+    <rect class="e" x="142.5" y="243" width="145" height="9"/>
+    <rect class="c" x="142.5" y="252" width="145" height="9"/>
+    <rect class="f" x="142.5" y="261" width="145" height="9"/>
+    <rect class="a" x="142.5" y="270" width="145" height="9"/>
+    <rect class="e" x="142.5" y="279" width="145" height="9"/>
+    <rect class="d" x="142.5" y="288" width="145" height="9"/>
+    <rect class="b" x="142.5" y="297" width="145" height="9"/>
+    <rect class="f" x="142.5" y="306" width="145" height="9"/>
+    <rect class="d" x="142.5" y="315" width="145" height="9"/>
+    <rect class="e" x="142.5" y="324" width="145" height="9"/>
+    <rect class="b" x="142.5" y="333" width="145" height="9"/>
+    <rect class="a" x="142.5" y="342" width="145" height="9"/>
+    <rect class="f" x="142.5" y="351" width="145" height="9"/>
+    <rect class="b" x="142.5" y="360" width="145" height="9"/>
+    <rect class="e" x="142.5" y="369" width="145" height="9"/>
+    <rect class="c" x="142.5" y="378" width="145" height="9"/>
+    <rect class="d" x="142.5" y="387" width="145" height="9"/>
+    <rect class="b" x="142.5" y="396" width="145" height="9"/>
+    <rect class="e" x="142.5" y="405" width="145" height="9"/>
+    <rect class="a" x="142.5" y="414" width="145" height="9"/>
+    <rect class="a" x="305.5" y="9" width="9" height="261"/>
+    <rect class="c" x="296.5" y="9" width="9" height="261"/>
+    <rect class="f" x="314.5" y="9" width="9" height="261"/>
+    <rect class="e" x="323.5" y="9" width="9" height="261"/>
+    <rect class="b" x="332.5" y="9" width="9" height="261"/>
+    <rect class="d" x="341.5" y="9" width="9" height="261"/>
+    <rect class="c" x="350.5" y="9" width="9" height="261"/>
+    <rect class="d" x="359.5" y="9" width="9" height="261"/>
+    <rect class="b" x="368.5" y="9" width="9" height="261"/>
+    <rect class="f" x="377.5" y="9" width="9" height="261"/>
+    <rect class="e" x="386.5" y="9" width="9" height="261"/>
+    <rect class="d" x="395.5" y="9" width="9" height="261"/>
+    <rect class="c" x="404.5" y="9" width="9" height="261"/>
+    <rect class="b" x="413.5" y="9" width="9" height="261"/>
+    <rect class="e" x="422.5" y="9" width="9" height="261"/>
+    <rect class="a" x="431.5" y="9" width="9" height="261"/>
+    <rect class="f" x="440.5" y="9" width="9" height="261"/>
+    <rect class="d" x="449.5" y="9" width="9" height="261"/>
+    <rect class="c" x="458.5" y="9" width="9" height="261"/>
+    <rect class="b" x="467.5" y="9" width="9" height="261"/>
+    <rect class="e" x="476.5" y="9" width="9" height="261"/>
+    <rect class="f" x="485.5" y="9" width="9" height="261"/>
+    <rect class="a" x="494.5" y="9" width="9" height="261"/>
+    <rect class="e" x="503.5" y="9" width="9" height="261"/>
+    <rect class="c" x="512.5" y="9" width="9" height="261"/>
+    <rect class="d" x="521.5" y="9" width="9" height="261"/>
+    <rect class="e" x="530.5" y="9" width="9" height="261"/>
+    <rect class="f" x="539.5" y="9" width="9" height="261"/>
+    <rect class="b" x="548.5" y="9" width="9" height="261"/>
+    </svg>
   <figcaption>
     <b>Color Bands</b>&hairsp;&mdash;&hairsp;Sol LeWitt
   <figcaption>
