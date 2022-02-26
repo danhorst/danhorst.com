@@ -353,7 +353,6 @@ dt { font-size: 1.7rem;
 
 .color-bands {
   max-width: 100%;
-  padding-right:14.5%;
   position: relative;
 }
 
@@ -363,7 +362,7 @@ dt { font-size: 1.7rem;
 }
 
 .color-bands figcaption {
-  margin-right: 1rem;
+  margin-right: 2%;
 }
 
 .color-bands b {
@@ -373,6 +372,12 @@ dt { font-size: 1.7rem;
 
 .color-bands svg {
   width: 100%;
+}
+
+@media (min-width: 760px) {
+  .color-bands {
+    padding-right:12.5%;
+  }
 }
 
 .post-meta { font-style: italic; }
@@ -472,11 +477,11 @@ dt { font-size: 1.7rem;
 @media (max-width: 760px) { body { width: 84%;
                                    padding-left: 8%;
                                    padding-right: 8%; }
-			    nav { padding-right: 8%; } 
+			    nav { padding-right: 0; }
 			    h1 { margin-top: 2rem; }
                             h1 + div.epigraph { margin: 5em 0 3em; }
                             h1 + div.epigraph > blocquote { margin-bottom: 2em; }
-			    main { padding-top: 3rem; }
+			    main { padding-top: 1rem; }
                             hr, section > p, section > footer, section > table main > table, .section-navigation { width: 100%; }
                             pre.code { width: 97%; }
                             section > dl, section > ol, section > ul, .footnotes { width: 90%; }
