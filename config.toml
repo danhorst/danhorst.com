@@ -1,12 +1,12 @@
 baseURL =  "https://www.danhorst.com/"
 languageCode =  "en-us"
-title = "Dan Horst"
+title = "Dan Brubaker Horst"
 paginate = 500
 disableLiveReload = true
 pluralizelisttitles = false
 
 [params]
-  author = "Dan Horst"
+  author = "Dan Brubaker Horst"
 
 [frontmatter]
   date  = [":filename", ":default"]
