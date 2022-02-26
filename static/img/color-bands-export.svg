@@ -33,7 +33,7 @@
 <circle class="a" cx="297" cy="422.5" r="27"/>
 <circle class="f" cx="297" cy="422.5" r="18"/>
 <circle class="d" cx="297" cy="422.5" r="9"/>
-<path d="M-1-1V433H434V-1ZM424,421.5H163v-144H424Z" transform="translate(133.5 1)"/>
+<path d="M132.5 0v434h435V0Zm425 422.5h-261v-144h261Z"/>
 <rect class="d" x="142.5" y="18" width="145" height="9"/>
 <rect class="e" x="142.5" y="9" width="145" height="9"/>
 <rect class="a" x="142.5" y="27" width="145" height="9"/>
