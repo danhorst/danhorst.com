@@ -6,40 +6,40 @@ description: "My personal website (there is some professional content too)"
 <figure class="color-bands">
   <a href="/color-bands/">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="133.5 0 433 430">
-    <defs><style>.a{fill:#ff5200;}.b{fill:#008215;}.c{fill:#ffcb00;}.d{fill:#005a9f;}.e{fill:#c6001c;}.f{fill:#41266b;}circle{cx:297; cy:422.5}</style></defs>
-    <circle class="a" r="297"/>
-    <circle class="b" r="288"/>
-    <circle class="c" r="279"/>
-    <circle class="d" r="270"/>
-    <circle class="e" r="261"/>
-    <circle class="f" r="252"/>
-    <circle class="a" r="243"/>
-    <circle class="c" r="234"/>
-    <circle class="d" r="225"/>
-    <circle class="e" r="216"/>
-    <circle class="b" r="207"/>
-    <circle class="a" r="198"/>
-    <circle class="d" r="189"/>
-    <circle class="c" r="180"/>
-    <circle class="f" r="171"/>
-    <circle class="e" r="162"/>
-    <circle class="a" r="153"/>
-    <circle class="f" r="144"/>
-    <circle class="d" r="135"/>
-    <circle class="b" r="126"/>
-    <circle class="f" r="117"/>
-    <circle class="c" r="108"/>
-    <circle class="e" r="99"/>
-    <circle class="b" r="90"/>
-    <circle class="a" r="81"/>
-    <circle class="d" r="72"/>
-    <circle class="c" r="63"/>
-    <circle class="f" r="54"/>
-    <circle class="e" r="45"/>
-    <circle class="b" r="36"/>
-    <circle class="a" r="27"/>
-    <circle class="f" r="18"/>
-    <circle class="d" r="9"/>
+    <defs><style>.a{fill:#ff5200;}.b{fill:#008215;}.c{fill:#ffcb00;}.d{fill:#005a9f;}.e{fill:#c6001c;}.f{fill:#41266b;}</style></defs>
+    <circle class="a" cx="297" cy="422.5" r="297"/>
+    <circle class="b" cx="297" cy="422.5" r="288"/>
+    <circle class="c" cx="297" cy="422.5" r="279"/>
+    <circle class="d" cx="297" cy="422.5" r="270"/>
+    <circle class="e" cx="297" cy="422.5" r="261"/>
+    <circle class="f" cx="297" cy="422.5" r="252"/>
+    <circle class="a" cx="297" cy="422.5" r="243"/>
+    <circle class="c" cx="297" cy="422.5" r="234"/>
+    <circle class="d" cx="297" cy="422.5" r="225"/>
+    <circle class="e" cx="297" cy="422.5" r="216"/>
+    <circle class="b" cx="297" cy="422.5" r="207"/>
+    <circle class="a" cx="297" cy="422.5" r="198"/>
+    <circle class="d" cx="297" cy="422.5" r="189"/>
+    <circle class="c" cx="297" cy="422.5" r="180"/>
+    <circle class="f" cx="297" cy="422.5" r="171"/>
+    <circle class="e" cx="297" cy="422.5" r="162"/>
+    <circle class="a" cx="297" cy="422.5" r="153"/>
+    <circle class="f" cx="297" cy="422.5" r="144"/>
+    <circle class="d" cx="297" cy="422.5" r="135"/>
+    <circle class="b" cx="297" cy="422.5" r="126"/>
+    <circle class="f" cx="297" cy="422.5" r="117"/>
+    <circle class="c" cx="297" cy="422.5" r="108"/>
+    <circle class="e" cx="297" cy="422.5" r="99"/>
+    <circle class="b" cx="297" cy="422.5" r="90"/>
+    <circle class="a" cx="297" cy="422.5" r="81"/>
+    <circle class="d" cx="297" cy="422.5" r="72"/>
+    <circle class="c" cx="297" cy="422.5" r="63"/>
+    <circle class="f" cx="297" cy="422.5" r="54"/>
+    <circle class="e" cx="297" cy="422.5" r="45"/>
+    <circle class="b" cx="297" cy="422.5" r="36"/>
+    <circle class="a" cx="297" cy="422.5" r="27"/>
+    <circle class="f" cx="297" cy="422.5" r="18"/>
+    <circle class="d" cx="297" cy="422.5" r="9"/>
     <path d="M132.5 0v434h435V0Zm425 422.5h-261v-144h261Z"/>
     <rect class="d" x="142.5" y="18" width="145" height="9"/>
     <rect class="e" x="142.5" y="9" width="145" height="9"/>
