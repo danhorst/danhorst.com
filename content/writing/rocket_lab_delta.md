@@ -1,6 +1,6 @@
 ---
 title:      "Rocket Lab Delta"
-author:      Dan Horst
+author:      Dan Brubaker Horst
 description: Reconnecting with hobby rocketry
 date: 2020-06-15T17:54:43-04:00
 ---
