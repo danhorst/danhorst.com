@@ -33,7 +33,7 @@
 <circle class="a" cx="297" cy="421.5" r="27"/>
 <circle class="f" cx="297" cy="421.5" r="18"/>
 <circle class="d" cx="297" cy="421.5" r="9"/>
-<path d="M133.5 0v432h433V0Zm424 421.5h-261v-144h261Z"/>
+<path d="M132.5 0v434h435V0Zm425 422.5h-261v-144h261Z"/>
 <path class="e" d="M142.5 8h145v9h-145z"/>
 <path class="d" d="M142.5 17h145v9h-145z"/>
 <path class="a" d="M142.5 26h145v9h-145z"/>
