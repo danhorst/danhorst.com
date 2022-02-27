@@ -470,6 +470,88 @@ dt { font-size: 1.7rem;
   white-space: nowrap;
 }
 
+/* COLOR BANDS */
+
+.color-bands {
+  box-sizing: border-box;
+  height: 80vh;
+}
+
+.color-band-border {
+  background-color: #000;
+  border: 10px solid #000;
+  height: 100%;
+  overflow: hidden;
+}
+
+.color-band {
+  animation: sequence 10s steps(1);
+  animation-iteration-count: infinite;
+  -moz-animation-iteration-count: infinite;
+  -webkit-animation-iteration-count: infinite;
+  -o-animation-iteration-count: infinite;
+  background-color: #000;
+  height: 4%;
+}
+
+.band-one          { animation-delay:     0ms }
+.band-two          { animation-delay:   400ms }
+.band-three        { animation-delay:   800ms }
+.band-four         { animation-delay:  1200ms }
+.band-five         { animation-delay:  1600ms }
+.band-six          { animation-delay:  2000ms }
+.band-seven        { animation-delay:  2400ms }
+.band-eight        { animation-delay:  2800ms }
+.band-nine         { animation-delay:  3200ms }
+.band-ten          { animation-delay:  3600ms }
+.band-eleven       { animation-delay:  4000ms }
+.band-twelve       { animation-delay:  4400ms }
+.band-thirteen     { animation-delay:  4800ms }
+.band-fourteen     { animation-delay:  5200ms }
+.band-fifteen      { animation-delay:  5600ms }
+.band-sixteen      { animation-delay:  6000ms }
+.band-seventeen    { animation-delay:  6400ms }
+.band-eighteen     { animation-delay:  6800ms }
+.band-nineteen     { animation-delay:  7200ms }
+.band-twenty       { animation-delay:  7600ms }
+.band-twenty-one   { animation-delay:  8000ms }
+.band-twenty-two   { animation-delay:  8400ms }
+.band-twenty-three { animation-delay:  8800ms }
+.band-twenty-four  { animation-delay:  9200ms }
+.band-twenty-five  { animation-delay:  9600ms }
+.band-twenty-six   { animation-delay: 10000ms }
+
+@keyframes sequence {
+    0% { background-color: #c6001c; }
+    4% { background-color: #005a9f; }
+    8% { background-color: #ff5200; }
+   12% { background-color: #008215; }
+   16% { background-color: #ffcb00; }
+   20% { background-color: #005a9f; }
+   24% { background-color: #41266b; }
+   28% { background-color: #005a9f; }
+   32% { background-color: #c6001c; }
+   36% { background-color: #ff5200; }
+   40% { background-color: #008215; }
+   44% { background-color: #41266b; }
+   48% { background-color: #ffcb00; }
+   52% { background-color: #005a9f; }
+   56% { background-color: #41266b; }
+   60% { background-color: #008215; }
+   64% { background-color: #c6001c; }
+   68% { background-color: #ff5200; }
+   72% { background-color: #005a9f; }
+   76% { background-color: #ffcb00; }
+   80% { background-color: #41266b; }
+   84% { background-color: #008215; }
+   88% { background-color: #41266b; }
+   92% { background-color: #005a9f; }
+   96% { background-color: #ff5200; }
+  100% { background-color: #008215; }
+}
+
+/* END COLOR BANDS */
+
 @media (min-width: 390px) {
   nav { height: auto; }
 }
