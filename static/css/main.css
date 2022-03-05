@@ -486,7 +486,7 @@ dt { font-size: 1.7rem;
 }
 
 .color-band {
-  animation: sequence 5s steps(1);
+  animation: sequence 12750ms ease;
   animation-iteration-count: infinite;
   -moz-animation-iteration-count: infinite;
   -webkit-animation-iteration-count: infinite;
@@ -496,57 +496,57 @@ dt { font-size: 1.7rem;
 }
 
 .band-01 { animation-delay:    0ms }
-.band-02 { animation-delay:  100ms }
-.band-03 { animation-delay:  200ms }
-.band-04 { animation-delay:  300ms }
-.band-05 { animation-delay:  400ms }
-.band-06 { animation-delay:  500ms }
-.band-07 { animation-delay:  600ms }
-.band-08 { animation-delay:  700ms }
-.band-09 { animation-delay:  800ms }
-.band-10 { animation-delay:  900ms }
-.band-11 { animation-delay: 1000ms }
-.band-12 { animation-delay: 1100ms }
-.band-13 { animation-delay: 1200ms }
-.band-14 { animation-delay: 1300ms }
-.band-15 { animation-delay: 1400ms }
-.band-16 { animation-delay: 1500ms }
-.band-17 { animation-delay: 1600ms }
-.band-18 { animation-delay: 1700ms }
-.band-19 { animation-delay: 1800ms }
-.band-20 { animation-delay: 1900ms }
-.band-21 { animation-delay: 2000ms }
-.band-22 { animation-delay: 2100ms }
-.band-23 { animation-delay: 2200ms }
-.band-24 { animation-delay: 2300ms }
-.band-25 { animation-delay: 2400ms }
-.band-26 { animation-delay: 2500ms }
-.band-27 { animation-delay: 2600ms }
-.band-28 { animation-delay: 2700ms }
-.band-29 { animation-delay: 2800ms }
-.band-30 { animation-delay: 2900ms }
-.band-31 { animation-delay: 3000ms }
-.band-32 { animation-delay: 3100ms }
-.band-33 { animation-delay: 3200ms }
-.band-34 { animation-delay: 3300ms }
-.band-35 { animation-delay: 3400ms }
-.band-36 { animation-delay: 3500ms }
-.band-37 { animation-delay: 3600ms }
-.band-38 { animation-delay: 3700ms }
-.band-39 { animation-delay: 3800ms }
-.band-40 { animation-delay: 3900ms }
-.band-41 { animation-delay: 4000ms }
-.band-42 { animation-delay: 4100ms }
-.band-43 { animation-delay: 4200ms }
-.band-44 { animation-delay: 4300ms }
-.band-45 { animation-delay: 4400ms }
-.band-46 { animation-delay: 4500ms }
-.band-47 { animation-delay: 4600ms }
-.band-48 { animation-delay: 4700ms }
-.band-49 { animation-delay: 4800ms }
-.band-50 { animation-delay: 4900ms }
-.band-51 { animation-delay: 5000ms }
-.band-52 { animation-delay: 5100ms }
+.band-02 { animation-delay:   50ms }
+.band-03 { animation-delay:  100ms }
+.band-04 { animation-delay:  150ms }
+.band-05 { animation-delay:  200ms }
+.band-06 { animation-delay:  250ms }
+.band-07 { animation-delay:  300ms }
+.band-08 { animation-delay:  350ms }
+.band-09 { animation-delay:  400ms }
+.band-10 { animation-delay:  450ms }
+.band-11 { animation-delay:  500ms }
+.band-12 { animation-delay:  550ms }
+.band-13 { animation-delay:  600ms }
+.band-14 { animation-delay:  650ms }
+.band-15 { animation-delay:  700ms }
+.band-16 { animation-delay:  750ms }
+.band-17 { animation-delay:  800ms }
+.band-18 { animation-delay:  850ms }
+.band-19 { animation-delay:  900ms }
+.band-20 { animation-delay:  950ms }
+.band-21 { animation-delay: 1000ms }
+.band-22 { animation-delay: 1050ms }
+.band-23 { animation-delay: 1100ms }
+.band-24 { animation-delay: 1150ms }
+.band-25 { animation-delay: 1200ms }
+.band-26 { animation-delay: 1250ms }
+.band-27 { animation-delay: 1300ms }
+.band-28 { animation-delay: 1350ms }
+.band-29 { animation-delay: 1400ms }
+.band-30 { animation-delay: 1450ms }
+.band-31 { animation-delay: 1500ms }
+.band-32 { animation-delay: 1550ms }
+.band-33 { animation-delay: 1600ms }
+.band-34 { animation-delay: 1650ms }
+.band-35 { animation-delay: 1700ms }
+.band-36 { animation-delay: 1750ms }
+.band-37 { animation-delay: 1800ms }
+.band-38 { animation-delay: 1850ms }
+.band-39 { animation-delay: 1900ms }
+.band-40 { animation-delay: 1950ms }
+.band-41 { animation-delay: 2000ms }
+.band-42 { animation-delay: 2050ms }
+.band-43 { animation-delay: 2100ms }
+.band-44 { animation-delay: 2150ms }
+.band-45 { animation-delay: 2200ms }
+.band-46 { animation-delay: 2250ms }
+.band-47 { animation-delay: 2300ms }
+.band-48 { animation-delay: 2350ms }
+.band-49 { animation-delay: 2400ms }
+.band-50 { animation-delay: 2450ms }
+.band-51 { animation-delay: 2500ms }
+.band-52 { animation-delay: 2550ms }
 
 @keyframes sequence {
     0% { background-color: #c6001c; }
