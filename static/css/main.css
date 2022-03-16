@@ -133,7 +133,7 @@ p.subtitle { font-style: italic;
 .danger { color: red; }
 
 main { position: relative;
-       padding: 5rem 0rem; }
+       padding: 5rem 0rem 3rem; }
 
 main li small { line-height: 1;
                 padding-right: .15rem; }
@@ -351,35 +351,6 @@ dt { font-size: 1.7rem;
      margin-bottom: .6em;
      margin-top: 2rem; }
 
-.color-bands {
-  max-width: 100%;
-  position: relative;
-}
-
-.color-bands a:link {
-  background: none;
-  display: block;
-}
-
-.color-bands figcaption {
-  margin-right: 2%;
-}
-
-.color-bands b {
-  text-transform: lowercase;
-  font-variant: small-caps;
-}
-
-.color-bands svg {
-  width: 100%;
-}
-
-@media (min-width: 760px) {
-  .color-bands {
-    padding-right:12.5%;
-  }
-}
-
 .post-meta { font-style: italic; }
 
 .post-list { list-style-type: none;
@@ -470,115 +441,6 @@ dt { font-size: 1.7rem;
   white-space: nowrap;
 }
 
-/* COLOR BANDS */
-
-.color-bands {
-  box-sizing: border-box;
-  height: 80vh;
-}
-
-.color-band-border {
-  background-color: #000;
-  border: 10px solid #000;
-  height: 100%;
-  overflow: hidden;
-  transform: translateZ(0);
-}
-
-.color-band {
-  animation: sequence 12750ms ease;
-  animation-iteration-count: infinite;
-  -moz-animation-iteration-count: infinite;
-  -webkit-animation-iteration-count: infinite;
-  -o-animation-iteration-count: infinite;
-  background-color: #000;
-  height: 2%;
-}
-
-.band-01 { animation-delay:    0ms }
-.band-02 { animation-delay:   50ms }
-.band-03 { animation-delay:  100ms }
-.band-04 { animation-delay:  150ms }
-.band-05 { animation-delay:  200ms }
-.band-06 { animation-delay:  250ms }
-.band-07 { animation-delay:  300ms }
-.band-08 { animation-delay:  350ms }
-.band-09 { animation-delay:  400ms }
-.band-10 { animation-delay:  450ms }
-.band-11 { animation-delay:  500ms }
-.band-12 { animation-delay:  550ms }
-.band-13 { animation-delay:  600ms }
-.band-14 { animation-delay:  650ms }
-.band-15 { animation-delay:  700ms }
-.band-16 { animation-delay:  750ms }
-.band-17 { animation-delay:  800ms }
-.band-18 { animation-delay:  850ms }
-.band-19 { animation-delay:  900ms }
-.band-20 { animation-delay:  950ms }
-.band-21 { animation-delay: 1000ms }
-.band-22 { animation-delay: 1050ms }
-.band-23 { animation-delay: 1100ms }
-.band-24 { animation-delay: 1150ms }
-.band-25 { animation-delay: 1200ms }
-.band-26 { animation-delay: 1250ms }
-.band-27 { animation-delay: 1300ms }
-.band-28 { animation-delay: 1350ms }
-.band-29 { animation-delay: 1400ms }
-.band-30 { animation-delay: 1450ms }
-.band-31 { animation-delay: 1500ms }
-.band-32 { animation-delay: 1550ms }
-.band-33 { animation-delay: 1600ms }
-.band-34 { animation-delay: 1650ms }
-.band-35 { animation-delay: 1700ms }
-.band-36 { animation-delay: 1750ms }
-.band-37 { animation-delay: 1800ms }
-.band-38 { animation-delay: 1850ms }
-.band-39 { animation-delay: 1900ms }
-.band-40 { animation-delay: 1950ms }
-.band-41 { animation-delay: 2000ms }
-.band-42 { animation-delay: 2050ms }
-.band-43 { animation-delay: 2100ms }
-.band-44 { animation-delay: 2150ms }
-.band-45 { animation-delay: 2200ms }
-.band-46 { animation-delay: 2250ms }
-.band-47 { animation-delay: 2300ms }
-.band-48 { animation-delay: 2350ms }
-.band-49 { animation-delay: 2400ms }
-.band-50 { animation-delay: 2450ms }
-.band-51 { animation-delay: 2500ms }
-.band-52 { animation-delay: 2550ms }
-
-@keyframes sequence {
-    0% { background-color: #c6001c; }
-    4% { background-color: #005a9f; }
-    8% { background-color: #ff5200; }
-   12% { background-color: #008215; }
-   16% { background-color: #ffcb00; }
-   20% { background-color: #005a9f; }
-   24% { background-color: #41266b; }
-   28% { background-color: #005a9f; }
-   32% { background-color: #c6001c; }
-   36% { background-color: #ff5200; }
-   40% { background-color: #008215; }
-   44% { background-color: #41266b; }
-   48% { background-color: #ffcb00; }
-   52% { background-color: #005a9f; }
-   56% { background-color: #41266b; }
-   60% { background-color: #008215; }
-   64% { background-color: #c6001c; }
-   68% { background-color: #ff5200; }
-   72% { background-color: #005a9f; }
-   76% { background-color: #ffcb00; }
-   80% { background-color: #41266b; }
-   84% { background-color: #008215; }
-   88% { background-color: #41266b; }
-   92% { background-color: #005a9f; }
-   96% { background-color: #ff5200; }
-  100% { background-color: #008215; }
-}
-
-/* END COLOR BANDS */
-
 @media (min-width: 390px) {
   nav { height: auto; }
 }
@@ -587,7 +449,7 @@ dt { font-size: 1.7rem;
                                    padding-left: 4%;
                                    padding-right: 4%; }
 			    nav { padding-right: 0; }
-			    nav li { padding-left:.3rem; }
+			    nav li { padding-left:.5rem; }
 			    h1 { margin-top: 2rem; }
                             h1 + div.epigraph { margin: 5em 0 3em; }
                             h1 + div.epigraph > blocquote { margin-bottom: 2em; }
