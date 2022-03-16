@@ -351,6 +351,47 @@ dt { font-size: 1.7rem;
      margin-bottom: .6em;
      margin-top: 2rem; }
 
+.colophon {
+  overflow: auto;
+}
+
+.colophon dl {
+  box-sizing: border-box;
+  float: left;
+  padding: 0;
+  position: relative;
+  width: 100%;
+}
+
+.colophon dd {
+  float: left;
+  margin: .3rem 0 0;
+  padding-left: 1rem;
+}
+
+.colophon dd + dd {
+  clear: left;
+  margin-left: 10rem;
+}
+
+.colophon dt {
+  clear: left;
+  float: left;
+  font-size: 1.4rem;
+  margin: .3rem 0 0;
+  width: 10rem;
+}
+
+.colophon dt:after {
+  content: ":"
+}
+
+@media (min-width: 760px) {
+  .colophon dl { padding-left: 1rem; }
+  .colophon dt { width: 12rem; }
+  .colophon dd + dd { margin-left: 12rem; }
+}
+
 .post-meta { font-style: italic; }
 
 .post-list { list-style-type: none;
