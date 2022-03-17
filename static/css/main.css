@@ -718,6 +718,11 @@ nav li {
     width: 92%;
   }
 
+  header > nav {
+    margin-bottom: .5rem;
+    margin-top: .5rem;
+  }
+
   hr,
   section > p,
   section > footer,
