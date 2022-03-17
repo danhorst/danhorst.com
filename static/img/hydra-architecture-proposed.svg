@@ -1,5 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" version="1.2" width="540" height="460">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 540 460">
+  <title>Proposed Hydra Architecture</title>
+  <desc>
+    Block diagram with simple applciation stacks that communicate over a Hypermida API to a data abstraction layer.
+    The API layer wrapps shared Fedora and Solr backing services and consolidates common content models and serializers.
+  </desc>
   <defs>
+    <style>.t,.c{font-size: 14px}.c{text-anchor:middle}.b{fill:none;stroke-linejoin:round}</style>
     <marker orient="auto" id="a" overflow="visible">
       <path d="M8.719 4.034L-2.207.016 8.719-4.002c-1.746 2.372-1.736 5.618 0 8.036z" transform="scale(.6)" fill-rule="evenodd" stroke-width=".625" stroke-linejoin="round"/>
     </marker>
@@ -7,138 +13,78 @@
       <path d="M8.719 4.034L-2.207.016 8.719-4.002c-1.746 2.372-1.736 5.618 0 8.036z" transform="scale(-.6)" fill-rule="evenodd" stroke-width=".625" stroke-linejoin="round"/>
     </marker>
   </defs>
-  <text x="250.354" y="813.248" style="text-align:start;line-height:123.00000191%;-inkscape-font-specification:Myriad Pro" font-size="24" font-weight="400" letter-spacing="0" word-spacing="0" font-family="Myriad Pro" transform="translate(-185 -517.5)">
-    <tspan x="250.354" y="813.248">Solr</tspan>
+  <path class="b" stroke="#000" d="M40 242.36h90v90H40z"/>
+  <text x="65.354" y="295.748" font-size="24">Solr</text>
+  <path class="b" stroke="#000" d="M140 242.36h220v130H140z"/>
+  <text x="198.023" y="319.942" font-size="36">Fedora</text>
+  <path class="b" stroke="#000" d="M370 187.36h60v35h-60z"/>
+  <text class="c" x="399.924" y="202.858">
+    <tspan x="399.924" y="202.858">Content</tspan><tspan x="399.924" y="216.298">Model</tspan>
   </text>
-  <path fill="none" stroke="#000" stroke-linejoin="round" d="M40 242.36h90v90H40z"/>
-  <text x="218.023" y="817.442" style="text-align:start;line-height:123.00000191%;-inkscape-font-specification:Myriad Pro" font-size="36" font-weight="400" letter-spacing="0" word-spacing="0" font-family="Myriad Pro" transform="translate(-20 -497.5)">
-    <tspan x="218.023" y="817.442">Fedora</tspan>
+  <path class="b" stroke="#000" d="M370 227.36h60v35h-60z"/>
+  <text class="c" x="399.924" y="242.858">
+    <tspan x="399.924" y="242.858">Content</tspan><tspan x="399.924" y="256.298">Model</tspan>
   </text>
-  <path fill="none" stroke="#000" stroke-linejoin="round" d="M140 242.36h220v130H140z"/>
-  <text x="269.924" y="825.358" style="text-align:center;line-height:95.99999785%;-inkscape-font-specification:Myriad Pro" font-size="14" font-weight="400" letter-spacing="0" word-spacing="0" text-anchor="middle" font-family="Myriad Pro" transform="translate(130 -622.5)">
-    <tspan x="269.924" y="825.358">Content</tspan><tspan x="269.924" y="838.798">Model</tspan>
+  <path class="b" stroke="#000" d="M370 267.36h60v35h-60z"/>
+  <text class="c" x="399.924" y="282.858">
+    <tspan x="399.924" y="282.858">Content</tspan><tspan x="399.924" y="296.298">Model</tspan>
   </text>
-  <path fill="none" stroke="#000" stroke-linejoin="round" d="M370 187.36h60v35h-60z"/>
-  <text x="269.924" y="825.358" style="text-align:center;line-height:95.99999785%;-inkscape-font-specification:Myriad Pro" font-size="14" font-weight="400" letter-spacing="0" word-spacing="0" text-anchor="middle" font-family="Myriad Pro" transform="translate(130 -582.5)">
-    <tspan x="269.924" y="825.358">Content</tspan><tspan x="269.924" y="838.798">Model</tspan>
+  <path class="b" stroke="#000" d="M370 307.36h60v35h-60z"/>
+  <text class="c" x="399.924" y="322.858">
+    <tspan x="399.924" y="322.858">Content</tspan><tspan x="399.924" y="336.298">Model</tspan>
   </text>
-  <path fill="none" stroke="#000" stroke-linejoin="round" d="M370 227.36h60v35h-60z"/>
-  <text x="269.924" y="825.358" style="text-align:center;line-height:95.99999785%;-inkscape-font-specification:Myriad Pro" font-size="14" font-weight="400" letter-spacing="0" word-spacing="0" text-anchor="middle" font-family="Myriad Pro" transform="translate(130 -542.5)">
-    <tspan x="269.924" y="825.358">Content</tspan><tspan x="269.924" y="838.798">Model</tspan>
+  <path class="b" stroke="#000" d="M435 187.36h60v35h-60z"/>
+  <text class="c" x="464.924" y="202.858">
+    <tspan x="464.924" y="202.858">Content</tspan><tspan x="464.924" y="216.298">Model</tspan>
   </text>
-  <path fill="none" stroke="#000" stroke-linejoin="round" d="M370 267.36h60v35h-60z"/>
-  <text x="269.924" y="825.358" style="text-align:center;line-height:95.99999785%;-inkscape-font-specification:Myriad Pro" font-size="14" font-weight="400" letter-spacing="0" word-spacing="0" text-anchor="middle" font-family="Myriad Pro" transform="translate(130 -502.5)">
-    <tspan x="269.924" y="825.358">Content</tspan><tspan x="269.924" y="838.798">Model</tspan>
+  <path class="b" stroke="#000" d="M435 227.36h60v35h-60z"/>
+  <text class="c" x="464.924" y="242.858">
+    <tspan x="464.924" y="242.858">Content</tspan><tspan x="464.924" y="256.298">Model</tspan>
   </text>
-  <path fill="none" stroke="#000" stroke-linejoin="round" d="M370 307.36h60v35h-60z"/>
-  <text x="269.924" y="825.358" style="text-align:center;line-height:95.99999785%;-inkscape-font-specification:Myriad Pro" font-size="14" font-weight="400" letter-spacing="0" word-spacing="0" text-anchor="middle" font-family="Myriad Pro" transform="translate(195 -622.5)">
-    <tspan x="269.924" y="825.358">Content</tspan><tspan x="269.924" y="838.798">Model</tspan>
+  <path class="b" stroke="#000" d="M435 267.36h60v35h-60z"/>
+  <text class="c" x="464.924" y="282.858">
+    <tspan x="464.924" y="282.858">Content</tspan><tspan x="464.924" y="296.298">Model</tspan>
   </text>
-  <path fill="none" stroke="#000" stroke-linejoin="round" d="M435 187.36h60v35h-60z"/>
-  <text x="269.924" y="825.358" style="text-align:center;line-height:95.99999785%;-inkscape-font-specification:Myriad Pro" font-size="14" font-weight="400" letter-spacing="0" word-spacing="0" text-anchor="middle" font-family="Myriad Pro" transform="translate(195 -582.5)">
-    <tspan x="269.924" y="825.358">Content</tspan><tspan x="269.924" y="838.798">Model</tspan>
+  <path class="b" stroke="#000" d="M435 307.36h60v35h-60z"/>
+  <text class="c" x="269.924" y="322.858">
+    <tspan x="464.924" y="322.858">Content</tspan><tspan x="464.924" y="336.298">Model</tspan>
   </text>
-  <path fill="none" stroke="#000" stroke-linejoin="round" d="M435 227.36h60v35h-60z"/>
-  <text x="269.924" y="825.358" style="text-align:center;line-height:95.99999785%;-inkscape-font-specification:Myriad Pro" font-size="14" font-weight="400" letter-spacing="0" word-spacing="0" text-anchor="middle" font-family="Myriad Pro" transform="translate(195 -542.5)">
-    <tspan x="269.924" y="825.358">Content</tspan><tspan x="269.924" y="838.798">Model</tspan>
-  </text>
-  <path fill="none" stroke="#000" stroke-linejoin="round" d="M435 267.36h60v35h-60z"/>
-  <text x="269.924" y="825.358" style="text-align:center;line-height:95.99999785%;-inkscape-font-specification:Myriad Pro" font-size="14" font-weight="400" letter-spacing="0" word-spacing="0" text-anchor="middle" font-family="Myriad Pro" transform="translate(195 -502.5)">
-    <tspan x="269.924" y="825.358">Content</tspan><tspan x="269.924" y="838.798">Model</tspan>
-  </text>
-  <path fill="none" stroke="#000" stroke-linejoin="round" d="M435 307.36h60v35h-60z"/>
-  <text x="25.946" y="832.253" style="text-align:start;line-height:123.00000191%;-inkscape-font-specification:Myriad Pro" font-size="14" font-weight="400" letter-spacing="0" word-spacing="0" font-family="Myriad Pro" transform="translate(415 -470)">
-    <tspan x="25.946" y="832.253">Serializer</tspan>
-  </text>
-  <path fill="none" stroke="#000" stroke-linejoin="round" d="M435 347.36h65v20h-65z"/>
-  <text x="25.946" y="832.253" style="text-align:start;line-height:123.00000191%;-inkscape-font-specification:Myriad Pro" font-size="14" font-weight="400" letter-spacing="0" word-spacing="0" font-family="Myriad Pro" transform="translate(415 -445)">
-    <tspan x="25.946" y="832.253">Serializer</tspan>
-  </text>
-  <path fill="none" stroke="#000" stroke-linejoin="round" d="M435 372.36h65v20h-65z"/>
-  <text x="25.946" y="832.253" style="text-align:start;line-height:123.00000191%;-inkscape-font-specification:Myriad Pro" font-size="14" font-weight="400" letter-spacing="0" word-spacing="0" font-family="Myriad Pro" transform="translate(415 -420)">
-    <tspan x="25.946" y="832.253">Serializer</tspan>
-  </text>
-  <path fill="none" stroke="#000" stroke-linejoin="round" d="M435 397.36h65v20h-65z"/>
-  <text x="25.946" y="832.253" style="text-align:start;line-height:123.00000191%;-inkscape-font-specification:Myriad Pro" font-size="14" font-weight="400" letter-spacing="0" word-spacing="0" font-family="Myriad Pro" transform="translate(345 -470)">
-    <tspan x="25.946" y="832.253">Serializer</tspan>
-  </text>
-  <path fill="none" stroke="#000" stroke-linejoin="round" d="M365 347.36h65v20h-65z"/>
-  <g>
-    <text x="25.946" y="832.253" style="text-align:start;line-height:123.00000191%;-inkscape-font-specification:Myriad Pro" font-size="14" font-weight="400" letter-spacing="0" word-spacing="0" font-family="Myriad Pro" transform="translate(345 -445)">
-      <tspan x="25.946" y="832.253">Serializer</tspan>
-    </text>
-    <path fill="none" stroke="#000" stroke-linejoin="round" d="M365 372.36h65v20h-65z"/>
-  </g>
-  <g>
-    <text x="25.946" y="832.253" style="text-align:start;line-height:123.00000191%;-inkscape-font-specification:Myriad Pro" font-size="14" font-weight="400" letter-spacing="0" word-spacing="0" font-family="Myriad Pro" transform="translate(345 -420)">
-      <tspan x="25.946" y="832.253">Serializer</tspan>
-    </text>
-    <path fill="none" stroke="#000" stroke-linejoin="round" d="M365 397.36h65v20h-65z"/>
-  </g>
-  <g>
-    <path fill="none" stroke="#000" stroke-linejoin="round" d="M40 212.36h90v20H40z"/>
-    <text x="25" y="647.36" style="text-align:start;line-height:123.00000191%;-inkscape-font-specification:Myriad Pro" font-size="14" font-weight="400" letter-spacing="0" word-spacing="0" font-family="Myriad Pro" transform="translate(20 -420)">
-      <tspan x="25" y="647.36">Blacklight</tspan>
-    </text>
-  </g>
-  <g>
-    <text x="25" y="672.36" style="text-align:start;line-height:123.00000191%;-inkscape-font-specification:Myriad Pro" font-size="14" font-weight="400" letter-spacing="0" word-spacing="0" font-family="Myriad Pro" transform="translate(232.5 -445)">
-      <tspan x="25" y="672.36">Om</tspan>
-    </text>
-    <path fill="none" stroke="#000" stroke-linejoin="round" d="M252.5 212.36h90v20h-90z"/>
-  </g>
-  <g>
-    <text x="25" y="722.36" style="text-align:start;line-height:123.00000191%;-inkscape-font-specification:Myriad Pro" font-size="14" font-weight="400" letter-spacing="0" word-spacing="0" font-family="Myriad Pro" transform="translate(137.5 -495)">
-      <tspan x="25" y="722.36">Rubydora</tspan>
-    </text>
-    <path fill="none" stroke="#000" stroke-linejoin="round" d="M157.5 212.36h90v20h-90z"/>
-  </g>
-  <g>
-    <text x="25" y="697.36" style="text-align:start;line-height:123.00000191%;-inkscape-font-specification:Myriad Pro" font-size="14" font-weight="400" letter-spacing="0" word-spacing="0" font-family="Myriad Pro" transform="translate(185 -495)">
-      <tspan x="25" y="697.36">ActiveFedora</tspan>
-    </text>
-    <path fill="none" stroke="#000" stroke-linejoin="round" d="M205 187.36h90v20h-90z"/>
-  </g>
+  <path class="b" stroke="#000" d="M435 347.36h65v20h-65z"/>
+  <text class="t" x="440.946" y="362.253">Serializer</text>
+  <path class="b" stroke="#000" d="M435 372.36h65v20h-65z"/>
+  <text class="t" x="440.946" y="387.253">Serializer</text>
+  <path class="b" stroke="#000" d="M435 397.36h65v20h-65z"/>
+  <text class="t" x="440.946" y="412.253">Serializer</text>
+  <path class="b" stroke="#000" d="M365 347.36h65v20h-65z"/>
+  <text class="t" x="370.946" y="362.253">Serializer</text>
+  <path class="b" stroke="#000" d="M365 372.36h65v20h-65z"/>
+  <text class="t" x="370.946" y="387.253">Serializer</text>
+  <path class="b" stroke="#000" d="M365 397.36h65v20h-65z"/>
+  <text class="t" x="370.946" y="412.253">Serializer</text>
+  <path class="b" stroke="#000" d="M40 212.36h90v20H40z"/>
+  <text class="t" x="45" y="227.36">Blacklight</text>
+  <path class="b" stroke="#000" d="M252.5 212.36h90v20h-90z"/>
+  <text class="t" x="257.5" y="227.36">Om</text>
+  <path class="b" stroke="#000" d="M157.5 212.36h90v20h-90z"/>
+  <text class="t" x="162.5" y="227.36">Rubydora</text>
+  <path class="b" stroke="#000" d="M205 187.36h90v20h-90z"/>
+  <text class="t" x="210" y="202.36">ActiveFedora</text>
   <path fill="none" stroke="#000" stroke-width=".985" stroke-linejoin="round" stroke-dasharray=".98521988,.98521988" d="M30 177.36h480v255H30z"/>
-  <text x="30" y="782.36" style="text-align:start;line-height:123.00000191%;-inkscape-font-specification:Myriad Pro Bold" font-size="12" font-weight="700" letter-spacing="0" word-spacing="0" font-family="Myriad Pro" transform="translate(0 -610)">
-    <tspan x="30" y="782.36">Hypermedia API Wrapper</tspan>
-  </text>
-  <g>
-    <path fill="none" stroke="#000" stroke-linejoin="round" d="M65 29.86h90v20H65z"/>
-    <text x="35" y="647.36" style="text-align:start;line-height:123.00000191%;-inkscape-font-specification:Myriad Pro" font-size="14" font-weight="400" letter-spacing="0" word-spacing="0" font-family="Myriad Pro" transform="translate(35 -602.5)">
-      <tspan x="35" y="647.36">API Client</tspan>
-    </text>
-    <path fill="none" stroke="#000" stroke-linejoin="round" stroke-dasharray="1,1" d="M55 19.86h110v40H55z"/>
-  </g>
-  <g>
-    <path fill="none" stroke="#000" stroke-linejoin="round" d="M250 42.36h90v20h-90z"/>
-    <text x="165" y="702.36" style="text-align:start;line-height:123.00000191%;-inkscape-font-specification:Myriad Pro" font-size="14" font-weight="400" letter-spacing="0" word-spacing="0" font-family="Myriad Pro" transform="translate(90 -645)">
-      <tspan x="165" y="702.36">API Client</tspan>
-    </text>
-    <path fill="none" stroke="#000" stroke-linejoin="round" stroke-dasharray="1,1" d="M190 7.36h160v65H190z"/>
-    <path fill="none" stroke="#000" stroke-linejoin="round" d="M250 17.36h90v20h-90z"/>
-    <text x="25" y="647.36" style="text-align:start;line-height:123.00000191%;-inkscape-font-specification:Myriad Pro" font-size="14" font-weight="400" letter-spacing="0" word-spacing="0" font-family="Myriad Pro" transform="translate(230 -615)">
-      <tspan x="25" y="647.36">Blacklight</tspan>
-    </text>
-    <g>
-      <text x="258.54" y="809.753" style="text-align:start;line-height:123.00000191%;-inkscape-font-specification:Myriad Pro" font-size="15.75" font-weight="400" letter-spacing="0" word-spacing="0" font-family="Myriad Pro" transform="translate(-47.5 -765)">
-        <tspan x="258.54" y="809.753" font-size="14">Solr</tspan>
-      </text>
-      <path fill="none" stroke="#000" stroke-width="1.125" stroke-linejoin="round" d="M200 17.36h45v45h-45z"/>
-    </g>
-  </g>
-  <g>
-    <path fill="none" stroke="#000" stroke-linejoin="round" d="M380 42.36h90v20h-90z"/>
-    <text x="35" y="647.36" style="text-align:start;line-height:123.00000191%;-inkscape-font-specification:Myriad Pro" font-size="14" font-weight="400" letter-spacing="0" word-spacing="0" font-family="Myriad Pro" transform="translate(350 -590)">
-      <tspan x="35" y="647.36">API Client</tspan>
-    </text>
-    <path fill="none" stroke="#000" stroke-linejoin="round" stroke-dasharray="1,1" d="M370 7.36h110v65H370z"/>
-    <g>
-      <text x="25.946" y="832.253" style="text-align:start;line-height:123.00000191%;-inkscape-font-specification:Myriad Pro" font-size="14" font-weight="400" letter-spacing="0" word-spacing="0" font-family="Myriad Pro" transform="translate(360 -800)">
-        <tspan x="25.946" y="832.253">Serializer</tspan>
-      </text>
-      <path fill="none" stroke="#000" stroke-linejoin="round" d="M380 17.36h65v20h-65z"/>
-    </g>
-  </g>
+  <text x="30" y="172.36" font-size="12">Hypermedia API Wrapper</text>
+  <path class="b" stroke="#000" stroke-dasharray="1,1" d="M55 19.86h110v40H55z"/>
+  <path class="b" stroke="#000" d="M65 29.86h90v20H65z"/>
+  <text class="t" x="70" y="44.86">API Client</text>
+  <path class="b" stroke="#000" stroke-dasharray="1,1" d="M190 7.36h160v65H190z"/>
+  <path class="b" stroke="#000" d="M200 17.36h45v45h-45z"/>
+  <text x="211.04" y="44.753">Solr</text>
+  <path class="b" stroke="#000" d="M250 17.36h90v20h-90z"/>
+  <text x="255" y="32.36">Blacklight</text>
+  <path class="b" stroke="#000" d="M250 42.36h90v20h-90z"/>
+  <text class="t" x="255" y="57.36">API Client</text>
+  <path class="b" stroke="#000" stroke-dasharray="1,1" d="M370 7.36h110v65H370z"/>
+  <path class="b" stroke="#000" d="M380 17.36h65v20h-65z"/>
+  <text class="t" x="385" y="32.253">Serializer</text>
+  <path class="b" stroke="#000" d="M380 42.36h90v20h-90z"/>
+  <text class="t" x="385" y="57.36">API Client</text>
   <path d="M105 120l90 100M270 130v90M320 220l100-85" transform="translate(0 -52.64)" fill="none" stroke="#000" stroke-width="2" marker-start="url(#a)" marker-end="url(#b)"/>
 </svg>

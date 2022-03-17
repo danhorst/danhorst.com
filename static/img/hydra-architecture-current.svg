@@ -4,7 +4,7 @@
     Block diagram with different applciation stacks that have repeating elements: Blacklight, Om, ActiveFedora, and RubyDora.
     These applciation stacks all communicated with shared Fedora and Solr backing services.
   </desc>
-   <defs><style>.t,.c{font-size: 14px}.c{text-anchor:middle}.b{fill:none;stroke-linejoin:round}</style></defs>
+  <defs><style>.t,.c{font-size: 14px}.c{text-anchor:middle}.b{fill:none;stroke-linejoin:round}</style></defs>
   <path class="b" stroke-dasharray="1,1" d="M10 15h155v200H10z"/>
   <path class="b" d="M40 25h90v20H40z"/>
   <text class="t" y="40" x="45">Blacklight</text>
