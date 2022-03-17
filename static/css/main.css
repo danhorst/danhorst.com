@@ -59,6 +59,14 @@ body {
   html {
     background-color: #000;
   }
+
+  figure > svg path {
+    stroke: #fff;
+  }
+
+  figure > svg text {
+    fill: #efefef;
+  }
 }
 
 h1 {
@@ -414,6 +422,10 @@ dt {
   font-size: 1.7rem;
   margin-bottom: .6em;
   margin-top: 2rem;
+}
+
+figure > svg {
+  width: 100%;
 }
 
 .colophon {
