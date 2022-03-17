@@ -52,11 +52,12 @@ body {
 /* Adds dark mode */
 @media (prefers-color-scheme: dark) {
   body {
-    background-color: #151515;
-    color: #ddd;
+    background-color: #000;
+    color: #efefef;
   }
+
   html {
-    background-color: #151515;
+    background-color: #000;
   }
 }
 
@@ -321,7 +322,7 @@ table.fullwidth {
 }
 
 div.table-wrapper {
-  font-family: "Trebuchet MS", "Gill Sans", "Gill Sans MT", sans-serif;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
   overflow-x: auto;
 }
 
@@ -539,6 +540,10 @@ dt {
   visibility: visible;
 }
 
+li::has(>input[type='checkbox']) {
+  list-style-type: none;
+}
+
 .topic-list {
   font-size: .67em;
   font-style: normal;
@@ -675,6 +680,7 @@ nav li {
 
 @media (min-width: 760px) {
   header > nav {
+    margin-bottom: 1.5rem;
     margin-top: 1.5rem;
   }
 }
