@@ -713,9 +713,9 @@ nav li {
 
 @media (max-width: 760px) {
   body {
-    padding-left: 8%;
-    padding-right: 8%;
-    width: 84%;
+    padding-left: 4%;
+    padding-right: 4%;
+    width: 92%;
   }
 
   hr,
