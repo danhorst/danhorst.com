@@ -157,7 +157,13 @@ div.epigraph > blockquote {
   margin-top: 3em;
 }
 
+section > blockquote {
+  margin-bottom: 2em;
+  margin-top: 1em;
+}
+
 main > h1 + blockquote,
+section > blockquote,
 div.epigraph > blockquote,
 div.epigraph > blockquote > p {
   font-style: italic;
@@ -430,6 +436,10 @@ figure > svg {
   width: 100%;
 }
 
+main > article:first-child {
+  padding-top: 0;
+}
+
 .archived-post {
   padding: 1rem 0;
 }
@@ -676,6 +686,10 @@ nav li {
   padding-left: 1rem;
 }
 
+nav li:first-child {
+  padding-left: 0;
+}
+
 @media (min-width: 390px) {
   nav {
     height: auto;
@@ -688,7 +702,7 @@ nav li {
   }
 
   nav li {
-    padding-left:.5rem;
+    padding-left: .5rem;
   }
 
   .section-navigation {
@@ -707,14 +721,14 @@ nav li {
 
 @media (max-width: 760px) {
   body {
-    padding-left: 4%;
-    padding-right: 4%;
-    width: 92%;
+    padding-left: 5%;
+    padding-right: 5%;
+    width: 90%;
   }
 
   header > nav {
-    margin-bottom: .5rem;
-    margin-top: .5rem;
+    margin-bottom: 0;
+    margin-top: 1rem;
   }
 
   hr,
