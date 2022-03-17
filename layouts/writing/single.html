@@ -4,7 +4,7 @@
   {{ if .Params.categories }}
     {{ range $index, $category := .Params.categories }}
       {{ if eq $category "Archived" }}
-      <article>
+      <article class="archived-post">
 	<section>
 	  <p><em>
 	    I wrote this when I was the Digital Library Applications Lead at the University of Notre Dame.

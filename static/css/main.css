@@ -428,6 +428,10 @@ figure > svg {
   width: 100%;
 }
 
+.archived-post {
+  padding: 1rem 0;
+}
+
 .colophon {
   overflow: auto;
 }
@@ -789,7 +793,7 @@ nav li {
   }
 }
 
-@media (min-width: 1400px) {
+@media (min-width: 2048px) {
   html {
     font-size: 22px;
   }
