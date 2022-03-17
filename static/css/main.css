@@ -151,11 +151,13 @@ div.epigraph {
   margin: 5em 0;
 }
 
+main > h1 + blockquote,
 div.epigraph > blockquote {
   margin-bottom: 3em;
   margin-top: 3em;
 }
 
+main > h1 + blockquote,
 div.epigraph > blockquote,
 div.epigraph > blockquote > p {
   font-style: italic;
