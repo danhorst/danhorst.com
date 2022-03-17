@@ -1,6 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 400 340" aria-label="[title + description]">
   <title>Hierarchy of User Needs</title>
-  <desc>A line drawing of a pyramid. Starting from the base the layers are labeled as functional, reliable, usable, and pleasurable. The peak of the pyramid is indicated to be missing.</desc>
+  <desc>
+    A line drawing of a pyramid.
+    Starting from the base, the layers are labeled functional, reliable, usable, and pleasurable.
+    The peak of the pyramid is indicated to be missing.
+  </desc>
   <path d="M61.44 279.796l-25.344 45 339.282-.719-25.094-44.28H61.44z" fill="none" stroke="#000" stroke-width="2"/>
   <text x="167.346" y="308.226">Functional</text>
   <text x="176.714" y="258.136">Reliable</text>
