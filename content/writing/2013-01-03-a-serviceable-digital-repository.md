@@ -57,13 +57,101 @@ We already have half a dozen applications and will build at least that many this
 I think this will create a maintenance nightmare.
 
 <figure class="illustration">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 495" aria-label="[title + description]">
+  <title>Current Hydra Architecture</title>
+  <desc>
+    Block diagram with different applciation stacks that have duplicate elements: Blacklight, Om, ActiveFedora, and RubyDora.
+    These applciation stacks all communicated with shared Fedora and Solr backing services.
+  </desc>
+   <defs><style>.t,.c{font-size: 14px}.c{text-anchor:middle}.b{fill:none;stroke-linejoin:round}</style></defs>
+  <path class="b" stroke-dasharray="1,1" d="M10 15h155v200H10z"/>
+  <path class="b" d="M40 25h90v20H40z"/>
+  <text class="t" y="40" x="45">Blacklight</text>
+  <path class="b" d="M40 50h90v20H40z"/>
+  <text class="t" y="65" x="45">Om</text>
+  <path class="b" d="M40 100h90v20H40z"/>
+  <text class="t" y="115" x="45">Rubydora</text>
+  <text class="t" y="90" x="45">ActiveFedora</text>
+  <path class="b" d="M40 75h90v20H40z"/>
+  <text class="t" y="144.893" x="25.946">Serializer</text>
+  <path class="b" d="M20 130h65v20H20z"/>
+  <path class="b" d="M95 130h60v35H95z"/>
+  <text class="c" y="145.498" x="124.924">
+    <tspan y="145.498" x="124.924">Content</tspan><tspan y="158.938" x="124.924">Model</tspan>
+  </text>
+  <path class="b" d="M95 170h60v35H95z"/>
+  <text class="c" y="185.49" x="124.924">
+    <tspan y="185.49" x="124.924">Content</tspan><tspan y="198.938" x="124.924">Model</tspan>
+  </text>
+  <path class="b" stroke-dasharray="1,1" d="M195 15h155v280H195z"/>
+  <path class="b" d="M225 25h90v20h-90z"/>
+  <text class="t" y="40" x="230">Blacklight</text>
+  <path class="b" d="M225 50h90v20h-90z"/>
+  <text class="t" y="65" x="230">Om</text>
+  <path class="b" d="M225 75h90v20h-90z"/>
+  <text class="t" y="90" x="230">ActiveFedora</text>
+  <path class="b" d="M225 100h90v20h-90z"/>
+  <text class="t" y="115" x="230">Rubydora</text>
+  <path class="b" d="M205 130h65v20h-65z"/>
+  <text class="t" y="144.893" x="210.946">Serializer</text>
+  <path class="b" d="M205 155h65v20h-65z"/>
+  <text class="t" y="169.893" x="210.946">Serializer</text>
+  <path class="b" d="M205 180h65v20h-65z"/>
+  <text class="t" y="194.893" x="210.946">Serializer</text>
+  <path class="b" d="M280 130h60v35h-60z"/>
+  <text class="c" y="145.498" x="309.924">
+    <tspan y="145.498" x="309.924">Content</tspan><tspan y="158.938" x="309.924">Model</tspan>
+  </text>
+  <path class="b" d="M280 170h60v35h-60z"/>
+  <text class="c" y="185.498" x="309.924">
+    <tspan y="185.498" x="309.924">Content</tspan><tspan y="198.938" x="309.924">Model</tspan>
+  </text>
+  <path class="b" d="M280 210h60v35h-60z"/>
+  <text class="c" y="225.498" x="309.924">
+    <tspan y="225.498" x="309.924">Content</tspan><tspan y="238.938" x="309.924">Model</tspan>
+  </text>
+  <path class="b" d="M280 250h60v35h-60z"/>
+  <text class="c" y="265.498" x="309.924">
+    <tspan y="265.498" x="309.924">Content</tspan><tspan y="278.938" x="309.924">Model</tspan>
+  </text>
+  <path class="b" stroke-dasharray="1,1" d="M375 15h155v240H375z"/>
+  <path class="b" d="M405 25h90v20h-90z"/>
+  <text class="t" y="40" x="410">Blacklight</text>
+  <path class="b" d="M405 50h90v20h-90z"/>
+  <text class="t" y="65" x="410">Om</text>
+  <path class="b" d="M405 75h90v20h-90z"/>
+  <text class="t" y="90" x="410">ActiveFedora</text>
+  <path class="b" d="M405 100h90v20h-90z"/>
+  <text class="t" y="115" x="410">Rubydora</text>
+  <path class="b" d="M385 130h65v20h-65z"/>
+  <text class="t" y="144.393" x="390.946">Serializer</text>
+  <path class="b" d="M385 155h65v20h-65z"/>
+  <text class="t" y="169.893" x="390.946">Serializer</text>
+  <text class="c" y="145.498" x="489.924">
+    <tspan y="145.498" x="489.924">Content</tspan><tspan y="158.938" x="489.924">Model</tspan>
+  </text>
+  <path class="b" d="M460 130h60v35h-60z"/>
+  <text class="c" y="185.498" x="489.924">
+    <tspan y="185.498" x="489.924">Content</tspan><tspan y="198.938" x="489.924">Model</tspan>
+  </text>
+  <path class="b" d="M460 170h60v35h-60z"/>
+  <text class="c" y="225.498" x="489.924">
+    <tspan y="225.498" x="489.924">Content</tspan><tspan y="238.938" x="489.924">Model</tspan>
+  </text>
+  <path class="b" d="M460 210h60v35h-60z"/>
+  <text y="408.338" x="125.354" font-size="24">Solr</text>
+  <path class="b" d="M100 355h90v90h-90z"/>
+  <text y="432.582" x="258.023" font-size="36">Fedora</text>
+  <path class="b" d="M200 355h220v130H200z"/>
+  <path d="M115 220s0 105 60 105c30 0 40.004 1.075 49.621 5.884C233.485 336.389 240 350 240 350" fill="none" stroke="#000" stroke-width="2"/>
+  <path d="M140 350s-5-40 25-40 30 5 55-10M270 300c-5 10-10 20-5 30s20 20 20 20" fill="none" stroke="#000" stroke-width="2"/>
+  <path d="M410 260s0 60-50 65-125 0-170-5c-30-5-34.568 7.162-30 30M425 370c35.271-23.515 39.542-40.935 25-60-14.542-19.065-10-30 0-50M45 225s18.365 33.365 40 55c25 25 25 70 25 70" fill="none" stroke="#000" stroke-width="2"/>
+  <path d="M41.99 220.962l4.487 14.94s.648-2.96 2.452-4.116c1.804-1.157 4.764-.51 4.764-.51zM110.996 353.304l1.802-15.496s-1.768 2.461-3.883 2.808c-2.114.347-4.576-1.42-4.576-1.42zM114.495 216.803l-3.266 15.254s1.993-2.282 4.131-2.426c2.138-.144 4.42 1.85 4.42 1.85zM410.67 256.459l-5.609 14.556s2.326-1.942 4.46-1.75c2.134.19 4.077 2.517 4.077 2.517zM271.198 296.334l-9.9 12.056s2.819-1.113 4.785-.26c1.966.852 3.079 3.67 3.079 3.67zM288.483 352.711l-8.81-12.874s.282 3.017-1.086 4.667-4.385 1.93-4.385 1.93zM241.736 353.324l-4.08-15.057s-.727 2.942-2.562 4.049c-1.835 1.107-4.777.38-4.777.38zM160.74 353.49l2.045-15.465s-1.806 2.433-3.926 2.747c-2.12.314-4.553-1.493-4.553-1.493zM223.925 297.986l-15.132 3.793s2.928.783 4 2.639c1.071 1.855.288 4.782.288 4.782zM140.966 352.795l2.318-15.427s-1.85 2.4-3.974 2.677c-2.125.276-4.526-1.573-4.526-1.573zM451.055 257.501l-10.272 11.742s2.852-1.025 4.79-.111c1.939.913 2.963 3.765 2.963 3.765zM423.156 371.465l14.729-5.142s-2.986-.516-4.221-2.267c-1.235-1.752-.719-4.738-.719-4.738z" stroke="#000" stroke-width=".429"/>
+</svg>
 <figcaption class="marginnote">
   <em>Our Current Repository Architecture</em>
   The APIs for Fedora and Solr are the integration layer between applications.
 </figcaption>
-<div id="current-hydra-architecture" class="canvas">
-  <img src="/img/hydra-architecture-current.svg" alt="A line drawing of of the current repository arcitecture. Each application must manage it's connection to both Solr and Fedora. There are several duplicated components accross applications. ">
-</div>
 </figure>
 
 ## An API-Driven Architecture
