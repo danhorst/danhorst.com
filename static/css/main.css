@@ -699,18 +699,6 @@ nav li {
 
 /* Media Queries */
 
-@media (min-width: 1024px) {
-  html {
-    font-size: 18px;
-  }
-}
-
-@media (min-width: 1400px) {
-  html {
-    font-size: 22px;
-  }
-}
-
 @media (max-width: 760px) {
   body {
     padding-left: 4%;
@@ -792,5 +780,17 @@ nav li {
 
   img {
     width: 100%;
+  }
+}
+
+@media (min-width: 1024px) {
+  html {
+    font-size: 18px;
+  }
+}
+
+@media (min-width: 1400px) {
+  html {
+    font-size: 22px;
   }
 }
