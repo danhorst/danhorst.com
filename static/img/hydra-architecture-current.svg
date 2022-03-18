@@ -5,85 +5,85 @@
     These applciation stacks all communicated with shared Fedora and Solr backing services.
   </desc>
   <defs><style>.t,.c{font-size: 14px}.c{text-anchor:middle}.b{fill:none;stroke-linejoin:round}</style></defs>
-  <path class="b" stroke-dasharray="1,1" d="M10 15h155v200H10z"/>
-  <path class="b" d="M40 25h90v20H40z"/>
+  <path class="b" stroke="#000" stroke-dasharray="1,1" d="M10 15h155v200H10z"/>
+  <path class="b" stroke="#000" d="M40 25h90v20H40z"/>
   <text class="t" y="40" x="45">Blacklight</text>
-  <path class="b" d="M40 50h90v20H40z"/>
+  <path class="b" stroke="#000" d="M40 50h90v20H40z"/>
   <text class="t" y="65" x="45">Om</text>
-  <path class="b" d="M40 100h90v20H40z"/>
+  <path class="b" stroke="#000" d="M40 100h90v20H40z"/>
   <text class="t" y="115" x="45">Rubydora</text>
   <text class="t" y="90" x="45">ActiveFedora</text>
-  <path class="b" d="M40 75h90v20H40z"/>
+  <path class="b" stroke="#000" d="M40 75h90v20H40z"/>
   <text class="t" y="144.893" x="25.946">Serializer</text>
-  <path class="b" d="M20 130h65v20H20z"/>
-  <path class="b" d="M95 130h60v35H95z"/>
+  <path class="b" stroke="#000" d="M20 130h65v20H20z"/>
+  <path class="b" stroke="#000" d="M95 130h60v35H95z"/>
   <text class="c" y="145.498" x="124.924">
     <tspan y="145.498" x="124.924">Content</tspan><tspan y="158.938" x="124.924">Model</tspan>
   </text>
-  <path class="b" d="M95 170h60v35H95z"/>
+  <path class="b" stroke="#000" d="M95 170h60v35H95z"/>
   <text class="c" y="185.49" x="124.924">
     <tspan y="185.49" x="124.924">Content</tspan><tspan y="198.938" x="124.924">Model</tspan>
   </text>
-  <path class="b" stroke-dasharray="1,1" d="M195 15h155v280H195z"/>
-  <path class="b" d="M225 25h90v20h-90z"/>
+  <path class="b" stroke="#000" stroke-dasharray="1,1" d="M195 15h155v280H195z"/>
+  <path class="b" stroke="#000" d="M225 25h90v20h-90z"/>
   <text class="t" y="40" x="230">Blacklight</text>
-  <path class="b" d="M225 50h90v20h-90z"/>
+  <path class="b" stroke="#000" d="M225 50h90v20h-90z"/>
   <text class="t" y="65" x="230">Om</text>
-  <path class="b" d="M225 75h90v20h-90z"/>
+  <path class="b" stroke="#000" d="M225 75h90v20h-90z"/>
   <text class="t" y="90" x="230">ActiveFedora</text>
-  <path class="b" d="M225 100h90v20h-90z"/>
+  <path class="b" stroke="#000" d="M225 100h90v20h-90z"/>
   <text class="t" y="115" x="230">Rubydora</text>
-  <path class="b" d="M205 130h65v20h-65z"/>
+  <path class="b" stroke="#000" d="M205 130h65v20h-65z"/>
   <text class="t" y="144.893" x="210.946">Serializer</text>
-  <path class="b" d="M205 155h65v20h-65z"/>
+  <path class="b" stroke="#000" d="M205 155h65v20h-65z"/>
   <text class="t" y="169.893" x="210.946">Serializer</text>
-  <path class="b" d="M205 180h65v20h-65z"/>
+  <path class="b" stroke="#000" d="M205 180h65v20h-65z"/>
   <text class="t" y="194.893" x="210.946">Serializer</text>
-  <path class="b" d="M280 130h60v35h-60z"/>
+  <path class="b" stroke="#000" d="M280 130h60v35h-60z"/>
   <text class="c" y="145.498" x="309.924">
     <tspan y="145.498" x="309.924">Content</tspan><tspan y="158.938" x="309.924">Model</tspan>
   </text>
-  <path class="b" d="M280 170h60v35h-60z"/>
+  <path class="b" stroke="#000" d="M280 170h60v35h-60z"/>
   <text class="c" y="185.498" x="309.924">
     <tspan y="185.498" x="309.924">Content</tspan><tspan y="198.938" x="309.924">Model</tspan>
   </text>
-  <path class="b" d="M280 210h60v35h-60z"/>
+  <path class="b" stroke="#000" d="M280 210h60v35h-60z"/>
   <text class="c" y="225.498" x="309.924">
     <tspan y="225.498" x="309.924">Content</tspan><tspan y="238.938" x="309.924">Model</tspan>
   </text>
-  <path class="b" d="M280 250h60v35h-60z"/>
+  <path class="b" stroke="#000" d="M280 250h60v35h-60z"/>
   <text class="c" y="265.498" x="309.924">
     <tspan y="265.498" x="309.924">Content</tspan><tspan y="278.938" x="309.924">Model</tspan>
   </text>
-  <path class="b" stroke-dasharray="1,1" d="M375 15h155v240H375z"/>
-  <path class="b" d="M405 25h90v20h-90z"/>
+  <path class="b" stroke="#000" stroke-dasharray="1,1" d="M375 15h155v240H375z"/>
+  <path class="b" stroke="#000" d="M405 25h90v20h-90z"/>
   <text class="t" y="40" x="410">Blacklight</text>
-  <path class="b" d="M405 50h90v20h-90z"/>
+  <path class="b" stroke="#000" d="M405 50h90v20h-90z"/>
   <text class="t" y="65" x="410">Om</text>
-  <path class="b" d="M405 75h90v20h-90z"/>
+  <path class="b" stroke="#000" d="M405 75h90v20h-90z"/>
   <text class="t" y="90" x="410">ActiveFedora</text>
-  <path class="b" d="M405 100h90v20h-90z"/>
+  <path class="b" stroke="#000" d="M405 100h90v20h-90z"/>
   <text class="t" y="115" x="410">Rubydora</text>
-  <path class="b" d="M385 130h65v20h-65z"/>
+  <path class="b" stroke="#000" d="M385 130h65v20h-65z"/>
   <text class="t" y="144.393" x="390.946">Serializer</text>
-  <path class="b" d="M385 155h65v20h-65z"/>
+  <path class="b" stroke="#000" d="M385 155h65v20h-65z"/>
   <text class="t" y="169.893" x="390.946">Serializer</text>
   <text class="c" y="145.498" x="489.924">
     <tspan y="145.498" x="489.924">Content</tspan><tspan y="158.938" x="489.924">Model</tspan>
   </text>
-  <path class="b" d="M460 130h60v35h-60z"/>
+  <path class="b" stroke="#000" d="M460 130h60v35h-60z"/>
   <text class="c" y="185.498" x="489.924">
     <tspan y="185.498" x="489.924">Content</tspan><tspan y="198.938" x="489.924">Model</tspan>
   </text>
-  <path class="b" d="M460 170h60v35h-60z"/>
+  <path class="b" stroke="#000" d="M460 170h60v35h-60z"/>
   <text class="c" y="225.498" x="489.924">
     <tspan y="225.498" x="489.924">Content</tspan><tspan y="238.938" x="489.924">Model</tspan>
   </text>
-  <path class="b" d="M460 210h60v35h-60z"/>
+  <path class="b" stroke="#000" d="M460 210h60v35h-60z"/>
   <text y="408.338" x="125.354" font-size="24">Solr</text>
-  <path class="b" d="M100 355h90v90h-90z"/>
+  <path class="b" stroke="#000" d="M100 355h90v90h-90z"/>
   <text y="432.582" x="258.023" font-size="36">Fedora</text>
-  <path class="b" d="M200 355h220v130H200z"/>
+  <path class="b" stroke="#000" d="M200 355h220v130H200z"/>
   <path d="M115 220s0 105 60 105c30 0 40.004 1.075 49.621 5.884C233.485 336.389 240 350 240 350" fill="none" stroke="#000" stroke-width="2"/>
   <path d="M140 350s-5-40 25-40 30 5 55-10M270 300c-5 10-10 20-5 30s20 20 20 20" fill="none" stroke="#000" stroke-width="2"/>
   <path d="M410 260s0 60-50 65-125 0-170-5c-30-5-34.568 7.162-30 30M425 370c35.271-23.515 39.542-40.935 25-60-14.542-19.065-10-30 0-50M45 225s18.365 33.365 40 55c25 25 25 70 25 70" fill="none" stroke="#000" stroke-width="2"/>
