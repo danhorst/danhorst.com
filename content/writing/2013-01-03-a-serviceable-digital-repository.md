@@ -166,14 +166,101 @@ This will effectively move the point of integration between our applications fro
 This should lower the barrier of implementation for client applications after an upfront investment in time.
 
 <figure class="illustration">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" viewBox="0 0 540 460">
+  <title>Proposed Hydra Architecture</title>
+  <desc>
+    Block diagram with simple applciation stacks that communicate over a Hypermida API to a data abstraction layer.
+    The API layer wrapps shared Fedora and Solr backing services and consolidates common content models and serializers.
+  </desc>
+  <defs>
+    <style>.t,.c{font-size: 14px}.c{text-anchor:middle}.b{fill:none;stroke-linejoin:round}</style>
+    <marker orient="auto" id="a" overflow="visible">
+      <path d="M8.719 4.034L-2.207.016 8.719-4.002c-1.746 2.372-1.736 5.618 0 8.036z" transform="scale(.6)" fill-rule="evenodd" stroke-width=".625" stroke-linejoin="round"/>
+    </marker>
+    <marker orient="auto" id="b" overflow="visible">
+      <path d="M8.719 4.034L-2.207.016 8.719-4.002c-1.746 2.372-1.736 5.618 0 8.036z" transform="scale(-.6)" fill-rule="evenodd" stroke-width=".625" stroke-linejoin="round"/>
+    </marker>
+  </defs>
+  <path class="b" stroke="#000" d="M40 242.36h90v90H40z"/>
+  <text x="65.354" y="295.748" font-size="24">Solr</text>
+  <path class="b" stroke="#000" d="M140 242.36h220v130H140z"/>
+  <text x="198.023" y="319.942" font-size="36">Fedora</text>
+  <path class="b" stroke="#000" d="M370 187.36h60v35h-60z"/>
+  <text class="c" x="399.924" y="202.858">
+    <tspan x="399.924" y="202.858">Content</tspan><tspan x="399.924" y="216.298">Model</tspan>
+  </text>
+  <path class="b" stroke="#000" d="M370 227.36h60v35h-60z"/>
+  <text class="c" x="399.924" y="242.858">
+    <tspan x="399.924" y="242.858">Content</tspan><tspan x="399.924" y="256.298">Model</tspan>
+  </text>
+  <path class="b" stroke="#000" d="M370 267.36h60v35h-60z"/>
+  <text class="c" x="399.924" y="282.858">
+    <tspan x="399.924" y="282.858">Content</tspan><tspan x="399.924" y="296.298">Model</tspan>
+  </text>
+  <path class="b" stroke="#000" d="M370 307.36h60v35h-60z"/>
+  <text class="c" x="399.924" y="322.858">
+    <tspan x="399.924" y="322.858">Content</tspan><tspan x="399.924" y="336.298">Model</tspan>
+  </text>
+  <path class="b" stroke="#000" d="M435 187.36h60v35h-60z"/>
+  <text class="c" x="464.924" y="202.858">
+    <tspan x="464.924" y="202.858">Content</tspan><tspan x="464.924" y="216.298">Model</tspan>
+  </text>
+  <path class="b" stroke="#000" d="M435 227.36h60v35h-60z"/>
+  <text class="c" x="464.924" y="242.858">
+    <tspan x="464.924" y="242.858">Content</tspan><tspan x="464.924" y="256.298">Model</tspan>
+  </text>
+  <path class="b" stroke="#000" d="M435 267.36h60v35h-60z"/>
+  <text class="c" x="464.924" y="282.858">
+    <tspan x="464.924" y="282.858">Content</tspan><tspan x="464.924" y="296.298">Model</tspan>
+  </text>
+  <path class="b" stroke="#000" d="M435 307.36h60v35h-60z"/>
+  <text class="c" x="269.924" y="322.858">
+    <tspan x="464.924" y="322.858">Content</tspan><tspan x="464.924" y="336.298">Model</tspan>
+  </text>
+  <path class="b" stroke="#000" d="M435 347.36h65v20h-65z"/>
+  <text class="t" x="440.946" y="362.253">Serializer</text>
+  <path class="b" stroke="#000" d="M435 372.36h65v20h-65z"/>
+  <text class="t" x="440.946" y="387.253">Serializer</text>
+  <path class="b" stroke="#000" d="M435 397.36h65v20h-65z"/>
+  <text class="t" x="440.946" y="412.253">Serializer</text>
+  <path class="b" stroke="#000" d="M365 347.36h65v20h-65z"/>
+  <text class="t" x="370.946" y="362.253">Serializer</text>
+  <path class="b" stroke="#000" d="M365 372.36h65v20h-65z"/>
+  <text class="t" x="370.946" y="387.253">Serializer</text>
+  <path class="b" stroke="#000" d="M365 397.36h65v20h-65z"/>
+  <text class="t" x="370.946" y="412.253">Serializer</text>
+  <path class="b" stroke="#000" d="M40 212.36h90v20H40z"/>
+  <text class="t" x="45" y="227.36">Blacklight</text>
+  <path class="b" stroke="#000" d="M252.5 212.36h90v20h-90z"/>
+  <text class="t" x="257.5" y="227.36">Om</text>
+  <path class="b" stroke="#000" d="M157.5 212.36h90v20h-90z"/>
+  <text class="t" x="162.5" y="227.36">Rubydora</text>
+  <path class="b" stroke="#000" d="M205 187.36h90v20h-90z"/>
+  <text class="t" x="210" y="202.36">ActiveFedora</text>
+  <path fill="none" stroke="#000" stroke-width=".985" stroke-linejoin="round" stroke-dasharray=".98521988,.98521988" d="M30 177.36h480v255H30z"/>
+  <text x="30" y="172.36" font-size="12">Hypermedia API Wrapper</text>
+  <path class="b" stroke="#000" stroke-dasharray="1,1" d="M55 19.86h110v40H55z"/>
+  <path class="b" stroke="#000" d="M65 29.86h90v20H65z"/>
+  <text class="t" x="70" y="44.86">API Client</text>
+  <path class="b" stroke="#000" stroke-dasharray="1,1" d="M190 7.36h160v65H190z"/>
+  <path class="b" stroke="#000" d="M200 17.36h45v45h-45z"/>
+  <text x="211.04" y="44.753">Solr</text>
+  <path class="b" stroke="#000" d="M250 17.36h90v20h-90z"/>
+  <text x="255" y="32.36">Blacklight</text>
+  <path class="b" stroke="#000" d="M250 42.36h90v20h-90z"/>
+  <text class="t" x="255" y="57.36">API Client</text>
+  <path class="b" stroke="#000" stroke-dasharray="1,1" d="M370 7.36h110v65H370z"/>
+  <path class="b" stroke="#000" d="M380 17.36h65v20h-65z"/>
+  <text class="t" x="385" y="32.253">Serializer</text>
+  <path class="b" stroke="#000" d="M380 42.36h90v20h-90z"/>
+  <text class="t" x="385" y="57.36">API Client</text>
+  <path d="M105 120l90 100M270 130v90M320 220l100-85" transform="translate(0 -52.64)" fill="none" stroke="#000" stroke-width="2" marker-start="url(#a)" marker-end="url(#b)"/>
+</svg>
 <figcaption class="marginnote">
   <em>The Proposed Repository Architecture</em>
   The persistence mechanism of digital objects is obfuscated by a common API.
   Complexity is centralized allowing for simpler client applications.
 </figcaption>
-<div id="proposed-hydra-architecture" class="canvas">
-  <img src="/img/hydra-architecture-proposed.svg" alt="A line drawing of of the proposed arcitecture. Solr, Fedora, and the modeling logic are wrapped in a Hypermedia API container. Subscribing applications have much fewer components.">
-</div>
 </figure>
 
 One of the topics that perennially pops up at Hydra meetings is: "What would Hydra look like without Fedora?"
