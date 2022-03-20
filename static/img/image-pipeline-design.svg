@@ -4,131 +4,79 @@
     Block diagram with different processing steps based on image file format.
     It produces thubnail images and "presentation master" files based on the origional, archival file.
   </desc>
-  <defs><style>.t{font-size: 14px}.b{fill:none;stroke-linejoin:round}</style></defs>
+  <defs><style>.t,.c{font-size: 14px}.c{text-anchor:middle}.i{font-style:italic}.b{fill:none;stroke-linejoin:round}.eight{font-size:8px}.ten{font-size:10px}.twelve{font-size:12px}</style></defs>
   <text class="t" x="380" y="1007.362" >Thumbnail</text>
   <path fill="none" stroke="#000" d="M240.478 110h140v20h-140z"/>
-  <text x="139.044" y="462.362" style="text-align:start;line-height:123.00000191%;-inkscape-font-specification:Myriad Pro" font-size="14" font-weight="400" letter-spacing="0" word-spacing="0" font-family="'Myriad Pro',Helvetica,sans" transform="translate(105.478 -337.362)">AntiVirus</text>
+  <text class="t" x="139.044" y="462.362" transform="translate(105.478 -337.362)">AntiVirus</text>
   <path fill="none" stroke="#000" d="M240.478 155h140v20h-140z"/>
-  <text x="138.892" y="507.362" style="text-align:start;line-height:123.00000191%;-inkscape-font-specification:Myriad Pro" font-size="14" font-weight="400" letter-spacing="0" word-spacing="0" font-family="'Myriad Pro',Helvetica,sans" transform="translate(104.778 -337.362)">File Characterization</text>
-  <g fill="none" stroke="#000">
-    <path d="M295.478 55l10-10v10z" stroke-linejoin="bevel"/>
-    <path d="M295.478 55l10-10h20v40h-30V55"/>
-  </g>
-  <text x="32.437" y="497.787" style="text-align:center;line-height:123.00000191%;-inkscape-font-specification:Myriad Pro" font-size="22" font-weight="400" letter-spacing="0" word-spacing="0" text-anchor="middle" font-family="'Myriad Pro',Helvetica,sans" transform="translate(277.978 -423.362)">?</text>
-  <g fill="none" stroke="#000">
-    <path d="M395.648 385.23l10-10v10z" stroke-linejoin="bevel"/>
-    <path d="M395.648 385.23l10-10h20v40h-30v-30"/>
-  </g>
-  <text x="410.969" y="747.592" style="text-align:center;line-height:123.00000191%;-inkscape-font-specification:Myriad Pro" font-size="12" font-weight="400" letter-spacing="0" word-spacing="0" text-anchor="middle" font-family="'Myriad Pro',Helvetica,sans" transform="translate(0 -347.362)">JPEG</text>
-  <text x="315.648" y="752.485" style="text-align:start;line-height:123.00000191%;-inkscape-font-specification:Myriad Pro" font-size="14" font-weight="400" letter-spacing="0" word-spacing="0" font-family="'Myriad Pro',Helvetica,sans" transform="translate(0 -352.362)">Thumbnail</text>
-  <g fill="none" stroke="#000">
-    <path d="M485 155l10-10v10z" stroke-linejoin="bevel"/>
-    <path d="M485 155l10-10h20v40h-30v-30"/>
-  </g>
-  <text x="34.891" y="497.362" style="text-align:center;line-height:123.00000191%;-inkscape-font-specification:Myriad Pro" font-size="10" font-weight="400" letter-spacing="0" word-spacing="0" text-anchor="middle" font-family="'Myriad Pro',Helvetica,sans" transform="translate(465 -327.362)">Other</text>
-  <g fill="none" stroke="#000">
-    <path d="M165 385l10-10v10z" stroke-linejoin="bevel"/>
-    <path d="M165 385l10-10h20v40h-30v-30"/>
-  </g>
-  <text x="120" y="660.362" style="text-align:center;line-height:83.99999738%;-inkscape-font-specification:Myriad Pro" font-size="12" font-weight="400" letter-spacing="0" word-spacing="0" text-anchor="middle" font-family="'Myriad Pro',Helvetica,sans" transform="translate(60 -262.362)">
+  <text class="t" x="138.892" y="507.362" transform="translate(104.778 -337.362)">File Characterization</text>
+  <path class="b" stroke="#000" d="M295.478 55l10-10v10z" stroke-linejoin="bevel"/>
+  <path class="b" stroke="#000" d="M295.478 55l10-10h20v40h-30V55"/>
+  <text class="c" x="32.437" y="497.787" transform="translate(277.978 -423.362)">?</text>
+  <path class="b" stroke="#000" d="M395.648 385.23l10-10v10z" stroke-linejoin="bevel"/>
+  <path class="b" stroke="#000" d="M395.648 385.23l10-10h20v40h-30v-30"/>
+  <text class="c twelve" x="410.969" y="747.592" transform="translate(0 -347.362)">JPEG</text>
+  <text class="t" x="315.648" y="752.485" transform="translate(0 -352.362)">Thumbnail</text>
+  <path class="b" stroke="#000" d="M485 155l10-10v10z" stroke-linejoin="bevel"/>
+  <path class="b" stroke="#000" d="M485 155l10-10h20v40h-30v-30"/>
+  <text class="c ten" x="34.891" y="497.362" transform="translate(465 -327.362)">Other</text>
+  <path class="b" stroke="#000" d="M165 385l10-10v10z" stroke-linejoin="bevel"/>
+  <path class="b" stroke="#000" d="M165 385l10-10h20v40h-30v-30"/>
+  <text class="c ten" x="120" y="660.362" transform="translate(60 -262.362)">
     <tspan x="120" y="660.362">JPEG</tspan><tspan x="120" y="670.442">2000</tspan>
   </text>
-  <g fill="none" stroke="#000">
-    <path d="M250 385l10-10v10z" stroke-linejoin="bevel"/>
-    <path d="M250 385l10-10h20v40h-30v-30"/>
-  </g>
-  <text x="120.29" y="624.362" style="text-align:center;line-height:123.00000191%;-inkscape-font-specification:Myriad Pro" font-size="12" font-weight="400" letter-spacing="0" word-spacing="0" text-anchor="middle" font-family="'Myriad Pro',Helvetica,sans" transform="translate(145 -217.362)">
-    <tspan x="120.29" y="624.362">TIFF</tspan>
-  </text>
-  <text x="119.886" y="612.362" style="text-align:center;line-height:123.00000191%;-inkscape-font-specification:Myriad Pro" font-size="8" font-weight="400" letter-spacing="0" word-spacing="0" text-anchor="middle" font-family="'Myriad Pro',Helvetica,sans" transform="translate(145 -217.362)">
-    <tspan x="119.886" y="612.362">multires</tspan>
-  </text>
-  <text x="222.403" y="757.592" style="text-align:center;line-height:123.00000191%;-inkscape-font-specification:Myriad Pro" font-size="14" font-weight="400" letter-spacing="0" word-spacing="0" text-anchor="middle" font-family="'Myriad Pro',Helvetica,sans" transform="translate(0 -352.362)">
-    <tspan x="222.403" y="757.592">OR</tspan>
-  </text>
-  <text x="182.317" y="547.362" style="text-align:center;line-height:123.00000191%;-inkscape-font-specification:Myriad Pro" font-size="14" font-weight="400" letter-spacing="0" word-spacing="0" text-anchor="middle" font-family="'Myriad Pro',Helvetica,sans" transform="translate(0 -352.362)"/>
-  <text x="-175" y="1012.362" style="text-align:start;line-height:123.00000191%;-inkscape-font-specification:Myriad Pro" font-size="14" font-weight="400" letter-spacing="0" word-spacing="0" font-family="'Myriad Pro',Helvetica,sans" transform="translate(330.648 -542.132)">
-    <tspan x="-175" y="1012.362">Image Server</tspan>
-  </text>
-  <path fill="none" stroke="#000" stroke-width="1.099" d="M150.648 455.23h145v20h-145z"/>
-  <text x="-175" y="1037.362" style="text-align:start;line-height:123.00000191%;-inkscape-font-specification:Myriad Pro" font-size="14" font-weight="400" letter-spacing="0" word-spacing="0" font-family="'Myriad Pro',Helvetica,sans" transform="translate(330.648 -522.132)">
-    <tspan x="-175" y="1037.362">Image API</tspan>
-  </text>
-  <path fill="none" stroke="#000" stroke-width="1.099" d="M150.648 500.23h145v20h-145z"/>
-  <text x="155.494" y="912.592" style="text-align:start;line-height:123.00000191%;-inkscape-font-specification:Myriad Pro" font-size="14" font-weight="400" letter-spacing="0" word-spacing="0" font-family="'Myriad Pro',Helvetica,sans" transform="translate(0 -352.362)">
-    <tspan x="155.494" y="912.592">Caching Proxy</tspan>
-  </text>
+  <path class="b" stroke="#000" d="M250 385l10-10v10z" stroke-linejoin="bevel"/>
+  <path class="b" stroke="#000" d="M250 385l10-10h20v40h-30v-30"/>
+  <text class="c twelve" x="120.29" y="624.362" transform="translate(145 -217.362)">TIFF</text>
+  <text class="c eight" x="119.886" y="612.362" transform="translate(145 -217.362)">multires</text>
+  <text class="c" x="222.403" y="757.592" transform="translate(0 -352.362)">OR</text>
+  <text class="c" x="182.317" y="547.362" transform="translate(0 -352.362)"/>
+  <text class="t" x="-175" y="1012.362" transform="translate(330.648 -542.132)">Image Server</text>
+  <path fill="none" stroke="#000" d="M150.648 455.23h145v20h-145z"/>
+  <text class="t" x="-175" y="1037.362" transform="translate(330.648 -522.132)">Image API</text>
+  <path fill="none" stroke="#000" d="M150.648 500.23h145v20h-145z"/>
+  <text class="t" x="155.494" y="912.592" transform="translate(0 -352.362)">Caching Proxy</text>
   <path fill="none" stroke="#000" d="M150.648 545.23h305v20h-305z"/>
-  <text x="155.648" y="957.592" style="text-align:start;line-height:123.00000191%;-inkscape-font-specification:Myriad Pro" font-size="14" font-weight="400" letter-spacing="0" word-spacing="0" font-family="'Myriad Pro',Helvetica,sans" transform="translate(0 -352.362)">
-    <tspan x="155.648" y="957.592">Authentication/Authorization Gateway</tspan>
-  </text>
+  <text class="t" x="155.648" y="957.592" transform="translate(0 -352.362)">Authentication/Authorization Gateway</text>
   <path fill="none" stroke="#000" d="M150.648 590.23h305v20h-305z"/>
   <path fill="none" stroke="#000" stroke-width="1.099" d="M240 305h145v20H240z"/>
-  <text x="-175" y="982.362" style="text-align:start;line-height:123.00000191%;-inkscape-font-specification:Myriad Pro" font-size="14" font-weight="400" letter-spacing="0" word-spacing="0" font-family="'Myriad Pro',Helvetica,sans" transform="translate(420 -662.362)">
-    <tspan x="-175" y="982.362">Image Processor</tspan>
-  </text>
-  <path d="M305.478 135v10h-5l10 5 10-5h-5v-10h-10M305.478 90v10h-5l10 5 10-5h-5V90h-10M305.478 185v10h-5l10 5 10-5h-5v-10h-10M390 170h80v5l5-10-5-10v5h-80v10M339.34 276.34l-5 8.66-4.33-2.5 6.16 9.33 11.16.67L343 290l5-8.66-8.66-5M273 281.34l5 8.66-4.33 2.5 11.16-.67 6.16-9.33-4.33 2.5-5-8.66-8.66 5" fill="none" stroke="#000"/>
+  <text class="t" x="-175" y="982.362" transform="translate(420 -662.362)">Image Processor</text>
+  <path class="b" stroke="#000" d="M305.478 135v10h-5l10 5 10-5h-5v-10h-10M305.478 90v10h-5l10 5 10-5h-5V90h-10M305.478 185v10h-5l10 5 10-5h-5v-10h-10M390 170h80v5l5-10-5-10v5h-80v10M339.34 276.34l-5 8.66-4.33-2.5 6.16 9.33 11.16.67L343 290l5-8.66-8.66-5M273 281.34l5 8.66-4.33 2.5 11.16-.67 6.16-9.33-4.33 2.5-5-8.66-8.66 5"/>
   <path fill="none" stroke="red" stroke-dasharray="1,1" d="M385.648 365.23h50v60h-50z"/>
-  <path d="M275.648 335.23l-10.606 10.607-3.536-3.536 3.536 10.607 10.606 3.535-3.535-3.535 10.606-10.607-7.07-7.07M340.648 335.23l10.607 10.607 3.535-3.536-3.535 10.607-10.607 3.535 3.536-3.535-10.607-10.607 7.071-7.07M215.648 435.23v10h-5l10 5 10-5h-5v-10h-10M215.648 480.23v10h-5l10 5 10-5h-5v-10h-10M215.648 525.23v10h-5l10 5 10-5h-5v-10h-10M215.648 570.23v10h-5l10 5 10-5h-5v-10h-10M405.648 570.23v10h-5l10 5 10-5h-5v-10h-10M405.648 435.23v100h-5l10 5 10-5h-5v-100h-10" fill="none" stroke="#000"/>
+  <path class="b" stroke="#000" d="M275.648 335.23l-10.606 10.607-3.536-3.536 3.536 10.607 10.606 3.535-3.535-3.535 10.606-10.607-7.07-7.07M340.648 335.23l10.607 10.607 3.535-3.536-3.535 10.607-10.607 3.535 3.536-3.535-10.607-10.607 7.071-7.07M215.648 435.23v10h-5l10 5 10-5h-5v-10h-10M215.648 480.23v10h-5l10 5 10-5h-5v-10h-10M215.648 525.23v10h-5l10 5 10-5h-5v-10h-10M215.648 570.23v10h-5l10 5 10-5h-5v-10h-10M405.648 570.23v10h-5l10 5 10-5h-5v-10h-10M405.648 435.23v100h-5l10 5 10-5h-5v-100h-10"/>
   <path fill="none" stroke="red" stroke-dasharray="1,1" d="M155 365h49.352v60H155zM240 365h50v60h-50z"/>
-  <text x="70" y="732.908" style="text-align:start;line-height:100%;-inkscape-font-specification:Myriad Pro" font-size="14" font-weight="400" letter-spacing="0" word-spacing="0" font-family="'Myriad Pro',Helvetica,sans" transform="translate(0 -352.362)">
+  <text class="t" x="70" y="732.908" transform="translate(0 -352.362)">
     <tspan x="70" y="732.908">Presentation</tspan><tspan x="70" y="746.908">Master</tspan>
   </text>
-  <text x="70" y="760.232" style="text-align:start;line-height:89.99999762%;-inkscape-font-specification:Myriad Pro Italic" font-size="10" font-style="italic" font-weight="400" letter-spacing="0" word-spacing="0" font-family="'Myriad Pro',Helvetica,sans" transform="translate(0 -352.362)">
+  <text class="t i ten" x="70" y="760.232" transform="translate(0 -352.362)">
     <tspan x="70" y="760.232">Format decision</tspan><tspan x="70" y="769.232">pending</tspan>
   </text>
-  <text x="79.3" y="577.362" style="text-align:start;line-height:100%;-inkscape-font-specification:Myriad Pro" font-size="14" font-weight="400" letter-spacing="0" word-spacing="0" font-family="'Myriad Pro',Helvetica,sans" transform="translate(0 -352.362)">
+  <text class="t" x="79.3" y="577.362" transform="translate(0 -352.362)">
     <tspan x="79.3" y="577.362">Archival</tspan><tspan x="79.3" y="591.362">Master</tspan>
   </text>
   <path d="M215 615v20h-5l10 5 10-5h-5v-20h-10M405 615v20h-5l10 5 10-5h-5v-20h-10" fill="none" stroke="#000"/>
-  <text x="155.494" y="1007.362" style="text-align:start;line-height:123.00000191%;-inkscape-font-specification:Myriad Pro" font-size="14" font-weight="400" letter-spacing="0" word-spacing="0" font-family="'Myriad Pro',Helvetica,sans" transform="translate(0 -352.362)">
-    <tspan x="155.494" y="1007.362">Crop, Scale, Tile (of crop or scale)</tspan>
-  </text>
-  <g>
-    <g fill="none" stroke="#000">
-      <path d="M182.71 225l10-10v10z" stroke-linejoin="bevel"/>
-      <path d="M182.71 225l10-10h20v40h-30v-30"/>
-    </g>
-    <text x="120.238" y="432.592" style="text-align:center;line-height:123.00000191%;-inkscape-font-specification:Myriad Pro" font-size="12" font-weight="400" letter-spacing="0" word-spacing="0" text-anchor="middle" font-family="'Myriad Pro',Helvetica,sans" transform="translate(77.062 -192.592)">
-      <tspan x="120.238" y="432.592">DNG</tspan>
-    </text>
-    <g fill="none" stroke="#000">
-      <path d="M333.41 225l10-10v10z" stroke-linejoin="bevel"/>
-      <path d="M333.41 225l10-10h20v40h-30v-30"/>
-    </g>
-    <text x="170.238" y="472.592" style="text-align:center;line-height:123.00000191%;-inkscape-font-specification:Myriad Pro" font-size="12" font-weight="400" letter-spacing="0" word-spacing="0" text-anchor="middle" font-family="'Myriad Pro',Helvetica,sans" transform="translate(177.762 -232.592)">
-      <tspan x="170.238" y="472.592">PNG</tspan>
-    </text>
-    <g fill="none" stroke="#000">
-      <path d="M258.41 225l10-10v10z" stroke-linejoin="bevel"/>
-      <path d="M258.41 225l10-10h20v40h-30v-30"/>
-    </g>
-    <text x="64.59" y="447.362" style="text-align:center;line-height:123.00000191%;-inkscape-font-specification:Myriad Pro" font-size="12" font-weight="400" letter-spacing="0" word-spacing="0" text-anchor="middle" font-family="'Myriad Pro',Helvetica,sans" transform="translate(208.41 -207.362)">
-      <tspan x="64.59" y="447.362">JPEG</tspan>
-    </text>
-    <g fill="none" stroke="#000">
-      <path d="M407.71 225l10-10v10z" stroke-linejoin="bevel"/>
-      <path d="M407.71 225l10-10h20v40h-30v-30"/>
-    </g>
-    <text x="75.29" y="617.362" style="text-align:center;line-height:123.00000191%;-inkscape-font-specification:Myriad Pro" font-size="12" font-weight="400" letter-spacing="0" word-spacing="0" text-anchor="middle" font-family="'Myriad Pro',Helvetica,sans" transform="translate(347.71 -377.362)">
-      <tspan x="75.29" y="617.362">TIFF</tspan>
-    </text>
-    <text x="182.403" y="487.362" style="text-align:center;line-height:123.00000191%;-inkscape-font-specification:Myriad Pro" font-size="14" font-weight="400" letter-spacing="0" word-spacing="0" text-anchor="middle" font-family="'Myriad Pro',Helvetica,sans" transform="translate(53 -247.362)">
-      <tspan x="182.403" y="487.362">OR</tspan>
-    </text>
-    <text x="257.403" y="487.362" style="text-align:center;line-height:123.00000191%;-inkscape-font-specification:Myriad Pro" font-size="14" font-weight="400" letter-spacing="0" word-spacing="0" text-anchor="middle" font-family="'Myriad Pro',Helvetica,sans" transform="translate(53 -247.362)">
-      <tspan x="257.403" y="487.362">OR</tspan>
-    </text>
-    <path fill="none" stroke="red" stroke-dasharray="1,1" d="M173 210h50v55h-50zM248 210h50v55h-50zM323 210h50v55h-50zM398 210h50v55h-50z"/>
-    <text x="332.403" y="487.362" style="text-align:center;line-height:123.00000191%;-inkscape-font-specification:Myriad Pro" font-size="14" font-weight="400" letter-spacing="0" word-spacing="0" text-anchor="middle" font-family="'Myriad Pro',Helvetica,sans" transform="translate(53 -247.362)">
-      <tspan x="332.403" y="487.362">OR</tspan>
-    </text>
-  </g>
-  <text x="79.3" y="602.362" style="text-align:start;line-height:89.99999762%;-inkscape-font-specification:Myriad Pro Italic" font-size="10" font-style="italic" font-weight="400" letter-spacing="0" word-spacing="0" font-family="'Myriad Pro',Helvetica,sans" transform="translate(0 -352.362)">
+  <text class="t" x="155.494" y="1007.362" transform="translate(0 -352.362)">Crop, Scale, Tile (of crop or scale)</text>
+  <path class="b" stroke="#000" d="M182.71 225l10-10v10z" stroke-linejoin="bevel"/>
+  <path class="b" stroke="#000" d="M182.71 225l10-10h20v40h-30v-30"/>
+  <text class="c twelve" x="120.238" y="432.592" transform="translate(77.062 -192.592)">DNG</text>
+  <path class="b" stroke="#000" d="M333.41 225l10-10v10z" stroke-linejoin="bevel"/>
+  <path class="b" stroke="#000" d="M333.41 225l10-10h20v40h-30v-30"/>
+  <text class="c twelve" x="170.238" y="472.592" transform="translate(177.762 -232.592)">PNG</text>
+  <path class="b" stroke="#000" d="M258.41 225l10-10v10z" stroke-linejoin="bevel"/>
+  <path class="b" stroke="#000" d="M258.41 225l10-10h20v40h-30v-30"/>
+  <text class="c twelve" x="64.59" y="447.362" transform="translate(208.41 -207.362)">JPEG</text>
+  <path class="b" stroke="#000" d="M407.71 225l10-10v10z" stroke-linejoin="bevel"/>
+  <path class="b" stroke="#000" d="M407.71 225l10-10h20v40h-30v-30"/>
+  <text class="c twelve" x="75.29" y="617.362" transform="translate(347.71 -377.362)">TIFF</text>
+  <text class="c" x="182.403" y="487.362" transform="translate(53 -247.362)">OR</text>
+  <text class="c" x="257.403" y="487.362" transform="translate(53 -247.362)">OR</text>
+  <path fill="none" stroke="red" stroke-dasharray="1,1" d="M173 210h50v55h-50zM248 210h50v55h-50zM323 210h50v55h-50zM398 210h50v55h-50z"/>
+  <text class="c" x="332.403" y="487.362" transform="translate(53 -247.362)">OR</text>
+  <text class="t i ten" x="79.3" y="602.362" transform="translate(0 -352.362)">
     <tspan x="79.3" y="602.362">Format of origional</tspan><tspan x="79.3" y="611.362">submission</tspan>
   </text>
   <path d="M393.607 274.393L383 285l-3.536-3.536L383 292.071l10.607 3.536-3.536-3.536 10.607-10.607-7.071-7.07M227.393 274.393L238 285l3.536-3.536L238 292.071l-10.607 3.536 3.536-3.536-10.607-10.607 7.071-7.07" fill="none" stroke="#000"/>
-  <text x="485" y="467.362" style="text-align:start;line-height:89.99999762%;-inkscape-font-specification:Myriad Pro Italic" font-size="10" font-style="italic" font-weight="400" letter-spacing="0" word-spacing="0" font-family="'Myriad Pro',Helvetica,sans" transform="translate(0 -352.362)">
+  <text class="t i ten" x="485" y="467.362" transform="translate(0 -352.362)">
     <tspan x="485" y="467.362">Any other format will</tspan><tspan x="485" y="476.362">not be processed by the</tspan><tspan x="485" y="485.362">image pipeline.</tspan>
   </text>
 </svg>
