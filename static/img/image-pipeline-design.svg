@@ -7,12 +7,12 @@
   <defs><style>.t,.c{font-size: 14px}.c{text-anchor:middle}.i{font-style:italic}.b{fill:none;stroke-linejoin:round}.eight{font-size:8px}.ten{font-size:10px}.twelve{font-size:12px}</style></defs>
   <text class="t" x="380" y="1007.362" >Thumbnail</text>
   <path fill="none" stroke="#000" d="M240.478 110h140v20h-140z"/>
-  <text class="t" x="139.044" y="462.362" transform="translate(105.478 -337.362)">AntiVirus</text>
+  <text class="t" x="244.522" y="462.362" transform="translate(0 -337.362)">AntiVirus</text>
   <path fill="none" stroke="#000" d="M240.478 155h140v20h-140z"/>
-  <text class="t" x="138.892" y="507.362" transform="translate(104.778 -337.362)">File Characterization</text>
+  <text class="t" x="243.67" y="507.362" transform="translate(0 -337.362)">File Characterization</text>
   <path class="b" stroke="#000" d="M295.478 55l10-10v10z" stroke-linejoin="bevel"/>
   <path class="b" stroke="#000" d="M295.478 55l10-10h20v40h-30V55"/>
-  <text class="c" x="32.437" y="497.787" transform="translate(277.978 -423.362)">?</text>
+  <text class="c" x="310.415" y="497.787" transform="translate(0 -423.362)">?</text>
   <path class="b" stroke="#000" d="M395.648 385.23l10-10v10z" stroke-linejoin="bevel"/>
   <path class="b" stroke="#000" d="M395.648 385.23l10-10h20v40h-30v-30"/>
   <text class="c twelve" x="410.969" y="747.592" transform="translate(0 -347.362)">JPEG</text>
@@ -22,25 +22,25 @@
   <text class="c ten" x="34.891" y="497.362" transform="translate(465 -327.362)">Other</text>
   <path class="b" stroke="#000" d="M165 385l10-10v10z" stroke-linejoin="bevel"/>
   <path class="b" stroke="#000" d="M165 385l10-10h20v40h-30v-30"/>
-  <text class="c ten" x="120" y="660.362" transform="translate(60 -262.362)">
-    <tspan x="120" y="660.362">JPEG</tspan><tspan x="120" y="670.442">2000</tspan>
+  <text class="c ten" x="180" y="660.362" transform="translate(0 -262.362)">
+    <tspan x="180" y="660.362">JPEG</tspan><tspan x="180" y="670.442">2000</tspan>
   </text>
   <path class="b" stroke="#000" d="M250 385l10-10v10z" stroke-linejoin="bevel"/>
   <path class="b" stroke="#000" d="M250 385l10-10h20v40h-30v-30"/>
-  <text class="c twelve" x="120.29" y="624.362" transform="translate(145 -217.362)">TIFF</text>
-  <text class="c eight" x="119.886" y="612.362" transform="translate(145 -217.362)">multires</text>
+  <text class="c twelve" x="265.29" y="624.362" transform="translate(0 -217.362)">TIFF</text>
+  <text class="c eight" x="264.886" y="612.362" transform="translate(0 -217.362)">multires</text>
   <text class="c" x="222.403" y="757.592" transform="translate(0 -352.362)">OR</text>
   <text class="c" x="182.317" y="547.362" transform="translate(0 -352.362)"/>
-  <text class="t" x="-175" y="1012.362" transform="translate(330.648 -542.132)">Image Server</text>
+  <text class="t" x="155.684" y="1012.362" transform="translate(0 -542.132)">Image Server</text>
   <path fill="none" stroke="#000" d="M150.648 455.23h145v20h-145z"/>
-  <text class="t" x="-175" y="1037.362" transform="translate(330.648 -522.132)">Image API</text>
+  <text class="t" x="155.684" y="1037.362" transform="translate(0 -522.132)">Image API</text>
   <path fill="none" stroke="#000" d="M150.648 500.23h145v20h-145z"/>
   <text class="t" x="155.494" y="912.592" transform="translate(0 -352.362)">Caching Proxy</text>
   <path fill="none" stroke="#000" d="M150.648 545.23h305v20h-305z"/>
   <text class="t" x="155.648" y="957.592" transform="translate(0 -352.362)">Authentication/Authorization Gateway</text>
   <path fill="none" stroke="#000" d="M150.648 590.23h305v20h-305z"/>
   <path fill="none" stroke="#000" stroke-width="1.099" d="M240 305h145v20H240z"/>
-  <text class="t" x="-175" y="982.362" transform="translate(420 -662.362)">Image Processor</text>
+  <text class="t" x="245" y="982.362" transform="translate(0 -662.362)">Image Processor</text>
   <path class="b" stroke="#000" d="M305.478 135v10h-5l10 5 10-5h-5v-10h-10M305.478 90v10h-5l10 5 10-5h-5V90h-10M305.478 185v10h-5l10 5 10-5h-5v-10h-10M390 170h80v5l5-10-5-10v5h-80v10M339.34 276.34l-5 8.66-4.33-2.5 6.16 9.33 11.16.67L343 290l5-8.66-8.66-5M273 281.34l5 8.66-4.33 2.5 11.16-.67 6.16-9.33-4.33 2.5-5-8.66-8.66 5"/>
   <path fill="none" stroke="red" stroke-dasharray="1,1" d="M385.648 365.23h50v60h-50z"/>
   <path class="b" stroke="#000" d="M275.648 335.23l-10.606 10.607-3.536-3.536 3.536 10.607 10.606 3.535-3.535-3.535 10.606-10.607-7.07-7.07M340.648 335.23l10.607 10.607 3.535-3.536-3.535 10.607-10.607 3.535 3.536-3.535-10.607-10.607 7.071-7.07M215.648 435.23v10h-5l10 5 10-5h-5v-10h-10M215.648 480.23v10h-5l10 5 10-5h-5v-10h-10M215.648 525.23v10h-5l10 5 10-5h-5v-10h-10M215.648 570.23v10h-5l10 5 10-5h-5v-10h-10M405.648 570.23v10h-5l10 5 10-5h-5v-10h-10M405.648 435.23v100h-5l10 5 10-5h-5v-100h-10"/>
@@ -58,25 +58,27 @@
   <text class="t" x="155.494" y="1007.362" transform="translate(0 -352.362)">Crop, Scale, Tile (of crop or scale)</text>
   <path class="b" stroke="#000" d="M182.71 225l10-10v10z" stroke-linejoin="bevel"/>
   <path class="b" stroke="#000" d="M182.71 225l10-10h20v40h-30v-30"/>
-  <text class="c twelve" x="120.238" y="432.592" transform="translate(77.062 -192.592)">DNG</text>
+  <text class="c twelve" x="197.3" y="432.592" transform="translate(0 -192.592)">DNG</text>
   <path class="b" stroke="#000" d="M333.41 225l10-10v10z" stroke-linejoin="bevel"/>
   <path class="b" stroke="#000" d="M333.41 225l10-10h20v40h-30v-30"/>
-  <text class="c twelve" x="170.238" y="472.592" transform="translate(177.762 -232.592)">PNG</text>
+  <text class="c twelve" x="348" y="472.592" transform="translate(0 -232.592)">PNG</text>
   <path class="b" stroke="#000" d="M258.41 225l10-10v10z" stroke-linejoin="bevel"/>
   <path class="b" stroke="#000" d="M258.41 225l10-10h20v40h-30v-30"/>
-  <text class="c twelve" x="64.59" y="447.362" transform="translate(208.41 -207.362)">JPEG</text>
+  <text class="c twelve" x="273" y="447.362" transform="translate(0 -207.362)">JPEG</text>
   <path class="b" stroke="#000" d="M407.71 225l10-10v10z" stroke-linejoin="bevel"/>
   <path class="b" stroke="#000" d="M407.71 225l10-10h20v40h-30v-30"/>
-  <text class="c twelve" x="75.29" y="617.362" transform="translate(347.71 -377.362)">TIFF</text>
-  <text class="c" x="182.403" y="487.362" transform="translate(53 -247.362)">OR</text>
-  <text class="c" x="257.403" y="487.362" transform="translate(53 -247.362)">OR</text>
+  <text class="c twelve" x="423" y="617.362" transform="translate(0 -377.362)">TIFF</text>
+  <text class="c" x="235.403" y="487.362" transform="translate(0 -247.362)">OR</text>
+  <text class="c" x="310.403" y="487.362" transform="translate(0 -247.362)">OR</text>
   <path fill="none" stroke="red" stroke-dasharray="1,1" d="M173 210h50v55h-50zM248 210h50v55h-50zM323 210h50v55h-50zM398 210h50v55h-50z"/>
-  <text class="c" x="332.403" y="487.362" transform="translate(53 -247.362)">OR</text>
+  <text class="c" x="385.403" y="487.362" transform="translate(0 -247.362)">OR</text>
   <text class="t i ten" x="79.3" y="602.362" transform="translate(0 -352.362)">
     <tspan x="79.3" y="602.362">Format of origional</tspan><tspan x="79.3" y="611.362">submission</tspan>
   </text>
   <path d="M393.607 274.393L383 285l-3.536-3.536L383 292.071l10.607 3.536-3.536-3.536 10.607-10.607-7.071-7.07M227.393 274.393L238 285l3.536-3.536L238 292.071l-10.607 3.536 3.536-3.536-10.607-10.607 7.071-7.07" fill="none" stroke="#000"/>
   <text class="t i ten" x="485" y="467.362" transform="translate(0 -352.362)">
-    <tspan x="485" y="467.362">Any other format will</tspan><tspan x="485" y="476.362">not be processed by the</tspan><tspan x="485" y="485.362">image pipeline.</tspan>
+    <tspan x="485" y="467.362">Any other format will</tspan>
+    <tspan x="485" y="476.362">not be processed by the</tspan>
+    <tspan x="485" y="485.362">image pipeline.</tspan>
   </text>
 </svg>
