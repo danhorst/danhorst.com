@@ -26,12 +26,12 @@ An excellent user experience is the culmination of:
 <figure class="illustration">
 <figcaption class="marginnote">
   <strong>The Spectrum of User Experience</strong>
-  &copy; 2009 Information Architects, Inc.
+  &copy; 2009 Information Architects, Inc.<br />
+  <a href="https://www.flickr.com/photos/formforce/3663684287/">origional on Flickr</a>; produced for
+  <cite><a href="https://ia.net/topics/the-spectrum-of-user-experience-1">a blog post of the same name<a><cite>
 </figcaption>
 <div id="user-experience-spectrum">
-  <a href="https://www.flickr.com/photos/formforce/3663684287/">
-    <img src="https://farm4.staticflickr.com/3380/3663684287_15f68a8b3e_o.gif" alt="An illustration of all the supporting functions that define the user experience. A Venn diagram of three primary colors representing business, technology, and design on a black background.">
-  </a>
+  <img src="/img/ia-spectrum-of-user-experience.png" alt="An illustration of all the supporting functions that define the user experience. A Venn diagram of three primary colors representing business, technology, and design on a black background.">
 </div>
 </figure>
 
