@@ -26,7 +26,7 @@ categories:
     <span class="sidenote">
       Self-care is like the oxygen masks on an airplane.
       If you don&rsquo;t take care of yourself first, there is no way you can take care of those around you.
-      (<a href="https://www.greenmountainhypnosis.com/blogs/post/The-Oxygen-Mask-Theory-How-to-Take-Care-of-Everyone/">I&rsquo;m not the first person to think of this.</a>)
+      (<a href="https://www.greenmountainhypnosis.com/blogs/post/The-Oxygen-Mask-Theory-How-to-Take-Care-of-Everyone">I&rsquo;m not the first person to think of this.</a>)
     </span>
   <ul>
   <li>Eat well</li>
