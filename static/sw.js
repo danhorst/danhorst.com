@@ -1,229 +1,221 @@
-/*
-This is a modified version of the Service Worker from www.nd.edu created by Erik Runyon
-It, in turn, is based on Jeremy Keith’s service worker (https://adactio.com/serviceworker.js), with a few additional edits borrowed from Filament Group’s. (https://www.filamentgroup.com/sw.js)
+// Source: https://adactio.com/serviceworker.js
 
-Thanks to [Jeremy][1], [Filament Group][2], and [Erik][3] for this, and everything else they do.
+'use strict'
 
-[1]: https://adactio.com/about/
-[2]: https://www.filamentgroup.com/
-[3]: https://erikrunyon.com/
-*/
+const version = 'v2022-21-17T07:25:00::';
+const staticCacheName = version + 'static'
+const pagesCacheName = 'pages'
+const imagesCacheName = 'images'
+const maxPages = 50 // Maximum number of pages to cache
+const maxImages = 100 // Maximum number of images to cache
+const timeout = 3000 // Number of milliseconds before timing out
 
-(function(){
-  'use strict';
+const cacheList = [
+  staticCacheName,
+  pagesCacheName,
+  imagesCacheName
+]
 
-  const version = 'v2022-21-17T07:25:00::';
-  const staticCacheName = version + 'static';
-  const pagesCacheName = version + 'pages';
-  const imagesCacheName = version + 'images';
-  const offlinePages = [
-    '/about/',
-    '/lists/',
-    '/writing/',
-    '/',
-    '/working-days/'
-  ];
+function updateStaticCache () {
+  return caches.open(staticCacheName)
+    .then(staticCache => {
+      // These items won't block the installation of the Service Worker
+      staticCache.addAll([
+        '/css/baguetteBox.min.css',
+        '/font/et-book-bold-line-figures.woff2',
+        '/font/et-book-display-italic-old-style-figures.woff2',
+        '/font/et-book-roman-line-figures.woff2',
+        '/font/et-book-roman-old-style-figures.woff2',
+        '/font/et-book-semi-bold-old-style-figures.woff2',
+        '/js/turbolinks.js',
+        '/js/baguetteBox.min.js'
+      ])
+      // These items must be cached for the Service Worker to complete installation
+      return staticCache.addAll([
+        '/assets/css/main.css?' + version,
+        '/offline'
+      ])
+    })
+}
 
-  const staticAssets = [
-    '/css/main.css',
-    '/css/baguetteBox.min.css',
-    '/font/et-book-bold-line-figures.woff2',
-    '/font/et-book-display-italic-old-style-figures.woff2',
-    '/font/et-book-roman-line-figures.woff2',
-    '/font/et-book-roman-old-style-figures.woff2',
-    '/font/et-book-semi-bold-old-style-figures.woff2',
-    '/js/turbolinks.js',
-    '/js/baguetteBox.min.js'
-  ];
-
-  function stashInCache(cacheName, request, response){
-    // We don't want to cache assets served by Chrome extensions
-    var isWebResource = (request.url.indexOf('http') === 0);
-
-    if(isWebResource){
-      caches.open(cacheName)
-        .then( cache => cache.put(request, response) );
+// Cache the page(s) that initiate the service worker
+function cacheClients () {
+  const pages = []
+  return clients.matchAll({
+    includeUncontrolled: true
+  })
+    .then(allClients => {
+      for (const client of allClients) {
+        pages.push(client.url)
       }
-    }
-  }
-
-  function updateStaticCache(){
-    // Try to fetch static top level pages - can be done after install.
-    caches.open(pagesCacheName)
-      .then( cache => {
-        // These items must be cached for the Service Worker to complete installation
-        return cache.addAll(offlinePages.map(url => new Request(url, {credentials: 'include'})));
-      });
-
-    return caches.open(staticCacheName)
-      .then( cache => {
-        // These items must be cached for the Service Worker to complete installation
-        return cache.addAll(staticAssets.map(url => new Request(url, {credentials: 'include'})));
-      });
-  }
-
-  // Limit the number of items in a specified cache.
-  function trimCache(cacheName, maxItems){
-    caches.open(cacheName)
-      .then( cache => {
-        cache.keys()
-          .then(keys => {
-            if(keys.length > maxItems){
-              cache.delete(keys[0])
-                   .then(trimCache(cacheName, maxItems));
-            }
-          });
-      });
-  }
-
-  // Remove caches whose name is no longer valid
-  function clearOldCaches(){
-    return caches.keys()
-      .then( keys => {
-        return Promise.all(keys
-          .filter(key => key.indexOf(version) !== 0)
-          .map(key => caches.delete(key))
-        );
-      });
-  }
-
-  self.addEventListener('install', event => {
-    event.waitUntil(updateStaticCache()
-      .then( () => self.skipWaiting() )
-    );
-  });
-
-  self.addEventListener('activate', event => {
-    event.waitUntil(clearOldCaches()
-      .then( () => self.clients.claim() )
-    );
-  });
-
-  self.addEventListener('message', event => {
-    if(event.data.command === 'trimCaches'){
-      trimCache(pagesCacheName, 35);
-      trimCache(imagesCacheName, 20);
-    }
-  });
-
-  // Pass offline pages cache for display on the Offline page
-  self.addEventListener('message', event => {
-    if(event.data.command == 'getAvailableOffline'){
-      let pages = [];
-      caches.open(pagesCacheName).then(function(cache){
-        cache.keys().then(function(keys){
-          keys.forEach(function(request, index, array){
-            getResponseMeta(cache, request).then(meta => {
-              if(meta) pages.push(meta);
-              if(index == array.length - 1) event.ports[0].postMessage({'offline_pages': pages});
-            });
-          });
-        });
-      }).catch(e => { console.log(e) } );
-    }
-  });
-
-  // Gets Title and Description from the response text
-  function getResponseMeta(cache, request){
-    return cache.match(request).then(response => {
-      return response.text().then(function(html){
-        let title = html.match(/<title>([^<]+)<\/title>/)[1];
-        let description = html.match(/<meta property="og:description" name="description" content="([^"]+)">/)[1];
-        let url = new URL(request.url).pathname;
-
-        return {
-          title: title,
-          description: description,
-          url: url
-        };
-      });
-    });
-  }
-
-  self.addEventListener('fetch', event => {
-    let request = event.request;
-    let url = new URL(request.url);
-
-    // Ignore requests to some directories
-    if( request.url.indexOf('google-analytics') !== -1 ){
-      return;
-    }
-
-    // Ignore non-GET requests
-    if(request.method !== 'GET'){
-      return;
-    }
-
-    // For HTML requests, try the network first, fall back to the cache, finally the offline page
-    if(request.headers.get('Accept').indexOf('text/html') !== -1){
-
-      event.respondWith(
-        fetch(request)
-          .then( response => {
-            // NETWORK
-            // Stash a copy of this page in the pages cache
-            let copy = response.clone();
-            if(offlinePages.includes(url.pathname) || offlinePages.includes(url.pathname + '/')){
-              stashInCache(staticCacheName, request, copy);
-            } else {
-              stashInCache(pagesCacheName, request, copy);
-            }
-            return response;
-          })
-          .catch( () => {
-            // CACHE or FALLBACK
-            return caches.match(request)
-                .then( response => response || caches.match('/offline/') );
-          })
-      );
-      return;
-    }
-
-    // Deal with cache busting CSS/JS
-    let regex = /^(.+)\.(\d+)\.(js|css)$/;
-    if(event.request.url.match(regex)){
-      let match = event.request.url.match(regex),
-          cachestring = '.' + match[2],
-          re = new RegExp(cachestring, "g"),
-          newurl = request.url.replace(re, '')
-      ;
-
-      event.respondWith(
-        fetch(request)
-          .then( response => {
-            return response;
-          })
-          .catch( () => {
-            return caches.match(newurl).then( caches.match(newurl) );
-          })
-      );
-      return;
-    }
-
-    // For non-HTML requests, look in the cache first, fall back to the network
-    event.respondWith(
-      caches.match(request)
-        .then(response => {
-          // CACHE
-          return response || fetch(request)
-            .then( response => {
-              // NETWORK
-              // If the request is for an image, stash a copy of this image in the images cache
-              if(request.headers.get('Accept').indexOf('image') !== -1){
-                let copy = response.clone();
-                stashInCache(imagesCacheName, request, copy);
-              }
-              return response;
-            })
-            .catch( () => {
-              // OFFLINE
-              // If the request is for an image, show an offline placeholder
-              if(request.headers.get('Accept').indexOf('image') !== -1){
-                return new Response('<svg role="img" aria-labelledby="offline-title" viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg"><title id="offline-title">Offline</title><rect fill="#000000" x="0" y="0" width="100%" height="100%" opacity="0.2" fill-rule="evenodd"/><text fill="#ffffff" opacity="0.1" font-family="GPC,Helvetica Neue,Arial,Helvetica,sans-serif" font-size="72" font-weight="bold"><tspan x="93" y="172">offline</tspan></text></svg>', {headers: {'Content-Type': 'image/svg+xml'}});
-              }
-            });
+    })
+    .then(() => {
+      caches.open(pagesCacheName)
+        .then(pagesCache => {
+          return pagesCache.addAll(pages)
         })
-    );
-  });
+    })
+}
 
-})();
+// Remove caches whose name is no longer valid
+function clearOldCaches () {
+  return caches.keys()
+    .then(keys => {
+      return Promise.all(keys
+        .filter(key => !cacheList.includes(key))
+        .map(key => caches.delete(key))
+      )
+    })
+}
+
+function trimCache (cacheName, maxItems) {
+  caches.open(cacheName)
+    .then(cache => {
+      cache.keys()
+        .then(keys => {
+          if (keys.length > maxItems) {
+            cache.delete(keys[0])
+              .then(() => {
+                trimCache(cacheName, maxItems)
+              })
+          }
+        })
+    })
+}
+
+addEventListener('install', event => {
+  event.waitUntil(
+    updateStaticCache()
+    .then(() => {
+      cacheClients()
+    })
+    .then(() => {
+      return skipWaiting()
+    })
+  )
+})
+
+addEventListener('activate', event => {
+  event.waitUntil(
+    clearOldCaches()
+    .then(() => {
+      return clients.claim()
+    })
+  )
+})
+
+if (registration.navigationPreload) {
+  addEventListener('activate', event => {
+    event.waitUntil(
+      registration.navigationPreload.enable()
+    )
+  })
+}
+
+self.addEventListener('message', event => {
+  if (event.data.command == 'trimCaches') {
+    trimCache(pagesCacheName, maxPages)
+    trimCache(imagesCacheName, maxImages)
+  }
+})
+
+addEventListener('fetch', event => {
+  const request = event.request
+
+  // Ignore requests to some directories
+  if (request.url.includes('/cms')) {
+    return
+  }
+
+  // Ignore non-GET requests
+  if (request.method !== 'GET') {
+    return
+  }
+
+  const retrieveFromCache = caches.match(request)
+
+  // For HTML requests, try the network first, fall back to the cache, finally the offline page
+  if (request.headers.get('Accept').includes('text/html')) {
+    event.respondWith(
+      new Promise(resolveWithResponse => {
+        const timer = setTimeout(() => {
+          // Time out: CACHE
+          retrieveFromCache
+            .then(responseFromCache => {
+              if (responseFromCache) {
+                resolveWithResponse(responseFromCache)
+              }
+            })
+        }, timeout)
+
+        const retrieveFromFetch = event.preloadResponse || fetch(request)
+
+        retrieveFromFetch
+          .then(responseFromFetch => {
+            // NETWORK
+            clearTimeout(timer)
+            const copy = responseFromFetch.clone()
+            // Stash a copy of this page in the pages cache
+            try {
+              event.waitUntil(
+                caches.open(pagesCacheName)
+                .then(pagesCache => {
+                  return pagesCache.put(request, copy)
+                })
+              )
+            } catch (error) {
+              console.error(error)
+            }
+            resolveWithResponse(responseFromFetch)
+          })
+          .catch(fetchError => {
+            clearTimeout(timer)
+            console.error(fetchError)
+            // CACHE or FALLBACK
+            caches.match(request)
+              .then(responseFromCache => {
+                resolveWithResponse(
+                  responseFromCache || caches.match('/offline')
+                )
+              })
+          })
+      })
+    )
+    return
+  }
+
+  // For non-HTML requests, look in the cache first, fall back to the network
+  event.respondWith(
+    caches.match(request)
+    .then(responseFromCache => {
+      // CACHE
+      return responseFromCache || fetch(request)
+        .then(responseFromFetch => {
+          // NETWORK
+          // If the request is for an image, stash a copy of this image in the images cache
+          if (request.url.match(/\.(jpe?g|png|gif|svg|mapbox)/)) {
+            const copy = responseFromFetch.clone()
+            try {
+              event.waitUntil(
+                caches.open(imagesCacheName)
+                .then(imagesCache => {
+                  return imagesCache.put(request, copy)
+                })
+              )
+            } catch (error) {
+              console.error(error)
+            }
+          }
+          return responseFromFetch
+        })
+        .catch(fetchError => {
+          console.error(fetchError)
+          // FALLBACK
+          // show an offline placeholder
+          if (request.url.match(/\.(jpe?g|png|gif|svg|mapbox)/)) {
+            return new Response('<svg role="img" aria-labelledby="offline-title" viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg"><title id="offline-title">Offline</title><g fill="none" fill-rule="evenodd"><path fill="#D8D8D8" d="M0 0h400v300H0z"/><text fill="#9B9B9B" font-family="Helvetica Neue,Arial,Helvetica,sans-serif" font-size="72" font-weight="bold"><tspan x="93" y="172">offline</tspan></text></g></svg>', { headers: { 'Content-Type': 'image/svg+xml', 'Cache-Control': 'no-store' } })
+          }
+        })
+    })
+  )
+})
