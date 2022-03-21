@@ -16,6 +16,7 @@
     <link rel="preload" as="font" type="font/woff2" href="/font/et-book-roman-line-figures.woff2" crossorigin>
     <link rel="preload" as="font" type="font/woff2" href="/font/et-book-display-italic-old-style-figures.woff2" crossorigin>
     <link rel="stylesheet" href="/css/main.css" />
+    <link rel="stylesheet" href="/css/baguetteBox.min.css" />
     <link rel="apple-touch-icon" href="/img/icon.png" />
     <link rel="manifest" href="/site.webmanifest" />
     <script>
@@ -28,9 +29,11 @@
       }
     </script>
     <script src="/js/turbolinks.js" defer></script>
+    <script src="/js/baguetteBox.min.js" defer></script>
     <script>
       document.addEventListener("turbolinks:load", function() {
         document.querySelectorAll("main.interactive input[disabled]").forEach(function(item, i){item.removeAttribute("disabled")});
+        baguetteBox.run('.gallery');
       });
     </script>
 {{ range .AlternativeOutputFormats -}}
