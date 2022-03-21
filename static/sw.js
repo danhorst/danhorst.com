@@ -12,7 +12,7 @@ Thanks to [Jeremy][1], [Filament Group][2], and [Erik][3] for this, and everythi
 (function(){
   'use strict';
 
-  const version = 'v2022-03-17T07:25:00::';
+  const version = 'v2022-21-17T07:25:00::';
   const staticCacheName = version + 'static';
   const pagesCacheName = version + 'pages';
   const imagesCacheName = version + 'images';
@@ -26,12 +26,14 @@ Thanks to [Jeremy][1], [Filament Group][2], and [Erik][3] for this, and everythi
 
   const staticAssets = [
     '/css/main.css',
+    '/css/baguetteBox.min.css',
     '/font/et-book-bold-line-figures.woff2',
     '/font/et-book-display-italic-old-style-figures.woff2',
     '/font/et-book-roman-line-figures.woff2',
     '/font/et-book-roman-old-style-figures.woff2',
     '/font/et-book-semi-bold-old-style-figures.woff2',
-    '/js/turbolinks.js'
+    '/js/turbolinks.js',
+    '/js/baguetteBox.min.js'
   ];
 
   function stashInCache(cacheName, request, response){
@@ -137,7 +139,7 @@ Thanks to [Jeremy][1], [Filament Group][2], and [Erik][3] for this, and everythi
       });
     });
   }
-  
+
   self.addEventListener('fetch', event => {
     let request = event.request;
     let url = new URL(request.url);
