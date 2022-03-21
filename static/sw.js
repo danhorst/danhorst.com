@@ -32,8 +32,8 @@ function updateStaticCache () {
       ])
       // These items must be cached for the Service Worker to complete installation
       return staticCache.addAll([
-        '/assets/css/main.css?' + version,
-        '/offline'
+        '/css/main.css?' + version,
+        '/offline/'
       ])
     })
 }
