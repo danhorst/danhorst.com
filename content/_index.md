@@ -32,12 +32,6 @@ description: "My personal website (there is some professional content too)"
     width: 100%;
   }
 
-  @media (min-width: 760px) {
-    .color-bands {
-      padding-right:12.5%;
-    }
-  }
-
   .color-band-border {
     background-color: #000;
     border: 10px solid #000;
