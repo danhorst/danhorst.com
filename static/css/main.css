@@ -443,6 +443,12 @@ main > article:first-child {
   padding-top: 0;
 }
 
+th {
+  font-variant: small-caps;
+  text-align: left;
+  text-transform: uppercase;
+}
+
 .archived-post {
   padding: 1rem 0;
 }
