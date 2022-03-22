@@ -12,9 +12,5 @@ hugo new writing/name_of_post.md
 
 NOTE: Changes to the assets (CSS, JS, webfonts, etc.) require an update to the cache date in `sw.js`
 
-## Todo
-
-- [ ] Add favicon
-
 [1]: https://gohugo.io/
 [2]: https://www.danhorst.com
