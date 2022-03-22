@@ -320,9 +320,12 @@ img {
 }
 
 .sidenote:before {
-  content: counter(sidenote-counter) " ";
+  content: counter(sidenote-counter);
   font-size: 1rem;
-  top: -0.5rem;
+  left: -0.75rem;
+  position: absolute;
+  text-align: right;
+  top: -0.2rem;
 }
 
 blockquote .sidenote,
