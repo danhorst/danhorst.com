@@ -2,6 +2,7 @@
 title: "Be a Good Partner"
 description: "Ways to be a good partner"
 date: 2018-07-18T19:12:49-04:00
+pageLayout: raw
 categories:
  - Goals
 ---
