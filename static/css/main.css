@@ -689,6 +689,7 @@ li::has(>input[type='checkbox']) {
 }
 
 nav {
+  display: block;
   font-style: italic;
   height: 4em;
 }
