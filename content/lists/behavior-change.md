@@ -5,14 +5,22 @@ categories:
  - Reference
 ---
 
-> Derived from "[Hierarchy of Procedures for Humane and Effective Practice][1]" which is meant to guide professionals in their decision-making process during training and behavior modification.
+> Derived from "[Hierarchy of Procedures for Humane and Effective Practice][1]" by Susan G. Friedman et. al. which is meant to guide professionals in their decision-making process during training and behavior modification.
 > It is based on [ethology][2], the scientific study of animal behavior, and uses terms from that field.
 >
 > Changing behavior of individuals and organizations is a critical job function of managers and executives.
 > As such, much of the materials available in popular business and management literature is watered-down behavior science.
 
+## Loose Translation for People in Organizations
 
-## Hierarchy of Procedures for Humane and Effective Practice
+1. Ensure physical and emotional security
+2. Encourage behavior by setting up the environment, processes, and norms
+3. Give encouraging feedback
+4. Use critique and coaching
+5. Shape behavior by removing rewards for an undesired behavior or reducing the consequences of a desired behavior
+6. Discourage undesired behavior by doling out punishment
+
+## ORIGIONAL: Hierarchy of Procedures for Humane and Effective Practice
 
 1. _Health, nutritional, and physical factors:_ Ensure that any indicators for possible medical, nutritional, or health factors are addressed by a licensed veterinarian. The consultant should also address potential factors in the physical environment.
 2. _Antecedents:_ Redesign setting events, change motivations, and add or remove discriminative stimuli (cues) for the problem behavior.
@@ -23,15 +31,6 @@ categories:
 	2. _Negative Reinforcement:_ Contingently withdraw an aversive antecedent stimulus to increase the probability that the right behavior will occur.
 	3. _Extinction:_ Permanently remove the maintaining reinforcer to suppress the behavior or reduce it to baseline levels.
 6. _Positive Punishment:_  Contingently deliver an aversive consequence to reduce the probability that the problem behavior will occur.
-
-## Loosely Translated for People in Organizations
-
-1. Ensure physical and emotional security
-2. Encourage behavior by setting up the environment, processes, and norms
-3. Give encouraging feedback
-4. Use critique and coaching
-5. Shape behavior by removing rewards for an undesired behavior or reducing the consequences of a desired behavior
-6. Discourage undesired behavior by doling out punishment
 
 [1]: https://m.iaabc.org/about/lima/hierarchy/
 [2]: https://en.wikipedia.org/wiki/Ethology
