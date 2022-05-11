@@ -2,11 +2,11 @@
 type:        writing
 author:      Dan Brubaker Horst
 date:        2022-02-24T14:44:20-04:00
-description: A cinical take on transforming software delivery
+description: Transforming software delivery is hard
 tags:
  - DevOps
  - ND
-title: Ten Years of Failing at DevOps
+title: Ten Years of DevOps Obstacles
 ---
 
 I started [writing about DevOps][1] in 2012.
