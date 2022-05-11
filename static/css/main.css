@@ -143,6 +143,14 @@ ul {
   line-height: 2rem;
 }
 
+ol ol {
+  list-style-type: lower-latin;
+}
+
+ol ol ol {
+  list-style-type: lower-roman;
+}
+
 p {
   margin-bottom: 1.4rem;
   margin-top: 1.4rem;

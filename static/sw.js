@@ -2,7 +2,7 @@
 
 'use strict'
 
-const version = 'v2022-21-17T07:25:00::';
+const version = 'v2022-05-11T07:25:00::';
 const staticCacheName = version + 'static'
 const pagesCacheName = 'pages'
 const imagesCacheName = 'images'
