@@ -24,5 +24,14 @@ categories:
 	3. _Extinction:_ Permanently remove the maintaining reinforcer to suppress the behavior or reduce it to baseline levels.
 6. _Positive Punishment:_  Contingently deliver an aversive consequence to reduce the probability that the problem behavior will occur.
 
+## Loosely Translated for People in Organizations
+
+1. Ensure physical and emotional security
+2. Encourage behavior by setting up the environment, processes, and norms
+3. Give encouraging feedback
+4. Use critique and coaching
+5. Shape behavior by removing rewards for an undesired behavior or reducing the consequences of a desired behavior
+6. Discourage undesired behavior by doling out punishment
+
 [1]: https://m.iaabc.org/about/lima/hierarchy/
 [2]: https://en.wikipedia.org/wiki/Ethology
