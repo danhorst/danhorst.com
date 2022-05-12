@@ -12,7 +12,7 @@ categories:
 > As such, much of the materials available in popular business and management literature is watered-down behavior science.
 > There is more overlap than you might thing between training dolphins and managing people.
 
-These behavior change procedures are ordered from least to most invasive.
+These behavior change procedures are listed from the most positive, least invasive to the least positive, most invasive methods.
 Start with the least invasive procedure possible before escalating.
 Level five should be avoided.
 Level six should be treated as a last resort.
