@@ -28,6 +28,18 @@ Level six should be treated as a last resort.
 
 ## ORIGINAL: Hierarchy of Procedures for Humane and Effective Practice
 
+<figure class="illustration">
+<figcaption class="marginnote">
+  <em>Hierarchy of Behavior-Change Procedures Most Positive, Least Intrusive Effective Intervention</em>
+  <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode">CC-BY-NC-ND</a> 2015 Susan G. Friedman, Ph. D.
+</figcaption>
+<div id="hierarchy-of-behavior-change" class="gallery">
+  <a href="/img/lima-hierarchy.png">
+  <img src="/img/lima-hierarchy.png" alt="An illustration of six levels of behaivor change depected as right turns off a highway. There are speed bumps starting with the forth turn, the fith turn has a yield sign, and the last turn has a stop sign.">
+  </a>
+</div>
+</figure>
+
 1. _Health, nutritional, and physical factors:_ Ensure that any indicators for possible medical, nutritional, or health factors are addressed by a licensed veterinarian. The consultant should also address potential factors in the physical environment.
 2. _Antecedents:_ Redesign setting events, change motivations, and add or remove discriminative stimuli (cues) for the problem behavior.
 3. _Positive Reinforcement:_ Employ approaches that contingently deliver a consequence to increase the probability that the desired behavior will occur.
