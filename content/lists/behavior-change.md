@@ -10,6 +10,12 @@ categories:
 >
 > Changing behavior of individuals and organizations is a critical job function of managers and executives.
 > As such, much of the materials available in popular business and management literature is watered-down behavior science.
+> There is more overlap than you might thing between training dolphins and managing people.
+
+These behavior change procedures are ordered from least to most invasive.
+Start with the least invasive procedure possible before escalating.
+Level five should be avoided.
+Level six should be treated as a last resort.
 
 ## Loose Translation for People in Organizations
 
@@ -20,7 +26,7 @@ categories:
 5. Shape behavior by removing rewards for an undesired behavior or reducing the consequences of a desired behavior
 6. Discourage undesired behavior by doling out punishment
 
-## ORIGIONAL: Hierarchy of Procedures for Humane and Effective Practice
+## ORIGINAL: Hierarchy of Procedures for Humane and Effective Practice
 
 1. _Health, nutritional, and physical factors:_ Ensure that any indicators for possible medical, nutritional, or health factors are addressed by a licensed veterinarian. The consultant should also address potential factors in the physical environment.
 2. _Antecedents:_ Redesign setting events, change motivations, and add or remove discriminative stimuli (cues) for the problem behavior.
