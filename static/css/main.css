@@ -176,6 +176,7 @@ section > blockquote {
 
 main > h1 + blockquote,
 section > blockquote,
+section > blockquote + dl dt,
 div.epigraph > blockquote,
 div.epigraph > blockquote > p {
   font-style: italic;
@@ -218,9 +219,12 @@ section > ul {
   width: 63%;
 }
 
-dt:not(:first-child),
 li:not(:first-child) {
   margin-top: 0.25rem;
+}
+
+dt:not(:first-child) {
+  margin-top: 1rem;
 }
 
 figure {
