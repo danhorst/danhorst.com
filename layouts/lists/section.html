@@ -16,7 +16,7 @@
 {{ define "main" }}
   <h1>Lists</h1>
   {{ range $key, $taxonomy := .Site.Taxonomies.categories }}
-     {{ if in "goals stuff-i-like recipies reference" $key }}
+     {{ if in "goals stuff-i-like recipes reference" $key }}
        <h2 id="{{ $key }}">{{ $key | humanize | title }}</h2>
        <ul>
        {{ range sort $taxonomy.Pages ".Title" }}

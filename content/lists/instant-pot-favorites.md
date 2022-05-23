@@ -3,7 +3,7 @@ title: "Instant Pot Favorites"
 description: "My favorite one-pot pressure-cooker meals"
 date: 2021-01-10T11:18:49-04:00
 categories:
- - recipies
+ - recipes
 ---
 
 - [Butter Chicken][1]
