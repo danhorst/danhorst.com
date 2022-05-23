@@ -2,7 +2,7 @@
 title: "Instant Pot Pork Chili Verde"
 date: 2019-03-04T13:54:49-05:00
 categories:
- - Recipes
+ - Recipe
 tags:
  - Instant Pot
  - Keto

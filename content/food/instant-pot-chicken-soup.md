@@ -2,7 +2,7 @@
 title: "Instant Pot Chicken Soup"
 date: 2019-03-04T10:38:41-05:00
 categories:
- - Recipes
+ - Recipe
 tags:
  - Instant Pot
  - Keto

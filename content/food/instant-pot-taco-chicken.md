@@ -2,7 +2,7 @@
 title: "Instant Pot Taco Chicken"
 date: 2019-05-21T10:38:41-05:00
 categories:
- - Recipes
+ - Recipe
 tags:
  - Instant Pot
  - Keto

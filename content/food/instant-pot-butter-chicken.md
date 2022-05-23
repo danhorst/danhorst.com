@@ -2,7 +2,7 @@
 title: "Instant Pot Butter Chicken"
 date: 2019-03-04T13:59:25-05:00
 categories:
- - Recipes
+ - Recipe
 tags:
  - Instant Pot
  - Keto
