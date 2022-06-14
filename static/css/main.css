@@ -473,8 +473,13 @@ main > article:first-child {
 
 th {
   font-variant: small-caps;
+  letter-spacing: .1em;
   text-align: left;
   text-transform: uppercase;
+}
+
+table {
+  table-layout: fixed;
 }
 
 .archived-post {
