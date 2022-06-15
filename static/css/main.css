@@ -610,7 +610,20 @@ table {
   visibility: visible;
 }
 
-li::has(>input[type='checkbox']) {
+#finish + p + ul li,
+#ingredients + p + ul li {
+  list-style-type: none;
+  position: relative;
+}
+
+#finish + p + ul li input[type='checkbox'],
+#ingredients + p + ul li input[type='checkbox'] {
+  left: -2em;
+  position: absolute;
+  top: .3em;
+}
+
+li::has(> input[type='checkbox']) {
   list-style-type: none;
 }
 
