@@ -2,7 +2,7 @@
 title: "Podcasts"
 date: 2022-02-12T11:19:45-04:00
 categories:
- - Stuff I Like
+ - Likes
 ---
 
 > I listen to a lot of podcasts, but less than I used to.

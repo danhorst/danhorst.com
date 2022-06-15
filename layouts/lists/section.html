@@ -24,6 +24,14 @@
       {{ end }}
       </ul>
     {{ end }}
+    {{ if eq $key "likes" }}
+      <h2 id="{{ $key }}">{{ $key | humanize | title }}</h2>
+      <ul>
+      {{ range sort $taxonomy.Pages ".Title" }}
+	  {{ .Render "summary" }}
+      {{ end }}
+      </ul>
+    {{ end }}
     {{ if eq $key "recipes" }}
       <h2 id="{{ $key }}">{{ $key | humanize | title }}</h2>
       <ul>
@@ -33,14 +41,6 @@
       </ul>
     {{ end }}
     {{ if eq $key "reference" }}
-      <h2 id="{{ $key }}">{{ $key | humanize | title }}</h2>
-      <ul>
-      {{ range sort $taxonomy.Pages ".Title" }}
-	  {{ .Render "summary" }}
-      {{ end }}
-      </ul>
-    {{ end }}
-    {{ if eq $key "stuff-i-like" }}
       <h2 id="{{ $key }}">{{ $key | humanize | title }}</h2>
       <ul>
       {{ range sort $taxonomy.Pages ".Title" }}
