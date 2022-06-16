@@ -9,7 +9,7 @@ description: "My personal website (there is some professional content too)"
   }
 
   .color-bands {
-    margin: 0;
+    margin: 2rem 0 0;
     max-width: 100%;
     position: relative;
   }
