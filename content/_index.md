@@ -9,8 +9,9 @@ description: "My personal website (there is some professional content too)"
   }
 
   .color-bands {
-    margin: 2rem 0 0;
+    margin: 1.5rem 0 0;
     max-width: 100%;
+    outline: 1px solid #333;
     position: relative;
   }
 
