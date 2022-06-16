@@ -9,10 +9,21 @@ description: "My personal website (there is some professional content too)"
   }
 
   .color-bands {
+    animation: outline 3.5s;
     margin: 1.5rem 0 0;
     max-width: 100%;
     outline: 1px solid #333;
     position: relative;
+  }
+
+  @keyframes outline {
+    from {
+      outline-color: transparent;
+    }
+
+    to {
+      outline-color: #333;
+    }
   }
 
   .color-bands a:link {
