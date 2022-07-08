@@ -1,9 +1,10 @@
 baseURL =  "https://www.danhorst.com/"
-languageCode =  "en-us"
-title = "Dan Brubaker Horst"
-paginate = 500
 disableLiveReload = true
+enableEmoji = true
+languageCode = "en-us"
+paginate = 500
 pluralizelisttitles = false
+title = "Dan Brubaker Horst"
 
 [params]
   author = "Dan Brubaker Horst"
