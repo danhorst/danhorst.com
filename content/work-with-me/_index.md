@@ -20,8 +20,9 @@ Shipping the right things made the right way takes people, culture, strategy, fo
 
 1. A senior technical role
 2. A mission-driven, product-focused organization
-3. A remote-first, asynchronous team[^1]
-4. A [generative organizational culture][2]
+3. A remote-first, asynchronous team<label for="remote-first" class="margin-toggle sidenote-number"></label> <input type="checkbox" id="remote-first" class="margin-toggle"/><span class="sidenote">There are times when in-person meetings are irreplaceable like building relationships and intense bursts of collaboration—<a href="https://www.thefieldstudyhandbook.com/">like a pop-up studio</a></span>
+4. A <a href="/lists/organizational-culture/">generative organizational culture</a>
+
 
 ## Skills
 
@@ -59,7 +60,7 @@ Git
 : 10+ years
 
 GitHub
-: 10+ years[^2]
+: 10+ years[^1]
 
 HTML5
 : 10+ years
@@ -118,12 +119,8 @@ Web design
 Web development
 : 10+ years
 
-[^1]: There are times when in-person meetings are irreplaceable like building relationships and intense bursts of collaboration—[like a pop-up studio][3].
-[^2]: TRIVIA: I was the 2132nd person to get a [GitHub][4] account when I signed up as [@danhorst][5] in 2008.
+[^1]: TRIVIA: I was the 2132nd person to get a [GitHub][2] account when I signed up as [@danhorst][3] in 2008.
 
 [1]: https://rocketlabdelta.com/
-[2]: /lists/organizational-culture/
-[3]: https://www.thefieldstudyhandbook.com/
-[4]: https://github.com
-[5]: https://github.com/danhorst
-
+[2]: https://github.com
+[3]: https://github.com/danhorst

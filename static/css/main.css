@@ -490,6 +490,10 @@ table {
   overflow: auto;
 }
 
+#skills + dl {
+  margin-top: 0;
+}
+
 #skills + dl,
 .colophon dl {
   box-sizing: border-box;
