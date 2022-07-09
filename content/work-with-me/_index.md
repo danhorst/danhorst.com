@@ -7,7 +7,8 @@ description: "Let's look at the next chapter of my career."
 
 I've been working in tech since 2007 as a full-stack web application developer, team lead, and enterprise architect.
 
-I am passionate about:  
+I am passionate about:
+
 :notebook: Clear technical communication  
 :computer: Developer happiness  
 :sparkles: Product design  
@@ -18,12 +19,14 @@ Shipping the right things made the right way takes people, culture, strategy, fo
 
 ## I'm Looking For
 
-1. A senior technical role; lead engineer or staff engineer
+1. A senior technical role; staff engineer or lead engineer
 2. A mission-driven, product-focused organization
 3. A remote-first, asynchronous team<label for="remote-first" class="margin-toggle sidenote-number"></label> <input type="checkbox" id="remote-first" class="margin-toggle"/><span class="sidenote">There are times when in-person meetings are irreplaceable like building relationships and intense bursts of collaboration—<a href="https://www.thefieldstudyhandbook.com/">like a pop-up studio</a></span>
 4. A <a href="/lists/organizational-culture/">generative organizational culture</a>
 
 ## Skills
+
+I am a rigorous, versatile, software engineer with a broad base of experience.
 
 APIs
 : 10+ years
@@ -120,7 +123,7 @@ Web development
 
 ### Trivia
 
-- I was the 2132nd person to get a [GitHub][2] account when I signed up as [@danhorst][3] in 2008.
+- I was the 2132<sup>nd</sup> person to get a [GitHub][2] account when I signed up as [@danhorst][3] in 2008.
 - I started working with Rails version [1.2][4]. It's come a _long_ way since then.
 
 [1]: https://rocketlabdelta.com/
