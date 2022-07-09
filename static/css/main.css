@@ -490,11 +490,11 @@ table {
   overflow: auto;
 }
 
-#skills + dl {
+#work-with-me dl {
   margin-top: 0;
 }
 
-#skills + dl,
+#work-with-me dl,
 .colophon dl {
   box-sizing: border-box;
   float: left;
@@ -503,20 +503,20 @@ table {
   width: 100%;
 }
 
-#skills + dl dd,
+#work-with-me dl dd,
 .colophon dd {
   float: left;
   margin: .3rem 0 0;
   padding-left: 1rem;
 }
 
-#skills + dl dd + dd,
+#work-with-me dl dd + dd,
 .colophon dd + dd {
   clear: left;
   margin-left: 10rem;
 }
 
-#skills + dl dt,
+#work-with-me dl dt,
 .colophon dt {
   clear: left;
   float: left;
@@ -525,23 +525,23 @@ table {
   width: 10rem;
 }
 
-#skills + dl dt:after,
+#work-with-me dl dt:after,
 .colophon dt:after {
   content: ":"
 }
 
 @media (min-width: 760px) {
-  #skills + dl,
+  #work-with-me dl,
   .colophon dl {
     padding-left: 1rem;
   }
   .colophon dt {
     width: 12rem;
   }
-  #skills + dl dt {
+  #work-with-me dl dt {
     width: 15rem;
   }
-  #skills + dl  dd + dd,
+  #work-with-me dl  dd + dd,
   .colophon dd + dd {
     margin-left: 12rem;
   }
