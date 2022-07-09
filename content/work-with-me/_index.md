@@ -59,7 +59,7 @@ Git
 : 10+ years
 
 GitHub
-: 10+ years[^1]
+: 10+ years
 
 HTML5
 : 10+ years
@@ -118,8 +118,12 @@ Web design
 Web development
 : 10+ years
 
-[^1]: TRIVIA: I was the 2132nd person to get a [GitHub][2] account when I signed up as [@danhorst][3] in 2008.
+### Trivia
+
+- I was the 2132nd person to get a [GitHub][2] account when I signed up as [@danhorst][3] in 2008.
+- I started working with Rails version [1.2][4]. It's come a _long_ way since then.
 
 [1]: https://rocketlabdelta.com/
 [2]: https://github.com
 [3]: https://github.com/danhorst
+[4]: https://rubygems.org/gems/rails/versions/1.2.0
