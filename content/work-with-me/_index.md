@@ -19,7 +19,7 @@ Shipping the right things made the right way takes people, culture, strategy, fo
 
 ## I'm Looking For
 
-1. A senior technical role; staff engineer or lead engineer
+1. A senior technical role; staff engineer or engineering lead
 2. A mission-driven, product-focused organization
 3. A remote-first, asynchronous team<label for="remote-first" class="margin-toggle sidenote-number"></label> <input type="checkbox" id="remote-first" class="margin-toggle"/><span class="sidenote">There are times when in-person meetings are irreplaceable like building relationships and intense bursts of collaboration—<a href="https://www.thefieldstudyhandbook.com/">like a pop-up studio</a></span>
 4. A <a href="/lists/organizational-culture/">generative organizational culture</a>
