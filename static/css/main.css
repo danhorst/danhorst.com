@@ -486,11 +486,7 @@ table {
   padding: 1rem 0;
 }
 
-.colophon {
-  overflow: auto;
-}
-
-#work-with-me dl {
+.#work-with-me dl {
   margin-top: 0;
 }
 
