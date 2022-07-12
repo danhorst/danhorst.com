@@ -23,7 +23,7 @@ Shipping the right things made the right way takes people, culture, strategy, fo
 2. A senior technical role; staff engineer or engineering lead
 3. Challenging work that necessitates innovation
 4. A remote-first, asynchronous team<label for="remote-first" class="margin-toggle sidenote-number"></label> <input type="checkbox" id="remote-first" class="margin-toggle"/><span class="sidenote">In-person meetings are invaluable in some circumstances including building relationships and intense bursts of collaboration—like a <a href="https://www.thefieldstudyhandbook.com/">pop-up studio</a>.</span>
-5. A <a href="/lists/organizational-culture/">generative organizational culture</a>
+5. A [generative organizational culture][2]
 
 ## Skills
 
@@ -135,10 +135,11 @@ Web development
 
 ### Trivia
 
-- I was the 2132<sup>nd</sup> person to get a [GitHub][2] account when I signed up as [@danhorst][3] in 2008.
-- I started working with Rails version [1.2][4]. It's come a _long_ way since then.
+- I was the 2132<sup>nd</sup> person to get a [GitHub][3] account when I signed up as [@danhorst][4] in 2008.
+- I started working with Rails version [1.2][5]. It's come a _long_ way since then.
 
 [1]: https://rocketlabdelta.com/essays/why-i-like-rocketry/
-[2]: https://github.com
-[3]: https://github.com/danhorst
-[4]: https://rubygems.org/gems/rails/versions/1.2.0
+[2]: /lists/organizational-culture/#generative
+[3]: https://github.com
+[4]: https://github.com/danhorst
+[5]: https://rubygems.org/gems/rails/versions/1.2.0
