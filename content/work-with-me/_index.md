@@ -19,10 +19,13 @@ Shipping the right things made the right way takes people, culture, strategy, fo
 
 ## I'm Looking For
 
-- A mission-driven, product-focused organization
+- A mission-driven, product-focused organization. These criteria are a proxy for an organization that can:
+  - Formulate and execute [an effective strategy][2]
+  - Balance the [four implementation risks][3] and focus on what's important
+  - Provide challenges that require innovation and [deep work][4]
 - A senior technical role; staff engineer or engineering lead
-- Challenging work that requires innovation
-- A [generative organizational culture][2]
+- Teammates that will help me grow and learn new things
+- A [generative organizational culture][5]
 
 ### Location
 
@@ -146,11 +149,14 @@ Web development
 
 ### Trivia
 
-- I was the 2132<sup>nd</sup> person to get a [GitHub][3] account when I signed up as [@danhorst][4] in 2008. In June 2022 there were 83 million user accounts on GitHub putting me in the first 0.003% of users.
-- I started working with Rails version [1.2][5]. It's come a _long_ way since then.
+- I was the 2132<sup>nd</sup> person to get a [GitHub][6] account when I signed up as [@danhorst][7] in 2008. In June 2022 there were 83 million user accounts on GitHub putting me in the first 0.003% of users.
+- I started working with Rails version [1.2][8]. It's come a _long_ way since then.
 
 [1]: https://rocketlabdelta.com/essays/why-i-like-rocketry/
-[2]: /lists/organizational-culture/#generative
-[3]: https://github.com
-[4]: https://github.com/danhorst
-[5]: https://rubygems.org/gems/rails/versions/1.2.0
+[2]: https://web.archive.org/web/20220327073355/http://goodbadstrategy.com/about-the-book/
+[3]: /lists/implmentation-risks/
+[4]: https://www.calnewport.com/books/deep-work/
+[5]: /lists/organizational-culture/#generative
+[6]: https://github.com
+[7]: https://github.com/danhorst
+[8]: https://rubygems.org/gems/rails/versions/1.2.0
