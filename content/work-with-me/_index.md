@@ -21,9 +21,14 @@ Shipping the right things made the right way takes people, culture, strategy, fo
 
 1. A mission-driven, product-focused organization
 2. A senior technical role; staff engineer or engineering lead
-3. Challenging work that necessitates innovation
-4. A remote-first, asynchronous team<label for="remote-first" class="margin-toggle sidenote-number"></label> <input type="checkbox" id="remote-first" class="margin-toggle"/><span class="sidenote">In-person meetings are invaluable in some circumstances including building relationships and intense bursts of collaboration—like a <a href="https://www.thefieldstudyhandbook.com/">pop-up studio</a>.</span>
-5. A [generative organizational culture][2]
+3. Challenging work that requires innovation
+4. A [generative organizational culture][2]
+
+### Location
+
+1. A remote-first team—preferably asynchronous<label for="remote-first" class="margin-toggle sidenote-number"></label> <input type="checkbox" id="remote-first" class="margin-toggle"/><span class="sidenote">In-person meetings are invaluable in some circumstances including building relationships and intense bursts of collaboration—like a <a href="https://www.thefieldstudyhandbook.com/">pop-up studio</a>.</span>
+2. I am open to a hybrid role in the Boston metro area
+3. I _will not_ relocate to any state where reproductive rights are not protected
 
 ## Skills
 
