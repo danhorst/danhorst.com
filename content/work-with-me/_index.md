@@ -117,6 +117,9 @@ Ruby
 SDLC
 : 5 years
 
+Software Testing
+: 10+ years
+
 SQL
 : 5 years
 
@@ -131,6 +134,9 @@ Technical writing
 
 User Interface (UI)
 : 10+ years
+
+User Experience (UX)
+: 5+ years
 
 Web design
 : 10+ years
