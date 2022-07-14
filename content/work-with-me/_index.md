@@ -140,7 +140,7 @@ Web development
 
 ### Trivia
 
-- I was the 2132<sup>nd</sup> person to get a [GitHub][3] account when I signed up as [@danhorst][4] in 2008.
+- I was the 2132<sup>nd</sup> person to get a [GitHub][3] account when I signed up as [@danhorst][4] in 2008. In June 2022 there were 83 million user accounts on GitHub putting me in the first 0.003% of users.
 - I started working with Rails version [1.2][5]. It's come a _long_ way since then.
 
 [1]: https://rocketlabdelta.com/essays/why-i-like-rocketry/
