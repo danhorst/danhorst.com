@@ -27,6 +27,7 @@ Shipping the right things made the right way takes people, culture, strategy, fo
 - A senior technical role; staff engineer or engineering lead
 - Teammates that will help me grow and learn new things
 - A [generative organizational culture][5]
+- BONUS: An organization that can take advantage of my deep experience with Ruby on Rails
 
 ### Location
 
