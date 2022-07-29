@@ -10,8 +10,8 @@ categories:
 ## Basics
 
 - How do you measure success?
-- How big is the organization? How is it structured?
-- How big is the engineering team? How are the teams organized?
+- How big is the whole organization? How is it structured?
+- How big is the engineering organization? How are the teams organized?
 - What is your market? Who are the big players in this space?
 - What challenges are you facing now?
 - What moat do you have around your competitive advantage?
