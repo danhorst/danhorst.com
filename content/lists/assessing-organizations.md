@@ -1,6 +1,6 @@
 ---
 title: "Assessing Organizations"
-date: 2022-07-29T16:57:45-04:00
+date: 2022-07-29T13:57:45-04:00
 categories:
  - Reference
 ---
@@ -23,7 +23,7 @@ categories:
 - How do you develop and execute strategy?
 - What is the structure of your technical leadership?
 - What [behaviors do you encourage][1]?
-- Do you measure software delivery performance?
+- Do you [measure software delivery performance][2]?
 - What do you do to ensure software quality?
 - What are your internal and external change management processes?
 - How do you communicate about objectives, status, and priority?
@@ -41,4 +41,5 @@ categories:
 - If you accepted external investment to drive growth, what is your burn rate?
 - Do you give employees equity? If so, what are the details?
 
-[1]: https://www.danhorst.com/lists/behavior-change/
+[1]: /lists/behavior-change/
+[2]: /writing/software-delivery/
