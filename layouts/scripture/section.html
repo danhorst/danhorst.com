@@ -12,4 +12,47 @@
     {{ .Content }}
   </section>
 </article>
+
+<style>
+  h2 {
+    position: relative;
+  }
+
+  .highlighted:before {
+    content: '☆';
+    font-style: normal;
+    position: absolute;
+    left: -1em;
+  }
+
+  .highlighted + p {
+    background-color: #b3d4fc;
+    outline: .3em solid #b3d4fc;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    .highlighted + p {
+      background-color: #0a3f80;
+      outline: .3em solid #0a3f80;
+    }
+  }
+</style>
+
+<script>
+  let currentPrefix = '';
+  const highlightClass = 'highlighted';
+
+  const selectText = function(){
+    const header = this.parentNode;
+    const idPrefix = header.id.substring(0,3);
+
+    if (currentPrefix !== idPrefix) {
+      currentPrefix = idPrefix;
+      document.querySelectorAll('.' + highlightClass).forEach(el => el.classList.remove(highlightClass));
+      document.querySelectorAll('[id^="' + idPrefix + '"]').forEach(el => el.classList.add(highlightClass));
+    }
+  }
+
+  document.querySelectorAll('h2 a').forEach(el => el.addEventListener('click', selectText));
+</script>
 {{ end }}
