@@ -1,0 +1,15 @@
+{{ define "header" }}
+  <nav role="navigation"></nav>
+{{ end }}
+
+{{ define "main" }}
+<article>
+  <header>
+    <h1>{{ .Title | markdownify }}</h1>
+  </header>
+
+  <section>
+    {{ .Content }}
+  </section>
+</article>
+{{ end }}
