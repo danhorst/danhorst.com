@@ -19,12 +19,10 @@
   }
 
   .highlighted:before {
-    content: '☆';
-    left: -1em;
     content: '·';
     font-style: normal;
-    position: absolute;
     left: -.35em;
+    position: absolute;
   }
 
   .highlighted + p {
@@ -48,8 +46,8 @@
 </style>
 
 <script>
-  let currentPrefix = '';
-  const highlightClass = 'highlighted';
+  let currentPrefix = "";
+  const highlightClass = "highlighted";
 
   const selectText = function(){
     const header = this.parentNode;
@@ -57,11 +55,11 @@
 
     if (currentPrefix !== idPrefix) {
       currentPrefix = idPrefix;
-      document.querySelectorAll('.' + highlightClass).forEach(el => el.classList.remove(highlightClass));
+      document.querySelectorAll("." + highlightClass).forEach(el => el.classList.remove(highlightClass));
       document.querySelectorAll('[id^="' + idPrefix + '"]').forEach(el => el.classList.add(highlightClass));
     }
   }
 
-  document.querySelectorAll('h2 a').forEach(el => el.addEventListener('click', selectText));
+  document.querySelectorAll("h2 a").forEach(el => el.addEventListener("click", selectText));
 </script>
 {{ end }}
