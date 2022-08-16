@@ -55,9 +55,12 @@
     const header = this.parentNode;
     const idPrefix = header.id.substring(0,3);
 
-    if (currentPrefix !== idPrefix) {
+    document.querySelectorAll("." + highlightClass).forEach(el => el.classList.remove(highlightClass));
+
+    if (currentPrefix == idPrefix) {
+      currentPrefix = "";
+    } else {
       currentPrefix = idPrefix;
-      document.querySelectorAll("." + highlightClass).forEach(el => el.classList.remove(highlightClass));
       document.querySelectorAll('[id^="' + idPrefix + '"]').forEach(el => el.classList.add(highlightClass));
     }
   }
