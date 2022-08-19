@@ -2,7 +2,7 @@
 
 'use strict'
 
-const version = 'v2022-05-11T07:25:00::';
+const version = 'v2022-08-19T11:25:00::';
 const staticCacheName = version + 'static'
 const pagesCacheName = 'pages'
 const imagesCacheName = 'images'
@@ -22,11 +22,10 @@ function updateStaticCache () {
       // These items won't block the installation of the Service Worker
       staticCache.addAll([
         '/css/baguetteBox.min.css',
-        '/font/et-book-bold-line-figures.woff2',
-        '/font/et-book-display-italic-old-style-figures.woff2',
-        '/font/et-book-roman-line-figures.woff2',
+        '/font/et-book-ot-bold.woff2',
+        '/font/et-book-ot-italic.woff2',
+        '/font/et-book-ot-roman.woff2',
         '/font/et-book-roman-old-style-figures.woff2',
-        '/font/et-book-semi-bold-old-style-figures.woff2',
         '/js/turbolinks.js',
         '/js/baguetteBox.min.js'
       ])

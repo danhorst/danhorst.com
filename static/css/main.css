@@ -5,7 +5,8 @@
   font-family: "et-book";
   font-style: normal;
   font-weight: normal;
-  src: url("/font/et-book-roman-line-figures.woff2") format("woff2");
+  font-variant-ligatures: normal;
+  src: url("/font/et-book-ot-roman.woff2") format("woff2");
 }
 
 @font-face {
@@ -13,7 +14,8 @@
   font-family: "et-book";
   font-style: italic;
   font-weight: normal;
-  src: url("/font/et-book-display-italic-old-style-figures.woff2") format("woff2");
+  font-variant-ligatures: normal;
+  src: url("/font/et-book-ot-italic.woff2") format("woff2");
 }
 
 @font-face {
@@ -21,7 +23,8 @@
   font-family: "et-book";
   font-style: normal;
   font-weight: bold;
-  src: url("/font/et-book-bold-line-figures.woff2") format("woff2");
+  font-variant-ligatures: normal;
+  src: url("/font/et-book-ot-bold.woff2") format("woff2");
 }
 
 @font-face {
