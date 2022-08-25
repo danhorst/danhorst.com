@@ -19,8 +19,8 @@ description: "My personal website (there is some professional content too)"
   }
 
   #phi {
+    aspect-ratio: 1.618033989 / 1;
     margin: 0 auto;
-    height: 80vh;
     position: relative;
   }
 
@@ -32,6 +32,14 @@ description: "My personal website (there is some professional content too)"
     opacity: 0;
     position: absolute;
   }
+
+  .square-2  { border-left: 0; }
+  .square-3  { border-top: 0;  }
+  .square-4  { border-left: 0; border-right: 0; }
+  .square-5, .square-9 { border-top: 0; border-bottom: 0; border-left: 0; }
+  .square-6, .square-10 { border-top: 0; border-right: 0; border-left: 0; }
+  .square-7, .square-11 { border-top: 0; border-right: 0; border-bottom: 0; }
+  .square-8, .square-12 { border-right: 0; border-bottom: 0; border-left: 0; }
 
   .square-1  { animation-delay:  300ms; left: 0%;        top: 0%;        width: 61.799%;    height: 99.99288%;  }
   .square-2  { animation-delay:  600ms; left: 61.799%;   top: 0%;        width: 38.19388%;  height: 61.799%;    }
@@ -54,10 +62,6 @@ description: "My personal website (there is some professional content too)"
   }
 
   @media (min-width: 720px) {
-    #phi-wrapper {
-      padding: 0 2em;
-    }
-
     .square {
       border-width: 2px;
     }
@@ -66,6 +70,12 @@ description: "My personal website (there is some professional content too)"
   @media (prefers-color-scheme: dark) {
     .square {
       border-color: #fff;
+    }
+  }
+
+  @media (min-width: 760px) {
+    body {
+      max-width: 80em;
     }
   }
 </style>
