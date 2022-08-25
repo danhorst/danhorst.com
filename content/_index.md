@@ -35,16 +35,17 @@ description: "My personal website (there is some professional content too)"
 
   .square-1  { animation-delay:  300ms; left: 0%;        top: 0%;        width: 61.799%;    height: 99.99288%;  }
   .square-2  { animation-delay:  600ms; left: 61.799%;   top: 0%;        width: 38.19388%;  height: 61.799%;    }
-  .square-3  { animation-delay:  900ms; left: 76.38776%; top: 38.19388%; width: 23.60512%;  height: 38.19388%;  }
-  .square-4  { animation-delay: 1200ms; left: 61.799%;   top: 47.21024%; width: 14.58876%;  height: 23.60512%;  }
-  .square-5  { animation-delay: 1500ms; left: 61.799%;   top: 38.19388%; width: 9.016353%;  height: 14.58876%;  }
-  .square-6  { animation-delay: 1800ms; left: 70.81535%; top: 38.19388%; width: 5.572412%;  height: 9.016353%;  }
-  .square-7  { animation-delay: 2100ms; left: 72.94382%; top: 43.76629%; width: 3.44394%;   height: 5.572412%;  }
-  .square-8  { animation-delay: 2400ms; left: 70.81535%; top: 45.08176%; width: 2.128472%;  height: 3.44394%;   }
-  .square-9  { animation-delay: 2700ms; left: 70.81535%; top: 43.76629%; width: 1.315468%;  height: 2.128472%;  }
-  .square-10 { animation-delay: 3000ms; left: 72.13082%; top: 43.76629%; width: 0.813004%;  height: 1.315468%;  }
-  .square-11 { animation-delay: 3300ms; left: 72.44136%; top: 44.5793%;  width: 0.5024641%; height: 0.813004%;  }
-  .square-12 { animation-delay: 3600ms; left: 72.13082%; top: 44.5793%;  width: 0.3105399%; height: 0.5024641%; }
+  .square-3  { animation-delay:  900ms; left: 76.38776%; top: 61.799%;   width: 23.60512%;  height: 38.19388%;  }
+  .square-4  { animation-delay: 1200ms; left: 61.799%;   top: 76.38776%; width: 14.58876%;  height: 23.60512%;  }
+  .square-5  { animation-delay: 1500ms; left: 61.799%;   top: 61.799%;   width: 9.016353%;  height: 14.58876%;  }
+  .square-6  { animation-delay: 1800ms; left: 70.81535%; top: 61.799%;   width: 5.572412%;  height: 9.016353%;  }
+  .square-7  { animation-delay: 2100ms; left: 72.94382%; top: 70.81535%; width: 3.44394%;   height: 5.572412%;  }
+  .square-8  { animation-delay: 2400ms; left: 70.81535%; top: 72.94382%; width: 2.128472%;  height: 3.44394%;   }
+  .square-9  { animation-delay: 2700ms; left: 70.81535%; top: 70.81535%; width: 1.315468%;  height: 2.128472%;  }
+  .square-10 { animation-delay: 3000ms; left: 72.13082%; top: 70.81535%; width: 0.813004%;  height: 1.315468%;  }
+  .square-11 { animation-delay: 3300ms; left: 72.44136%; top: 71.62836%; width: 0.5024641%; height: 0.813004%;  }
+  .square-11 { animation-delay: 3300ms; left: 72.44136%; top: 72.13082%; width: 0.5024641%; height: 0.813004%;  }
+  .square-12 { animation-delay: 3600ms; left: 72.13082%; top: 72.44136%; width: 0.3105399%; height: 0.5024641%; }
 
   @media (max-aspect-ratio: 1/1) {
     #phi {
