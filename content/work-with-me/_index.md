@@ -31,7 +31,7 @@ Shipping the right things made the right way takes people, culture, strategy, fo
 
 ### Location
 
-- A remote-first<label for="remote-first" class="margin-toggle sidenote-number"></label> team—preferably asynchronous <input type="checkbox" id="remote-first" class="margin-toggle"/><span class="sidenote">In-person meetings are invaluable in some circumstances including building relationships and intense bursts of collaboration—like a <a href="https://www.thefieldstudyhandbook.com/">pop-up studio</a>.</span>
+- A remote-first<label for="remote-first" class="margin-toggle sidenote-number"></label> team—preferably asynchronous <input type="checkbox" id="remote-first" class="margin-toggle"/><span class="sidenote">In-person meetings are invaluable in some circumstances including building relationships and intense bursts of collaboration—like a <a href="https://www.thefieldstudyhandbook.com/">pop-up studio</a>, or <a href="https://www.gsb.stanford.edu/insights/thinking-inside-box-why-virtual-meetings-generate-fewer-ideas">effective brainstorming</a>.</span>
 - I am open to a hybrid role in the Boston metro area
 - I _will not_ relocate to any state where reproductive rights are not protected
 
