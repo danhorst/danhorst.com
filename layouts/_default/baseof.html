@@ -7,19 +7,20 @@
     <meta name="theme-color" content="#fffff8" media="(prefers-color-scheme: light)" />
     <meta name="theme-color" content="#000000" media="(prefers-color-scheme: dark)" />
     <meta name="color-scheme" content="light dark" />
-    {{ hugo.Generator }}
 
     <title>{{ block "title" . }}{{ .Title }}{{ end }}</title>
     {{ with .Params.description }}<meta name="description" content="{{ . }}" />{{ end }}
     {{ with .Site.Params.author }}<meta name="author" content="{{ . }}" />{{ end }}
     {{ block "meta" . }}{{ end }}
-
     <link rel="preload" as="font" type="font/woff2" href="/font/et-book-ot-roman.woff2" crossorigin>
     <link rel="preload" as="font" type="font/woff2" href="/font/et-book-ot-italic.woff2" crossorigin>
     <link rel="stylesheet" href="/css/main.css" />
     <link rel="stylesheet" href="/css/baguetteBox.min.css" />
     <link rel="apple-touch-icon" href="/img/icon.png" />
     <link rel="manifest" href="/site.webmanifest" />
+
+    <script async src="https://cdn.splitbee.io/sb.js"></script>
+
     <script>
       if ('serviceWorker' in navigator) {
         navigator.serviceWorker.register('/sw.js').then((reg) => {
@@ -29,6 +30,7 @@
         });
       }
     </script>
+
     <script src="/js/turbolinks.js" defer></script>
     <script src="/js/baguetteBox.min.js" defer></script>
     <script>
