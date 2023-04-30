@@ -7,7 +7,7 @@ categories:
 
 > This list is derived from [_The Four Big Risks_][1].
 > These concepts are covered in detail in [_Inspired_][2].
-> I've adapted it slightly to better fit an enterprise IT context.
+> I've adapted them slightly to better fit an enterprise IT context.
 
 <dl>
 <dt>Value risk</dt>
