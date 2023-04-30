@@ -503,6 +503,11 @@ p {
   hyphenate-limit-zone: 8%;
 }
 
+.reversed {
+  -webkit-hyphens: none;
+  hyphens: none;
+}
+
 .archived-post {
   padding: 1rem 0;
 }
