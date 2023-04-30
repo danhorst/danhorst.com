@@ -485,6 +485,7 @@ table {
   table-layout: fixed;
 }
 
+dd,
 li,
 p {
   -webkit-hyphens: auto;
