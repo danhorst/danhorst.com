@@ -3,3 +3,5 @@
 *.swo
 public/*
 .hugo_build.lock
+
+_site/*
