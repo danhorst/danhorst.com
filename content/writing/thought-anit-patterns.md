@@ -20,11 +20,11 @@ That incorrect assumption devalues the knowledge you've gained through curiosity
 
 ## Galaxy Brain Depression
 
-It is impossible to know _everything_ even if you limit yourself to a tiny subject area.
+It is impossible to know _everything_ even if you limit yourself to a tiny subject area. Even if it _were_ possible to know _everything_ at a given moment things grow, expand, and sometimes radically change over time. You will be wrong about almost everything in some way or on some timescale.
 
 ## It's Forests All the Way Down
 
-The world is spectacularly interconnected.
+The world is spectacularly interconnected. There are lifetimes of possibility in every detail. You will be a beginner and make beginner mistakes 
 
 ## If Can't Do It Right Don't Do It At All
 
