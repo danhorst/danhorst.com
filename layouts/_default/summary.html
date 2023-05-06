@@ -4,10 +4,5 @@
     <span class="month">{{ .Date.Format "January" }}</span>
     <span class="day">{{ .Date.Format "2" }}</span>,
     <span class="year">{{ .Date.Format "2006" }}</span>
-    <span class="categories">{{ if .Params.categories }}
-      {{ range $index, $category := .Params.categories }}{{ if gt $index 0 }}, {{ end }}<a href="{{ "/categories/" | relLangURL }}{{ . | urlize }}" rel="category tag">{{ . }}</a>{{ end }}
-      {{ end }}
-    </span>
   </small>
-  <p>{{.Description | markdownify}}</p>
 </li>

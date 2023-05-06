@@ -15,20 +15,12 @@
 
 {{ define "main" }}
   <h1>Writing</h1>
-  <nav class="topic-list">
-    <ul>
-      <li><a href="/categories/notes/">Notes</a></li>
-      <li><a href="/categories/archived/">Archived</a></li>
-    </ul>
-  </nav>
-  {{ range (.Paginate (.Pages.GroupByDate "2006")).PageGroups }}
-    <section>
-      <h2>{{.Key}}</h2>
-      <ol class="post-list">
-	{{ range .Pages }}
-	  {{ .Render "summary" }}
-	{{ end }}
-      </ol>
-    </section>
+ 
+  <section>
+    <ol class="post-list">
+  {{ range .Pages }}
+    {{ .Render "summary" }}
   {{ end }}
+    </ol>
+  </section>
 {{ end }}
