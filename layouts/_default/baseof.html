@@ -22,16 +22,6 @@
 
     <script async src="https://cdn.splitbee.io/sb.js"></script>
 
-    <script>
-      if ('serviceWorker' in navigator) {
-        navigator.serviceWorker.register('/sw.js').then((reg) => {
-  	console.log('Registered service worker', reg);
-        }).catch((err) => {
-  	console.log('Service worker unavailable', err);
-        });
-      }
-    </script>
-
     <script src="/js/turbolinks.js" defer></script>
     <script src="/js/baguetteBox.min.js" defer></script>
     <script>
