@@ -15,12 +15,10 @@
 
 {{ define "main" }}
   <h1>Writing</h1>
- 
-  <section>
-    <ol class="post-list">
-  {{ range .Pages }}
-    {{ .Render "summary" }}
-  {{ end }}
-    </ol>
-  </section>
+
+  <ol class="post-list">
+{{ range .Pages }}
+  {{ .Render "summary" }}
+{{ end }}
+  </ol>
 {{ end }}

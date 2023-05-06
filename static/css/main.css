@@ -597,8 +597,7 @@ p {
 
 .post-list {
   list-style-type: none;
-  padding-left: 0;
-  padding-right: 13%;
+  padding: 0;
 }
 
 .post-list li:before {
@@ -606,13 +605,7 @@ p {
 }
 
 .post-list li+li {
-  padding-top: 1.5rem;
-  margin-top: 2rem;
-}
-
-.post-list p {
-  font-size: 1.2rem;
-  margin-top: .4rem;
+  padding-top: 1rem;
 }
 
 .post-list-meta {
