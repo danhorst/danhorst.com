@@ -8,15 +8,13 @@ categories:
  - Goals
 ---
 
-> While Hugh is on a steroid he needs to be let out every 90 minutes.
-
 ## Morning
-- [ ] Let the dogs out _immediately_
-- [ ] Set up whole house fan (weather permitting)
+
 - [ ] Take morning medication
+- [ ] Let the dogs out
+- [ ] Set up whole house fan (weather permitting)
 - [ ] Scoop litter boxes
 - [ ] Feed the cats
-- [ ] Give Hugh his meds
 - [ ] Feed the dogs
 - [ ] Meditate
 - [ ] Exercise
@@ -24,28 +22,32 @@ categories:
 - [ ] Breakfast
 
 ### Mid-morning
+
 - [ ] Let the dogs out
 
 ### Noon
+
 - [ ] Let the dogs out
 - [ ] Feed the dogs
 
 ### Mid-afternoon
+
 - [ ] Meditate
 - [ ] Let the dogs out
 
 ## Evening
+
 - [ ] Task review for tomorrow
 - [ ] Process mail
 - [ ] Exercise
 - [ ] Dinner
 - [ ] Wash dishes and/or clean kitchen
 - [ ] OPTIONAL: Evening task time (at least 30 min)
-- [ ] BONUS: Reading or hobby time
-- [ ] Give Hugh his meds
-- [ ] Feed the dogs
+- [ ] Give cats medication
 - [ ] Feed the cats
+- [ ] Feed the dogs
 - [ ] Check mouse traps
 - [ ] Scoop the litter boxes
+- [ ] BONUS: Reading or hobby time
 - [ ] Journal, check-in
 - [ ] EOD Personal Care
