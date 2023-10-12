@@ -34,7 +34,6 @@ categories:
   <li>Beaches</li>
   <li>SCUBA Diving (underwater counts too)</li>
   </ul></li>
-<li>Motorcycles</li>
 <li>Travel<ul>
   <li>Museums</li>
   <li>National parks</li>
