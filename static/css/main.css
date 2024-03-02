@@ -129,6 +129,10 @@ p.subtitle {
   color: red;
 }
 
+header {
+  display: grid;
+}
+
 article {
   padding: 5rem 0rem;
 }
