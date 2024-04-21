@@ -42,6 +42,7 @@
 /* Tufte CSS styles */
 html {
   font-size: 15px;
+  hanging-punctuation: first last;
 }
 
 body {
