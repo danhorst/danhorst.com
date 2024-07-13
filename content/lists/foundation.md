@@ -10,12 +10,12 @@ categories:
 > Discipline takes focus.
 
 - Invest in your body
-	- Eat well
+	- [Eat well](https://tenfoldpath.com/codex/nutrition/)
 		- Eat whole foods
-		- Cook your own meals
+		- Cook your own meals (most of the time)
 		- Avoid sugar
 		- Limit alcohol
-	- Build strength
+	- [Build strength](https://tenfoldpath.com/codex/strength-training/)
 	- Enhance mobility
 	- Move well, move often
 - Invest in your mind

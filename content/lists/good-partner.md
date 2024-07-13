@@ -30,9 +30,9 @@ categories:
       (<a href="https://www.greenmountainhypnosis.com/blogs/post/The-Oxygen-Mask-Theory-How-to-Take-Care-of-Everyone">I&rsquo;m not the first person to think of this.</a>)
     </span>
   <ul>
-  <li>Eat well</li>
-  <li>Sleep well</li>
-  <li>Exercise</li>
+  <li><a href="https://tenfoldpath.com/codex/nutrition/">Eat well</a></li>
+  <li><a href="https://tenfoldpath.com/codex/sleep/">Sleep well</a></li>
+  <li><a href="https://tenfoldpath.com/codex/training/">Exercise</a></li>
   <li>Invest in your mental health<label for="mental-health" class="margin-toggle sidenote-number"></label>
     <input type="checkbox" id="mental-health" class="margin-toggle"/>
     <span class="sidenote">
@@ -137,7 +137,7 @@ categories:
   <span class="marginnote">
     From the “Fruits of the Spirit”;<br>
     Galatians 5:22–23
-  </span> 
+  </span>
 </p>
 
 <ul>

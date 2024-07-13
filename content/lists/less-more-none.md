@@ -21,18 +21,18 @@ categories:
 - Time outside
 - Self-care
   - Meditation
-  - Portion control
-  - Intense cardio
-  - Weight training
+  - [Eating for success](https://tenfoldpath.com/codex/nutrition/)
+  - [Endurance training](https://tenfoldpath.com/codex/endurance-training/)
+  - [Strength training](https://tenfoldpath.com/codex/strength-training/)
 - Creating
   - Writing
   - Drawing
   - Making things
 - Investing in relationships
-  - Giving pets attention &amp; affection
-  - Taking &amp; sharing pictures
-  - Talking to friends &amp; family
-  - Writing letters to friends &amp; family
+  - Giving pets attention & affection
+  - Taking & sharing pictures
+  - Talking to friends & family
+  - Writing letters to friends & family
 
 ## None
 - Avoiding my feelings
