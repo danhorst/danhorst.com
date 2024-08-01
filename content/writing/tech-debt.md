@@ -23,11 +23,12 @@ Common cost centers are engineering time, cloud computing resources, and licensi
 - Extending a system with new functionality
 - Scaling a system for broader use
 
-This helps keep the cost of change low over time.<label for="marginal-cost" class="margin-toggle sidenote-number"></label>
-<input type="checkbox" id="marginal-cost" class="margin-toggle"/>
+This helps keep the cost of change low over time.<label for="cost-of-change" class="margin-toggle sidenote-number"></label>
+<input type="checkbox" id="cost-of-change" class="margin-toggle"/>
 <span class="sidenote">
-This was one of the principles of <a href="https://en.wikipedia.org/wiki/Extreme_programming">Extreme Programming (XP)</a>
-There are good ideas there but the methodology has fallen out of favor over time.
+This was one of the claimed benefits of <a href="https://en.wikipedia.org/wiki/Extreme_programming">Extreme Programming (XP)</a>; a set of practices that predated Agile.
+There are good ideas in XP but the methodology has fallen out of favor over time.
+Agile software development <em>should</em> have similar outcomes but often doesn’t.
 </span>
 Marginal costs are influenced by:
 
