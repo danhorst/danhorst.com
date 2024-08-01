@@ -19,7 +19,7 @@ One of core responsibilities of software engineers is to control the marginal co
 <input type="checkbox" id="marginal-cost" class="margin-toggle"/>
 <span class="sidenote">
 Marginal cost, by definition, is the change in the total cost when the quantity produced is increased.
-Common cost centers are engineering time, cloud computing resources, and licensing fees.
+The biggest cost centers are engineering time, cloud computing resources, and licensing fees.
 </span> of:
 
 - Extending a system with new functionality
@@ -39,7 +39,7 @@ Marginal costs are influenced by:
 - Implementation choices
 
 Thus "paying down" technical debt involves _remediating_ one of these aspects of the [software development life cycle (SDLC)][3].
-This isn’t a simple problem space but it is common enough that some patterns have emerged.
+This isn’t a simple problem space but it is prevalent enough that patterns have emerged.
 That’s why [accumulation of technical debt][4] is one of the [Bottlenecks of Scaleups][5].
 
 [1]: https://en.wikipedia.org/wiki/Technical_debt
