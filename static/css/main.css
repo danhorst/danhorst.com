@@ -483,6 +483,117 @@ picture {
   display: block;
 }
 
+/* Picture Tag */
+
+.picture {
+  margin: 1em;
+  padding: 0;
+
+  img {
+    width: 100%;
+  }
+}
+
+.picture__caption {
+  color: $theme-color-highlight;
+  display: block;
+  font-style: italic;
+  padding: 1em 0;
+
+  em {
+    font-style: normal;
+  }
+}
+
+.picture__anchor {
+  display: block;
+  position: relative;
+}
+
+.placeholder {
+  background: no-repeat center url('/assets/svg/placeholder.svg');
+  border: 1px solid $theme-color-dark;
+
+  + img {
+    position: absolute;
+    top: 0;
+  }
+
+  + iframe {
+    height: 100%;
+    position: absolute;
+    top: 0;
+    width: 100%;
+  }
+}
+
+.inline-image {
+  margin: 1em;
+
+  .placeholder {
+    display: none;
+  }
+
+  img {
+    width: 100%;
+    position: relative;
+  }
+}
+
+.r1x1 {
+  margin: 1em 2em 0;
+
+  .placeholder {
+    padding-top: 100%;
+  }
+}
+
+.r4x3 {
+  margin: 1em 4em 0;
+
+  .placeholder {
+    padding-top: 133.33%;
+  }
+}
+
+.r3x4 {
+  margin: 1em 2em 0;
+
+  .placeholder {
+    padding-top: 75%;
+  }
+}
+
+.r3x2 {
+  margin: 1em 4em 0;
+
+  .placeholder {
+    padding-top: 150%;
+  }
+}
+
+.r2x3 {
+  margin: 1em 2em 0;
+
+  .placeholder {
+    padding-top: 66.66%;
+  }
+}
+
+.r9x16 {
+  margin: 1em 6em 0;
+
+  .placeholder {
+    padding-top: 56.25%;
+  }
+}
+
+.r16x9 .placeholder {
+  padding-top: 177.78%;
+}
+
+/* Article Typography */
+
 main > article:first-child {
   padding-top: 0;
 }
