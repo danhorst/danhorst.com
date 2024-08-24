@@ -29,7 +29,7 @@ An excellent user experience is the culmination of:
   &copy; 2009 Information Architects, Inc.<br />
   <cite><a href="https://www.flickr.com/photos/formforce/3663684287/">original on Flickr</a></cite>
 </figcaption>
-<div id="user-experience-spectrum" class="gallery">
+<div id="user-experience-spectrum" class="lightbox">
   <a href="/img/ia-spectrum-of-user-experience.png">
   <img src="/img/ia-spectrum-of-user-experience.png" alt="An illustration of all the supporting functions that define the user experience. A Venn diagram of three primary colors representing business, technology, and design on a black background.">
   </a>

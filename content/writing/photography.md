@@ -3,13 +3,16 @@ type:        writing
 author:      Dan Brubaker Horst
 description: I'm not very good at something I love.
 title:       Photography
-date:        2024-08-22T12:31:10-04:00
-draft:       true
+date:        2024-08-23T17:31:10-04:00
 ---
 
 I bought my first digital camera in July of 2005.
-I have taken over 36,000 photos with it—and a series of increasingly sophisticated devices—over the last nineteen years.
-Taking photos has been woven into how I experience holidays, family gatherings, vacations, and—occasionally—my daily life.
+I have taken over 39,000 photos with it—and a series of increasingly sophisticated devices<label for="my-devices" class="margin-toggle sidenote-number"></label>
+<input type="checkbox" id="my-devices" class="margin-toggle"/>
+<span class="sidenote">
+Canon PowerShot A95, Canon Digital Rebel XTi, iPhone 4s, Canon SL1, Nexus 6P, Pixel 3, iPhone 13 Mini, Fuji XT-5
+</span>—over the ensuing nineteen years.
+The act of taking photos is woven into how I experience holidays, family gatherings, vacations, and—at times—my daily life.
 It’s something that I enjoy doing.
 
 The appeal of photography is multifaceted:
@@ -30,34 +33,29 @@ The appeal of photography is multifaceted:
 
 Last week, after much indecision, I purchased a full version of [Capture One Pro][2].
 Now I have a desktop application where I can manage my entire collection of photos for the first time since Google stopped development on [Picasa][3] in 2016.
-I’ve been reviewing them—all 36,000—to see what I would consider posting to [Glass][4]—and I’ve come to the conclusion that I’m not particularly good at photography.
+I’ve been reviewing the photos I’ve taken—all 39,000—to see what I would consider posting to [Glass][4]—and I’ve come to the conclusion that I’m not particularly good at photography.
 
-<figure class="photograph gallery">
-<div id="mediocre-photograph" class="gallery">
-  <img src="" alt="">
-</div>
+<figure class="picture">
+  <figcaption class="picture__caption marginnote">
+    Why did I take this picture? Does it make you feel anything?
+  </figcaption>
+  <div class="lightbox">
+    <a class="picture__anchor r2x3" href="/photo/unremarkable-photo-2048.jpg">
+      <div class="placeholder"></div>
+      <img loading="lazy" class="picture__content" src="/photo/unremarkable-photo-1024.jpg" alt="Photograph with muted colors of the top of an office building with a limestone façade and art deco ornamentation stained dark by acid rain in the foreground and a larger, darker, more modern office building extending skyward in the background."/>
+    </a>
+  </div>
 </figure>
 
-<figure class="picture lightbox">
-  <a class="picture__anchor #{css_class}" href="/photo/unremarkable-photo-2048.jpg">
-    <div class="placeholder"></div>
-    <img loading="lazy" class="picture__content" src="/photo/unremarkable-photo-1024.jpg" alt=""}>
-  </a>"
-  <figcaption class="picture__caption marginnote">
-    Why did I take this picture?
-  </figcaption>
-</figure>"
-
-
-
 This isn’t surprising.
-I’ve never took any photography classes in school.
+My once-fervent enthusiasm has waned over the last decade as the pressures of adult life and disillusionment with my results encroached upon my creative drive.
 I don’t look at the photo books or instructional texts I’ve purchased or asked for as gifts.
 I haven’t taken the online photography courses I’ve purchased.
 I’ve stopped listening to photography podcasts.
 I don’t watch any photography content on YouTube other than gear reviews.
 
-After this uncomfortable revelation, I finally cracked open my copy of [The Art of Photography][5].<label for="taking-my-time" class="margin-toggle sidenote-number"></label>
+I can get better through directed effort or languish as an unremarkable amateur.
+Prompted by this newly-acknowledged reality, I finally cracked open my copy of [The Art of Photography][5].<label for="taking-my-time" class="margin-toggle sidenote-number"></label>
 <input type="checkbox" id="taking-my-time" class="margin-toggle"/>
 <span class="sidenote">
 The second edition was released in 2017; my unread copy predates that.
@@ -76,7 +74,7 @@ There is no emotional weight to the scene.
 Lines, shape, and form are limited to rudimentary expression.
 The _direction_ or _intensity_ of light is barely considered beyond exposure compensation and (rarely) metering mode.
 Visually striking results occur rarely and randomly because I'm not _deliberately making_ images—I'm taking [snapshots][6].
-I'd like to be able to do better than that.
+I’d like to be able to do better than that.
 
 [1]: https://www.youtube.com/watch?v=R3SFqV0hMyo
 [2]: https://www.captureone.com/en/products/capture-one-pro

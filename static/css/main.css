@@ -186,8 +186,8 @@ div.epigraph > blockquote {
 }
 
 section > blockquote {
-  margin-bottom: 2em;
-  margin-top: 1em;
+  margin-bottom: 1.4em;
+  margin-top: 1.4em;
 }
 
 main > h1 + blockquote,
@@ -479,113 +479,88 @@ figure > svg {
   width: 100%;
 }
 
-picture {
-  display: block;
-}
-
-/* Picture Tag */
+/* Picture presentation */
 
 .picture {
-  margin: 1em;
+  display: block;
+  margin: 2em 0;
   padding: 0;
+}
 
-  img {
-    width: 100%;
-  }
+.picture img {
+  width: 100%;
 }
 
 .picture__caption {
-  color: $theme-color-highlight;
   display: block;
   font-style: italic;
-  padding: 1em 0;
+  max-width: none;
 
-  em {
-    font-style: normal;
-  }
 }
 
-.picture__anchor {
+.picture__caption em {
+  font-style: normal;
+}
+
+.picture .picture__anchor {
+  background: none;
   display: block;
   position: relative;
+  text-shadow: none;
 }
 
 .placeholder {
-  background: no-repeat center url('/assets/svg/placeholder.svg');
-  border: 1px solid $theme-color-dark;
+  background: no-repeat center url('/svg/photo.svg');
+  border: 2px solid #333;
+}
 
-  + img {
-    position: absolute;
-    top: 0;
-  }
+.placeholder + img {
+  position: absolute;
+  top: 0;
+}
 
-  + iframe {
-    height: 100%;
-    position: absolute;
-    top: 0;
-    width: 100%;
-  }
+.placeholder + iframe {
+  height: 100%;
+  position: absolute;
+  top: 0;
+  width: 100%;
 }
 
 .inline-image {
-  margin: 1em;
-
-  .placeholder {
-    display: none;
-  }
-
-  img {
-    width: 100%;
-    position: relative;
-  }
+  margin: 1em 0;
 }
 
-.r1x1 {
-  margin: 1em 2em 0;
-
-  .placeholder {
-    padding-top: 100%;
-  }
+.inline-image .placeholder {
+  display: none;
 }
 
-.r4x3 {
-  margin: 1em 4em 0;
-
-  .placeholder {
-    padding-top: 133.33%;
-  }
+.inline-image img {
+  width: 100%;
+  position: relative;
 }
 
-.r3x4 {
-  margin: 1em 2em 0;
-
-  .placeholder {
-    padding-top: 75%;
-  }
+.r1x1 .placeholder {
+  padding-top: 100%;
 }
 
-.r3x2 {
-  margin: 1em 4em 0;
-
-  .placeholder {
-    padding-top: 150%;
-  }
+.r4x3 .placeholder {
+  padding-top: 133.33%;
 }
 
-.r2x3 {
-  margin: 1em 2em 0;
-
-  .placeholder {
-    padding-top: 66.66%;
-  }
+.r3x4 .placeholder {
+  padding-top: 75%;
 }
 
-.r9x16 {
-  margin: 1em 6em 0;
+.r3x2 .placeholder {
+  padding-top: 150%;
+}
 
-  .placeholder {
-    padding-top: 56.25%;
-  }
+.r2x3 .placeholder {
+  padding-top: 66.66%;
+}
+
+.r9x16 .placeholder {
+  padding-top: 56.25%;
 }
 
 .r16x9 .placeholder {
@@ -827,8 +802,8 @@ li::has(> input[type='checkbox']) {
 }
 
 .reversed {
- direction: rtl;
- unicode-bidi:bidi-override;
+  direction: rtl;
+  unicode-bidi:bidi-override;
 }
 
 .visuallyhidden {
@@ -966,11 +941,12 @@ nav li:first-child {
   section > dl,
   section > ol,
   section > ul {
-    width: 90%;
+    width: 100%;
+    padding-left: .8em;
   }
 
   figure {
-    max-width: 90%;
+    max-width: 100%;
   }
 
   figcaption,

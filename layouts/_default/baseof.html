@@ -27,7 +27,7 @@
     <script>
       document.addEventListener("turbolinks:load", function() {
         document.querySelectorAll("main.interactive input[disabled]").forEach(function(item, i){item.removeAttribute("disabled")});
-        baguetteBox.run('.gallery');
+        baguetteBox.run('.lightbox');
       });
     </script>
 {{ range .AlternativeOutputFormats -}}
