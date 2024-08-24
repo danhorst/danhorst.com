@@ -38,7 +38,7 @@ I’ve been reviewing the photos I’ve taken—all 39,000—to see which ones I
 
 <figure class="picture">
   <figcaption class="picture__caption marginnote">
-    Why did I take this picture? Does it make you feel anything?
+    Why did I take this photo? Does it make you feel anything?
   </figcaption>
   <div class="lightbox">
     <a class="picture__anchor r2x3" href="/photo/unremarkable-photo-2048.jpg">
