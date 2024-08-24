@@ -22,7 +22,7 @@ The appeal of photography is multifaceted:
 - It is a technical puzzle: How do you get the results you want by understanding and manipulating your equipment and the environment?
 - There is [_gear_][1] to be researched, evaluated, purchased, and lusted after.
 	- Cameras & camera bodies of every degree of quality and sophistication.
-	- Lenses in every shape, size, and manufacturer (don't forget vintage glass!).
+	- Lenses in every shape, size, and manufacturer—don't forget vintage glass!
 	- All sorts of bags, straps, holsters, and clips to keep everything organized and at the ready.
 	- Filters—glass filters—that abate or modify the light entering the lens in all kinds of ways or stay out of the way and act as protection.
 - There are a host of workflow and digital asset management concerns.
@@ -30,10 +30,11 @@ The appeal of photography is multifaceted:
 	- How to I merge all the photos I take on my phone with the ones I take with my "real" camera?
 	- What replication strategy across cloud providers makes sense for my needs?
 	- How much digital refinement or modification to the images do you want to be able to do?
+	- How can you adjust your camera’s settings to get the best results without having to do as much (or any) post-processing?
 
 Last week, after much indecision, I purchased a full version of [Capture One Pro][2].
 Now I have a desktop application where I can manage my entire collection of photos for the first time since Google stopped development on [Picasa][3] in 2016.
-I’ve been reviewing the photos I’ve taken—all 39,000—to see what I would consider posting to [Glass][4]—and I’ve come to the conclusion that I’m not particularly good at photography.
+I’ve been reviewing the photos I’ve taken—all 39,000—to see which ones I like enough to share on [Glass][4] and, in the processes, I’ve come to the conclusion that I’m not a particularly good photographer.
 
 <figure class="picture">
   <figcaption class="picture__caption marginnote">
