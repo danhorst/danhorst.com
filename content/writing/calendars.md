@@ -4,7 +4,7 @@ date: 2024-11-07T17:54:03-05:00
 ---
 
 I am a recovering productivity nerd with a keen sense of my own mortality that spends time with computer systems professionally.
-Because of this, I've accumulated opinions about dates and calendars over the years.
+Because of this, I've accumulated opinions about dates and calendars.
 
 - Dates should be written in [ISO 8601 format][1] e.g. 2024-12-31.
 	- The `year-month-day` order eliminates any ambiguity between `month/day/year` and `day/month/year`.
@@ -16,7 +16,7 @@ Because of this, I've accumulated opinions about dates and calendars over the ye
 			- Google Calendar: Gear Menu > Settings > General > Language and region > View options > Show week numbers
 			- Outlook (Mac): Outlook Settings > Other: Calendar > Calendar Options: Show week numbers
 			- Fantastical (iOS): Settings > Calendar Views > Calendar Weeks
-	- The week of my life e.g. 2167 (of [about 4000][2])
+	- The week of my life e.g. 2167 (of [about 4000][2]). I was born on a Friday so I increment my "death clock" week number at the end of the workweek.
 - Weeks start on _Monday_.
 	- This best reflects the rhythms of school, 9–5 office work, and similar job schedules.
 	- It keeps the days of the weekend together on the right hand side of a 7-day calendar view making it easier to plan your weekend as a contiguous chunk of time. This reduces context switching when toggling between 5-day (work) and 7-day (personal) week views.
