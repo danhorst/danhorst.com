@@ -16,3 +16,8 @@ title = "Dan Brubaker Horst"
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+ 
+[[headers]]
+  for = "*.woff2"
+  [headers.values]
+    Cache-Control = "max-age=31536000,public,must-revalidate"
