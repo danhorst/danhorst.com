@@ -1,6 +1,7 @@
 ---
 title: "Building Custom PCs"
-date: 2025-06-28T12:20:21-04:00
+date: 2025-05-29T12:20:21-04:00
+description: Guidance for first-time PC builders
 ---
 
 So, you want to build your first gaming PC?
