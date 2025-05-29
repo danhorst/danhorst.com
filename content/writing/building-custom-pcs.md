@@ -35,7 +35,7 @@ Other things to avoid:
 - _Pushing on_ anything _too hard._ Apply _just enough_ force to seat components with good electrical contact. More than that risks damaging or outright breaking something important.
 - _Using too much—or too cheap—thermal compound._ You need _just enough_ thermal compound to ensure the physical and thermal coupling between components—like CPU and cooler. Any more thermal compound than _absolutely necessary_ to fill the surface imperfections of the materials will _decrease_ the thermal performance of the joint. Spending a small amount of money on a high-performance thermal compound is a sound investment. Prep the surfaces to remove any skin oils—isopropyl alcohol wipes are fine—and use a squeegee—like an old credit card—to ensure it is applied in a thin, consistent layer.
 - _Liquid cooling._ Don’t start with this; get a good heatsink and add more case fans if necessary.
-- _Tiny cases._ I’ve always been fond of small computers but it makes fitting everything together and getting the right airflow a lot harder. If you want a small, quiet computer but a Mac mini or something.
+- _Tiny cases._ I’ve always been fond of small computers but it makes fitting everything together and getting the right airflow a lot harder. If you want a small, quiet computer buy a Mac mini or something.
 - _Thinking this will save you money._ PC building is less of a money pit than some hobbies—like racing cars or owning a boat or whatever—but you’re not going to get the cheapest possible computing experience.
 
 Go forth and be glorious!
