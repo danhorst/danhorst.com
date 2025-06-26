@@ -577,7 +577,7 @@ main > article:first-child {
 }
 
 main > h1 {
-  margin-bottom: 0;
+  margin-bottom: .15em;
 }
 
 header h1 {
