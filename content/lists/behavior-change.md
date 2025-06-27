@@ -10,7 +10,7 @@ categories:
 >
 > Changing behavior of individuals and organizations is a critical job function of managers and executives.
 > As such, much of the materials available in popular business and management literature is watered-down behavior science.
-> There is more overlap than you might thing between training dolphins and managing people.
+> There is more overlap than you might think between training dolphins and managing people.
 
 These behavior change procedures are listed from the most positive, least invasive to the least positive, most invasive methods.
 Start with the least invasive procedure possible before escalating.
@@ -50,5 +50,5 @@ Level six should be treated as a last resort.
 	3. _Extinction:_ Permanently remove the maintaining reinforcer to suppress the behavior or reduce it to baseline levels.
 6. _Positive Punishment:_  Contingently deliver an aversive consequence to reduce the probability that the problem behavior will occur.
 
-[1]: https://m.iaabc.org/about/lima/hierarchy/
+[1]: https://www.ccpdt.org/wp-content/uploads/2025/05/Hierarchy-of-Behavior-Change-Procedures.pdf
 [2]: https://en.wikipedia.org/wiki/Ethology
