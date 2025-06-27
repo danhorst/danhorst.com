@@ -5,7 +5,7 @@ categories:
  - Reference
 ---
 
-> These are the general questions I ask when I evaluate a potential employer or consulting engagement.
+> These are the questions I draw from evaluating a potential employer or consulting engagement.
 
 ## Basics
 
@@ -23,7 +23,7 @@ categories:
 - How do you develop and execute strategy?
 - What is the structure of your technical leadership?
 - What [behaviors do you encourage][1]?
-- Do you [measure software delivery performance][2]?
+- How do you [measure software delivery performance][2]?
 - What do you do to ensure software quality?
 - What are your internal and external change management processes?
 - How do you communicate about objectives, status, and priority?
