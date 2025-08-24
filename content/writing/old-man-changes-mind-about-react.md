@@ -25,4 +25,4 @@ Here's why:
 - The market has spoken—React is _everywhere_ and the tooling keeps getting better
 
 [1]: https://reactjs.org/
-[2]: https://twitter.com/wilto/status/372080088898367488
+[2]: https://x.com/wilto/status/372080088898367488

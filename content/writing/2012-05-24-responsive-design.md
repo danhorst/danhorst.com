@@ -48,7 +48,7 @@ Some of the trickier areas are site navigation and search.
    - _[Search Patterns][23]_
    - _[Designing Search; UX Strategies for eCommerce Success][24]_
 
-[1]:  https://twitter.com/beep
+[1]:  https://x.com/beep
 [2]:  http://en.wikipedia.org/wiki/Responsive_Web_Design
 [3]:  https://developer.mozilla.org/en/CSS/Media_queries
 [4]:  http://weedygarden.net/2012/05/a-case-for-ress/
@@ -62,7 +62,7 @@ Some of the trickier areas are site navigation and search.
 [12]: http://www.abookapart.com/products/mobile-first
 [13]: http://www.lukew.com/
 [14]: http://mediaqueri.es/
-[15]: https://twitter.com/rwd
+[15]: https://x.com/rwd
 [16]: http://www.lukew.com/ff/
 [17]: http://www.lukew.com/ff/entry.asp?1514
 [18]: http://bradfrostweb.com/

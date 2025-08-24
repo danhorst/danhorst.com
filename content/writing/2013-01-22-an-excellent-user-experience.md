@@ -73,7 +73,7 @@ What we need as a team are [practices][10] that put the user experience at the c
 
 [1]:  https://en.wikipedia.org/wiki/Interaction_design
 [2]:  https://en.wikipedia.org/wiki/Information_architecture
-[3]:  https://twitter.com/iA
+[3]:  https://x.com/iA
 [4]:  https://www.flickr.com/photos/formforce/3663696937
 [5]:  https://www.flickr.com/photos/formforce/3664501594
 [6]:  https://www.flickr.com/photos/formforce/3664507020

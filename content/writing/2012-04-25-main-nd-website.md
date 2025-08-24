@@ -63,7 +63,7 @@ Conferences Agency has developers to:
 [4]:  http://modernizr.com/
 [5]:  http://www.woothemes.com/flexslider/
 [6]:  http://www.abookapart.com/products/responsive-web-design
-[7]:  https://twitter.com/beep
+[7]:  https://x.com/beep
 [8]:  /writing/responsive-design
 [9]:  http://bdconf.com/
 [10]: http://www.highedweb.org/
