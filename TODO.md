@@ -1,0 +1,1 @@
+- [ ] Replace Turbolinks with [htmx](https://github.com/bigskysoftware/htmx) using [hx-boost](https://htmx.org/attributes/hx-boost/)
