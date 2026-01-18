@@ -1,0 +1,87 @@
+---
+title: "GHDR Kickoff"
+date: 2026-01-08T16:49:01-04:00
+---
+
+> This post is a little late late for the 2026-01-13 deadline for a 2025 [Groundhog Day Resolution][1] (GHDR) postmortem, but, I'm a new adopter to this planning system so I've got some leeway.
+
+I had no system for tracking goals and progress—either personally or, for the most part, professionally—in 2025.
+I've been stuck in a reactive mode—trying to survive without getting buried since a surprise reorg was announced last April.
+Over the last year—largely because of a series of changes kicked off by this singular event—the scope of my work responsibilities have materially expanded, my physical fitness has taken a nosedive, and my mental health has languished—leaving me a socially isolated shut-in most of the time.[^1]
+
+Over the last 25 years, I’ve tried all sorts of methods for tracking tasks, setting goals, and otherwise bolstering my underperforming executive functions.
+Any app or system I could find: [Palm Pilot][16] todos, [GTD](https://gettingthingsdone.com/what-is-gtd/), [Hipster PDA](https://www.43folders.com/2004/09/03/introducing-the-hipster-pda), [ETP](https://davidseah.com/node/the-emergent-task-planner/), [Remember the Milk](https://www.rememberthemilk.com/), [todo.txt](http://todotxt.org/), [Due](https://www.dueapp.com/), [Todoist](https://www.todoist.com/), [Bullet Journaling](https://bulletjournal.com/), [Trello](https://trello.com/), [Asana](https://asana.com/), [OmniPlan](https://www.omnigroup.com/omniplan/), [Things](https://culturedcode.com/things/), [Taskpaper](https://www.taskpaper.com/)[^2], [tasks](https://publish.obsidian.md/tasks/Introduction) in [Obsidian](https://obsidian.md/), [Wunderlist](https://en.wikipedia.org/wiki/Wunderlist) (RIP, [Microsoft To Do](https://apps.microsoft.com/detail/9nblggh5r558) is but a husk), [Google Tasks](https://tasks.google.com/tasks/), [iOS reminders](https://www.icloud.com/reminders), [Notion](https://www.notion.com/), [Amazing Marvin](https://amazingmarvin.com/), [TickTick](https://ticktick.com), and more that I’m probably forgetting as well as handwritten notes strewn across [3x5 index cards](https://en.wikipedia.org/wiki/Index_card), half-size index cards, [small Moleskins](https://www.moleskine.com/en-us/shop/notebooks/the-legendary-notebook/classic-notebook-black-9788883701009.html), [large Moleskins](https://www.moleskine.com/en-us/shop/notebooks/the-legendary-notebook/classic-notebook-black-9788883701122.html) (dotted), a variety of sizes of [Mnemosyne notebooks](https://www.jetpens.com/search?q=Mnemosyne), and an endless parade of [products from Field Notes](https://fieldnotesbrand.com/) in all shapes and sizes.[^3]
+Nothing sticks.
+Almost nothing—durning meetings, I take notes on paper—currently on Field Notes notebooks—but the notes I take have only been useful as a write-only memory aid.
+The act of writing out notes keeps my mind engaged and improves my memory of events; I rarely look at them afterwards.
+
+Over the years, I’ve spent an inordinate amount of time and effort trying to find the right _system_ to use—under the mistaken belief that the right _tool_ will make everything fall into place.
+It’s as [Merlin Man said back in 2005](https://www.43folders.com/2005/05/18/because-buying-new-running-shoes-is-more-fun-than-actually-running): “Buying new running shoes is more fun than actually running.” I’ve been chasing the feeling of relief that comes from brain-dumping into a clean slate.
+This puts the responsibility for my success on the _tool_, which is the wrong mindset.
+
+Productivity and planning tools are only successful if they facilitate the _capture_ of important tasks and outcomes and reinforce the _behavior_ that ensures the right tasks are performed—or delegated, or dropped—at the right time.
+The tool doesn’t _do the work_ you do.
+Because I’ve been unable, or unwilling, to put in the emotional labor required to _prioritize_ and exercise the will to _execute_ my assembled tasks and priorities, the feeling of new-system-relief quickly fades and I get slowly crushed by an ever-expanding list of obligations.
+
+GHDR is a different take on personal planning that encourages enlightened self-direction while avoiding the pitfalls of cult-of-productivity hustle culture.
+The merits are good enough on their own for them to warrant a trial run.
+I’ll also be more likely to stick with it if I can connect with a community that’s aligned with my goals and sensibilities.
+
+---
+
+I learned a few things about myself in 2025.
+While I have not been formally diagnosed, it's clear to me—and, likely, to people who have interacted with me in person—that I have most, if not all, of the characteristics of [level 1 autism][2].
+I listened to the audiobook of [Unmasking Autism][3] by [Dr. Devon Price][4] in September.
+I have suspected, even since childhood, that I fall somewhere on the autism spectrum and this book helped me identify the patterns of my behavior and sensory experiences that are autistic in nature.
+I have struggled to embrace the reality of my neurodivergence, partially due to the stigma around the label and partially because if I acknowledge my autism I need to _do the work_ to identify and develop the coping mechanisms I need and be a proactive self-advocate in my home, my work, and the world at large.
+To face the world and request special treatment runs directly counter to my instinct to shrink away from the chaos and cacophony outside the tiny bubble of my mind.
+
+I came to the realization that the reason I’ve been struggling to meaningfully create behavior change through habit formation is that I’ve been doing it wrong.
+I listened to [The Power of Habit][5] by [Charles Duhigg][6] in December after I heard his appearance on [Episode 360 of “The Peter Attia Drive” podcast][7].
+The book suffers from “popular science/phycology/business book syndrome” where the bulk of the text is devoted to anecdotes chosen to illustrate specific points and, while this narrative storytelling can be compelling, it lacks the depth of evidence and intellectual rigor required to make material assertions.
+Despite its presentation, the information in this book shifted my mental model of my own behavior in two significant ways.
+
+This first takeaway was that once habits—defined by the author as patterns of cue, response, and subsequent reward—are sufficiently reinforced they _never_ go away.
+Established patterns of behavior are _engrained_ into the deeper parts of our brains.
+While we maintain the ability to add _new_ habits—even without the ability to create new memories—removing _old_ habits is almost impossible.
+Instead, you must _shape_ engrained habits by keeping the _cue_ the same and adjusting the _response_ to be the desired behavior while maintaining an _equivalent reward_.
+You have to _do the work_ and identify the _cues_ that drive your behavior, the kinds of _rewards_ you are seeking and then replace your _response_ with something _you can achieve_ and adjust the _reward_ to be _similarly compelling_ as the reward you get from the behavior you’re trying to replace.
+Repeating the new behavior chain for enough weeks—or months—results in it becoming your _default_ response to the cue, but it is _easy_ to revert back to the previously engrained response & reward—ask anyone who struggles with addiction.
+
+You can’t achieve successful, long-term behavior change with my current playbook of setting an intention and then repeating [“don’t break the chain”][8] over and over while trying to maintain an unending [streak][9].
+Using your willpower, or otherwise leveraging your prefrontal cortex, can work for a while but isn’t a viable path to sustained behavior change.
+Maintaining an unbroken chain, or streak, _even if you use the "no two consecutive misses rule"_ isn't effective because it is not a _cue_—it's just an obligation.
+The pitfalls of my approach shouldn’t have been a surprise given my experience with dog training or reading books like [_How to Change_][10] by [Katy Milkman][11][^4] and [Atomic Habits][12] by [James Clear][13]—but here we are.
+
+---
+
+I've got another two weeks or so to finalize my resolutions for this year but I expect them to be something along the lines of:
+
+- Help me feel physically and mentally better by:
+	- Getting out more
+	- Moving more—for strength and cardiometabolic health
+- Cultivate a better sense of attention by:
+	- Doing generative, creative things like writing and photography
+	- Reading more
+	- Making time for boredom
+
+[^1]: I've been thankful to have wonderful, attentive dogs at home.
+[^2]: I _really_ liked TaskPaper. I might have to revisit that, especially now that it’s [shared source](https://github.com/jessegrosjean/TaskPaper).
+[^3]: If you look at this list and think “Why don’t you use [Org Mode](https://orgmode.org/)? It’s better than all of this crap.” please don’t email me about it. I don’t _hate_ [`emacs`](https://www.gnu.org/software/emacs/) but I'm not interested in changing my way of life at this time.
+[^4]: I listened to this audiobook a few years ago after hearing the author on the [“You but better” episode of Hidden Brain][14]. I recommend the podcast episode—it gives you 90% of what I found useful in the book.
+
+[1]: https://dsriseah.com/ghdr/term/ghdr/
+[2]: https://www.autismspeaks.org/levels-of-autism
+[3]: https://www.penguinrandomhouse.com/books/688819/unmasking-autism-by-devon-price-phd/
+[4]: https://drdevonprice.substack.com/
+[5]: https://charlesduhigg.com/the-power-of-habit/
+[6]: https://charlesduhigg.com/
+[7]: https://peterattiamd.com/charlesduhigg/
+[8]: https://lifehacker.com/jerry-seinfelds-productivity-secret-281626
+[9]: https://streaksapp.com/
+[10]: https://www.katymilkman.com/book/
+[11]: https://www.katymilkman.com/
+[12]: https://jamesclear.com/atomic-habits
+[13]: https://jamesclear.com/
+[14]: https://www.hiddenbrain.org/podcast/you-but-better/
+[15]: https://en.wikipedia.org/wiki/Palm_(PDA)
