@@ -813,6 +813,10 @@ li::has(> input[type='checkbox']) {
   unicode-bidi:bidi-override;
 }
 
+.hidden {
+  display: none;
+}
+
 .visuallyhidden {
   border: 0;
   clip: rect(0 0 0 0);

@@ -11,7 +11,7 @@ Over the last year—largely because of a series of changes kicked off by this s
 <label for="sidenote-1" class="margin-toggle sidenote-number"></label>
 <input type="checkbox" id="sidenote-1" class="margin-toggle"/>
 <span class="sidenote">
-I've been thankful to have wonderful, attentive dogs at home.
+<span class="hidden">(</span>I've been thankful to have wonderful, attentive dogs at home.<span class="hidden">)</span>
 </span>
 
 Over the last 25 years, I’ve tried all sorts of methods for tracking tasks, setting goals, and otherwise bolstering my underperforming executive functions.
@@ -19,12 +19,12 @@ Any app or system I could find: [Palm Pilot][16] todos, [GTD][2], [Hipster PDA][
 <label for="sidenote-2" class="margin-toggle sidenote-number"></label>
 <input type="checkbox" id="sidenote-2" class="margin-toggle"/>
 <span class="sidenote">
-I <em>really</em> liked TaskPaper. I might have to revisit that, especially now that it’s <a href="https://github.com/jessegrosjean/TaskPaper">shared source</a>.
+<span class="hidden">(</span>I <em>really</em> liked TaskPaper. I might have to revisit that, especially now that it’s <a href="https://github.com/jessegrosjean/TaskPaper">shared source</a>.<span class="hidden">)</span>
 </span>, [tasks][15] in [Obsidian][16], [Wunderlist][17] (RIP, [Microsoft To Do][18] is but a husk), [Google Tasks][19], [iOS reminders][20], [Notion][21], [Amazing Marvin][22], [TickTick][23], and more that I’m probably forgetting as well as handwritten notes strewn across [3x5 index cards][24], half-size index cards, [small Moleskins][25], [large Moleskins][26] (dotted), a variety of sizes of [Mnemosyne notebooks][27], and an endless parade of [products from Field Notes][28] in all shapes and sizes.
 <label for="sidenote-3" class="margin-toggle sidenote-number"></label>
 <input type="checkbox" id="sidenote-3" class="margin-toggle"/>
 <span class="sidenote">
-If you look at this list and think “Why don’t you use <a href="https://orgmode.org/">Org Mode</a>? It’s better than all of this crap.” please don’t email me about it. I don’t <em>hate</em> <a href="https://www.gnu.org/software/emacs/"><code>emacs</code></a> but I'm not interested in changing my way of life at this time.
+<span class="hidden">(</span>If you look at this list and think “Why don’t you use <a href="https://orgmode.org/">Org Mode</a>? It’s better than all of this crap.” please don’t email me about it. I don’t <em>hate</em> <a href="https://www.gnu.org/software/emacs/"><code>emacs</code></a> but I'm not interested in changing my way of life at this time.<span class="hidden">)</span>
 </span>
 Nothing sticks.
 Almost nothing—durning meetings, I take notes on paper—currently on Field Notes notebooks—but the notes I take have only been useful as a write-only memory aid.
@@ -70,7 +70,7 @@ The pitfalls of my approach shouldn’t have been a surprise given my experience
 <label for="sidenote-4" class="margin-toggle sidenote-number"></label>
 <input type="checkbox" id="sidenote-4" class="margin-toggle"/>
 <span class="sidenote">
-I listened to this audiobook a few years ago after hearing the author on the <a href="https://www.hiddenbrain.org/podcast/you-but-better/">“You but better” episode of Hidden Brain</a>. I recommend the podcast episode—it gives you 90% of what I found useful in the book.
+<span class="hidden">(</span>I listened to this audiobook a few years ago after hearing the author on the <a href="https://www.hiddenbrain.org/podcast/you-but-better/">“You but better” episode of Hidden Brain</a>. I recommend the podcast episode—it gives you 90% of what I found useful in the book.<span class="hidden">)</span>
 </span> and [Atomic Habits][39] by [James Clear][40]—but here we are.
 
 ---
