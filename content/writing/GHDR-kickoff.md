@@ -1,6 +1,7 @@
 ---
 title: "GHDR Kickoff"
 date: 2026-01-08T16:49:01-04:00
+draft: true
 ---
 
 > This post is a little late late for the 2026-01-13 deadline for a 2025 [Groundhog Day Resolution][1] (GHDR) postmortem, but, I'm a new adopter to this planning system so I've got some leeway.
