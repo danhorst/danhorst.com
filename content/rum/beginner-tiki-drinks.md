@@ -125,5 +125,5 @@ In lieu of that, try 1.5oz blended long aged rum and .5oz unaged or lightly aged
 
 _Smuggler's Cove p261_
 
-[1]: https://pussers.com/pussers-history/history-of-the-pussers-painkiller/
+[1]: https://pussersrum.com/blogs/cocktails/pussers-painkiller
 [2]: http://denizenrum.com/denizen-merchants-reserve/
