@@ -1,22 +1,25 @@
 {
   "permissions": {
     "allow": [
-      "Bash(find /Users/dbh/git/danhorst/danhorst.com/content -name \"_index.md\" -exec head -20 {} +)",
-      "Bash(wc:*)",
+      "Bash(BRIDGETOWN_LOG_LEVEL=debug bundle exec bridgetown build)",
       "Bash(bridgetown --version)",
+      "Bash(bundle exec:*)",
+      "Bash(bundle install:*)",
+      "Bash(bundle show *)",
+      "Bash(do echo:*)",
+      "Bash(done)",
+      "Bash(find /Users/dbh/git/danhorst/danhorst.com/content -name \"_index.md\" -exec head -20 {} +)",
+      "Bash(for f:*)",
       "Bash(gem list:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
       "Bash(grep -v \"^--$\")",
       "Bash(grep -v \"^categories:$\")",
-      "Bash(for f:*)",
-      "Bash(do echo:*)",
-      "Read(//Users/dbh/git/danhorst/danhorst.com/**)",
-      "Bash(done)",
+      "Bash(ls /Users/dbh/git/danhorst/danhorst.com/output/feed*)",
+      "Bash(mkdir -p /Users/dbh/git/danhorst/danhorst.com/*)",
       "Bash(ruby --version)",
-      "Bash(mkdir -p /Users/dbh/git/danhorst/danhorst.com/src/_layouts)",
-      "Bash(mkdir -p /Users/dbh/git/danhorst/danhorst.com/src/_components)",
-      "Bash(mkdir -p /Users/dbh/git/danhorst/danhorst.com/src/_writing)",
-      "Bash(mkdir -p /Users/dbh/git/danhorst/danhorst.com/src/_lists)",
-      "Bash(mkdir -p /Users/dbh/git/danhorst/danhorst.com/src/_food)"
+      "Bash(wc:*)",
+      "Read(//Users/dbh/git/danhorst/danhorst.com/**)"
     ]
   }
 }
