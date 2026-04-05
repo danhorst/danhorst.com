@@ -2,6 +2,11 @@ url: "https://www.danhorst.com"
 title: "Dan Brubaker Horst"
 timezone: America/Indiana/Indianapolis
 
+feed:
+  collections:
+    writing:
+      path: /feed
+
 collections:
   writing:
     output: true
