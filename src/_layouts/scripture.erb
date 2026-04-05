@@ -1,0 +1,68 @@
+---
+layout: default
+---
+
+<article>
+  <header>
+    <h1><%= markdownify(page.data.title) %></h1>
+  </header>
+
+  <section>
+    <%= yield %>
+  </section>
+</article>
+
+<style>
+  h2 {
+    position: relative;
+  }
+
+  .highlighted:before {
+    content: '·';
+    font-style: normal;
+    left: -.35em;
+    position: absolute;
+  }
+
+  .highlighted + p {
+    background-color: #b3d4fc;
+    font-size: 2.5em;
+    line-height: 1.2;
+    outline: .3em solid #b3d4fc;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    .highlighted + p {
+      background-color: #0a3f80;
+      outline: .3em solid #0a3f80;
+    }
+  }
+
+  @media (min-width: 760px){
+    .highlighted:before {
+      content: '☆';
+      left: -1em;
+    }
+  }
+</style>
+
+<script>
+  let currentPrefix = "";
+  const highlightClass = "highlighted";
+
+  const selectText = function(){
+    const header = this.parentNode;
+    const idPrefix = header.id.substring(0,3);
+
+    document.querySelectorAll("." + highlightClass).forEach(el => el.classList.remove(highlightClass));
+
+    if (currentPrefix == idPrefix) {
+      currentPrefix = "";
+    } else {
+      currentPrefix = idPrefix;
+      document.querySelectorAll('[id^="' + idPrefix + '"]').forEach(el => el.classList.add(highlightClass));
+    }
+  }
+
+  document.querySelectorAll("h2 a").forEach(el => el.addEventListener("click", selectText));
+</script>

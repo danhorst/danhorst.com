@@ -1,0 +1,7 @@
+<%# Renders category and tag links for a page. Usage: render "meta_terms", page: page %>
+<% cats = page.data.categories || [] %>
+<% tags = page.data.tags || [] %>
+<% items = [] %>
+<% cats.each { |c| items << link_to(c, "/categories/#{c.downcase}/", rel: "category tag") } %>
+<% tags.each { |t| items << link_to(t, "/tags/#{t.downcase.gsub(' ', '-')}/", rel: "tag") } %>
+<%= items.join(", ") %>

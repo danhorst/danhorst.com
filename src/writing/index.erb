@@ -1,0 +1,19 @@
+---
+layout: default
+title: Writing
+---
+
+<h1>Writing</h1>
+
+<ol class="post-list">
+  <% collections.writing.resources.each do |post| %>
+  <li>
+    <a href="<%= post.relative_url %>"><%= post.data.title %></a>
+    <small class="post-list-meta">
+      <span class="month"><%= post.data.date&.strftime("%B") %></span>
+      <span class="day"><%= post.data.date&.strftime("%-d") %></span>,
+      <span class="year"><%= post.data.date&.strftime("%Y") %></span>
+    </small>
+  </li>
+  <% end %>
+</ol>

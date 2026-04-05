@@ -1,0 +1,22 @@
+---
+layout: default
+title: Lists
+---
+
+<h1>Lists</h1>
+
+<% [["Goals", "goals"], ["Likes", "likes"], ["Recipes", "recipes"], ["Reference", "reference"]].each do |label, id| %>
+  <%
+    items = collections.lists.resources
+      .select { |r| r.data.categories&.any? { |c| c.downcase == id } }
+      .sort_by { |r| r.data.title.to_s }
+  %>
+  <% if items.any? %>
+  <h2 id="<%= id %>"><%= label %></h2>
+  <ul>
+    <% items.each do |item| %>
+    <li><a href="<%= item.relative_url %>"><%= item.data.title %></a></li>
+    <% end %>
+  </ul>
+  <% end %>
+<% end %>

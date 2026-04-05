@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find /Users/dbh/git/danhorst/danhorst.com/content -name \"_index.md\" -exec head -20 {} +)",
+      "Bash(wc:*)",
+      "Bash(bridgetown --version)",
+      "Bash(gem list:*)",
+      "Bash(grep -v \"^--$\")",
+      "Bash(grep -v \"^categories:$\")",
+      "Bash(for f:*)",
+      "Bash(do echo:*)",
+      "Read(//Users/dbh/git/danhorst/danhorst.com/**)",
+      "Bash(done)",
+      "Bash(ruby --version)",
+      "Bash(mkdir -p /Users/dbh/git/danhorst/danhorst.com/src/_layouts)",
+      "Bash(mkdir -p /Users/dbh/git/danhorst/danhorst.com/src/_components)",
+      "Bash(mkdir -p /Users/dbh/git/danhorst/danhorst.com/src/_writing)",
+      "Bash(mkdir -p /Users/dbh/git/danhorst/danhorst.com/src/_lists)",
+      "Bash(mkdir -p /Users/dbh/git/danhorst/danhorst.com/src/_food)"
+    ]
+  }
+}

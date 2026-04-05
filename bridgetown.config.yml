@@ -1,0 +1,20 @@
+url: "https://www.danhorst.com"
+title: "Dan Brubaker Horst"
+timezone: America/Indiana/Indianapolis
+
+collections:
+  writing:
+    output: true
+    permalink: /writing/:slug/
+    sort_field: "date"
+    sort_direction: "descending"
+  lists:
+    output: true
+    permalink: /lists/:slug/
+  food:
+    output: true
+    permalink: /food/:slug/
+  rum:
+    output: true
+    permalink: /rum/:slug/
+    sort_field: "date"

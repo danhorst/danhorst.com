@@ -1,0 +1,13 @@
+---
+layout: default
+title: Food
+---
+
+<h1>Food</h1>
+
+<h2 id="recipes">Recipes</h2>
+<ul>
+  <% collections.food.resources.sort_by { |r| r.data.title.to_s }.each do |recipe| %>
+  <li><a href="<%= recipe.relative_url %>"><%= recipe.data.title %></a></li>
+  <% end %>
+</ul>
