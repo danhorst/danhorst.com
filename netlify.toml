@@ -4,6 +4,7 @@ command = "bundle exec bridgetown build"
 
 [build.environment]
 RUBY_VERSION = "4.0.2"
+BUNDLE_VERSION = "4.0.9"
 
 [context.deploy-preview]
 command = "bundle exec bridgetown build"
