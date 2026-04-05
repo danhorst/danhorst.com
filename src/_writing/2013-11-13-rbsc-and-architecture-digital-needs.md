@@ -8,7 +8,7 @@ categories:
 tags:
  - digital humanities
  - ND
-title:       RBSC &amp; Architecture Digital Needs
+title:       RBSC & Architecture Digital Needs
 ---
 
 ### Identified Needs

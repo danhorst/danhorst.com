@@ -8,7 +8,7 @@ categories:
 tags:
  - policy
  - operations
-title:       Standards &amp; Practices
+title:       Standards & Practices
 ---
 
 ## Standards

@@ -9,7 +9,7 @@ tags:
  - architecture
  - DevOps
  - infrastructure
-title:       Service &amp; Application Management
+title:       Service & Application Management
 ---
 
 ## Our Goal
