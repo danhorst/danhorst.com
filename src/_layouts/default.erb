@@ -29,7 +29,6 @@
     <link rel="preload" as="font" type="font/woff2" href="/font/et-book-ot-roman.woff2" crossorigin />
     <link rel="preload" as="font" type="font/woff2" href="/font/et-book-ot-italic.woff2" crossorigin />
     <link rel="stylesheet" href="<%= asset_path :css %>" />
-    <link rel="stylesheet" href="/css/baguetteBox.min.css" />
     <link rel="apple-touch-icon" href="/img/icon.png" />
     <link rel="manifest" href="/site.webmanifest" />
 
@@ -45,21 +44,7 @@
     <% end %>
 
     <script src="/js/turbo.js" defer></script>
-    <script src="/js/baguetteBox.min.js" defer></script>
-    <script>
-      document.addEventListener("turbo:load", function() {
-        document.querySelectorAll("input[type='checkbox'][disabled]").forEach(function(item, i){item.removeAttribute("disabled")});
-        document.querySelectorAll('.task-list-item').forEach(function(item) {
-          item.addEventListener('click', function(e) {
-            if (e.target.type !== 'checkbox') {
-              var cb = item.querySelector('input[type="checkbox"]');
-              if (cb) cb.checked = !cb.checked;
-            }
-          });
-        });
-        baguetteBox.run('.lightbox');
-      });
-    </script>
+    <script src="<%= asset_path :js %>" defer></script>
   </head>
   <body>
     <header role="banner">
