@@ -4,6 +4,7 @@
     "esbuild": "node esbuild.config.js"
   },
   "dependencies": {
+    "baguettebox.js": "^1.13.0",
     "esbuild": "^0.28.0",
     "glob": "^10.0.0",
     "postcss": "^8.0.0",
