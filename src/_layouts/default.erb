@@ -49,6 +49,14 @@
     <script>
       document.addEventListener("turbo:load", function() {
         document.querySelectorAll("input[type='checkbox'][disabled]").forEach(function(item, i){item.removeAttribute("disabled")});
+        document.querySelectorAll('.task-list-item').forEach(function(item) {
+          item.addEventListener('click', function(e) {
+            if (e.target.type !== 'checkbox') {
+              var cb = item.querySelector('input[type="checkbox"]');
+              if (cb) cb.checked = !cb.checked;
+            }
+          });
+        });
         baguetteBox.run('.lightbox');
       });
     </script>
