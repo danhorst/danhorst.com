@@ -632,7 +632,7 @@ p {
   padding: 1rem 0;
 }
 
-.#work-with-me dl {
+#work-with-me dl {
   margin-top: 0;
 }
 
@@ -829,7 +829,7 @@ li::has(> input[type='checkbox']) {
   font-size: 1rem;
   font-style: normal;
   letter-spacing: .05em;
-  gine-height: 2;
+  line-height: 2;
   text-transform: uppercase;
 }
 

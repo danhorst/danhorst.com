@@ -7,3 +7,4 @@ public/*
 _site/*
 output/*
 .bridgetown-cache/
+node_modules/
