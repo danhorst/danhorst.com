@@ -737,14 +737,14 @@ p {
   border: 1px solid;
   flex-shrink: 0;
   height: 0.75rem;
-  margin-left: 1.25rem;
+  margin-left: 1rem;
   margin-right: 0.5rem;
   width: 0.75rem;
 }
 
 .task-list-item:has(input:checked)::after {
   content: '\2713';
-  left: 1.25rem;
+  left: 1rem;
   pointer-events: none;
   position: absolute;
   text-align: center;
