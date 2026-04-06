@@ -20,13 +20,13 @@ layout: default
 <footer>
   <nav class="section-navigation">
     <% if page.previous_resource %>
-    <a class="prev element" data-turbolinks-scroll="false" href="<%= page.previous_resource.relative_url %>"><small>Previous</small> <%= page.previous_resource.data.title %></a>
+    <a class="prev element" data-turbo-action="advance" href="<%= page.previous_resource.relative_url %>"><small>Previous</small> <%= page.previous_resource.data.title %></a>
     <% else %>
-    <a class="prev element" data-turbolinks-scroll="false" href="/rum/"><small>Previous</small> Introduction</a>
+    <a class="prev element" data-turbo-action="advance" href="/rum/"><small>Previous</small> Introduction</a>
     <% end %>
     <a class="home element" href="/rum/"><small>Home</small>Rum Guide</a>
     <% if page.next_resource %>
-    <a class="next element" data-turbolinks-scroll="false" href="<%= page.next_resource.relative_url %>"><small>Next</small> <%= page.next_resource.data.title %></a>
+    <a class="next element" data-turbo-action="advance" href="<%= page.next_resource.relative_url %>"><small>Next</small> <%= page.next_resource.data.title %></a>
     <% end %>
   </nav>
 </footer>

@@ -44,10 +44,10 @@
     <link rel="shortcut icon" href="/favicon.ico" />
     <% end %>
 
-    <script src="/js/turbolinks.js" defer></script>
+    <script src="/js/turbo.js" defer></script>
     <script src="/js/baguetteBox.min.js" defer></script>
     <script>
-      document.addEventListener("turbolinks:load", function() {
+      document.addEventListener("turbo:load", function() {
         document.querySelectorAll("main.interactive input[disabled]").forEach(function(item, i){item.removeAttribute("disabled")});
         baguetteBox.run('.lightbox');
       });
