@@ -48,7 +48,7 @@
     <script src="/js/baguetteBox.min.js" defer></script>
     <script>
       document.addEventListener("turbo:load", function() {
-        document.querySelectorAll("main.interactive input[disabled]").forEach(function(item, i){item.removeAttribute("disabled")});
+        document.querySelectorAll("input[type='checkbox'][disabled]").forEach(function(item, i){item.removeAttribute("disabled")});
         baguetteBox.run('.lightbox');
       });
     </script>
