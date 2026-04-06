@@ -726,11 +726,13 @@ p {
 }
 
 .task-list-item {
-  margin-right: .5rem;
+  align-items: baseline;
+  display: flex;
 }
 
 .task-list-item-checkbox {
-  margin-right: .5rem;
+  flex-shrink: 0;
+  margin-right: .6em;
 }
 
 .task-list-item:has(input:checked):after {
