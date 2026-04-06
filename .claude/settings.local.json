@@ -13,6 +13,7 @@
       "Bash(gem list:*)",
       "Bash(git add:*)",
       "Bash(git commit:*)",
+      "Bash(git push:*)",
       "Bash(grep:*)",
       "Bash(ls /Users/dbh/git/danhorst/danhorst.com/output/feed*)",
       "Bash(mkdir -p /Users/dbh/git/danhorst/danhorst.com/*)",
