@@ -731,8 +731,14 @@ p {
 }
 
 .task-list-item-checkbox {
+  -webkit-appearance: none;
+  appearance: none;
+  border: 1px solid;
   flex-shrink: 0;
+  height: 0.65em;
+  margin-left: 0.55em;
   margin-right: .6em;
+  width: 0.65em;
 }
 
 .task-list-item:has(input:checked):after {
