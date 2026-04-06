@@ -721,34 +721,16 @@ p {
 }
 
 .task-list {
-  padding-left: 1em;
-}
-
-.task-list li:before {
-  content:'';
+  list-style: none;
+  padding-left: 0;
 }
 
 .task-list-item {
-  list-style-type: none;
   margin-right: .5rem;
-  padding-left: 1.4em;
-  position: relative;
 }
 
 .task-list-item-checkbox {
-  left: 0;
-  opacity: 0;
-  position: absolute;
-}
-
-.task-list-item:before {
-  border: 1px solid #111;
-  content: '';
-  display: block;
-  left: 0;
-  padding: .4rem;
-  position: absolute;
-  top: -.05rem;
+  margin-right: .5rem;
 }
 
 .task-list-item:has(input:checked):after {
