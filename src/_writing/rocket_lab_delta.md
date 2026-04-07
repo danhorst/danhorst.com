@@ -22,11 +22,7 @@ In the past 15 years a lot of has changed in my personal life, the tools and fab
 These changes have had some effect on hobby rocketry but the core of it remains the same and thus both familiar and comforting to me.
 
 I updated my [bucket list][4] with some more specific goals for rocketry.
-However, I'm not just interested in certification, I'd love to move towards _mastery_ of the domain.<label for="take-the-low-road" class="margin-toggle sidenote-number"></label>
-<input type="checkbox" id="take-the-low-road" class="margin-toggle"/>
-<span class="sidenote">
-I would love to be able to serve on a <a href="http://www.tripoli.org/TAPPolicy"><abbr title="Technical Advisor Panel">TAP</abbr></a>, for example.
-</span>
+However, I'm not just interested in certification, I'd love to move towards _mastery_ of the domain.[^take-the-low-road]
 This means that I can take my time building rockets of various sizes to expand my knowledge and prove out techniques.
 
 I'm looking forward to it.
@@ -35,3 +31,5 @@ I'm looking forward to it.
 [2]: https://rocketlabdelta.com/essays/backstory/
 [3]: https://rocketlabdelta.com/essays/why-i-like-rocketry/
 [4]: /lists/bucket/
+
+[^take-the-low-road]: I would love to be able to serve on a <a href="http://www.tripoli.org/TAPPolicy"><abbr title="Technical Advisor Panel">TAP</abbr></a>, for example.

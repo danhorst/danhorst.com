@@ -22,22 +22,12 @@ categories:
 <h2 id="basics">Cover the Basics</h2>
 
 <ul>
-  <li>Take care of yourself<label for="self-care" class="margin-toggle sidenote-number"></label>
-    <input type="checkbox" id="self-care" class="margin-toggle"/>
-    <span class="sidenote">
-      Self-care is like the oxygen masks on an airplane.
-      If you don&rsquo;t take care of yourself first, there is no way you can take care of those around you.
-      (<a href="https://www.greenmountainhypnosis.com/blogs/post/The-Oxygen-Mask-Theory-How-to-Take-Care-of-Everyone">I&rsquo;m not the first person to think of this.</a>)
-    </span>
+  <li>Take care of yourself[^self-care]
   <ul>
   <li><a href="https://tenfoldpath.com/codex/nutrition/">Eat well</a></li>
   <li><a href="https://tenfoldpath.com/codex/sleep/">Sleep well</a></li>
   <li><a href="https://tenfoldpath.com/codex/training/">Exercise</a></li>
-  <li>Invest in your mental health<label for="mental-health" class="margin-toggle sidenote-number"></label>
-    <input type="checkbox" id="mental-health" class="margin-toggle"/>
-    <span class="sidenote">
-      For me, this means cultivating mindfulness through meditation, acknowledging and addressing when I feel emotionally aroused, and trying to improve my emotional intelligence.
-    </span>
+  <li>Invest in your mental health[^mental-health]
   </li>
   <li>Routinely go to the doctor, dentist, eye doctor, etc.</li>
   </ul>
@@ -65,13 +55,7 @@ categories:
 <h2 id="trust">Build Trust</h2>
 
 <p>
-  <label for="explain-attune" class="margin-toggle">
-    <small>source</small> &loz;
-  </label>
-  <input type="checkbox" id="explain-attune" class="margin-toggle"/><span class="marginnote">
-    This list comes from the <a href="https://www.gottman.com/blog/trust/">Gottman Institute</a>.
-    It is also a mnemonic acronym: <abbr title="Awareness, Turning toward, Tolerance, Understanding, Non-defensive responding, Empathy">ATTUNE</abbr>
-  </span> 
+  [^explain-attune] 
 </p>
 
 <ul>
@@ -89,13 +73,7 @@ categories:
 
 <ul>
   <li>
-    Know your love languages and those of your partner<label for="love-languages" class="margin-toggle sidenote-number"></label>
-    <input type="checkbox" id="love-languages" class="margin-toggle"/>
-    <span class="sidenote">
-      There are 5 <a href="https://en.wikipedia.org/wiki/The_Five_Love_Languages">love languages</a>: words, time, gifts, acts, touch.
-      The best way to show love to your partner is to do the things <em>they</em> value most.
-      Make an extra effort if their love languages are different from your own.
-    </span>
+    Know your love languages and those of your partner[^love-languages]
   </li>
   <li>Tell them you love them every day</li>
   <li>Show them you love them every day</li>
@@ -130,14 +108,7 @@ categories:
 <h2 id="behavior">Exemplify Behavior</h2>
 
 <p>
-  <label for="explain-behavior" class="margin-toggle">
-    <small>source</small> &loz;
-  </label>
-  <input type="checkbox" id="explain-behavior" class="margin-toggle"/>
-  <span class="marginnote">
-    From the “Fruits of the Spirit”;<br>
-    Galatians 5:22–23
-  </span>
+  [^explain-behavior]
 </p>
 
 <ul>
@@ -153,3 +124,13 @@ categories:
 </ul>
 </section>
 </article>
+
+[^self-care]: Self-care is like the oxygen masks on an airplane. If you don&rsquo;t take care of yourself first, there is no way you can take care of those around you. ([I&rsquo;m not the first person to think of this.](https://www.greenmountainhypnosis.com/blogs/post/The-Oxygen-Mask-Theory-How-to-Take-Care-of-Everyone))
+
+[^mental-health]: For me, this means cultivating mindfulness through meditation, acknowledging and addressing when I feel emotionally aroused, and trying to improve my emotional intelligence.
+
+[^love-languages]: There are 5 [love languages](https://en.wikipedia.org/wiki/The_Five_Love_Languages): words, time, gifts, acts, touch. The best way to show love to your partner is to do the things *they* value most. Make an extra effort if their love languages are different from your own.
+
+[^explain-attune]: This list comes from the [Gottman Institute](https://www.gottman.com/blog/trust/). It is also a mnemonic acronym: <abbr title="Awareness, Turning toward, Tolerance, Understanding, Non-defensive responding, Empathy">ATTUNE</abbr>
+
+[^explain-behavior]: From the “Fruits of the Spirit”;<br> Galatians 5:22–23

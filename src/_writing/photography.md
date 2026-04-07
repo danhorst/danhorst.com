@@ -7,11 +7,7 @@ date:        2024-08-23T17:31:10-04:00
 ---
 
 I bought my first digital camera in July of 2005.
-I have taken over 39,000 photos with it—and a series of increasingly sophisticated devices<label for="my-devices" class="margin-toggle sidenote-number"></label>
-<input type="checkbox" id="my-devices" class="margin-toggle"/>
-<span class="sidenote">
-Canon PowerShot A95, Canon Digital Rebel XTi, iPhone 4s, Canon SL1, Nexus 6P, Pixel 3, iPhone 13 Mini, Fuji XT-5
-</span>—over the ensuing nineteen years.
+I have taken over 39,000 photos with it—and a series of increasingly sophisticated devices[^my-devices]—over the ensuing nineteen years.
 The act of taking photos is woven into how I experience holidays, family gatherings, vacations, and—at times—my daily life.
 It’s something that I enjoy doing.
 
@@ -58,11 +54,7 @@ I’ve stopped listening to photography podcasts.
 I don’t watch any photography content on YouTube other than gear reviews.
 
 I can get better through directed effort or languish as I am now.
-Prompted by this newly-acknowledged reality, I finally cracked open my copy of [The Art of Photography][6].<label for="taking-my-time" class="margin-toggle sidenote-number"></label>
-<input type="checkbox" id="taking-my-time" class="margin-toggle"/>
-<span class="sidenote">
-The second edition was released in 2017; my unread copy predates that.
-</span>
+Prompted by this newly-acknowledged reality, I finally cracked open my copy of [The Art of Photography][6].[^taking-my-time]
 These points from the _first chapter_ elucidate why I am struggling:
 
 - Photography is visual communication.
@@ -86,3 +78,7 @@ I’d like to be able to do better than that.
 [5]: https://glass.photo/dbh
 [6]: https://rockynook.com/shop/photography/the-art-of-photography-2nd-edition/
 [7]: https://en.wikipedia.org/wiki/Snapshot_(photography)
+
+[^my-devices]: Canon PowerShot A95, Canon Digital Rebel XTi, iPhone 4s, Canon SL1, Nexus 6P, Pixel 3, iPhone 13 Mini, Fuji XT-5
+
+[^taking-my-time]: The second edition was released in 2017; my unread copy predates that.

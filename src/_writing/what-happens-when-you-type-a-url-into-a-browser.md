@@ -43,9 +43,7 @@ To do that, it goes through another two processes:
 
 <ol>
   <li>URL resolution</li>
-  <li>Content negotiation<label for="content-negotiation" class="margin-toggle sidenote-number"></label><input type="checkbox" id="content-negotiation" class="margin-toggle"/><span class="sidenote">I'm using the term "content negotiation" loosely here.
-  The narrowest technical definition of content negotiation is the process where the client and the server use accepts headers and content types&mdash;HTML, txt, JSON, XML, application/octet stream (binary), etc.&mdash;to determine the encoding and/or the content of the response body.
-  I am using it to mean "the client and the server figure out what they need from each other" before the response body is processed by the client.</span></li>
+  <li>Content negotiation[^content-negotiation]</li>
 </ol>
 
 URLs have a structure:
@@ -102,8 +100,7 @@ I do this when I need to troubleshoot a connectivity issue.
 The default output for `dig` has way more information than I need for checking name resolution.)
 
 Once the browser has an IP address that maps to the domain it initiates a TCP/IP connection to that IP address.
-IP stands for "Internet Protocol" and we typically use IPv4 address which take the form of four period-delimited blocks of 1-3 integers e.g. 129.0.0.1, 8.8.8.8<label for="cert-chain" class="margin-toggle sidenote-number"></label><input type="checkbox" id="cert-chain" class="margin-toggle"/><span class="sidenote">IPv6 is also a thing but those addresses are so long I never remember what they look like exactly.
-IPv6 doesn't have a lot of support in the Internet at large.</span>.
+IP stands for "Internet Protocol" and we typically use IPv4 address which take the form of four period-delimited blocks of 1-3 integers e.g. 129.0.0.1, 8.8.8.8[^cert-chain].
 If no protocol is specified in the URL, the browser assumes that you meant HTTP (Hypertext Transfer Protocol) and attempts to connect to port 80 on the IP address of the server.
 
 You can use `telnet` to check to see if it is possible to connect to a specific port for a given IP address:
@@ -164,9 +161,7 @@ The important things about a certificate chain are that it:
 - Is valid for a fixed window of time (typically one year from when it was issued)
 - Is valid for a specific domain be it wildcard e.g. `*.danhorst.com` or specific e.g. `www.danhorst.com`
 
-To establish a chain of trust from a web server that will serve traffic for a specific domain you start by generating a Certificate Signing Request (CSR)<label for="cert-management" class="margin-toggle sidenote-number"></label><input type="checkbox" id="cert-management" class="margin-toggle"/><span class="sidenote">Certificate management can be a complicated manual process.
-That's why a lot of people prefer setting up something like Let's Encrypt to auto-renew certificates or put web servers behind a load balancer that integrates with Amazon Certificate Manager (or it's equivalent outside of AWS) to avoid this whole mess.
-The only reason I can describe it in detail now is that I had to this two weeks ago.</span>.
+To establish a chain of trust from a web server that will serve traffic for a specific domain you start by generating a Certificate Signing Request (CSR)[^cert-management].
 Generating CSRs, and almost everything else you might want to do with TLS, it handled with specific incantations of `openssl`.
 I do this so infrequently I don't remember the details and have written scripts to take the guesswork out of it.
 You submit the CSR a certificate authority and they give you back a `<certificate-name>.key` file that contains the private key to store securely on the server and a certificate chain to share with the world.
@@ -174,18 +169,15 @@ There are lots of ways to encode the certificate chain but I like to use plain t
 Some web servers expect the root CA to be first and the domain certificate to be last and others are the reverse (don't ask me why).
 You may have to experiment to figure how to go from what the certificate authority gave you to what you need for the server to work.
 
-The list of trusted root certificate authorities is managed by the operating system or language runtime of the client<label for="java-certs" class="margin-toggle sidenote-number"></label><input type="checkbox" id="java-certs" class="margin-toggle"/><span class="sidenote">There have been times where I needed to add certificates to a certificate store and explicitly point a Java process to that certificate to avoid errors (this isn't a great time).</span>.
+The list of trusted root certificate authorities is managed by the operating system or language runtime of the client[^java-certs].
 This only becomes a problems when you have a self-signed certificated (not blessed by a root CA) or if you use a more obscure root CA (why would you do this?).
 
-Once a chain of trust is established using the certificate chain<label for="cert-chain" class="margin-toggle sidenote-number"></label><input type="checkbox" id="cert-chain" class="margin-toggle"/><span class="sidenote">It's important to include the <em>entire</em> certificate chain, from the root CA up to the specific cert, or else some clients won't trust it.
-There are also ways a certificate can be cross-signed to other authorities, but the specifics are lost on me.</span>,
+Once a chain of trust is established using the certificate chain[^cert-chain-2],
 the browser uses the public key provided by the certificate chain to encrypt the communication with the server.
 It does this using one of many methods.
 There is both the protocol--SSL (deprecated), TLS 1.0 (deprecated), TLS 1.1 (deprecated), TLS 1.2, TLS 1.3 (emerging)--as well as the "cypher suite"--the specific encryption algorithms--used to perform the encryption.
 The client and the server compare lists of available protocols and cypher suites for those protocols and try to find one they both have in common.
-It is up to the server administrator to disable weak or defunct protocols and cypher suites on the web server in order to ensure that the connection is secure<label for="cypher-punk" class="margin-toggle sidenote-number"></label><input type="checkbox" id="cypher-punk" class="margin-toggle"/><span class="sidenote">Most of the Internet that we use day to day is served over HTTPS.
-Overall, this is a good thing for privacy and security, but it comes with a price: older clients and machines get left behind.
-A few weeks ago I started up a netbook for the first time in years and it couldn't make valid HTTPS connections to anything so it was unable to even update it's packages.</span>.
+It is up to the server administrator to disable weak or defunct protocols and cypher suites on the web server in order to ensure that the connection is secure[^cypher-punk].
 If both the browser and the web server can agree on a supported means of encryption then the request/response cycle can continue.
 
 Let's try accessing the "Location" header value it returns:
@@ -208,10 +200,7 @@ Another 301!
 I've configured my website to _never_ serve content from the apex domain `danhorst.com`.
 The way apex domains are resolved means that there are fewer options for managing how name resolution works for large, complicated, websites.
 At least, that's the way it _used_ to be.
-I'm short on the specifics, but there was an RFC<label for="rfc" class="margin-toggle sidenote-number"></label><input type="checkbox" id="rfc" class="margin-toggle"/><span class="sidenote">The nuts and bolts of how <em>exactly</em> the Internet is described in specs that are referred to as RFCs (I <i>think</i> that stands for Request for Change but that isn't a great name for a standard that governs something this important.)
-I have looked at a few of these but they are dry and difficult to read.
-The formatting doesn't help either--it's 80 column fixed width text as if it were old-school terminal output.
-I've had better luck reading them via <a href="http://pretty-rfc.herokuapp.com/">Pretty RFC</a>.</span>,
+I'm short on the specifics, but there was an RFC[^rfc],
 I believe it was originally proposed by Amazon--years ago, made to address this problem and it now has broad support.
 I chose to follow the outdated guidance of not serving content from apex domains for my personal site but I didn't for [rocketlabdelta.com][3] and I haven't had any issues (not that either site really gets any traffic).
 
@@ -239,3 +228,26 @@ How the browser goes from the HTML document to a web page that you can see and i
 [1]: https://www.ladybug.dev/episodes/how-the-internet-works
 [2]: /lists/podcasts/
 [3]: https://rocketlabdelta.com
+
+[^content-negotiation]: I'm using the term "content negotiation" loosely here. The narrowest technical definition of content negotiation is the process where the client and the server use accepts headers and content types&mdash;HTML, txt, JSON, XML, application/octet stream (binary), etc.&mdash;to determine the encoding and/or the content of the response body. I am using it to mean "the client and the server figure out what they need from each other" before the response body is processed by the client.
+
+[^cert-chain]: IPv6 is also a thing but those addresses are so long I never remember what they look like exactly.
+IPv6 doesn't have a lot of support in the Internet at large.
+
+[^cert-management]: Certificate management can be a complicated manual process.
+That's why a lot of people prefer setting up something like Let's Encrypt to auto-renew certificates or put web servers behind a load balancer that integrates with Amazon Certificate Manager (or it's equivalent outside of AWS) to avoid this whole mess.
+The only reason I can describe it in detail now is that I had to this two weeks ago.
+
+[^java-certs]: There have been times where I needed to add certificates to a certificate store and explicitly point a Java process to that certificate to avoid errors (this isn't a great time).
+
+[^cert-chain-2]: It's important to include the *entire* certificate chain, from the root CA up to the specific cert, or else some clients won't trust it.
+There are also ways a certificate can be cross-signed to other authorities, but the specifics are lost on me.
+
+[^cypher-punk]: Most of the Internet that we use day to day is served over HTTPS.
+Overall, this is a good thing for privacy and security, but it comes with a price: older clients and machines get left behind.
+A few weeks ago I started up a netbook for the first time in years and it couldn't make valid HTTPS connections to anything so it was unable to even update it's packages.
+
+[^rfc]: The nuts and bolts of how *exactly* the Internet is described in specs that are referred to as RFCs (I <i>think</i> that stands for Request for Change but that isn't a great name for a standard that governs something this important.)
+I have looked at a few of these but they are dry and difficult to read.
+The formatting doesn't help either--it's 80 column fixed width text as if it were old-school terminal output.
+I've had better luck reading them via [Pretty RFC](http://pretty-rfc.herokuapp.com/).

@@ -32,7 +32,7 @@ Shipping the right things made the right way takes people, culture, strategy, fo
 
 ### Location
 
-- A remote-first<label for="remote-first" class="margin-toggle sidenote-number"></label> team—preferably asynchronous <input type="checkbox" id="remote-first" class="margin-toggle"/><span class="sidenote">In-person meetings are invaluable in some circumstances including building relationships and intense bursts of collaboration—like a <a href="https://www.thefieldstudyhandbook.com/">pop-up studio</a>, or <a href="https://www.gsb.stanford.edu/insights/thinking-inside-box-why-virtual-meetings-generate-fewer-ideas">effective brainstorming</a>.</span>
+- A remote-first team—preferably asynchronous[^remote-first]
 - I am open to a hybrid role in the Boston metro area
 - I _will not_ relocate to any state where reproductive rights are not protected
 
@@ -47,7 +47,7 @@ I am equally comfortable:
 - Helping junior team members on their path to mastery
 - Discerning a business need then designing and implementing a solution
 - Assessing and realigning a business process or procedure
-- Troubleshooting an issue with a production server<label for="linux-server" class="margin-toggle sidenote-number"></label> or service <input type="checkbox" id="linux-server" class="margin-toggle"/><span class="sidenote">Assuming it is some flavor of Linux. My skills and experience with a Microsoft stack are limited.</span>
+- Troubleshooting an issue with a production server or service[^linux-server]
 
 I have extensive technical skills and have been actively growing my expertise in higher-order concerns like product ownership, executive management, and organizational performance.
 
@@ -163,3 +163,7 @@ Web development
 [6]: https://github.com
 [7]: https://github.com/danhorst
 [8]: https://rubygems.org/gems/rails/versions/1.2.0
+
+[^remote-first]: In-person meetings are invaluable in some circumstances including building relationships and intense bursts of collaboration—like a [pop-up studio](https://www.thefieldstudyhandbook.com/), or [effective brainstorming](https://www.gsb.stanford.edu/insights/thinking-inside-box-why-virtual-meetings-generate-fewer-ideas).
+
+[^linux-server]: Assuming it is some flavor of Linux. My skills and experience with a Microsoft stack are limited.
