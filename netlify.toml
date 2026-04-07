@@ -7,6 +7,11 @@ command = "npm install && npm run esbuild && bundle exec bridgetown build"
   [headers.values]
     Cache-Control = "public, max-age=31536000, immutable"
 
+[[headers]]
+  for = "/writing/*.txt"
+  [headers.values]
+    Content-Type = "text/markdown; charset=utf-8"
+
 [build.environment]
 RUBY_VERSION = "4.0.2"
 BUNDLE_VERSION = "4.0.9"
