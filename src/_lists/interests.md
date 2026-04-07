@@ -60,25 +60,14 @@ categories:
   <li><a href="https://www.pinterest.com/danhorst/polynesian-pop/">Polynesian pop</a> (tiki)</li>
   <li>Product design</li>
   <li>Art
-  <label for="art" class="margin-toggle sidenote-number"></label>
-  <input type="checkbox" id="art" class="margin-toggle"/>
-  <span class="sidenote">
-  Art is not a subset of design.
-  (The <a href="https://en.wikipedia.org/wiki/Elements_of_art">elements of art</a> do not overlap with the <a href="https://en.wikipedia.org/wiki/Visual_design_elements_and_principles#Principles_of_design">principles of design</a>.)
-  I am drawn to art and art pieces through the <em>lens</em> of design.
-  </span>
+  [^art]
   </li>
   <li>Architecture</li>
   </ul></li>
 <li><a href="/lists/movies/">Movies</a></li>
 <li><a href="/lists/music/">Music</a></li>
 <li>Gear
-  <label for="gear" class="margin-toggle sidenote-number"></label>
-  <input type="checkbox" id="gear" class="margin-toggle"/>
-  <span class="sidenote">
-  I fall into the <a href="https://youtu.be/R3SFqV0hMyo">&ldquo;get the gear&rdquo;</a> trap pretty easily.
-  I make an extra effort to value the <em>experience</em> over the equipment for hobbies like photography and SCUBA.
-  </span><ul>
+  [^gear]<ul>
   <li>Mechanical Keyboards</li>
   <li>Flashlights</li>
   <li>Tools</li>
@@ -86,3 +75,7 @@ categories:
   </ul></li>
 </ul>
 </section>
+
+[^art]: Art is not a subset of design. (The [elements of art](https://en.wikipedia.org/wiki/Elements_of_art) do not overlap with the [principles of design](https://en.wikipedia.org/wiki/Visual_design_elements_and_principles#Principles_of_design).) I am drawn to art and art pieces through the *lens* of design.
+
+[^gear]: I fall into the [&ldquo;get the gear&rdquo;](https://youtu.be/R3SFqV0hMyo) trap pretty easily. I make an extra effort to value the *experience* over the equipment for hobbies like photography and SCUBA.
