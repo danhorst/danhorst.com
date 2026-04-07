@@ -12,8 +12,8 @@ Over the last year—largely because of a series of changes kicked off by this s
 [^1]
 
 Over the last 25 years, I’ve tried all sorts of methods for tracking tasks, setting goals, and otherwise bolstering my underperforming executive functions.
-Any app or system I could find: [Palm Pilot][16] todos, [GTD][2], [Hipster PDA][3], [ETP][4], [Remember the Milk][5], [todo.txt][6], [Due][7], [Todoist][8], [Bullet Journaling][9], [Trello][10], [Asana][11], [OmniPlan][12], [Things][13], [Taskpaper][14]
-[^2], [tasks][15] in [Obsidian][16], [Wunderlist][17] (RIP, [Microsoft To Do][18] is but a husk), [Google Tasks][19], [iOS reminders][20], [Notion][21], [Amazing Marvin][22], [TickTick][23], and more that I’m probably forgetting as well as handwritten notes strewn across [3x5 index cards][24], half-size index cards, [small Moleskins][25], [large Moleskins][26] (dotted), a variety of sizes of [Mnemosyne notebooks][27], and an endless parade of [products from Field Notes][28] in all shapes and sizes.
+Any app or system I could find: [Palm Pilot][2] todos, [GTD][3], [Hipster PDA][4], [ETP][5], [Remember the Milk][6], [todo.txt][7], [Due][8], [Todoist][9], [Bullet Journaling][10], [Trello][11], [Asana][12], [OmniPlan][13], [Things][14], [Taskpaper][15]
+[^2], [tasks][16] in [Obsidian][2], [Wunderlist][17] (RIP, [Microsoft To Do][18] is but a husk), [Google Tasks][19], [iOS reminders][20], [Notion][21], [Amazing Marvin][22], [TickTick][23], and more that I’m probably forgetting as well as handwritten notes strewn across [3x5 index cards][24], half-size index cards, [small Moleskins][25], [large Moleskins][26] (dotted), a variety of sizes of [Mnemosyne notebooks][27], and an endless parade of [products from Field Notes][28] in all shapes and sizes.
 [^3]
 Nothing sticks.
 Almost nothing—durning meetings, I take notes on paper—currently on Field Notes notebooks—but the notes I take have only been useful as a write-only memory aid.
@@ -70,22 +70,28 @@ I've got another two weeks or so to finalize my resolutions for this year but I 
 	- Reading more
 	- Making time for boredom
 
+
+[^1]: I've been thankful to have wonderful, attentive dogs at home.
+[^2]: I *really* liked TaskPaper. I might have to revisit that, especially now that it’s [shared source][41].
+[^3]: If you look at this list and think “Why don’t you use [Org Mode][42]? It’s better than all of this crap.” please don’t email me about it. I don’t *hate* <a href="https://www.gnu.org/software/emacs/">`emacs`</a> but I'm not interested in changing my way of life at this time.
+[^4]: I listened to this audiobook a few years ago after hearing the author on the [“You but better” episode of Hidden Brain][43]. I recommend the podcast episode—it gives you 90% of what I found useful in the book.
+
 [1]: https://dsriseah.com/ghdr/term/ghdr/
-[2]: https://gettingthingsdone.com/what-is-gtd/
-[3]: https://www.43folders.com/2004/09/03/introducing-the-hipster-pda
-[4]: https://davidseah.com/node/the-emergent-task-planner/
-[5]: https://www.rememberthemilk.com/
-[6]: http://todotxt.org/
-[7]: https://www.dueapp.com/
-[8]: https://www.todoist.com/
-[9]: https://bulletjournal.com/
-[10]: https://trello.com/
-[11]: https://asana.com/
-[12]: https://www.omnigroup.com/omniplan/
-[13]: https://culturedcode.com/things/
-[14]: https://www.taskpaper.com/
-[15]: https://publish.obsidian.md/tasks/Introduction
-[16]: https://obsidian.md/
+[2]: https://obsidian.md/
+[3]: https://gettingthingsdone.com/what-is-gtd/
+[4]: https://www.43folders.com/2004/09/03/introducing-the-hipster-pda
+[5]: https://davidseah.com/node/the-emergent-task-planner/
+[6]: https://www.rememberthemilk.com/
+[7]: http://todotxt.org/
+[8]: https://www.dueapp.com/
+[9]: https://www.todoist.com/
+[10]: https://bulletjournal.com/
+[11]: https://trello.com/
+[12]: https://asana.com/
+[13]: https://www.omnigroup.com/omniplan/
+[14]: https://culturedcode.com/things/
+[15]: https://www.taskpaper.com/
+[16]: https://publish.obsidian.md/tasks/Introduction
 [17]: https://en.wikipedia.org/wiki/Wunderlist
 [18]: https://apps.microsoft.com/detail/9nblggh5r558
 [19]: https://tasks.google.com/tasks/
@@ -110,8 +116,6 @@ I've got another two weeks or so to finalize my resolutions for this year but I 
 [38]: https://www.katymilkman.com/
 [39]: https://jamesclear.com/atomic-habits
 [40]: https://jamesclear.com/
-
-[^1]: I've been thankful to have wonderful, attentive dogs at home.
-[^2]: I *really* liked TaskPaper. I might have to revisit that, especially now that it’s [shared source](https://github.com/jessegrosjean/TaskPaper).
-[^3]: If you look at this list and think “Why don’t you use [Org Mode](https://orgmode.org/)? It’s better than all of this crap.” please don’t email me about it. I don’t *hate* <a href="https://www.gnu.org/software/emacs/">`emacs`</a> but I'm not interested in changing my way of life at this time.
-[^4]: I listened to this audiobook a few years ago after hearing the author on the [“You but better” episode of Hidden Brain](https://www.hiddenbrain.org/podcast/you-but-better/). I recommend the podcast episode—it gives you 90% of what I found useful in the book.
+[41]: https://github.com/jessegrosjean/TaskPaper
+[42]: https://orgmode.org/
+[43]: https://www.hiddenbrain.org/podcast/you-but-better/

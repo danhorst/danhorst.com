@@ -29,16 +29,18 @@ That’s why [accumulation of technical debt][4] is one of the [Bottlenecks of S
 
 The only effective way to manage these marginal costs is to periodically and rigorously _simplify_ standing systems through methods like introducing new layers of abstraction, breaking services into smaller component pieces, and depreciating anything you can get away with.
 
-[1]: https://en.wikipedia.org/wiki/Technical_debt
-[2]: https://www.ramseysolutions.com/ramseyplus/financial-peace
-[3]: https://en.wikipedia.org/wiki/Systems_development_life_cycle
-[4]: https://martinfowler.com/articles/bottlenecks-of-scaleups/01-tech-debt.html
-[5]: https://martinfowler.com/articles/bottlenecks-of-scaleups/
 
 [^1]: Aside from ephemeral software that is discarded after use.
 [^2]: Marginal cost, by definition, is the change in the total cost when the quantity produced is increased.
 The marginal costs of software increase in a nonlinear fashion as the complexity of the system increases i.e. it is *much* easier to change a simpler thing than a complicated thing.
 The biggest cost centers are engineering time, cloud computing resources, and licensing fees.
-[^3]: Keeping marginal costs low was one of the claimed benefits of [Extreme Programming (XP)](https://en.wikipedia.org/wiki/Extreme_programming); a set of practices that predated Agile.
+[^3]: Keeping marginal costs low was one of the claimed benefits of [Extreme Programming (XP)][6]; a set of practices that predated Agile.
 There are good ideas in XP but the methodology has fallen out of favor over time.
 Agile software development *should* have similar outcomes but often doesn’t.
+
+[1]: https://en.wikipedia.org/wiki/Technical_debt
+[2]: https://www.ramseysolutions.com/ramseyplus/financial-peace
+[3]: https://en.wikipedia.org/wiki/Systems_development_life_cycle
+[4]: https://martinfowler.com/articles/bottlenecks-of-scaleups/01-tech-debt.html
+[5]: https://martinfowler.com/articles/bottlenecks-of-scaleups/
+[6]: https://en.wikipedia.org/wiki/Extreme_programming

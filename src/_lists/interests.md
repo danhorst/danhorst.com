@@ -11,7 +11,7 @@ categories:
 > I delight in understanding.
 > I find satisfaction in working with my hands.
 
-- [Hobby Rocketry](https://rocketlabdelta.com)
+- [Hobby Rocketry][1]
 - Photography
 - Learning
   - Reading
@@ -45,21 +45,31 @@ categories:
   - Festivals
 - Drink
   - Cocktails
-  - [Rum](/rum/)
+  - [Rum][2]
   - Wine
 - Design
-  - [Typography](https://practicaltypography.com/typography-in-ten-minutes.html)
-  - [Polynesian pop](https://www.pinterest.com/danhorst/polynesian-pop/) (tiki)
+  - [Typography][3]
+  - [Polynesian pop][4] (tiki)
   - Product design
   - Art[^1]
   - Architecture
-- [Movies](/lists/movies/)
-- [Music](/lists/music/)
+- [Movies][5]
+- [Music][6]
 - Gear[^2]
   - Mechanical Keyboards
   - Flashlights
   - Tools
   - Office supplies (pens, pencils, notebooks&mdash;things that add pleasure to the act of writing)
 
-[^1]: Art is not a subset of design. (The [elements of art](https://en.wikipedia.org/wiki/Elements_of_art) do not overlap with the [principles of design](https://en.wikipedia.org/wiki/Visual_design_elements_and_principles#Principles_of_design).) I am drawn to art and art pieces through the *lens* of design.
-[^2]: I fall into the [&ldquo;get the gear&rdquo;](https://youtu.be/R3SFqV0hMyo) trap pretty easily. I make an extra effort to value the *experience* over the equipment for hobbies like photography and SCUBA.
+[^1]: Art is not a subset of design. (The [elements of art][7] do not overlap with the [principles of design][8].) I am drawn to art and art pieces through the *lens* of design.
+[^2]: I fall into the [&ldquo;get the gear&rdquo;][9] trap pretty easily. I make an extra effort to value the *experience* over the equipment for hobbies like photography and SCUBA.
+
+[1]: https://rocketlabdelta.com
+[2]: /rum/
+[3]: https://practicaltypography.com/typography-in-ten-minutes.html
+[4]: https://www.pinterest.com/danhorst/polynesian-pop/
+[5]: /lists/movies/
+[6]: /lists/music/
+[7]: https://en.wikipedia.org/wiki/Elements_of_art
+[8]: https://en.wikipedia.org/wiki/Visual_design_elements_and_principles#Principles_of_design
+[9]: https://youtu.be/R3SFqV0hMyo

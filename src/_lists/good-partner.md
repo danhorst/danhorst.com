@@ -21,14 +21,14 @@ categories:
 ## Cover the Basics
 
 - Take care of yourself[^1]
-  - [Eat well](https://tenfoldpath.com/codex/nutrition/)
-  - [Sleep well](https://tenfoldpath.com/codex/sleep/)
-  - [Exercise](https://tenfoldpath.com/codex/training/)
+  - [Eat well][1]
+  - [Sleep well][2]
+  - [Exercise][3]
   - Invest in your mental health[^2]
   - Routinely go to the doctor, dentist, eye doctor, etc.
 - Be authentic
-  - Know [what you are passionate about](/lists/interests/) and keep doing it
-  - Think about [the future you want](/lists/bucket/) and work towards it
+  - Know [what you are passionate about][4] and keep doing it
+  - Think about [the future you want][5] and work towards it
   - Be honest and assertive about your needs
 - Be a Responsible Adult
   - Take charge of your career
@@ -83,8 +83,17 @@ categories:
 - Gentleness
 - Self-control
 
-[^1]: Self-care is like the oxygen masks on an airplane. If you don&rsquo;t take care of yourself first, there is no way you can take care of those around you. ([I&rsquo;m not the first person to think of this.](https://www.greenmountainhypnosis.com/blogs/post/The-Oxygen-Mask-Theory-How-to-Take-Care-of-Everyone))
+[^1]: Self-care is like the oxygen masks on an airplane. If you don&rsquo;t take care of yourself first, there is no way you can take care of those around you. ([I&rsquo;m not the first person to think of this.][6])
 [^2]: For me, this means cultivating mindfulness through meditation, acknowledging and addressing when I feel emotionally aroused, and trying to improve my emotional intelligence.
-[^3]: This list comes from the [Gottman Institute](https://www.gottman.com/blog/trust/). It is also a mnemonic acronym: <abbr title="Awareness, Turning toward, Tolerance, Understanding, Non-defensive responding, Empathy">ATTUNE</abbr>
-[^4]: There are 5 [love languages](https://en.wikipedia.org/wiki/The_Five_Love_Languages): words, time, gifts, acts, touch. The best way to show love to your partner is to do the things *they* value most. Make an extra effort if their love languages are different from your own.
+[^3]: This list comes from the [Gottman Institute][7]. It is also a mnemonic acronym: <abbr title="Awareness, Turning toward, Tolerance, Understanding, Non-defensive responding, Empathy">ATTUNE</abbr>
+[^4]: There are 5 [love languages][8]: words, time, gifts, acts, touch. The best way to show love to your partner is to do the things *they* value most. Make an extra effort if their love languages are different from your own.
 [^5]: From the "Fruits of the Spirit";<br> Galatians 5:22–23
+
+[1]: https://tenfoldpath.com/codex/nutrition/
+[2]: https://tenfoldpath.com/codex/sleep/
+[3]: https://tenfoldpath.com/codex/training/
+[4]: /lists/interests/
+[5]: /lists/bucket/
+[6]: https://www.greenmountainhypnosis.com/blogs/post/The-Oxygen-Mask-Theory-How-to-Take-Care-of-Everyone
+[7]: https://www.gottman.com/blog/trust/
+[8]: https://en.wikipedia.org/wiki/The_Five_Love_Languages
