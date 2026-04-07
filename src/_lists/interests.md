@@ -62,5 +62,4 @@ categories:
   - Office supplies (pens, pencils, notebooks&mdash;things that add pleasure to the act of writing)
 
 [^1]: Art is not a subset of design. (The [elements of art](https://en.wikipedia.org/wiki/Elements_of_art) do not overlap with the [principles of design](https://en.wikipedia.org/wiki/Visual_design_elements_and_principles#Principles_of_design).) I am drawn to art and art pieces through the *lens* of design.
-
 [^2]: I fall into the [&ldquo;get the gear&rdquo;](https://youtu.be/R3SFqV0hMyo) trap pretty easily. I make an extra effort to value the *experience* over the equipment for hobbies like photography and SCUBA.

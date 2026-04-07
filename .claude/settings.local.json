@@ -20,7 +20,22 @@
       "Bash(ruby --version)",
       "Bash(sd:*)",
       "Bash(wc:*)",
-      "Read(//Users/dbh/git/danhorst/danhorst.com/**)"
+      "Read(//Users/dbh/git/danhorst/danhorst.com/**)",
+      "Bash(xargs ls:*)",
+      "WebSearch",
+      "WebFetch(domain:www.bridgetownrb.com)",
+      "Bash(bin/bridgetown esbuild:*)",
+      "Bash(npm install:*)",
+      "Bash(npm audit:*)",
+      "Bash(node:*)",
+      "Bash(git checkout:*)",
+      "Bash(git restore:*)",
+      "Bash(gh pr:*)",
+      "Bash(ls:*)",
+      "Bash(grep -o src=.{0,50} /Users/dbh/git/danhorst/danhorst.com/output/feed.xml)",
+      "Bash(git fetch:*)",
+      "Bash(git cherry-pick:*)",
+      "Bash(ruby:*)"
     ]
   }
 }
