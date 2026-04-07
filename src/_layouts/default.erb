@@ -26,7 +26,7 @@
 
     <link rel="alternate" type="application/rss+xml" href="<%= site.config.url %>/feed" title="<%= site.metadata.title %>" />
     <% if page.collection&.label == "writing" && page.output_ext == ".html" %>
-    <link rel="alternate" type="text/plain" href="<%= site.config.url + page.relative_url.to_s.chomp("/") + ".txt" %>" />
+    <link rel="alternate" type="text/markdown" href="<%= page.relative_url.to_s.chomp("/") + ".txt" %>" />
     <% end %>
     <link rel="me" href="https://ruby.social/@danhorst" />
     <link rel="preload" as="font" type="font/woff2" href="/font/et-book-ot-roman.woff2" crossorigin />
