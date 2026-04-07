@@ -39,7 +39,7 @@ categories:
 
 ## Build Trust
 
-[^3]
+The [Gottman Institute][7] describes six practices for building trust, which form the mnemonic ATTUNE:
 
 - Awareness
 - Turning toward
@@ -50,7 +50,7 @@ categories:
 
 ## Express Your Love
 
-- Know your love languages and those of your partner[^4]
+- Know your love languages and those of your partner[^3]
 - Tell them you love them every day
 - Show them you love them every day
 - Always offer your support
@@ -71,7 +71,7 @@ categories:
 
 ## Exemplify Behavior
 
-[^5]
+The Fruits of the Spirit (Galatians 5:22–23):
 
 - Love
 - Joy
@@ -85,9 +85,7 @@ categories:
 
 [^1]: Self-care is like the oxygen masks on an airplane. If you don&rsquo;t take care of yourself first, there is no way you can take care of those around you. ([I&rsquo;m not the first person to think of this.][6])
 [^2]: For me, this means cultivating mindfulness through meditation, acknowledging and addressing when I feel emotionally aroused, and trying to improve my emotional intelligence.
-[^3]: This list comes from the [Gottman Institute][7]. It is also a mnemonic acronym: <abbr title="Awareness, Turning toward, Tolerance, Understanding, Non-defensive responding, Empathy">ATTUNE</abbr>
-[^4]: There are 5 [love languages][8]: words, time, gifts, acts, touch. The best way to show love to your partner is to do the things *they* value most. Make an extra effort if their love languages are different from your own.
-[^5]: From the "Fruits of the Spirit";<br> Galatians 5:22–23
+[^3]: There are 5 [love languages][8]: words, time, gifts, acts, touch. The best way to show love to your partner is to do the things *they* value most. Make an extra effort if their love languages are different from your own.
 
 [1]: https://tenfoldpath.com/codex/nutrition/
 [2]: https://tenfoldpath.com/codex/sleep/
@@ -97,3 +95,5 @@ categories:
 [6]: https://www.greenmountainhypnosis.com/blogs/post/The-Oxygen-Mask-Theory-How-to-Take-Care-of-Everyone
 [7]: https://www.gottman.com/blog/trust/
 [8]: https://en.wikipedia.org/wiki/The_Five_Love_Languages
+
+*[ATTUNE]: Awareness, Turning toward, Tolerance, Understanding, Non-defensive responding, Empathy
