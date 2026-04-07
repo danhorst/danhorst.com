@@ -9,12 +9,12 @@ published: false
 I had no system for tracking goals and progress—either personally or, for the most part, professionally—in 2025.
 I've been stuck in a reactive mode—trying to survive without getting buried since a surprise reorg was announced last April.
 Over the last year—largely because of a series of changes kicked off by this singular event—the scope of my work responsibilities have materially expanded, my physical fitness has taken a nosedive, and my mental health has languished—leaving me a socially isolated shut-in most of the time.
-[^sidenote-1]
+[^1]
 
 Over the last 25 years, I’ve tried all sorts of methods for tracking tasks, setting goals, and otherwise bolstering my underperforming executive functions.
 Any app or system I could find: [Palm Pilot][16] todos, [GTD][2], [Hipster PDA][3], [ETP][4], [Remember the Milk][5], [todo.txt][6], [Due][7], [Todoist][8], [Bullet Journaling][9], [Trello][10], [Asana][11], [OmniPlan][12], [Things][13], [Taskpaper][14]
-[^sidenote-2], [tasks][15] in [Obsidian][16], [Wunderlist][17] (RIP, [Microsoft To Do][18] is but a husk), [Google Tasks][19], [iOS reminders][20], [Notion][21], [Amazing Marvin][22], [TickTick][23], and more that I’m probably forgetting as well as handwritten notes strewn across [3x5 index cards][24], half-size index cards, [small Moleskins][25], [large Moleskins][26] (dotted), a variety of sizes of [Mnemosyne notebooks][27], and an endless parade of [products from Field Notes][28] in all shapes and sizes.
-[^sidenote-3]
+[^2], [tasks][15] in [Obsidian][16], [Wunderlist][17] (RIP, [Microsoft To Do][18] is but a husk), [Google Tasks][19], [iOS reminders][20], [Notion][21], [Amazing Marvin][22], [TickTick][23], and more that I’m probably forgetting as well as handwritten notes strewn across [3x5 index cards][24], half-size index cards, [small Moleskins][25], [large Moleskins][26] (dotted), a variety of sizes of [Mnemosyne notebooks][27], and an endless parade of [products from Field Notes][28] in all shapes and sizes.
+[^3]
 Nothing sticks.
 Almost nothing—durning meetings, I take notes on paper—currently on Field Notes notebooks—but the notes I take have only been useful as a write-only memory aid.
 The act of writing out notes keeps my mind engaged and improves my memory of events; I rarely look at them afterwards.
@@ -56,7 +56,7 @@ You can’t achieve successful, long-term behavior change with my current playbo
 Using your willpower, or otherwise leveraging your prefrontal cortex, can work for a while but isn’t a viable path to sustained behavior change.
 Maintaining an unbroken chain, or streak, _even if you use the "no two consecutive misses rule"_ isn't effective because it is not a _cue_—it's just an obligation.
 The pitfalls of my approach shouldn’t have been a surprise given my experience with dog training or reading books like [_How to Change_][10] by [Katy Milkman][38]
-[^sidenote-4] and [Atomic Habits][39] by [James Clear][40]—but here we are.
+[^4] and [Atomic Habits][39] by [James Clear][40]—but here we are.
 
 ---
 
@@ -111,10 +111,10 @@ I've got another two weeks or so to finalize my resolutions for this year but I 
 [39]: https://jamesclear.com/atomic-habits
 [40]: https://jamesclear.com/
 
-[^sidenote-1]: I've been thankful to have wonderful, attentive dogs at home.
+[^1]: I've been thankful to have wonderful, attentive dogs at home.
 
-[^sidenote-2]: I *really* liked TaskPaper. I might have to revisit that, especially now that it’s [shared source](https://github.com/jessegrosjean/TaskPaper).
+[^2]: I *really* liked TaskPaper. I might have to revisit that, especially now that it’s [shared source](https://github.com/jessegrosjean/TaskPaper).
 
-[^sidenote-3]: If you look at this list and think “Why don’t you use [Org Mode](https://orgmode.org/)? It’s better than all of this crap.” please don’t email me about it. I don’t *hate* <a href="https://www.gnu.org/software/emacs/">`emacs`</a> but I'm not interested in changing my way of life at this time.
+[^3]: If you look at this list and think “Why don’t you use [Org Mode](https://orgmode.org/)? It’s better than all of this crap.” please don’t email me about it. I don’t *hate* <a href="https://www.gnu.org/software/emacs/">`emacs`</a> but I'm not interested in changing my way of life at this time.
 
-[^sidenote-4]: I listened to this audiobook a few years ago after hearing the author on the [“You but better” episode of Hidden Brain](https://www.hiddenbrain.org/podcast/you-but-better/). I recommend the podcast episode—it gives you 90% of what I found useful in the book.
+[^4]: I listened to this audiobook a few years ago after hearing the author on the [“You but better” episode of Hidden Brain](https://www.hiddenbrain.org/podcast/you-but-better/). I recommend the podcast episode—it gives you 90% of what I found useful in the book.

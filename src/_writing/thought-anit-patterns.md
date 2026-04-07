@@ -31,8 +31,11 @@ The world is spectacularly interconnected. There are lifetimes of possibility in
 Perfect is the enemy of done.
 
 [^1]: But, if I'm _really_ honest, I'm using "imposter syndrome" as a socially acceptable catch-all for symptoms of other mental health problems like [generalized anxiety disorder][1] and [depression][2]
+
 [^2]: Despite considerable, material evidence to the contrary in my lived experience
+
 [^3]: Please don't try to struggle through mental health problems on your own. I have my partner, friends, family, my therapist, my doctor, and emotionally needy dogs all looking out for me; the deeper and more connected your support network the better
+
 [^4]: One word for this kind of understanding is ["grok"](https://en.wikipedia.org/wiki/Grok) which doesn't seem to be used much outside of conversations with old nerds like myself
 
 [1]: https://www.nimh.nih.gov/health/publications/generalized-anxiety-disorder-gad

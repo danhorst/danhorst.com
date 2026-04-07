@@ -16,7 +16,9 @@ I’ve used the right punctuation in my prose—dashes included—for decades.
 I’ll keep using them appropriately, even if I risk getting falsely accused of passing off GenAI slop as my own work.
 
 [^1]: A clause appended to a sentence with a semicolon should be a complete sentence on its own. A sentence fragment must be appended to a sentence with an em-dash. Sue explained it like this: a semicolon is an RV pulling a car; a dash is an RV pulling a trailer.
+
 [^2]: An en dash “–“ is used to in a range e.g. 10–20. An em dash “—“ is the right punctuation for appending a clause to a sentence or for a parenthetical statement.
+
 [^3]: I was once chided for using em dashes too often in scientific writing in 2004—the only editorial feedback I remember from college.
 
 [1]: https://www.linkedin.com/in/suzanne-ehst-816730a2
