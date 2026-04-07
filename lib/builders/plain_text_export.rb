@@ -1,3 +1,5 @@
+require_relative "../md_wrap"
+
 module PlainTextExport
   FRONT_MATTER_PATTERN = /\A---\n.*?---\n/m
 
@@ -11,7 +13,7 @@ module PlainTextExport
       # e.g. output/writing/dash-it-all/index.html → output/writing/dash-it-all.txt
       txt_path = resource.destination.output_path.sub(%r{/index\.html$}, ".txt")
       FileUtils.mkdir_p(File.dirname(txt_path))
-      File.write(txt_path, content)
+      File.write(txt_path, MdWrap.wrap(content))
     end
   end
 end
