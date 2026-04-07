@@ -155,6 +155,10 @@ Web development
 - I was the 2132<sup>nd</sup> person to get a [GitHub][6] account when I signed up as [@danhorst][7] in 2008. In June 2022 there were 83 million user accounts on GitHub putting me in the first 0.003% of users.
 - I started working with Rails version [1.2][8]. It's come a _long_ way since then.
 
+
+[^1]: In-person meetings are invaluable in some circumstances including building relationships and intense bursts of collaboration—like a [pop-up studio][9], or [effective brainstorming][10].
+[^2]: Assuming it is some flavor of Linux. My skills and experience with a Microsoft stack are limited.
+
 [1]: https://rocketlabdelta.com/essays/why-i-like-rocketry/
 [2]: https://web.archive.org/web/20220327073355/http://goodbadstrategy.com/about-the-book/
 [3]: /lists/implmentation-risks/
@@ -163,6 +167,5 @@ Web development
 [6]: https://github.com
 [7]: https://github.com/danhorst
 [8]: https://rubygems.org/gems/rails/versions/1.2.0
-
-[^1]: In-person meetings are invaluable in some circumstances including building relationships and intense bursts of collaboration—like a [pop-up studio](https://www.thefieldstudyhandbook.com/), or [effective brainstorming](https://www.gsb.stanford.edu/insights/thinking-inside-box-why-virtual-meetings-generate-fewer-ideas).
-[^2]: Assuming it is some flavor of Linux. My skills and experience with a Microsoft stack are limited.
+[9]: https://www.thefieldstudyhandbook.com/
+[10]: https://www.gsb.stanford.edu/insights/thinking-inside-box-why-virtual-meetings-generate-fewer-ideas

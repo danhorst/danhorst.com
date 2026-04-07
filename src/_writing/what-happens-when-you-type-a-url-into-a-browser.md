@@ -5,11 +5,11 @@ description: Some basics of how the Internet works
 ---
 
 
-UPDATE 2021-08-30: Jenna Pederson over on the [AWS blog wrote a much better response to the question I try to answer here.](https://aws.amazon.com/blogs/mobile/what-happens-when-you-type-a-url-into-your-browser/)
+UPDATE 2021-08-30: Jenna Pederson over on the [AWS blog wrote a much better response to the question I try to answer here.][1]
 
 ---
 
-I started listening to the ["How the Internet Works" episode][1] of the Ladybug [podcast][2] today.
+I started listening to the ["How the Internet Works" episode][2] of the Ladybug [podcast][3] today.
 They set out to answer the technical interview question:
 
 > What happens when you type a URL into a browser?
@@ -200,7 +200,7 @@ The way apex domains are resolved means that there are fewer options for managin
 At least, that's the way it _used_ to be.
 I'm short on the specifics, but there was an RFC[^7],
 I believe it was originally proposed by Amazon--years ago, made to address this problem and it now has broad support.
-I chose to follow the outdated guidance of not serving content from apex domains for my personal site but I didn't for [rocketlabdelta.com][3] and I haven't had any issues (not that either site really gets any traffic).
+I chose to follow the outdated guidance of not serving content from apex domains for my personal site but I didn't for [rocketlabdelta.com][4] and I haven't had any issues (not that either site really gets any traffic).
 
 Following the `location` header one more time we get:
 
@@ -223,9 +223,6 @@ We've made it to a page!
 Now the browser can process the HTML that is returned (you know it's HTML because of the value of the `content-type` header).
 How the browser goes from the HTML document to a web page that you can see and interact with is complicated enough that it deserves it's own article.
 
-[1]: https://www.ladybug.dev/episodes/how-the-internet-works
-[2]: /lists/podcasts/
-[3]: https://rocketlabdelta.com
 
 [^1]: I'm using the term "content negotiation" loosely here. The narrowest technical definition of content negotiation is the process where the client and the server use accepts headers and content types&mdash;HTML, txt, JSON, XML, application/octet stream (binary), etc.&mdash;to determine the encoding and/or the content of the response body. I am using it to mean "the client and the server figure out what they need from each other" before the response body is processed by the client.
 [^2]: IPv6 is also a thing but those addresses are so long I never remember what they look like exactly.
@@ -242,4 +239,10 @@ A few weeks ago I started up a netbook for the first time in years and it couldn
 [^7]: The nuts and bolts of how *exactly* the Internet is described in specs that are referred to as RFCs (I <i>think</i> that stands for Request for Change but that isn't a great name for a standard that governs something this important.)
 I have looked at a few of these but they are dry and difficult to read.
 The formatting doesn't help either--it's 80 column fixed width text as if it were old-school terminal output.
-I've had better luck reading them via [Pretty RFC](http://pretty-rfc.herokuapp.com/).
+I've had better luck reading them via [Pretty RFC][5].
+
+[1]: https://aws.amazon.com/blogs/mobile/what-happens-when-you-type-a-url-into-your-browser/
+[2]: https://www.ladybug.dev/episodes/how-the-internet-works
+[3]: /lists/podcasts/
+[4]: https://rocketlabdelta.com
+[5]: http://pretty-rfc.herokuapp.com/
