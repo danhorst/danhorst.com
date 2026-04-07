@@ -112,9 +112,6 @@ I've got another two weeks or so to finalize my resolutions for this year but I 
 [40]: https://jamesclear.com/
 
 [^1]: I've been thankful to have wonderful, attentive dogs at home.
-
 [^2]: I *really* liked TaskPaper. I might have to revisit that, especially now that it’s [shared source](https://github.com/jessegrosjean/TaskPaper).
-
 [^3]: If you look at this list and think “Why don’t you use [Org Mode](https://orgmode.org/)? It’s better than all of this crap.” please don’t email me about it. I don’t *hate* <a href="https://www.gnu.org/software/emacs/">`emacs`</a> but I'm not interested in changing my way of life at this time.
-
 [^4]: I listened to this audiobook a few years ago after hearing the author on the [“You but better” episode of Hidden Brain](https://www.hiddenbrain.org/podcast/you-but-better/). I recommend the podcast episode—it gives you 90% of what I found useful in the book.

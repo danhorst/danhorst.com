@@ -228,23 +228,17 @@ How the browser goes from the HTML document to a web page that you can see and i
 [3]: https://rocketlabdelta.com
 
 [^1]: I'm using the term "content negotiation" loosely here. The narrowest technical definition of content negotiation is the process where the client and the server use accepts headers and content types&mdash;HTML, txt, JSON, XML, application/octet stream (binary), etc.&mdash;to determine the encoding and/or the content of the response body. I am using it to mean "the client and the server figure out what they need from each other" before the response body is processed by the client.
-
 [^2]: IPv6 is also a thing but those addresses are so long I never remember what they look like exactly.
 IPv6 doesn't have a lot of support in the Internet at large.
-
 [^3]: Certificate management can be a complicated manual process.
 That's why a lot of people prefer setting up something like Let's Encrypt to auto-renew certificates or put web servers behind a load balancer that integrates with Amazon Certificate Manager (or it's equivalent outside of AWS) to avoid this whole mess.
 The only reason I can describe it in detail now is that I had to this two weeks ago.
-
 [^4]: There have been times where I needed to add certificates to a certificate store and explicitly point a Java process to that certificate to avoid errors (this isn't a great time).
-
 [^5]: It's important to include the *entire* certificate chain, from the root CA up to the specific cert, or else some clients won't trust it.
 There are also ways a certificate can be cross-signed to other authorities, but the specifics are lost on me.
-
 [^6]: Most of the Internet that we use day to day is served over HTTPS.
 Overall, this is a good thing for privacy and security, but it comes with a price: older clients and machines get left behind.
 A few weeks ago I started up a netbook for the first time in years and it couldn't make valid HTTPS connections to anything so it was unable to even update it's packages.
-
 [^7]: The nuts and bolts of how *exactly* the Internet is described in specs that are referred to as RFCs (I <i>think</i> that stands for Request for Change but that isn't a great name for a standard that governs something this important.)
 I have looked at a few of these but they are dry and difficult to read.
 The formatting doesn't help either--it's 80 column fixed width text as if it were old-school terminal output.

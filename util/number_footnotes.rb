@@ -47,7 +47,7 @@ def number_footnotes(path)
   # Build numbered definitions in reference order
   defs_section = key_to_num.sort_by { |_, n| n }.map do |key, num|
     "[^#{num}]: #{defs[key]}"
-  end.join("\n\n")
+  end.join("\n")
 
   result.rstrip + "\n\n" + defs_section + "\n"
 end

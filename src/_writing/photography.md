@@ -80,5 +80,4 @@ I’d like to be able to do better than that.
 [7]: https://en.wikipedia.org/wiki/Snapshot_(photography)
 
 [^1]: Canon PowerShot A95, Canon Digital Rebel XTi, iPhone 4s, Canon SL1, Nexus 6P, Pixel 3, iPhone 13 Mini, Fuji XT-5
-
 [^2]: The second edition was released in 2017; my unread copy predates that.

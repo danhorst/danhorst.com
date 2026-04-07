@@ -165,5 +165,4 @@ Web development
 [8]: https://rubygems.org/gems/rails/versions/1.2.0
 
 [^1]: In-person meetings are invaluable in some circumstances including building relationships and intense bursts of collaboration—like a [pop-up studio](https://www.thefieldstudyhandbook.com/), or [effective brainstorming](https://www.gsb.stanford.edu/insights/thinking-inside-box-why-virtual-meetings-generate-fewer-ideas).
-
 [^2]: Assuming it is some flavor of Linux. My skills and experience with a Microsoft stack are limited.
