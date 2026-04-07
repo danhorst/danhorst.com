@@ -28,9 +28,12 @@ This means that I can take my time building rockets of various sizes to expand m
 I'm looking forward to it.
 
 
-[^1]: I would love to be able to serve on a <a href="http://www.tripoli.org/TAPPolicy"><abbr title="Technical Advisor Panel">TAP</abbr></a>, for example.
+[^1]: I would love to be able to serve on a [TAP][5], for example.
 
 [1]: https://rocketlabdelta.com/
 [2]: https://rocketlabdelta.com/essays/backstory/
 [3]: https://rocketlabdelta.com/essays/why-i-like-rocketry/
 [4]: /lists/bucket/
+[5]: http://www.tripoli.org/TAPPolicy
+
+*[TAP]: Technical Advisor Panel
