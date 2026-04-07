@@ -7,75 +7,60 @@ categories:
 
 > Overall themes: focus, enrichment, self-reliance & pleasure.
 >
-> I appreciate beautiful, functional, things.  
-> I delight in understanding.  
+> I appreciate beautiful, functional, things.
+> I delight in understanding.
 > I find satisfaction in working with my hands.
 
-<section>
-<ul>
-<li><a href="https://rocketlabdelta.com">Hobby Rocketry</a></li>
-<li>Photography</li>
-<li>Learning<ul>
-  <li>Reading</li>
-  <li>DIY</li>
-  <li>Programming</li>
-  <li>Web development</li>
-  </ul></li>
-<li>Wellness<ul>
-  <li>Strength training</li>
-  <li>Nutrition</li>
-  <li>Meditation</li>
-  </ul></li>
-<li>Being outdoors<ul>
-  <li>Cycling</li>
-  <li>Hiking</li>
-  <li>Trail running</li>
-  <li>Camping</li>
-  <li>Beaches</li>
-  <li>SCUBA Diving (underwater counts too)</li>
-  </ul></li>
-<li>Travel<ul>
-  <li>Museums</li>
-  <li>National parks</li>
-  <li>Theme parks (primarily Disney World)</li>
-  <li>Amusement parks</li>
-  <li>New cities</li>
-  </ul></li>
-<li>Food<ul>
-  <li>Cooking</li>
-  <li>Baking</li>
-  <li>BBQ</li>
-  <li>Hot Sauce</li>
-  <li>Fine dining</li>
-  <li>Hole-in-the-wall restaurants</li>
-  <li>Festivals</li>
-  </ul></li>
-<li>Drink<ul>
-  <li>Cocktails</li>
-  <li><a href="/rum/">Rum</a></li>
-  <li>Wine</li>
-  </ul></li>
-<li>Design<ul>
-  <li><a href="https://practicaltypography.com/typography-in-ten-minutes.html">Typography</a></li>
-  <li><a href="https://www.pinterest.com/danhorst/polynesian-pop/">Polynesian pop</a> (tiki)</li>
-  <li>Product design</li>
-  <li>Art
-  [^art]
-  </li>
-  <li>Architecture</li>
-  </ul></li>
-<li><a href="/lists/movies/">Movies</a></li>
-<li><a href="/lists/music/">Music</a></li>
-<li>Gear
-  [^gear]<ul>
-  <li>Mechanical Keyboards</li>
-  <li>Flashlights</li>
-  <li>Tools</li>
-  <li>Office supplies (pens, pencils, notebooks&mdash;things that add pleasure to the act of writing)</li>
-  </ul></li>
-</ul>
-</section>
+- [Hobby Rocketry](https://rocketlabdelta.com)
+- Photography
+- Learning
+  - Reading
+  - DIY
+  - Programming
+  - Web development
+- Wellness
+  - Strength training
+  - Nutrition
+  - Meditation
+- Being outdoors
+  - Cycling
+  - Hiking
+  - Trail running
+  - Camping
+  - Beaches
+  - SCUBA Diving (underwater counts too)
+- Travel
+  - Museums
+  - National parks
+  - Theme parks (primarily Disney World)
+  - Amusement parks
+  - New cities
+- Food
+  - Cooking
+  - Baking
+  - BBQ
+  - Hot Sauce
+  - Fine dining
+  - Hole-in-the-wall restaurants
+  - Festivals
+- Drink
+  - Cocktails
+  - [Rum](/rum/)
+  - Wine
+- Design
+  - [Typography](https://practicaltypography.com/typography-in-ten-minutes.html)
+  - [Polynesian pop](https://www.pinterest.com/danhorst/polynesian-pop/) (tiki)
+  - Product design
+  - Art[^1]
+  - Architecture
+- [Movies](/lists/movies/)
+- [Music](/lists/music/)
+- Gear[^2]
+  - Mechanical Keyboards
+  - Flashlights
+  - Tools
+  - Office supplies (pens, pencils, notebooks&mdash;things that add pleasure to the act of writing)
 
-[^art]: Art is not a subset of design. (The [elements of art](https://en.wikipedia.org/wiki/Elements_of_art) do not overlap with the [principles of design](https://en.wikipedia.org/wiki/Visual_design_elements_and_principles#Principles_of_design).) I am drawn to art and art pieces through the *lens* of design.
+[^1]: Art is not a subset of design. (The [elements of art](https://en.wikipedia.org/wiki/Elements_of_art) do not overlap with the [principles of design](https://en.wikipedia.org/wiki/Visual_design_elements_and_principles#Principles_of_design).) I am drawn to art and art pieces through the *lens* of design.
 
-[^gear]: I fall into the [&ldquo;get the gear&rdquo;](https://youtu.be/R3SFqV0hMyo) trap pretty easily. I make an extra effort to value the *experience* over the equipment for hobbies like photography and SCUBA.
+[^2]: I fall into the [&ldquo;get the gear&rdquo;](https://youtu.be/R3SFqV0hMyo) trap pretty easily. I make an extra effort to value the *experience* over the equipment for hobbies like photography and SCUBA.

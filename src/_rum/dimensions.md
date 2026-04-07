@@ -26,14 +26,8 @@ tags:
 
 ## Aging
 
-<ul>
-<li>Like most spirits, rum is aged in barrels (or stainless steel basins lined with strips of wood). Rum is traditionally aged in oak casks.</li>
-<li>
-  Most rum is aged near where it is distilled: in the tropics.
-  The warm, humid environment catalyzes the aging process.
-  Because of this, an 8-year rum from Puerto Rico will taste closer to a 12-year Scotch than an 8-year Scotch.[^take-the-low-road]
-</li>
-</ul>
+- Like most spirits, rum is aged in barrels (or stainless steel basins lined with strips of wood). Rum is traditionally aged in oak casks.
+- Most rum is aged near where it is distilled: in the tropics. The warm, humid environment catalyzes the aging process. Because of this, an 8-year rum from Puerto Rico will taste closer to a 12-year Scotch than an 8-year Scotch.[^1]
 
 ## Region
 
@@ -46,4 +40,4 @@ tags:
 - The British developed the proof system for measuring alcohol content in rum to determine the appropriate tax rate. Gunpowder does not burn if soaked in rum that is less than 57.15% ABV (roughly <small>4/7</small>). Thus, if the rum was strong enough for the doused gunpowder to light it was "proof" of the rum's sufficient strength. (Unlike the British system, which measured specific gravity, the American proof system measures the percentage of alcohol so the proof numbers between the two standards differ.)
 - Rums are typically 80 proof but there are also "overproof" rums e.g. Journeyman Road's End Rum (90 proof), Plantation OFTD (138 proof), and Bacardi 151 (151 proof).
 
-[^take-the-low-road]: Scotch wiskey is aged in Scotland. Scotland is a *long* way from the tropics.
+[^1]: Scotch wiskey is aged in Scotland. Scotland is a *long* way from the tropics.
