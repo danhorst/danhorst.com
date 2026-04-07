@@ -7,9 +7,9 @@ categories:
 
 > Overall themes: focus, enrichment, self-reliance & pleasure.
 >
-> I appreciate beautiful, functional, things.
-> I delight in understanding.
-> I find satisfaction in working with my hands.
+> I appreciate beautiful, functional, things.  
+> I delight in understanding.  
+> I find satisfaction in working with my hands.  
 
 - [Hobby Rocketry][1]
 - Photography
