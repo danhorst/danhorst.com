@@ -5,7 +5,7 @@ title: Lists
 
 <h1>Lists</h1>
 
-<% [["Goals", "goals"], ["Likes", "likes"], ["Recipes", "recipes"], ["Reference", "reference"]].each do |label, id| %>
+<% [["Goals", "goals"], ["Likes", "likes"], ["Recipes", "recipes"], ["Reference", "reference"], ["Site", "site"]].each do |label, id| %>
   <%
     items = collections.lists.resources
       .select { |r| r.data.categories&.any? { |c| c.downcase == id } }
