@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-description: "How to get in touch with Dan Brubaker Horst"
+description: "How to get in touch"
 ---
 
 # Contact
@@ -13,9 +13,16 @@ Email me at:
 
 Or connect via any of the usual services:
 
-- [LinkedIn](https://www.linkedin.com/in/danhorst/)
-- [GitHub](https://github.com/danhorst)
-- [Facebook](https://www.facebook.com/danhorst)
-- [Instagram](https://www.instagram.com/danhorst/)
-- [𝕏](https://x.com/danhorst)
-- [RubySocial](https://ruby.social/@danhorst)
+- [LinkedIn][1]
+- [GitHub][2]
+- [Facebook][3]
+- [Instagram][4]
+- [𝕏][5]
+- [RubySocial][6]
+
+[1]: https://www.linkedin.com/in/danhorst/
+[2]: https://github.com/danhorst
+[3]: https://www.facebook.com/danhorst
+[4]: https://www.instagram.com/danhorst/
+[5]: https://x.com/danhorst
+[6]: https://ruby.social/@danhorst

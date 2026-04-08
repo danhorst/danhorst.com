@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Colophon
-description: "How this site is built and what it runs on"
+description: "The software tools and hosting services I use for this stie."
 ---
 
 # Colophon
@@ -9,10 +9,10 @@ description: "How this site is built and what it runs on"
 This website is designed to be fast for you and cheap for me.
 To that end, I use a static site builder because it meets these goals and leaves me more time for writing and [other things I like to do](/lists/interests/).
 
-DNS
+Registrar
 : [Hover](https://www.hover.com)
 
-Hosting
+Hosting & DNS
 : [Netlify](https://www.netlify.com/)
 
 [git](https://git-scm.com/) Hosting
