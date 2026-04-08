@@ -1,3 +1,4 @@
+import "@hotwired/turbo"
 import baguetteBox from "baguettebox.js"
 import "baguettebox.js/dist/baguetteBox.min.css"
 import "$styles/index.css"
