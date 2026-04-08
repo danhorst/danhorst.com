@@ -13,7 +13,7 @@ title: Lists
       .select { |r| r.data.categories&.include?(category) }
       .sort_by { |r| r.data.title.to_s }
   %>
-  <h2 id="<%= category.downcase %>"><%= category %></h2>
+  <h2 id="<%= category %>"><%= category.capitalize %></h2>
   <ul>
     <% items.each do |item| %>
     <li><a href="<%= item.relative_url %>"><%= item.data.title %></a></li>

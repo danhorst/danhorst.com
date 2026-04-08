@@ -2,7 +2,7 @@
 title: "Common Linux Commands"
 date: 2018-09-10T16:20:15-04:00
 categories:
- - Reference
+ - reference
 published: false
 ---
 

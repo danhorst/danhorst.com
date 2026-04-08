@@ -3,7 +3,7 @@ title: "Level Up"
 description: "Professional development goals"
 date: 2020-06-17T11:32:00-04:00
 categories:
- - Goals
+ - goals
 ---
 
 ## Languages & Tooling

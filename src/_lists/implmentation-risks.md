@@ -2,7 +2,7 @@
 title: "Implementation Risks"
 date: 2022-05-12T12:13:08-04:00
 categories:
- - Reference
+ - reference
 ---
 
 > This list is derived from [_The Four Big Risks_][1].

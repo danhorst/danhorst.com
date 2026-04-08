@@ -2,7 +2,7 @@
 title: "Interests"
 date: 2018-09-03T16:46:04-04:00
 categories:
- - Likes
+ - likes
 ---
 
 > Overall themes: focus, enrichment, self-reliance & pleasure.

@@ -2,7 +2,7 @@
 title: "Assessing Organizations"
 date: 2022-07-29T13:57:45-04:00
 categories:
- - Reference
+ - reference
 ---
 
 > These are the questions I draw from evaluating a potential employer or consulting engagement.

@@ -2,7 +2,7 @@
 title: "Software Development"
 date: 2022-05-17T10:55:44-04:00
 categories:
- - Reference
+ - reference
 published: false
 ---
 
