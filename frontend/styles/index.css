@@ -179,12 +179,12 @@ hr {
 }
 
 /* Chapter Epigraphs */
-div.epigraph {
+.epigraph {
   margin: 5em 0;
 }
 
 main > h1 + blockquote,
-div.epigraph > blockquote {
+.epigraph > blockquote {
   margin-bottom: 3em;
   margin-top: 3em;
 }
@@ -197,16 +197,16 @@ section > blockquote {
 main > h1 + blockquote,
 section > blockquote,
 section > blockquote + dl dt,
-div.epigraph > blockquote,
-div.epigraph > blockquote > p {
+.epigraph > blockquote,
+.epigraph > blockquote > p {
   font-style: italic;
 }
 
-div.epigraph > blockquote > footer {
+.epigraph > blockquote > footer {
   font-style: normal;
 }
 
-div.epigraph > blockquote > footer > cite {
+.epigraph > blockquote > footer > cite {
   font-style: italic;
 }
 /* end chapter epigraphs styles */
