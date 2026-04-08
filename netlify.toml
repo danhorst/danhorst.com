@@ -12,6 +12,21 @@ command = "npm install && npm run esbuild && bundle exec bridgetown build"
   [headers.values]
     Content-Type = "text/markdown; charset=utf-8"
 
+[[headers]]
+  for = "/rum/*.txt"
+  [headers.values]
+    Content-Type = "text/markdown; charset=utf-8"
+
+[[headers]]
+  for = "/health/*.txt"
+  [headers.values]
+    Content-Type = "text/markdown; charset=utf-8"
+
+[[headers]]
+  for = "/*.txt"
+  [headers.values]
+    Content-Type = "text/markdown; charset=utf-8"
+
 [build.environment]
 RUBY_VERSION = "4.0.2"
 BUNDLE_VERSION = "4.0.9"

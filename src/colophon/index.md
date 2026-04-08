@@ -2,6 +2,7 @@
 layout: page
 title: Colophon
 description: "The software tools and hosting services I use for this stie."
+markdown_export: true
 ---
 
 # Colophon

@@ -16,7 +16,7 @@
     <meta name="author" content="<%= site.metadata.author %>" />
     <link rel="me" href="https://ruby.social/@danhorst" />
     <link rel="alternate" type="application/rss+xml" href="<%= site.config.url %>/feed" title="<%= site.metadata.title %>" />
-    <% if page.collection&.label == "writing" && page.output_ext == ".html" %>
+    <% if (["writing", "rum", "health"].include?(page.collection&.label) || page.data.markdown_export) && page.output_ext == ".html" %>
     <link rel="alternate" type="text/markdown" href="<%= page.relative_url.to_s.chomp("/") + ".txt" %>" />
     <% end %>
     <link rel="preload" as="font" type="font/woff2" href="/font/et-book-ot-roman.woff2" crossorigin />

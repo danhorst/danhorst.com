@@ -2,6 +2,7 @@
 layout: page
 title: About
 description: "Who am I exactly?"
+markdown_export: true
 ---
 
 # Hello, I'm Dan Brubaker Horst

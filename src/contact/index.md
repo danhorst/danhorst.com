@@ -2,6 +2,7 @@
 layout: page
 title: Contact
 description: "How to get in touch"
+markdown_export: true
 ---
 
 # Contact
