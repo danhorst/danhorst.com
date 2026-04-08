@@ -1,0 +1,70 @@
+---
+title: Mindset
+date: 2023-08-14
+description: "The growth mindset and how to use stress as a catalyst for action."
+---
+
+Your mindset determines how you interpret the events of your life.
+Having the right mindset can be the difference between anxiety and action or disaffection and drive.
+
+You get to choose your mindset.
+You can even choose different, complimentary mindsets at the same time to great effect.
+
+## The Growth Mindset
+
+> Persistent, focused effort is the only path forward.
+
+The research of [Dr. Carol Dweck][1] that identified the benefits of the "growth mindset" has been widely publicized, popularized, and—like many concepts in pop-psychology—stretched beyond recognition in the process.
+The core idea of the growth mindset is that if you believe _achievement comes from effort and perseverance_ you will continue to grow and improve over time–even when faced with setbacks, challenges, and failure.
+If you focus on performing actions in your control that keep you moving in the right direction you will continue to grow and change over time.
+
+Instead, if you believe that your performance, aptitude, or achievements are because you are a certain _kind of person_ or you _do not_ believe that making an effort can lead to change, your potential for personal and professional growth is limited.[^1]
+If labels like "smart", "gifted athlete", and "good person" are a core part of your identity—especially if you've held onto these ideas of yourself since childhood—your attachment to these labels can limit your performance.
+
+Once a label becomes a part of your identity, preserving that label becomes more important than challenging yourself.
+You cannot keep improving without challenges.[^2]
+It has also been demonstrated that people whose identity is threatened by an event or circumstance are willing to lie in order to preserve their self perception.
+
+## The "Stress is Enabling" Mindset
+
+> Stress prepares the body for action.
+> Stress prepares the mind to focus.
+
+The physiological manifestation of stress is rife with unpleasant sensations.
+Your muscles tense.
+Your gut clenches and churns.
+Your senses are on high alert.
+This is not how we feel when we are still, relaxed, and at ease.
+
+The "stress is enabling" mindset uses the sensations of stress as a call to action.
+Your mind is ready to focus.
+Your body is ready to perform.
+Step through the unpleasantness, find the decisive action in this moment, and channel your amplified abilities into taking the next step.
+
+This reframing of stress is complementary to the growth mindset.
+If success is achieved through directed effort and stress amplifies the amount of effort at our disposal then stress can be an ally.
+Capture, harness, and direct stress or acknowledge it and move on; don't let it roam freely in your mind.
+
+## Call to Action
+
+> Persistent, focused effort is the only path forward.
+> Forward towards success.
+> Forward towards mastery.
+> Forward to stillness.
+>
+> Stress prepares the body for action.
+> Stress prepares the mind to focus.
+> Embrace it.
+> Channel it.
+> Step through it.
+>
+> Stop. Be still.
+> What, in this moment, needs attention most?
+> What is important _now_?
+> Do it.
+
+[^1]: This idea has been called a "fixed mindset" but I don't think that's a particularly helpful concept. A better name is "identity mindsets"—or just the converse of a growth mindset.
+[^2]: It's like [progressive overload][2] for the mind.
+
+[1]: https://en.wikipedia.org/wiki/Carol_Dweck
+[2]: /health/training/#fundamentals

@@ -79,9 +79,9 @@ The Fruits of the Spirit (Galatians 5:22–23):
 [^2]: For me, this means cultivating mindfulness through meditation, acknowledging and addressing when I feel emotionally aroused, and trying to improve my emotional intelligence.
 [^3]: There are 5 [love languages][8]: words, time, gifts, acts, touch. The best way to show love to your partner is to do the things *they* value most. Make an extra effort if their love languages are different from your own.
 
-[1]: https://tenfoldpath.com/codex/nutrition/
-[2]: https://tenfoldpath.com/codex/sleep/
-[3]: https://tenfoldpath.com/codex/training/
+[1]: /health/nutrition/
+[2]: /health/sleep/
+[3]: /health/training/
 [4]: /lists/interests/
 [5]: /lists/bucket/
 [6]: https://www.greenmountainhypnosis.com/blogs/post/The-Oxygen-Mask-Theory-How-to-Take-Care-of-Everyone

@@ -47,6 +47,13 @@
           <li><a href="/rum/">Dan's Rum Guide</a></li>
         </ul>
       </nav>
+      <% elsif url.start_with?("/health") %>
+      <nav role="navigation">
+        <span><a href="/">Dan Brubaker Horst</a></span>
+        <ul>
+          <li><a href="/health/">Dan's Health Guide</a></li>
+        </ul>
+      </nav>
       <% else %>
       <nav role="navigation">
         <span><% if url == "/" %>Dan Brubaker Horst<% else %><a href="/">Dan Brubaker Horst</a><% end %></span>

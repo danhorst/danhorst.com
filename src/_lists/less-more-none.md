@@ -21,9 +21,9 @@ categories:
 - Time outside
 - Self-care
   - Meditation
-  - [Eating for success](https://tenfoldpath.com/codex/nutrition/)
-  - [Endurance training](https://tenfoldpath.com/codex/endurance-training/)
-  - [Strength training](https://tenfoldpath.com/codex/strength-training/)
+  - [Eating for success](/health/nutrition/)
+  - [Endurance training](/health/endurance-training/)
+  - [Strength training](/health/strength-training/)
 - Creating
   - Writing
   - Drawing
