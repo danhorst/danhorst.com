@@ -26,3 +26,7 @@ collections:
     output: true
     permalink: /rum/:slug/
     sort_field: "date"
+  health:
+    output: true
+    permalink: /health/:slug/
+    sort_field: "date"

@@ -1,0 +1,82 @@
+---
+title: Training
+date: 2023-03-19
+description: "The fundamentals of exercise and training directed towards a goal."
+---
+
+Exercise is deliberate movement that improves your health.
+Training is exercise directed towards a goal.
+
+Exercise if you are sedentary or need accommodation.
+Train for a better future if you are able.
+
+## Fundamentals
+
+There are no shortcuts.
+
+Anyone who claims to have a perfect plan, a one-size-fits-all solution, or a quick fix for body composition and/or athletic performance is trying to sell you something.
+The best thing you can do is arm yourself with knowledge.
+Here are the basics:
+
+- Training pushes your body. In response, your physiology adapts.
+  - Training stimulus is the stress you put on your body during exercise.
+	  - You must increase the amount of training stress over time to continue improving.
+	  - Ratcheting up difficulty in training is called Progressive Overload.
+  - Adaptations are the changes in your body that result from applying training stimuli over time.
+  - Training adaptations showcase the wonders of the human body. Understanding specific training adaptations requires familiarity with kinesiology, cell biology, epigenetics, and biochemistry.
+- Training outcomes are strength, endurance, stability, and speed. Good training outcomes improve your quality of life, lifespan, and health span. You can think of training outcomes as overarching goals.
+- Training status is a qualitative assessment of your experience. You can be a beginner, intermediate, advanced, or elite.
+	- Training status independently varies by training outcome.
+  - You don't need to be of advanced or elite training status for good health outcomes.
+  - Progressing beyond intermediate training status requires the discipline and commitment of an athlete. It isn't for everyone.
+- All training follows a plan or a program. The act of creating a training plan is called programming.
+  - Programming balances enough training stimulus to drive adaptations and enough [recovery time][1] to avoid injury.
+  - Volume is the amount of training stimulus in a program or a specific exercise.
+  - Adherence is how consistently you follow a training plan over time. A training plan must be easy for you to adhere to be successful.
+    - It must be interesting enough to keep you engaged.
+    - It must be effective enough to let you see results.
+    - It must modulate training stimulus enough for you to avoid injury.
+  - Getting your programming "dialed in" is increasingly difficult as your training status improves. You may plateau without expert help.
+
+## Set Achievable Goals
+
+The amount of time and attention you commit to training will limit your performance more than any other factor.
+Improving your training status in each outcome requires a logarithmic amount of effort.
+You must decide how much time you can devote to training and invest it strategically.
+
+As a beginner, you won't know what is realistic to achieve in a given period of time.
+Don't worry about this.
+Your primary goals should be:
+
+- Staying consistent (stop making motivation a factor)
+- Avoiding injury (listen to your body, rest and recover instead of pushing through fatigue)
+
+## Personalize Your Training
+
+Human physiology is complicated and varies widely from person to person.
+What works well _for you_ may not be what works well for:
+
+- The average of the subjects in a scientific study
+- Your friend who slams mass gainer shakes all the time
+- Any given fitness influencer
+- The biggest person at the gym
+- Anyone anywhere saying something in a comments section
+
+_You_ are responsible for figuring out what works for _you_.
+A simple template is:
+
+1. Follow a training program for long enough to see results, 8–12 weeks should be enough
+2. Track your progress and how you're feeling
+3. Make adjustments based on educated guesses
+4. Repeat
+
+## Training by Outcome
+
+Each dimension of fitness has different training modalities.
+
+- [Strength][2]
+- [Endurance][3]
+
+[1]: /health/recovery/
+[2]: /health/strength-training/
+[3]: /health/endurance-training/
