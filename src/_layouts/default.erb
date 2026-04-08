@@ -2,8 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8" />
-    <meta http-equiv="x-ua-compatible" content="ie=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="theme-color" content="#fffff8" media="(prefers-color-scheme: light)" />
     <meta name="theme-color" content="#000000" media="(prefers-color-scheme: dark)" />
     <meta name="color-scheme" content="light dark" />
@@ -33,16 +32,13 @@
     <link rel="preload" as="font" type="font/woff2" href="/font/et-book-ot-italic.woff2" crossorigin />
     <link rel="stylesheet" href="<%= asset_path :css %>" />
 
-
     <% if page.relative_url.to_s.start_with?("/rum") %>
     <link rel="icon" type="image/png" sizes="32x32" href="/img/rum-guide-32x32.png" />
     <link rel="icon" type="image/png" sizes="16x16" href="/img/rum-guide-16x16.png" />
-    <link rel="shortcut icon" type="image/x-icon" href="/img/rum-guide.ico" />
     <link rel="icon" type="image/x-icon" href="/img/rum-guide.ico" />
     <% else %>
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
-    <link rel="shortcut icon" href="/favicon.ico" />
     <% end %>
 
     <script src="<%= asset_path :js %>" defer></script>
