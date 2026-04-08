@@ -7,16 +7,8 @@ categories:
  - goals
 ---
 
-<div class="epigraph">
-<blockquote>
-  <p>
-  The only thing in this world more difficult than caring about other people is finding other people who genuinely care about you.
-  </p>
-  <footer>
-    <cite>&mdash;<a href="https://lareviewofbooks.org/article/american-loneliness/">Emma Healey</a></cite>
-  </footer>
-</blockquote>
-</div>
+> The only thing in this world more difficult than caring about other people is finding other people who genuinely care about you.  
+> <cite>&mdash;<a href="https://lareviewofbooks.org/article/american-loneliness/">Emma Healey</a></cite>
 
 ## Cover the Basics
 
