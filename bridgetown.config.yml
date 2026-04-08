@@ -1,4 +1,7 @@
 url: "https://www.danhorst.com"
+
+kramdown:
+  parse_block_html: true
 title: "Dan Brubaker Horst"
 timezone: America/Indiana/Indianapolis
 
