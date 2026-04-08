@@ -3,11 +3,6 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="theme-color" content="#fffff8" media="(prefers-color-scheme: light)" />
-    <meta name="theme-color" content="#000000" media="(prefers-color-scheme: dark)" />
-    <meta name="color-scheme" content="light dark" />
-    <meta name="darkreader-lock" />
-
     <% if slotted?(:page_title) %>
     <title><%= slotted(:page_title) %></title>
     <% elsif page.data.title %>
@@ -15,23 +10,22 @@
     <% else %>
     <title><%= site.metadata.title %></title>
     <% end %>
-
     <% if page.data.description %>
     <meta name="description" content="<%= page.data.description %>" />
     <% end %>
     <meta name="author" content="<%= site.metadata.author %>" />
-
-    <%= slotted :head_extra %>
-
+    <link rel="me" href="https://ruby.social/@danhorst" />
     <link rel="alternate" type="application/rss+xml" href="<%= site.config.url %>/feed" title="<%= site.metadata.title %>" />
     <% if page.collection&.label == "writing" && page.output_ext == ".html" %>
     <link rel="alternate" type="text/markdown" href="<%= page.relative_url.to_s.chomp("/") + ".txt" %>" />
     <% end %>
-    <link rel="me" href="https://ruby.social/@danhorst" />
     <link rel="preload" as="font" type="font/woff2" href="/font/et-book-ot-roman.woff2" crossorigin />
     <link rel="preload" as="font" type="font/woff2" href="/font/et-book-ot-italic.woff2" crossorigin />
     <link rel="stylesheet" href="<%= asset_path :css %>" />
-
+    <meta name="color-scheme" content="light dark" />
+    <meta name="theme-color" content="#000000" media="(prefers-color-scheme: dark)" />
+    <meta name="theme-color" content="#fffff8" media="(prefers-color-scheme: light)" />
+    <meta name="darkreader-lock" />
     <% if page.relative_url.to_s.start_with?("/rum") %>
     <link rel="icon" type="image/png" sizes="32x32" href="/img/rum-guide-32x32.png" />
     <link rel="icon" type="image/png" sizes="16x16" href="/img/rum-guide-16x16.png" />
@@ -40,7 +34,7 @@
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
     <% end %>
-
+    <%= slotted :head_extra %>
     <script src="<%= asset_path :js %>" defer></script>
   </head>
   <body>
@@ -57,7 +51,6 @@
       <nav role="navigation">
         <span><% if url == "/" %>Dan Brubaker Horst<% else %><a href="/">Dan Brubaker Horst</a><% end %></span>
         <ul>
-          <% if url.start_with?("/food") %><li>Food</li><% end %>
           <% [["Writing", "/writing/"], ["Lists", "/lists/"], ["About", "/about/"]].each do |label, path| %>
           <li><% if url == path %><%= label %><% else %><a href="<%= path %>"><%= label %></a><% end %></li>
           <% end %>
