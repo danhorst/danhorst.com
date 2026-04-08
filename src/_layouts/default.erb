@@ -58,9 +58,9 @@
         <span><% if url == "/" %>Dan Brubaker Horst<% else %><a href="/">Dan Brubaker Horst</a><% end %></span>
         <ul>
           <% if url.start_with?("/food") %><li>Food</li><% end %>
-          <li><% if url.start_with?("/writing") %>Writing<% else %><a href="/writing/">Writing</a><% end %></li>
-          <li><% if url.start_with?("/lists") %>Lists<% else %><a href="/lists/">Lists</a><% end %></li>
-          <li><% if url.start_with?("/about") %>About<% else %><a href="/about/">About</a><% end %></li>
+          <% [["Writing", "/writing/"], ["Lists", "/lists/"], ["About", "/about/"]].each do |label, path| %>
+          <li><% if url == path %><%= label %><% else %><a href="<%= path %>"><%= label %></a><% end %></li>
+          <% end %>
         </ul>
       </nav>
       <% end %>
