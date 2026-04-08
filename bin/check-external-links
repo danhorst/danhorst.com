@@ -1,0 +1,64 @@
+#!/usr/bin/env ruby
+# frozen_string_literal: true
+
+require "nokogiri"
+require "open3"
+
+OUTPUT_DIR = File.expand_path("../output", __dir__)
+
+IGNORE = [
+  /\Amailto:/,
+  /localhost/,
+]
+
+unless Dir.exist?(OUTPUT_DIR)
+  warn "No output/ directory found. Run `bin/bridgetown build` first."
+  exit 1
+end
+
+# Collect all unique external URLs from every HTML file in the output.
+urls = Dir.glob("#{OUTPUT_DIR}/**/*.html").each_with_object(Set.new) do |path, set|
+  doc = Nokogiri::HTML5(File.read(path))
+  doc.css("a[href]").each do |a|
+    href = a["href"].to_s.strip
+    next unless href.start_with?("http://", "https://")
+    next if IGNORE.any? { |pat| pat.match?(href) }
+    set << href
+  end
+end
+
+puts "Found #{urls.size} unique external URLs — checking with curl…\n\n"
+
+failures = []
+
+urls.sort.each do |url|
+  # -s silent, -S show errors, -L follow redirects, -o discard body,
+  # -w print status code, --max-time cap total time, -A browser UA
+  out, status = Open3.capture2(
+    "curl", "-sSL", "-o", "/dev/null",
+    "-w", "%{http_code}",
+    "--max-time", "15",
+    "-A", "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    url
+  )
+
+  code = out.strip.to_i
+  ok   = status.success? && code > 0 && code < 400
+
+  if ok
+    puts "  OK  #{code}  #{url}"
+  else
+    label = status.success? ? code.to_s : "ERR"
+    puts "  !!  #{label}  #{url}"
+    failures << [label, url]
+  end
+end
+
+puts
+if failures.empty?
+  puts "All external links OK."
+else
+  puts "#{failures.size} failure(s):"
+  failures.each { |code, url| puts "  #{code}  #{url}" }
+  exit 1
+end

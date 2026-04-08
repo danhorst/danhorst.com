@@ -10,27 +10,14 @@ unless Dir.exist?(output_dir)
   exit 1
 end
 
-external = ARGV.include?("--external")
-
 options = {
-  ignore_urls: [
-    /localhost/,       # dev-build artifacts (e.g. RSS feed href)
-    /linkedin\.com/,   # blocks crawlers with 999
-    /facebook\.com/,   # blocks crawlers
-    /instagram\.com/,  # blocks crawlers
-  ],
-  ignore_status_codes: [0, 999],
-  enforce_https: false,  # local builds use http://localhost
-  typhoeus: {
-    timeout: 10,
-    connecttimeout: 5,
-    headers: { "User-Agent" => "Mozilla/5.0 (compatible; link-checker)" },
-  },
-  disable_external: !external,
+  ignore_urls: [/localhost/],  # dev-build artifacts (e.g. RSS feed href)
+  enforce_https: false,        # local builds use http://localhost
+  disable_external: true,
   checks: %w[Links Images],
 }
 
-puts external ? "Checking all links (internal + external)…" : "Checking internal links…"
-puts "(Run with --external to also check external URLs)\n\n" unless external
+puts "Checking internal links…"
+puts "(For external links run bin/check-external-links)\n\n"
 
 HTMLProofer.check_directory(output_dir, options).run
