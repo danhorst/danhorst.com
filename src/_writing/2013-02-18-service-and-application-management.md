@@ -51,7 +51,7 @@ The following types of applications will be deployed in this manner:
 
 As [web applications][1] are being developed they will pass through 5 different environments:
 
- - [Development][]
+ - Development
  - [Continuous Integration][5] (CI)
  - [Staging][]
  - [Pre-Production][]
@@ -63,14 +63,13 @@ As [web applications][1] are being developed they will pass through 5 different 
  - A new high-availability cluster needs to be built with RHEL 6.
  - The CI environment must be configured to test software packaged as a VM.
 
-[1]: /writing/glossary#web-application               (definition)
-[2]: /writing/glossary#web-service                   (definition)
+[1]: /writing/glossary#web-application
+[2]: /writing/glossary#web-service
 [3]: http://www.redhat.com/products/enterprise-linux-add-ons/high-availability/
-[4]: /writing/glossary#internal-service              (definition)
-[5]: /writing/glossary#continuous-integration        (definition)
+[4]: /writing/glossary#internal-service
+[5]: /writing/glossary#continuous-integration
 [6]: https://puppetlabs.com/
 
-[development]:    /writing/glossary#development      (definition)
-[pre-production]: /writing/glossary#pre-production   (definition)
-[production]:     /writing/glossary#production       (definition)
-[staging]:        /writing/glossary#staging          (definition)
+[pre-production]: /writing/glossary#pre-production
+[production]:     /writing/glossary#production
+[staging]:        /writing/glossary#staging
