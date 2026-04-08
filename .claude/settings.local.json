@@ -32,7 +32,8 @@
       "WebFetch(domain:github.com)",
       "WebFetch(domain:raw.githubusercontent.com)",
       "WebFetch(domain:www.bridgetownrb.com)",
-      "WebSearch"
+      "WebSearch",
+      "Bash(python3:*)"
     ]
   }
 }

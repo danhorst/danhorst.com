@@ -18,9 +18,9 @@ categories:
   - DIY
   - Programming
   - Web development
-- Wellness
-  - Strength training
-  - Nutrition
+- [Wellness][2]
+  - [Strength training][3]
+  - [Nutrition][4]
   - Meditation
 - Being outdoors
   - Cycling
@@ -45,31 +45,34 @@ categories:
   - Festivals
 - Drink
   - Cocktails
-  - [Rum][2]
+  - [Rum][5]
   - Wine
 - Design
-  - [Typography][3]
-  - [Polynesian pop][4] (tiki)
+  - [Typography][6]
+  - [Polynesian pop][7] (tiki)
   - Product design
   - Art[^1]
   - Architecture
-- [Movies][5]
-- [Music][6]
+- [Movies][8]
+- [Music][9]
 - Gear[^2]
   - Mechanical Keyboards
   - Flashlights
   - Tools
   - Office supplies (pens, pencils, notebooks&mdash;things that add pleasure to the act of writing)
 
-[^1]: Art is not a subset of design. (The [elements of art][7] do not overlap with the [principles of design][8].) I am drawn to art and art pieces through the *lens* of design.
-[^2]: I fall into the [&ldquo;get the gear&rdquo;][9] trap pretty easily. I make an extra effort to value the *experience* over the equipment for hobbies like photography and SCUBA.
+[^1]: Art is not a subset of design. (The [elements of art][10] do not overlap with the [principles of design][11].) I am drawn to art and art pieces through the *lens* of design.
+[^2]: I fall into the [&ldquo;get the gear&rdquo;][12] trap pretty easily. I make an extra effort to value the *experience* over the equipment for hobbies like photography and SCUBA.
 
 [1]: https://rocketlabdelta.com
-[2]: /rum/
-[3]: https://practicaltypography.com/typography-in-ten-minutes.html
-[4]: https://www.pinterest.com/danhorst/polynesian-pop/
-[5]: /lists/movies/
-[6]: /lists/music/
-[7]: https://en.wikipedia.org/wiki/Elements_of_art
-[8]: https://en.wikipedia.org/wiki/Visual_design_elements_and_principles#Principles_of_design
-[9]: https://youtu.be/R3SFqV0hMyo
+[2]: /health/
+[3]: /health/strength/
+[4]: /health/nutirition/
+[5]: /rum/
+[6]: https://practicaltypography.com/typography-in-ten-minutes.html
+[7]: https://www.pinterest.com/danhorst/polynesian-pop/
+[8]: /lists/movies/
+[9]: /lists/music/
+[10]: https://en.wikipedia.org/wiki/Elements_of_art
+[11]: https://en.wikipedia.org/wiki/Visual_design_elements_and_principles#Principles_of_design
+[12]: https://youtu.be/R3SFqV0hMyo
