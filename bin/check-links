@@ -21,7 +21,11 @@ options = {
   ],
   ignore_status_codes: [0, 999],
   enforce_https: false,  # local builds use http://localhost
-  typhoeus: { timeout: 10, connecttimeout: 5 },
+  typhoeus: {
+    timeout: 10,
+    connecttimeout: 5,
+    headers: { "User-Agent" => "Mozilla/5.0 (compatible; link-checker)" },
+  },
   disable_external: !external,
   checks: %w[Links Images],
 }
