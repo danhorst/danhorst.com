@@ -2,7 +2,7 @@
 title: "Punctuation"
 date: 2019-05-22T06:46:04-04:00
 categories:
- - Reference
+ - reference
 ---
 
 > Using the right punctuation is important.

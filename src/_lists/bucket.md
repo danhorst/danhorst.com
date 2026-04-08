@@ -3,7 +3,7 @@ title: "Bucket List"
 description: "Places I want to go and things I want to do"
 date: 2018-07-18T19:07:22-04:00
 categories:
- - Goals
+ - goals
 ---
 
 ## Personal Development

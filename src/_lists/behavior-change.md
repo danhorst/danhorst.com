@@ -2,7 +2,7 @@
 title: "Behavior Change Procedures"
 date: 2021-05-11T15:34:04-04:00
 categories:
- - Reference
+ - reference
 ---
 
 > Derived from "[Hierarchy of Procedures for Humane and Effective Practice][1]" by Susan G. Friedman et. al. which is meant to guide professionals in their decision-making process during training and behavior modification.

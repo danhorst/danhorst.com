@@ -2,7 +2,7 @@
 title: "Music"
 date: 2018-09-04T08:59:09-04:00
 categories:
- - Likes
+ - likes
 ---
 
 > Music is important to me. My listening preferences vary based on what I'm doing. I prefer instrumental music when I need to concentrate.

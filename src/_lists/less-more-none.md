@@ -3,7 +3,7 @@ title: "Less, More, None"
 description: "Things I want to start doing more, start doing less, and stop doing entirely."
 date: 2020-10-10T21:01:25-04:00
 categories:
- - Goals
+ - goals
 ---
 
 ## Less

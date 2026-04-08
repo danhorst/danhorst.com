@@ -2,7 +2,7 @@
 title: "Office Workout"
 date: 2018-09-04T16:53:15-04:00
 categories:
- - Goals
+ - goals
 tags:
  - interactive
 published: false

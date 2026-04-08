@@ -3,7 +3,7 @@ title: "Foundation"
 description: "Build your house upon the rock"
 date: 2019-04-03T16:59:53-04:00
 categories:
- - Goals
+ - goals
 ---
 
 > Creativity takes discipline.  
