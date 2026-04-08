@@ -66,8 +66,8 @@ categories:
 
 [1]: https://rocketlabdelta.com
 [2]: /health/
-[3]: /health/strength/
-[4]: /health/nutirition/
+[3]: /health/strength-training/
+[4]: /health/nutrition/
 [5]: /rum/
 [6]: https://practicaltypography.com/typography-in-ten-minutes.html
 [7]: https://www.pinterest.com/danhorst/polynesian-pop/

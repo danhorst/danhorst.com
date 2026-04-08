@@ -1,0 +1,32 @@
+#!/usr/bin/env ruby
+# frozen_string_literal: true
+
+require "html-proofer"
+
+output_dir = File.expand_path("../output", __dir__)
+
+unless Dir.exist?(output_dir)
+  warn "No output/ directory found. Run `bin/bridgetown build` first."
+  exit 1
+end
+
+external = ARGV.include?("--external")
+
+options = {
+  ignore_urls: [
+    /localhost/,       # dev-build artifacts (e.g. RSS feed href)
+    /linkedin\.com/,   # blocks crawlers with 999
+    /facebook\.com/,   # blocks crawlers
+    /instagram\.com/,  # blocks crawlers
+  ],
+  ignore_status_codes: [0, 999],
+  enforce_https: false,  # local builds use http://localhost
+  typhoeus: { timeout: 10, connecttimeout: 5 },
+  disable_external: !external,
+  checks: %w[Links Images],
+}
+
+puts external ? "Checking all links (internal + external)…" : "Checking internal links…"
+puts "(Run with --external to also check external URLs)\n\n" unless external
+
+HTMLProofer.check_directory(output_dir, options).run
