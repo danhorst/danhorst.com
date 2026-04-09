@@ -139,7 +139,7 @@ _Preparation_
 5. Stir
 6. OPTIONAL: Garnish with lime wedge
 
-[1]: https://web.archive.org/web/20150525125938/https://www.kegworks.com/petite-canne-sugar-cane-syrup
+[1]: https://woodencork.com/products/petite-canne-sugar-cane-syrup
 [2]: https://beachbarbums.com/2016/09/20/the-best-ti-punch-riff-youll-ever-have/
-[3]: https://web.archive.org/web/20190818011712/https://www.plantationrum.com/plantation-stiggins-fancy-pineapple
-[4]: https://web.archive.org/web/20150729035334/https://www.goslingsrum.com/cocktails/dark-n-stormy-cocktail/
+[3]: https://planterayrum.com/product/stiggins-fancy-pineapple/
+[4]: https://goslings.com/recipes/dark-n-stormy/
