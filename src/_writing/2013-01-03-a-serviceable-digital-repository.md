@@ -162,7 +162,7 @@ The collection of gems that makes up a "Hydra head"  which as also been colloqui
 
 Right now when we say "repository" we mean Fedora Commons.
 When we say "repository" we _should_ mean a common API for storing and retrieving digital objects.
-If we wrap Fedora and the canonical Solr index with an application that provides a Hypermedia API to the underlying content we can keep a lot of the complexity centralized.
+If we wrap Fedora and the canonical Solr index with an application that provides a [Hypermedia API][4] to the underlying content we can keep a lot of the complexity centralized.
 This will effectively move the point of integration between our applications from the Fedora API to the new API that we have written to meet our needs.
 This should lower the barrier of implementation for client applications after an upfront investment in time.
 
@@ -342,5 +342,6 @@ A Ruby client and a JavaScript client would be a good start.
 [1]: http://oembed.com/
 [2]: http://onesearch.library.nd.edu/primo_library/libweb/action/search.do?vid=NDU
 [3]: https://scholarsphere.psu.edu/
+[4]: https://web.archive.org/web/20120301203140/http://blog.steveklabnik.com/posts/2012-02-27-hypermedia-api-reading-list
 [5]: http://libra.virginia.edu/
 [6]: http://en.wikipedia.org/wiki/HATEOAS
