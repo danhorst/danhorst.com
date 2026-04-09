@@ -519,6 +519,7 @@ figure > svg {
 
 .placeholder {
   background: no-repeat center url('/svg/photo.svg');
+  display: block;
 }
 
 .placeholder + img {
