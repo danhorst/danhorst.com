@@ -1,9 +1,0 @@
-<figure class="picture" markdown="0">
-<% if locals[:caption] %><figcaption class="picture__caption marginnote"><%= caption %></figcaption>
-<% end %><div<%= %( id="#{id}") if locals[:id] %> class="lightbox">
-<a class="picture__anchor<%= %( #{aspect}) if locals[:aspect] %>" href="<%= href %>" data-turbo="false">
-<div class="placeholder"></div>
-<img loading="lazy" class="picture__content" src="<%= src || href %>" alt="<%= alt %>"/>
-</a>
-</div>
-</figure>

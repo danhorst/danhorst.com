@@ -75,12 +75,12 @@ Favor longer-digesting, lower [glycemic index][2] sources of carbohydrates like 
 Eating carbohydrates _in combination_ with fat, protein, and fiber helps regulate their digestion and absorption.
 
 The common dietary sugars are glucose and fructose.
-Table sugar is about a 50/50 mix of glucose and fructose while high-fructose corn syrup is 60% fructose and 40% glucose.
-Glucose and fructose are metabolized in different ways.
+Table sugar is pure sucrose, a disaccharide, which breaks down into a 50/50 mix of glucose and fructose, both monosaccharides, during digestion. In contrast, high-fructose corn syrup is either [42% or 55% fructose](https://www.fda.gov/food/food-additives-petitions/high-fructose-corn-syrup-questions-and-answers).
+Glucose and fructose are metabolized through different pathways in your GI tract.[^4]
 
 - If you're trying to maximize carbohydrate intake—like during an endurance race that lasts longer than 45 minutes—consume a balance of glucose and fructose.
-	- Fructose metabolism is different between men and women; women should _avoid_ fructose as an endurance fuel.
-- Fructose is preferentially turned into adipose tissue.[^4]
+	- Fructose metabolism is different between men and women. [Dr. Stacy Sims recommends](https://www.drstacysims.com/roar) that women _avoid_ fructose as an endurance fuel because a consuming a large bolas of fructose can induce GI distress. She favors maple syrup [which is principally sucrose](https://mapleresearch.org/wp-content/uploads/1206sugarprofilessyrupgrades.pdf)—and thus requires digestion to split it into glucose and fructose, slowing the release of fructose into your gut.
+- Fructose is preferentially turned into adipose tissue.[^5]
 
 The liver uses carbohydrates to create and store glycogen which your body uses to maintain glucose homeostasis during long bouts of exercise.
 Endurance athletes "bonk" when they run out of glycogen and the nutrients they're absorbing from the food they're eating during the activity can't keep up with their energy (and/or electrolyte) needs.
@@ -92,15 +92,15 @@ Since [growing your muscles][4] is critical for your long-term health, you _must
 To do this, you must consider:
 
 - The total amount of protein you eat.
-    - Your body needs about 300g of protein per day to support necessary metabolic processes.
-        - Your body can get up to 50% of the protein it needs through recycling what it already has.
-        - As you age, the rate you can recycle protein goes down so you need a corresponding increase in dietary protein to prevent being in a protein deficit; the decline isn't linear, there is a sharp drop off after age 40.
+    - Your body turns over about 300g of protein per day through normal metabolic processes.
+        - Your body can get up to 50% of the protein it needs by recycling amino acids from the protein that has broken down.
+        - As you age, the rate you can successfully recycle protein goes down. Because of this, you need a corresponding _increase_ in dietary protein to avoid being in a protein deficit. This decline isn't linear; there is a sharp drop off after age 40.
     - A daily target of 1.2–1.8 g/kg/day of dietary protein maximizes muscle protein synthesis.
         - The [RDA for protein][12] is .8 g/kg/day. This is too low to support [training][0] and [muscle growth][4].
         - 1.4–1.8 g/kg/day is ideal. Above 1.4 g/kg/day the quality of the protein you eat matters less.
         - Some fitness influencers advocate for 1g/lb/day of high-quality protein (2.2 g/kg/day). This is way more than you need.
     - A serving of protein that you're digesting is called a bolus.
-        - The _minimum_ effective size of a bolus is around 25g; smaller servings don't activate mTOR.[^5]
+        - The _minimum_ effective size of a bolus is around 25g; smaller servings don't activate mTOR.[^6]
         - The _maximum_ effective size of a bolus is around 60g; any more is discarded as waste.
         - You should split your protein consumption into 3–4 different feedings for best absorption.
 - The "[quality][5]" of the protein you eat.
@@ -109,7 +109,7 @@ To do this, you must consider:
         - FUN FACT: Leucine is ketogenic; it is metabolized as a fatty acid because of its structure.
     - The quality of the protein you eat matters less the more protein you eat.
 
-The main takeaway here is that you need to eat a _lot_ of protein to support growing and maintaining muscle—almost assuredly more than you would eat without being deliberate about it.[^6]
+The main takeaway here is that you need to eat a _lot_ of protein to support growing and maintaining muscle—almost assuredly more than you would eat without being deliberate about it.[^7]
 
 ### Fat
 
@@ -119,11 +119,11 @@ Dietary fat intake can also impact many areas of brain function; it is necessary
 
 Most people eat too much total fat while simultaneously not eating _enough_ of _specific kinds_ of fat.
 
-- Polyunsaturated fats, including omega-3 and omega-6 fatty acids, have clear long-term health benefits when consumed regularly in sufficient quantity. Good sources of polyunsaturated fat include sunflower seeds, flax seeds (and oil), algae oil, and wild-caught[^7] fatty fish like salmon, herring, mackerel, etc. Most people don't get enough in their diet without supplementation or deliberate planning.
+- Polyunsaturated fats, including omega-3 and omega-6 fatty acids, have clear long-term health benefits when consumed regularly in sufficient quantity. Good sources of polyunsaturated fat include sunflower seeds, flax seeds (and oil), algae oil, and wild-caught[^8] fatty fish like salmon, herring, mackerel, etc. Most people don't get enough in their diet without supplementation or deliberate planning.
 - Saturated fat should be eaten in moderation as it contributes to the risk of atherosclerotic cardiovascular disease (ASCVD).
 - Artificially created trans-unsaturated fatty acids (trans fats) are _very bad_ for ASCVD. Avoid partially hydrogenated oil and other sources of trans fat in your diet.
 - Dietary cholesterol is almost exclusively _esterified_ cholesterol. Esterified cholesterol molecules are too large to be absorbed in your digestive system; they are just excreted. _Dietary cholesterol has NO IMPACT on blood cholesterol._
-- Medium-chain fatty acids, like MCT oil, can be easily metabolized into ketones which your brain can use as fuel. They can give you a bit of a mental boost in your morning coffee.[^8]
+- Medium-chain fatty acids, like MCT oil, can be easily metabolized into ketones which your brain can use as fuel. They can give you a bit of a mental boost in your morning coffee.[^9]
 
 Your body preferentially uses carbohydrates as fuel.
 Fats are left in reserve unless you sustain a negative energy balance over time or eat so few carbohydrates you enter and maintain [ketosis][6].
@@ -184,7 +184,7 @@ Specifically, spikes in blood glucose—and the corresponding spikes in insulin 
 
 - The total amount of carbohydrates in your diet.
     - One rule of thumb is to keep carbohydrates to less than 30g/meal to dampen insulin response.
-- The [glycemic index][5] of the carbohydrates you consume. The higher the glycemic index the faster sugar enters your bloodstream.
+- The [glycemic index][2] of the carbohydrates you consume. The higher the glycemic index the faster sugar enters your bloodstream.
     - Carbohydrates in unprocessed foods, like vegetables, are stored in and around dietary fiber which slows their digestion.
     - Processed, and especially hyper-processed, foods digest _faster_ which causes spikes in blood sugar.
 - Energy balance also plays a role in metabolic health.
@@ -196,7 +196,7 @@ Tempering the amount and the speed at which sugar enters your bloodstream helps 
 Keep your pancreas and your liver happy; they'll thank you for it later in life.
 
 Your blood sugar levels are a good proxy for understanding your metabolic health.
-The _most accurate_ way to track your blood glucose is with a continuous glucose monitor (CGM) like the ones made by [Dexcom][8].[^9]
+The _most accurate_ way to track your blood glucose is with a continuous glucose monitor (CGM) like the ones made by [Dexcom][8].[^10]
 Because they can be used to _administer_ insulin as medical devices, CGMs aren't readily available to consumers unless you have a prescription from your doctor.
 
 ## Palatability & Pleasure
@@ -210,21 +210,22 @@ The trick is finding the right balance between:
 - Having times when you can enjoy yourself
 
 The most important thing is to find the food you _like_ to eat that meets your nutritional needs.
-Changing your diet can change your palate[^10]; what you like in the future may not be the same things you crave now.
-And, even when you're eating the kind of food you need consistently, it's still a good idea to have the occasional meal or, or day, where you eat whatever makes you happy.[^11]
+Changing your diet can change your palate[^11]; what you like in the future may not be the same things you crave now.
+And, even when you're eating the kind of food you need consistently, it's still a good idea to have the occasional meal or, or day, where you eat whatever makes you happy.[^12]
 
 [^0]: People who do hours a day of [endurance training][6] _can_ eat a lot and get away with it. Even so, it is _always_ possible to outpace your calories burned by over-eating.
 [^1]: The "[constrained energy model](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4803033/#:~:text=In%20Constrained%20total%20energy%20expenditure,expenditure%20within%20a%20narrow%20range.)" explains this phenomenon. It posits that your body can compensate for changes in energy needs by raising and lowering several metabolic and hormonal processes. This change is helpful if you're living with food scarcity but works against you if you're living with an abundance of food and trying to "burn off" the rest with exercise.
 [^2]: This method is exactly how [MacroFactor][9] works. I have had a great experience using that app to lose and maintain weight.
 [^3]: There are _technically_ three types of carbohydrates classified by their degree of polymerization. From smallest to largest molecule size they are sugars, oligosaccharides (like maltodextrin), and polysaccharides (starch is not the only polysaccharide). Most people don't need to know about this.
 [^4]: We believe the mutation introduced the metabolic pathway that preferentially turns fructose into fat happened when early humans were desperate to survive the last ice age. It kept us alive when food was scarce. It's killing us now in times of plenty.
-[^5]: [mTOR][10] (Mammalian target of [rapamycin][11]) is the primary signaling mechanism for muscle protein synthesis.
-[^6]: The daily [Recommended Dietary Allowance (RDA) for protein][12], while enough to keep you alive, is only a half to a third as much protein as it takes to maximize muscle protein synthesis.
-[^7]: Salmon from fish farms _does not_ have the health benefits of wild-caught salmon. Farmed fish don't eat the same diet as wild fish. They have _much_ lower concentrations of omega-3 and omega-6 fatty acids. However, depending on the farming facility, they _may_ have lower mercury levels than wild-caught fish.
-[^8]: An early advocate of MCT-oil-to-start-the-day was [bulletproof coffee][13]. Dave Asprey, who founded Bulletproof, has been peddling fringe (_\*cough\*_ "innovative") health ideas since before 2011 so take it with a grain of salt. In my experience, as little as a half tablespoon of MCT oil in a cup of black decaf coffee first thing in the morning has a perceptible benefit without any GI consequences.
-[^9]: There is a clear benefit for CGM devices in people with diabetes and those who are at risk of developing diabetes. The benefit for metabolically healthy people is less clear. They are still a window into what is _happening_ in your body.
-[^10]: I followed a ketogenic diet for over a year. In that time, my sugar cravings essentially disappeared. My mood also improved.
-[^11]: _If you have diabetes don't be careless; you could die._ As long as you are metabolically healthy, you can take some form of "diet break" for a week or two, like on a vacation or the holiday season, and the consequences won't be too dire—especially if you maintain reasonable portion sizes.
+[^5]: There are different intestinal transporters to handle these monosaccharides: SGLT1 for glucose, GLUT5 for fructose.
+[^6]: [mTOR][10] (Mammalian target of [rapamycin][11]) is the primary signaling mechanism for muscle protein synthesis.
+[^7]: The daily [Recommended Dietary Allowance (RDA) for protein][12], while enough to keep you alive, is only a half to a third as much protein as it takes to maximize muscle protein synthesis.
+[^8]: Salmon from fish farms _does not_ have the health benefits of wild-caught salmon. Farmed fish don't eat the same diet as wild fish. They have _much_ lower concentrations of omega-3 and omega-6 fatty acids. However, depending on the farming facility, they _may_ have lower mercury levels than wild-caught fish.
+[^9]: An early advocate of MCT-oil-to-start-the-day was [bulletproof coffee][13]. Dave Asprey, who founded Bulletproof, has been peddling fringe (_\*cough\*_ "innovative") health ideas since before 2011 so take it with a grain of salt. In my experience, as little as a half tablespoon of MCT oil in a cup of black decaf coffee first thing in the morning has a perceptible benefit without any GI consequences.
+[^10]: There is a clear benefit for CGM devices in people with diabetes and those who are at risk of developing diabetes. The benefit for metabolically healthy people is less clear. They are still a window into what is _happening_ in your body.
+[^11]: I followed a ketogenic diet for over a year. In that time, my sugar cravings essentially disappeared. My mood also improved.
+[^12]: _If you have diabetes don't be careless; you could die._ As long as you are metabolically healthy, you can take some form of "diet break" for a week or two, like on a vacation or the holiday season, and the consequences won't be too dire—especially if you maintain reasonable portion sizes.
 
 [0]: /health/training/
 [1]: #metabolic-health

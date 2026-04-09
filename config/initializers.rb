@@ -1,4 +1,5 @@
 require_relative "../lib/builders/sidenotes"
+require_relative "../lib/builders/lightbox_figures"
 require_relative "../lib/builders/plain_text_export"
 
 Bridgetown.configure do |config|
@@ -10,6 +11,13 @@ Bridgetown::Hooks.register :resources, :post_render do |resource|
   next unless resource.output.include?("footnotes")
 
   resource.output = Sidenotes.transform(resource.output)
+end
+
+Bridgetown::Hooks.register :resources, :post_render do |resource|
+  next unless resource.output_ext == ".html"
+  next unless resource.output.include?("lightbox-figure")
+
+  resource.output = LightboxFigures.transform(resource.output)
 end
 
 Bridgetown::Hooks.register :site, :post_write do |site|
