@@ -15,7 +15,7 @@ end
 
 Bridgetown::Hooks.register :resources, :post_render do |resource|
   next unless resource.output_ext == ".html"
-  next unless resource.output.include?("lightbox-figure")
+  next unless resource.output.include?("image-figure")
 
   resource.output = LightboxFigures.transform(resource.output)
 end

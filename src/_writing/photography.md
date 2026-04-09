@@ -33,12 +33,12 @@ Now I have a desktop application where I can manage my entire collection of phot
 I've been reviewing the photos I've taken—all 39,000—to see which ones I like enough to share on [Glass][3] ([@dbh][4]) and, in the processes, I've come to the conclusion that I'm not a particularly good photographer.
 I'm an unremarkable amateur that hasn't meaningfully improved in over a decade.
 
-<div class="lightbox-figure"
-  data-href="/photo/unremarkable-photo-2048.jpg"
-  data-src="/photo/unremarkable-photo-1024.jpg"
-  data-alt="Photograph with muted colors of the top of an office building with a limestone façade and art deco ornamentation stained dark by acid rain in the foreground and a larger, darker, more modern office building extending skyward in the background."
-  data-aspect="r2x3"
-  data-caption="Why did I take this photo?\nDoes it make you feel anything?"></div>
+<image-figure
+  href="/photo/unremarkable-photo-2048.jpg"
+  src="/photo/unremarkable-photo-1024.jpg"
+  alt="Photograph with muted colors of the top of an office building with a limestone façade and art deco ornamentation stained dark by acid rain in the foreground and a larger, darker, more modern office building extending skyward in the background."
+  aspect="r2x3"
+  caption="Why did I take this photo?\nDoes it make you feel anything?"></image-figure>
 
 This isn't surprising.
 My once-fervent enthusiasm has waned over the last decade as the pressures of adult life and disillusionment with my results encroached upon my creative drive.

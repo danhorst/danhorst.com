@@ -4,19 +4,19 @@ module LightboxFigures
   def self.transform(html)
     doc = Nokogiri::HTML.parse(html)
 
-    doc.css("div.lightbox-figure").each do |div|
-      href    = div["data-href"]
-      src     = div["data-src"] || href
-      alt     = div["data-alt"]
-      aspect  = div["data-aspect"]
-      caption = div["data-caption"]&.gsub('\n', "<br>\n")
-      id      = div["data-id"]
+    doc.css("image-figure").each do |el|
+      href    = el["href"]
+      src     = el["src"] || href
+      alt     = el["alt"]
+      aspect  = el["aspect"]
+      caption = el["caption"]&.gsub('\n', "<br>\n")
+      id      = el["id"]
 
       figcaption = caption ? %(<figcaption class="picture__caption marginnote">#{caption}</figcaption>\n) : ""
       id_attr    = id ? %( id="#{id}") : ""
       aspect_cls = aspect ? " #{aspect}" : ""
 
-      div.replace(Nokogiri::HTML.fragment(<<~HTML.chomp))
+      el.replace(Nokogiri::HTML.fragment(<<~HTML.chomp))
         <figure class="picture">
         #{figcaption}<div#{id_attr} class="lightbox">
         <a class="picture__anchor#{aspect_cls}" href="#{href}" data-turbo="false">
