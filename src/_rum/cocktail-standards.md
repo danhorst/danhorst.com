@@ -42,7 +42,7 @@ Ti Punch is a traditional cocktail from Marinique
 
 _Ingredients_
 
-- [ ] 1 teaspoon [Petite Canne Sugar Cane Syrup][1] (or demerara syrup)
+- [ ] 1 teaspoon Petite Canne Sugar Cane Syrup (or demerara syrup)
 - [ ] 2 oz Rhum Agricole
 - [ ] 2 lime wedges
 
@@ -62,7 +62,7 @@ Because of it's origin, Ti Punch should be made with a rhum agricole. Specifical
 
 You can also use a Cane Coffe Still Aged Rhum, like the Barbancourt 8, to a similar end.
 
-[Tom at Beach Bar Bums][2] suggests using [Plantation Pineapple Rum Stiggns’ Fancy][3] and, although it flies in the face of tradition, it tastes good to me.
+[Tom at Beach Bar Bums][2] suggests using Plantation Pineapple Rum Stiggins’ Fancy and, although it flies in the face of tradition, it tastes good to me.
 
 ----
 
@@ -101,7 +101,7 @@ _Preparation_
 
 ## Dark 'n Stormy
 
-Although people sometimes use different ingredients, a [true Dark 'n Stormy®][4] is made with:
+Although people sometimes use different ingredients, a true Dark 'n Stormy® is made with:
 
 - [ ] 1.5 oz Gosling’s Black Seal Rum
 - [ ] Gosling’s Stormy Ginger Beer
@@ -139,7 +139,4 @@ _Preparation_
 5. Stir
 6. OPTIONAL: Garnish with lime wedge
 
-[1]: https://www.kegworks.com/petite-canne-sugar-cane-syrup
 [2]: https://beachbarbums.com/2016/09/20/the-best-ti-punch-riff-youll-ever-have/
-[3]: https://www.plantationrum.com/plantation-stiggins-fancy-pineapple
-[4]: https://www.goslingsrum.com/cocktails/dark-n-stormy-cocktail/

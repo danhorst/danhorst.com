@@ -13,7 +13,6 @@ categories:
 - Rocketry & Space
   - [The Rocketry Show](https://www.therocketryshow.com/)
   - [The Model Rocket Show](https://themodelrocketshow.com/)
-  - [But it is Rocket Science](https://www.butitisrocketscience.com/)
 - Stories, Human Interest
   - [This American Life](https://www.thisamericanlife.org/)
   - [Serial](https://serialpodcast.org/)
@@ -22,7 +21,7 @@ categories:
 - Science, Design, Non-fiction
   - [99% Invisible](https://99percentinvisible.org/)
   - [Nice Try!](https://podcasts.voxmedia.com/show/nice-try)
-  - [Hidden Brain](https://www.npr.org/podcasts/510308/hidden-brain)
+  - [Hidden Brain](https://hiddenbrain.org/)
   - [Song Exploder](http://songexploder.net/)
 - Fitness
   - [Stronger by Science](https://www.strongerbyscience.com/podcast/)

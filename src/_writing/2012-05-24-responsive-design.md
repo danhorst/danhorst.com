@@ -14,7 +14,7 @@ title:       Responsive Web Design
 
 In 2010 [Ethan Marcotte][1] coined the term _[responseive web design][2]_ to describe a process for creating flexible, versatile websites.
 By using [media queries][3] in conjunction with a fluid grid a designer can alter the flow of
-content within a website to provide a good viewing experience on [a phone-sized screen as well as a 70" display][4].
+content within a website to provide a good viewing experience on a phone-sized screen as well as a 70" display.
 Philosophically it embraces the idea that when designing for the web [we should "accept the ebb and flow of things"][5].
 
 ## Getting Started
@@ -52,7 +52,6 @@ Some of the trickier areas are site navigation and search.
 [1]:  https://x.com/beep
 [2]:  http://en.wikipedia.org/wiki/Responsive_Web_Design
 [3]:  https://developer.mozilla.org/en/CSS/Media_queries
-[4]:  http://weedygarden.net/2012/05/a-case-for-ress/
 [5]:  http://www.alistapart.com/articles/dao/
 [6]:  http://www.alistapart.com/articles/responsive-web-design/
 [7]:  http://www.alistapart.com/
