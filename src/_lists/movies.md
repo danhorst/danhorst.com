@@ -9,7 +9,7 @@ categories:
 > It could be the worldbuilding, character development, soundtrack, cinematography, or just the way it makes me feel when it comes to the end—oh, or nostalgia.
 > 
 > Most of these are on the [IMDB Top 250](https://www.imdb.com/chart/top).
-> I'd like to see more of the AFI top 100 and the [top 200 on Rotten Tomatoes](https://editorial.rottentomatoes.com/guide/200-essential-movies-to-watch-now/).
+> I'd like to see more of the [AFI top 100](https://web.archive.org/web/20100605041242/https://www.afi.com/100Years/movies.aspx) and the [top 200 on Rotten Tomatoes](https://editorial.rottentomatoes.com/guide/200-essential-movies-to-watch-now/).
 >
 > This list is grouped roughly by genre and ordered loosely by my preference.
 >

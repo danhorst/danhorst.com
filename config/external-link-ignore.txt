@@ -14,9 +14,6 @@ manager-tools.com
 thereadystate.com
 simplyrecipes.com
 
-# Academic / DOI resolvers
-dx.doi.org
-
 # Medium (paywalled/bot-blocking)
 uxdesign.cc
 

@@ -24,7 +24,7 @@ title:       Next Steps for the Seaside Research Portal
 #### Nice-to-have
  - Add other layers of information to the map
    - Relevant photos
-   - Nolli map style infrastructure overlays
+   - [Nolli map][10] style infrastructure overlays
    - Overlays from town plans and aerial photos made using [ArcGIS][8]
  - Generate custom map tiles using [TileMill][9]
  - Build walking tours and other modes of interaction with the map
@@ -119,7 +119,7 @@ title:       Next Steps for the Seaside Research Portal
 ## Community Engagement
  - Bring in photos from other sites
    - [Flickr][4]
-   - Picasa Web
+   - [Picasa Web][5]
    - [Panoramio][6]
    - Others?
  - Allow for user submissions to be added to our holdings
@@ -140,8 +140,10 @@ title:       Next Steps for the Seaside Research Portal
 [2]:  http://www.refworks.com/
 [3]:  http://www.zotero.org/
 [4]:  http://www.flickr.com
+[5]:  https://web.archive.org/web/20060701142231/http://picasaweb.google.com/
 [6]:  http://www.panoramio.com/
 [7]:  https://leafletjs.com
+[10]: https://web.archive.org/web/20050723021505/http://nolli.uoregon.edu/
 [29]: http://geojson.org/geojson-spec.html
 [8]:  http://www.esri.com/software/arcgis/index.html
 [9]:  http://mapbox.com/tilemill/

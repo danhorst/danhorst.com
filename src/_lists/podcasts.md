@@ -13,6 +13,7 @@ categories:
 - Rocketry & Space
   - [The Rocketry Show](https://www.therocketryshow.com/)
   - [The Model Rocket Show](https://themodelrocketshow.com/)
+  - [But it is Rocket Science](https://web.archive.org/web/20200524160753/https://www.butitisrocketscience.com/)
 - Stories, Human Interest
   - [This American Life](https://www.thisamericanlife.org/)
   - [Serial](https://serialpodcast.org/)

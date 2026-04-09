@@ -49,5 +49,5 @@ Performance-oriented
 
 
 
-[1]: http://dx.doi.org/10.1136/qshc.2003.009522
+[1]: https://doi.org/10.1136/qshc.2003.009522
 [2]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1765804/pdf/v013p0ii22.pdf
