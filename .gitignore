@@ -8,3 +8,4 @@ _site/*
 output/*
 .bridgetown-cache/
 node_modules/
+tmp

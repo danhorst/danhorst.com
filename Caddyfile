@@ -1,0 +1,8 @@
+{
+  admin off
+}
+
+danhorst.test {
+  tls internal
+  reverse_proxy localhost:4000
+}
