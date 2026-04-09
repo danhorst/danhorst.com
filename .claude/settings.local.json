@@ -7,9 +7,11 @@
       "Bash(bundle exec:*)",
       "Bash(bundle install:*)",
       "Bash(bundle show:*)",
+      "Bash(chmod:*)",
       "Bash(curl:*)",
       "Bash(do echo:*)",
       "Bash(done)",
+      "Bash(find:*)",
       "Bash(find:*)",
       "Bash(for f:*)",
       "Bash(gem contents:*)",
@@ -22,9 +24,11 @@
       "Bash(node:*)",
       "Bash(npm audit:*)",
       "Bash(npm install:*)",
+      "Bash(python3:*)",
       "Bash(ruby --version)",
       "Bash(ruby:*)",
       "Bash(sd:*)",
+      "Bash(wait)",
       "Bash(wc:*)",
       "Bash(xargs ls:*)",
       "Read(//Users/dbh/git/danhorst/danhorst.com/**)",
@@ -32,8 +36,7 @@
       "WebFetch(domain:github.com)",
       "WebFetch(domain:raw.githubusercontent.com)",
       "WebFetch(domain:www.bridgetownrb.com)",
-      "WebSearch",
-      "Bash(python3:*)"
+      "WebSearch"
     ]
   }
 }
