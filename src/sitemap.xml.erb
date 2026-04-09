@@ -1,0 +1,15 @@
+---
+layout: none
+permalink: /sitemap.xml
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <% site.resources.reject { |r| r.data.sitemap == false }.each do |resource| %>
+  <url>
+    <loc><%= site.config.url + resource.relative_url %></loc>
+    <% if resource.date %>
+    <lastmod><%= resource.date.strftime("%Y-%m-%dT%H:%M:%S%:z") %></lastmod>
+    <% end %>
+  </url>
+  <% end %>
+</urlset>

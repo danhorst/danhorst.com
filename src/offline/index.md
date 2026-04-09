@@ -1,6 +1,7 @@
 ---
 layout: empty
 title: Offline
+sitemap: false
 ---
 
 There is a problem with your network connection.
