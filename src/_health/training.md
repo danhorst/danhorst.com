@@ -26,13 +26,13 @@ Here are the basics:
   - Training adaptations showcase the wonders of the human body. Understanding specific training adaptations requires familiarity with kinesiology, cell biology, epigenetics, and biochemistry.
 - Training outcomes are strength, endurance, stability, and speed. Good training outcomes improve your quality of life, lifespan, and health span. You can think of training outcomes as overarching goals.
 - Training status is a qualitative assessment of your experience. You can be a beginner, intermediate, advanced, or elite.
-	- Training status independently varies by training outcome.
+	- Training status independently varies by training outcome. Being able to run a marathon has no bearing on your deadlift. 
   - You don't need to be of advanced or elite training status for good health outcomes.
   - Progressing beyond intermediate training status requires the discipline and commitment of an athlete. It isn't for everyone.
 - All training follows a plan or a program. The act of creating a training plan is called programming.
   - Programming balances enough training stimulus to drive adaptations and enough [recovery time][1] to avoid injury.
   - Volume is the amount of training stimulus in a program or a specific exercise.
-  - Adherence is how consistently you follow a training plan over time. A training plan must be easy for you to adhere to be successful.
+  - Consistency—as judged by your adherence to your program—is critical for long-term success. A training plan must be easy for you to adhere to be successful.
     - It must be interesting enough to keep you engaged.
     - It must be effective enough to let you see results.
     - It must modulate training stimulus enough for you to avoid injury.
