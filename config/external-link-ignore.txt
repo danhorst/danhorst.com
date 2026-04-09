@@ -1,0 +1,19 @@
+# Domains that block automated crawlers but are known-good.
+# One substring/pattern per line. Lines starting with # are comments.
+
+# Social / community platforms
+flickr.com
+letterboxd.com
+linkedin.com
+facebook.com
+instagram.com
+
+# Media / podcast sites
+serialpodcast.org
+manager-tools.com
+thereadystate.com
+simplyrecipes.com
+
+# Misc blocking sites
+exrx.net
+webpagetest.org
