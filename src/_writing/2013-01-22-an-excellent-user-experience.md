@@ -24,14 +24,14 @@ An excellent user experience is the culmination of:
 
 ## More Than Meets The Eye
 
-<figure class="illustration">
+<figure class="illustration" markdown="0">
 <figcaption class="marginnote">
   <strong>The Spectrum of User Experience</strong>
   &copy; 2009 Information Architects, Inc.<br />
   <cite><a href="https://www.flickr.com/photos/formforce/3663684287/">original on Flickr</a></cite>
 </figcaption>
 <div id="user-experience-spectrum" class="lightbox">
-  <a href="/img/ia-spectrum-of-user-experience.png">
+  <a href="/img/ia-spectrum-of-user-experience.png" data-turbo="false">
   <img src="/img/ia-spectrum-of-user-experience.png" alt="An illustration of all the supporting functions that define the user experience. A Venn diagram of three primary colors representing business, technology, and design on a black background.">
   </a>
 </div>

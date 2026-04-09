@@ -28,13 +28,13 @@ Level six should be treated as a last resort.
 
 ## ORIGINAL: Hierarchy of Procedures for Humane and Effective Practice
 
-<figure class="illustration">
+<figure class="illustration" markdown="0">
 <figcaption class="marginnote">
   <em>Hierarchy of Behavior-Change Procedures Most Positive, Least Intrusive Effective Intervention</em>
   <a href="https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode">CC-BY-NC-ND</a> 2015 Susan G. Friedman, Ph. D.
 </figcaption>
 <div id="hierarchy-of-behavior-change" class="lightbox">
-  <a href="/img/lima-hierarchy.png">
+  <a href="/img/lima-hierarchy.png" data-turbo="false">
   <img src="/img/lima-hierarchy.png" alt="An illustration of six levels of behaivor change depected as right turns off a highway. There are speed bumps starting with the forth turn, the fith turn has a yield sign, and the last turn has a stop sign.">
   </a>
 </div>
