@@ -3,6 +3,7 @@ require "nokogiri"
 module LightboxFigures
   def self.transform(html)
     doc = Nokogiri::HTML.parse(html)
+    normalized = doc.to_html
 
     doc.css("image-figure").each do |el|
       href    = el["href"]
@@ -16,7 +17,7 @@ module LightboxFigures
       id_attr    = id ? %( id="#{id}") : ""
       aspect_cls = aspect ? " #{aspect}" : ""
 
-      el.replace(Nokogiri::HTML.fragment(<<~HTML.chomp))
+      figure_html = <<~HTML.chomp
         <figure class="picture">
         #{figcaption}<div#{id_attr} class="lightbox">
         <a class="picture__anchor#{aspect_cls}" href="#{href}" data-turbo="false">
@@ -26,8 +27,10 @@ module LightboxFigures
         </div>
         </figure>
       HTML
+
+      normalized = normalized.sub(el.to_html, figure_html)
     end
 
-    doc.to_html
+    normalized
   end
 end
