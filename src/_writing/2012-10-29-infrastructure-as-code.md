@@ -46,7 +46,7 @@ The full toolchain will look something like this:
  - [VeeWee][7] for building [base boxes][4] and VM images
  - [Chef Server][6] for provisioning and distributing updates
  - [Knife][8] as an interface for the provisioning server
- - [Cucumber-chef][9] for testing provisioning manifests
+ - Cucumber-chef for testing provisioning manifests
  - [Vagrant][5] for managing development environments
  - [Librarian][10] for storing application-specific provisioning needs
    ([recipies][11])
@@ -67,7 +67,7 @@ For example, in order to test the workflow project it can provision a [Redis][17
 That sounds like a lot of overhead but it should relieve the need for installing and configuring all of those software stacks directly on developer machines.
 
 Documentation for using all of these tools concurrently is sparse.
-But there have been some examples of [part of the process][20].
+But there have been some examples of part of the process.
 
 
 ## The Hydra Stack
@@ -80,12 +80,12 @@ For an administrative application that can ingest content into [Fedora][18], sea
    - [Fedora Commons][18] for archival storage
  - Ruby and a Ruby web server: [Thin][24], [Puma][25], [Unicorn][26], etc.
    - Rails application for the user interface
-   - [Heracles][27] workflow manager (also a Rails application) to govern the
+   - Heracles workflow manager (also a Rails application) to govern the
      work queue
-   - [Heracles][27] worker processes (Ruby daemons) for ingesting specific
+   - Heracles worker processes (Ruby daemons) for ingesting specific
      content types into Fedora
  - [Postgres][28] for non-archival data used by both Rails Applications
- - [Redis][17] for the [Heracles][27] queue and for in-memory caching
+ - [Redis][17] for the Heracles queue and for in-memory caching
  - [nginx][29] as a reverse proxy for all web-facing applications
    - Fedora wrapper to allow for a service external to Fedora to provide
      authentication and authorization for access
@@ -106,34 +106,31 @@ The second deliverable is a [KVM VM][31] for a staging environment where the pre
 
 [1]:  http://projecthydra.org/
 [2]:  http://www.opscode.com/chef/
-[3]:  http://wiki.opscode.com/display/chef/Introduction+to+Cookbooks+and+More
-[4]:  http://vagrantup.com/v1/docs/base_boxes.html
+[3]:  https://docs.chef.io/cookbooks/
+[4]:  https://developer.hashicorp.com/vagrant/docs/boxes/base
 [5]:  http://vagrantup.com/
-[6]:  http://wiki.opscode.com/display/chef/Chef+Server
+[6]:  https://docs.chef.io/server/
 [7]:  https://github.com/jedi4ever/veewee
-[8]:  http://wiki.opscode.com/display/chef/Knife
-[9]:  http://www.cucumber-chef.org/
+[8]:  https://docs.chef.io/workstation/knife/
 [10]: https://github.com/applicationsonline/librarian
-[11]: http://wiki.opscode.com/display/chef/Introduction+to+Cookbooks+and+More#IntroductiontoCookbooksandMore-Recipes
+[11]: https://docs.chef.io/recipes/
 [12]: https://github.com/ddollar/foreman
 [13]: https://github.com/applicationsonline/librarian#the-cheffile
 [14]: https://devcenter.heroku.com/articles/procfile/
-[15]: http://vagrantup.com/v1/docs/vagrantfile.html
+[15]: https://developer.hashicorp.com/vagrant/docs/vagrantfile
 [16]: http://en.wikipedia.org/wiki/Runbook
 [17]: http://redis.io/
-[18]: http://fedora-commons.org/
+[18]: https://fedorarepository.org/
 [19]: http://lucene.apache.org/solr/
-[20]: http://tumblr.nrako.com/post/22320729770/vagrant-chef-librarian
-[21]: http://jetty.codehaus.org/jetty/
+[21]: https://jetty.org
 [22]: http://tomcat.apache.org/
 [23]: http://www.jboss.org/
-[24]: http://code.macournoyer.com/thin/
+[24]: https://github.com/macournoyer/thin
 [25]: http://puma.io/
 [26]: http://unicorn.bogomips.org/
-[27]: https://github.com/ndlib/heracles
 [28]: http://www.postgresql.org/
 [29]: http://nginx.org/
-[30]: http://wiki.opscode.com/display/chef/Chef+Solo
+[30]: https://docs.chef.io/chef_solo/
 [31]: https://github.com/jedi4ever/veewee/blob/master/doc/kvm.md
 [32]: http://www.12factor.net
 [33]: http://martinfowler.com/bliki/ImmutableServer.html

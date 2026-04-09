@@ -239,10 +239,9 @@ A few weeks ago I started up a netbook for the first time in years and it couldn
 [^7]: The nuts and bolts of how *exactly* the Internet is described in specs that are referred to as RFCs (I <i>think</i> that stands for Request for Change but that isn't a great name for a standard that governs something this important.)
 I have looked at a few of these but they are dry and difficult to read.
 The formatting doesn't help either--it's 80 column fixed width text as if it were old-school terminal output.
-I've had better luck reading them via [Pretty RFC][5].
+I've had better luck reading them via Pretty RFC.
 
 [1]: https://aws.amazon.com/blogs/mobile/what-happens-when-you-type-a-url-into-your-browser/
 [2]: https://www.ladybug.dev/episodes/how-the-internet-works
 [3]: /lists/podcasts/
 [4]: https://rocketlabdelta.com
-[5]: http://pretty-rfc.herokuapp.com/

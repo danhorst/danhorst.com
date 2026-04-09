@@ -73,7 +73,7 @@ RBSC likes [e-codices][9].
 It would be good to know _why_ as it doesn't strike me as being particularly impressive.
 Because it limits zoom to only the single-page view it also wouldn't be too difficult to implement using one of the standard image zooming libraries.
 
-Another example is the [Northwestern books][10] site.
+Another example is the Northwestern books site.
 It is a robust solution but both the technical infrastructure and metadata that powers it are _very_ complicated.
 Their infrastructure is not in a state where it could be easily packaged up and adopted by another institution.
 
@@ -102,6 +102,5 @@ They would love to make that kind of discovery experience available to their pat
 [7]:  http://scalar.usc.edu/
 [8]:  https://wiki.duraspace.org/display/hydra/Exhibitz
 [9]:  http://www.e-codices.unifr.ch
-[10]: http://books.northwestern.edu/
 [11]: http://iiif.io
 [12]: /writing/building-an-image-pipeline/
