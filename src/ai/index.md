@@ -10,8 +10,8 @@ I use [Claude][2] to fact-check and link-check articles that aren’t about my l
 
 I _do not_ use _any_ AI to generate prose or rewrite my drafts.
 In fact, as AI has become more prevalent, I have shifted my writing style to be _more_ tailored to my personal voice.
-In the past, I’ve used tools like [Hemmingway Editor][3], [Grammarly][4], and the style filters in [iA Writer][5] to trim back my writing to be more bland, digestible, and readable.
-Now, anyone with an Internet-connected devices can consume _endless_ quantities of words written in that manner—you don’t need to come to me for more of that.
+In the past, I’ve used tools like [Hemingway Editor][3], [Grammarly][4], and the style filters in [iA Writer][5] to trim back my writing to be more bland, digestible, and readable.
+Now, anyone with an Internet-connected device can consume _endless_ quantities of words written in that manner—you don’t  come to me for more of that.
 
 If, for whatever reason, I _do_ use AI to author parts of a particular piece of writing, I will put a visible disclaimer on the page.
 
