@@ -9,10 +9,11 @@ module LightboxFigures
       src     = el["src"] || href
       alt     = el["alt"]
       aspect  = el["aspect"]
-      caption = el["caption"]&.gsub('\n', "<br>\n")
       id      = el["id"]
 
-      figcaption = caption ? %(<figcaption class="picture__caption marginnote">#{caption}</figcaption>\n) : ""
+      caption_html = el.inner_html.strip
+      caption_html = caption_html.sub(/\A<p>(.*)<\/p>\z/m, '\1') if caption_html.start_with?("<p>")
+      figcaption = caption_html.empty? ? "" : %(<figcaption class="picture__caption marginnote">#{caption_html}</figcaption>\n)
       id_attr    = id ? %( id="#{id}") : ""
       aspect_cls = aspect ? " #{aspect}" : ""
 

@@ -37,8 +37,8 @@ I'm an unremarkable amateur that hasn't meaningfully improved in over a decade.
   href="/photo/unremarkable-photo-2048.jpg"
   src="/photo/unremarkable-photo-1024.jpg"
   alt="Photograph with muted colors of the top of an office building with a limestone façade and art deco ornamentation stained dark by acid rain in the foreground and a larger, darker, more modern office building extending skyward in the background."
-  aspect="r2x3"
-  caption="Why did I take this photo?\nDoes it make you feel anything?"></image-figure>
+  aspect="r2x3">Why did I take this photo?
+Does it make you feel anything?</image-figure>
 
 This isn't surprising.
 My once-fervent enthusiasm has waned over the last decade as the pressures of adult life and disillusionment with my results encroached upon my creative drive.
