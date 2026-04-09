@@ -4,11 +4,15 @@
 require "nokogiri"
 require "open3"
 
-OUTPUT_DIR = File.expand_path("../output", __dir__)
+OUTPUT_DIR  = File.expand_path("../output", __dir__)
+IGNORE_FILE = File.expand_path("../config/external-link-ignore.txt", __dir__)
 
 IGNORE = [
   /\Amailto:/,
   /localhost/,
+  *File.readlines(IGNORE_FILE, chomp: true)
+    .reject { |l| l.strip.empty? || l.start_with?("#") }
+    .map    { |l| Regexp.new(Regexp.escape(l.strip), Regexp::IGNORECASE) },
 ]
 
 unless Dir.exist?(OUTPUT_DIR)
