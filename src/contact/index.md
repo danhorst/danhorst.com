@@ -5,8 +5,6 @@ description: "How to get in touch"
 markdown_export: true
 ---
 
-# Contact
-
 Questions? Comments? Want to say hi?
 Email me at:
 <span class="visuallyhidden">(the letters in my email addressed are reversed to help prevent spam)</span>

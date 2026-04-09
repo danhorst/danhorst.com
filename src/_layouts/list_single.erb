@@ -2,11 +2,15 @@
 layout: default
 ---
 
-<h1><%= page.data.title %></h1>
-<% if page.data.page_layout != "raw" %>
-<section>
-<% end %>
-<%= yield %>
-<% if page.data.page_layout != "raw" %>
-</section>
-<% end %>
+<article>
+  <header>
+    <h1><%= page.data.title %></h1>
+  </header>
+  <% if page.data.page_layout != "raw" %>
+  <section>
+  <% end %>
+  <%= yield %>
+  <% if page.data.page_layout != "raw" %>
+  </section>
+  <% end %>
+</article>

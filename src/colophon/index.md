@@ -5,35 +5,46 @@ description: "The software tools and hosting services I use for this stie."
 markdown_export: true
 ---
 
-# Colophon
-
 This website is designed to be fast for you and cheap for me.
-To that end, I use a static site builder because it meets these goals and leaves me more time for writing and [other things I like to do](/lists/interests/).
+To that end, I use a static site builder because it meets these goals and leaves me more time for writing and [other things I like to do][1].
 
 Registrar
-: [Hover](https://www.hover.com)
+: [Hover][2]
 
 Hosting & DNS
-: [Netlify](https://www.netlify.com/)
+: [Netlify][3]
 
-[git](https://git-scm.com/) Hosting
-: [GitHub](https://github.com/)
+[git][4] Hosting
+: [GitHub][5]
 
 Site builder
-: [Bridgetown](https://www.bridgetownrb.com/)
+: [Bridgetown][6]
 
 Site theme
-: Based on [Tufte CSS](https://github.com/edwardtufte/tufte-css/)
+: Based on [Tufte CSS][7]
 
 Typeface
-: [ET Book](https://edwardtufte.github.io/et-book/)
+: [ET Book][8]
 
 Sped up by
-: [Turbo Drive](https://turbo.hotwired.dev/)
+: [Turbo Drive][9]
 
 Lightbox
-: [baguetteBox.js](https://github.com/feimosi/baguetteBox.js)
+: [baguetteBox.js][10]
 
 Auditing
-: [Lighthouse](https://developers.google.com/web/tools/lighthouse/)
-: [WebPageTest](https://www.webpagetest.org/)
+: [Lighthouse][11]
+: [WebPageTest][12]
+
+[1]: /lists/interests/
+[2]: https://www.hover.com
+[3]: https://www.netlify.com/
+[4]: https://git-scm.com/
+[5]: https://github.com/
+[6]: https://www.bridgetownrb.com/
+[7]: https://github.com/edwardtufte/tufte-css/
+[8]: https://edwardtufte.github.io/et-book/
+[9]: https://turbo.hotwired.dev/
+[10]: https://github.com/feimosi/baguetteBox.js
+[11]: https://developers.google.com/web/tools/lighthouse/
+[12]: https://www.catchpoint.com/webpagetest

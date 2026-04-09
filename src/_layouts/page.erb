@@ -2,4 +2,12 @@
 layout: default
 ---
 
-<%= yield %>
+<article>
+  <header>
+    <h1><%= page.data.heading || page.data.title %></h1>
+  </header>
+
+  <section>
+    <%= yield %>
+  </section>
+</article>
