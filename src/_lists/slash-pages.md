@@ -9,11 +9,13 @@ categories:
 > [Slash pages][1] are a way to standardize common pages across [IndiWeb][2] sites.
 
 - [/about/][3]
-- [/contact/][4]
-- [/colophon/][5]
+- [/ai/][4]
+- [/contact/][5]
+- [/colophon/][6]
 
 [1]: https://slashpages.net/
 [2]: https://indieweb.org/
 [3]: /about/
-[4]: /contact/
-[5]: /colophon/
+[4]: /ai/
+[5]: /contact/
+[6]: /colophon/
