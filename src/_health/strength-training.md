@@ -29,7 +29,7 @@ Start with [The Complete Strength Training Guide][1] by [Greg Nuckols][2].
 It weighs in at 54 pages and is a better, more concise resource than most books on the subject.
 Another commonly recommended introductory text is [Starting Strength][3] by [Mark Rippetoe][4].
 Social media content, even by "evidence-based" creators, varies widely in quality and efficacy but [Jeff Nippard][5]'s technique and training videos are a reliable source of good information.
-The [Stronger by Science podcast][6] is a fantastic resource but the episodes can be pretty long (brevity is not a core part of the Stronger by Science brand).
+The [Stronger by Science podcast][6] (now discontinued) is a fantastic resource but the episodes can be pretty long (brevity is not a core part of the Stronger by Science brand).
 
 If you don't want to start by reading a book, the [fundamental concepts of training][7] strength are:
 
@@ -47,7 +47,7 @@ It doesn't make sense to invest enough time to gain the expertise required to de
 Use a beginner-friendly training plan and learn what works for you as you progress.
 
 - I started with [Stronglifts 5×5][10] and added accessory work[^4] as needed.
-- If moving a standard Olympic barbell (20kg/~45lb) is challenging for you, start with [Couch to Barbell][11] by [Casey Johnston][12] of [Ask a Sowle Woman][13] & [She's a Beast][14] fame.
+- If moving a standard Olympic barbell (20kg/~45lb) is challenging for you, start with [Couch to Barbell][11] by [Casey Johnston][12] of [Ask a Swole Woman][13] & [She's a Beast][14] fame.
 - I have purchased several programs from [Meghan Callaway Fitness][15] for both specific results and general fitness; they are very good (don't ask me about my adherence).[^5]
 - The [Boostcamp][16] app comes with a lot of popular strength programs preloaded; [the one by Greg Nuckols][17] looks especially promising.
 
@@ -80,8 +80,8 @@ The _extent_ of your education is up to you.
 
 If you want enough in-depth knowledge to build training routines yourself, [Practical Programming for Strength Training][19], browsing [ExRx.net][20] (now, with paywall!), or a good exercise physiology textbook can help.
 The [MASS Research Review][21] makes exercise science findings more accessible than reading and interpreting the journal articles themselves.[^6]
-Using social media for fitness advice is unwise.
-It's too easy to lose focus on building a foundation of excellence by getting the basics right (which really aren't _that_ complicated) when there's so much _noise_ about little things that don't matter much.
+Using social media for fitness advice is unwise.[^7]
+It distracts from building a foundation of excellence with well-executed basics (which really aren't _that_ complicated) with lots of _noise_ about little things that don't matter much.
 
 There's an over abundance of information available strewn across the Internet and (sometimes) GenAI can help you sort it out.
 For example, I got what _seemed_ like a perfectly good response from ChatGPT with this prompt:
@@ -94,7 +94,7 @@ Avoid junk volume because it will impact your ability to recover and increase ri
 
 ### Stay on the Path
 
-You must train long enough to see a difference before you reevaluate your training plan and adjust as necessary—every 12 weeks is about right. Progress takes time; don't fall prey to [fuckatounditis][21] and hop from program to program without a clear direction or record of your progress.[^7]
+You must train long enough to see a difference before you reevaluate your training plan and adjust as necessary—every 12 weeks is about right. Progress takes time; don't fall prey to [fuckatounditis][22] and hop from program to program without a clear direction or record of your progress.[^8]
 
 ## Equipment
 
@@ -114,13 +114,13 @@ Training at an elite level _does_ require specialized equipment but you're proba
 > You can learn a lot about a gym from its equipment choices; if they only have weight machines and cardio equipment go somewhere else.
 
 Buying fitness equipment is a slippery slope.
-Just because you have something in your home doesn't mean you will _use_ it.[^8]
+Just because you have something in your home doesn't mean you will _use_ it.[^9]
 You can get a lot of mileage out of:
 
-- _A kettlebell or two._ I get a _lot_ of use out of a good, 1 pood[^9] [(35lb) kettlebell][22] for "exercise snacks" during the workday.
-- _A pair of adjustable dumbbells._ I bought a set of [Ironmaster adjustable dumbbells][23] ahead of the COVID-19 pandemic to be the foundation of a home gym. They are great quality and spectacularly solid. There are other dumbbells on the market that adjust _faster_ but I haven't found any I can recommend without reservations.
-- _A pull-up bar._ [The kind that fits in a door frame is fine][24].
-- _A set of exercise bands._ [elitefts makes some nice ones][25], [as does Rogue][26].
+- _A kettlebell or two._ I get a _lot_ of use out of a good, 1 pood[^10] [kettlebell][23] for "exercise snacks" during the workday.
+- _A pair of adjustable dumbbells._ I bought a set of [Ironmaster adjustable dumbbells][24] ahead of the COVID-19 pandemic to be the foundation of a home gym. They are great quality and spectacularly solid. There are other dumbbells on the market that adjust _faster_ but I haven't found any I can recommend without reservations.
+- _A pull-up bar._ [The kind that fits in a door frame is fine][25].
+- _A set of exercise bands._ [elitefts makes some nice ones][26], [as does Rogue][27].
 
 Everything else is a bonus.
 
@@ -135,25 +135,26 @@ Lifting and moving heavy things is perfectly safe _if and only if_ you:
 	- Know how to safely bail lifts if you get stuck (for exercises where this is possible).
 - Don't lift alone; accidents can happen and you may need assistance from someone else.
 
-[^1]: [Dr. Peter Attia][27] has written many articles and [recorded many podcasts][28] about this. His book [_Outlive_][29] is an excellent high-level overview of how to stay healthy throughout your life.
-[^2]: This is a commonly held belief but we my be wrong about _why_ we lose muscle as we age. [Luc van Loon's research][30] has shown that muscle tissue responds to exercise stimulus _irrespective_ of age. So the effects of sarcopenia are better explained by _lack of exercise stimulus_ and _periods of enforced inactivity, even brief ones,_ built up over many years.
-[^3]: In physics, work is product of _force_ and _displacement_ i.e. work is how far you moved something while applying a constant force. Force, in turn, is the product of _mass_ and _acceleration_ (acceleration being the integral of velocity—the _rate_ of change in speed). So, we can manipulate our training output by adjusting the amount of weight we move (mass), how quickly or slowly we move it (acceleration), and how far we move it (displacement).
-[^4]: Years ago, I recall a comment by Arnold Schwarzenegger on Reddit ([u/GovSchwarzenegger][31]) where he suggested adding pull-ups. I can't find the link now.
-[^5]: The biggest struggle I have with adhering to her programming is a little embarrassing. I use the [Strong app][32] to record my workouts and, because she favors supersets of specialized exercises, it's a pain to add a bunch of custom exercises and properly configure routines in the app. I could use paper, a spreadsheet, or something else with less friction but, instead, my particular combination of stubbornness and laziness means that inaction wins out over time.
+[^1]: [Dr. Peter Attia][28] has written many articles and [recorded many podcasts][29] about this. His book [_Outlive_][30] is an excellent high-level overview of how to stay healthy throughout your life.
+[^2]: This is a commonly held belief but we my be wrong about _why_ we lose muscle as we age. [Luc van Loon's research][31] has shown that muscle tissue responds to exercise stimulus _irrespective_ of age. So the effects of sarcopenia are better explained by _lack of exercise stimulus_ and _periods of enforced inactivity, even brief ones,_ built up over many years.
+[^3]: In physics, work is product of _force_ and _displacement_ i.e. work is how far you moved something while applying a constant force. Force, in turn, is the product of _mass_ and _acceleration_ (acceleration being the derivative of velocity—the _rate_ of change in speed). So, we can manipulate our training output by adjusting the amount of weight we move (mass), how quickly or slowly we move it (acceleration), and how far we move it (displacement).
+[^4]: Years ago, I recall a comment by Arnold Schwarzenegger on Reddit ([u/GovSchwarzenegger][32]) where he suggested adding pull-ups. I can't find the link now.
+[^5]: The biggest struggle I have with adhering to her programming is a little embarrassing. I use the [Strong app][33] to record my workouts and, because she favors supersets of specialized exercises, it's a pain to add a bunch of custom exercises and properly configure routines in the app. I could use paper, a spreadsheet, or something else with less friction but, instead, my particular combination of stubbornness and laziness means that inaction wins out over time.
 [^6]: It takes many facets of expertise to properly understand, evaluate, and apply the findings of a study published in a journal. You need the domain context to evaluate the credibility of the journal. You need a working understanding of the body of literature in the domain. You need to understand and evaluate study design, statistical methods, and data quality. You need to understand if—or in what way—the population or animal model used in the study might apply to yourself. Finally, you must discern if the intervention showcased by the study is something you should adopt and apply it. Unless you're a credentialed professional in the domain—exercise science, sports nutrition, etc.—you are unlikely to be able to do all this yourself. (How many hours are you willing to invest in building domain expertise above and beyond the time you need to do the training itself?)
-[^7]: If sticking to a program for 3 months is a big problem for you, spend time discerning your barriers to success and take proactive steps to resolve them. Acknowledge the reality of the limits to the time and attention you have available to train; you may have to change things about your life situation for to you be able to train the way you want.
-[^8]: I have fallen for this trap an untold number of times. It's not just me; I have seen a spectacular quantity of aspirational fitness equipment in the background of Zoom calls with co-workers.
-[^9]: Kettlebells were traditionally measured in increments of 40 Russian pounds called a pood. One pood is equivalent to 16 kilograms—about 35 pounds.
+[^7]: I get it. It is easier to watch short (or long) videos about fitness than to get off your but and move. Do the hard thing.
+[^8]: If sticking to a program for 3 months is a big problem for you, spend time discerning your barriers to success and take proactive steps to resolve them. Acknowledge the reality of the limits to the time and attention you have available to train; you may have to change things about your life situation for to you be able to train the way you want.
+[^9]: I have fallen for this trap an untold number of times. It's not just me; I have seen a spectacular quantity of aspirational fitness equipment in the background of Zoom calls with co-workers.
+[^10]: Kettlebells were traditionally measured in increments of 40 Russian pounds called a pood. One pood is equivalent to 16 kilograms—just over 36 pounds.
 
-[1]:  https://www.strongerbyscience.com/complete-strength-training-guide/
-[2]:  http://gregnuckols.com/about/
-[3]:  https://aasgaardco.com/store/books-posters-dvd/books/starting-strength-basic-barbell-training/
-[4]:  https://startingstrength.com/author/mark-rippetoe
-[5]:  https://youtube.com/@JeffNippard
-[6]:  https://www.strongerbyscience.com/podcast/
-[7]:  /health/training/#fundamentals
-[8]:  /health/training/#set-achievable-goals
-[9]:  /health/training/#personalize-your-training
+[1]: https://www.strongerbyscience.com/complete-strength-training-guide/
+[2]: http://gregnuckols.com/about/
+[3]: https://aasgaardco.com/store/books-posters-dvd/books/starting-strength-basic-barbell-training/
+[4]: https://startingstrength.com/author/mark-rippetoe
+[5]: https://youtube.com/@JeffNippard
+[6]: https://www.strongerbyscience.com/podcast/
+[7]: /health/training/#fundamentals
+[8]: /health/training/#set-achievable-goals
+[9]: /health/training/#personalize-your-training
 [10]: https://stronglifts.com/5x5/
 [11]: https://www.couchtobarbell.com/
 [12]: https://www.caseyjohnston.website
@@ -165,15 +166,16 @@ Lifting and moving heavy things is perfectly safe _if and only if_ you:
 [18]: https://peterattiamd.com/how-to-train-for-the-centenarian-decathlon/
 [19]: https://aasgaardco.com/store/books-posters-dvd/books/practical-programming-for-strength-training/
 [20]: https://exrx.net/
-[21]: https://leangains.com/fuckarounditis/
-[22]: https://www.roguefitness.com/rogue-kettlebells
-[23]: https://www.ironmaster.com/products/quick-lock-adjustable-dumbbells-75-original/
-[24]: https://www.nytimes.com/wirecutter/reviews/best-pull-up-bars/
-[25]: https://www.elitefts.com/shop/bands.html
-[26]: https://www.roguefitness.com/rogue-monster-bands
-[27]: https://peterattiamd.com/
-[28]: https://peterattiamd.com/podcast/
-[29]: https://peterattiamd.com/outlive/
-[30]: https://peterattiamd.com/lucvanloon/
-[31]: https://www.reddit.com/user/GovSchwarzenegger
-[32]: https://www.strong.app/
+[21]: https://massresearchreview.com/
+[22]: https://leangains.com/fuckarounditis/
+[23]: https://www.roguefitness.com/rogue-kettlebells
+[24]: https://www.ironmaster.com/products/quick-lock-adjustable-dumbbells-75-original/
+[25]: https://www.nytimes.com/wirecutter/reviews/best-pull-up-bars/
+[26]: https://www.elitefts.com/shop/bands.html
+[27]: https://www.roguefitness.com/rogue-monster-bands
+[28]: https://peterattiamd.com/
+[29]: https://peterattiamd.com/podcast/
+[30]: https://peterattiamd.com/outlive/
+[31]: https://peterattiamd.com/lucvanloon/
+[32]: https://www.reddit.com/user/GovSchwarzenegger
+[33]: https://www.strong.app/
