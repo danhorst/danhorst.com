@@ -4,13 +4,26 @@ date: 2025-05-29T12:20:21-04:00
 description: Guidance for first-time PC builders
 ---
 
+> Update 2026-05-10: It’s been lees than a year since I wrote this and it feels like a relic from a bygone era.
+> Staggering amounts of CapEx is fueling a frenzy of data center construction driven by wild market speculation about our supposed AI-fueled future.
+> It was hard to get high-end consumer video cards during the crypto boom—now, it’s hard to get _everything_.
+> The _[entire semiconductor supply chain is overtaxed][1]_.
+> [RAM][2] prices [are spiraling out of control][3].
+> [NAND][4] [prices are nuts][5].
+> [Micron][6] has even [discontinued their Crucial consumer brand][7].
+> [Seagate][8]’s _entire 2026 production capacity_ has _already been purchased._
+> 
+> Enthusiast PC builds are now an indulgence—if you can even source the parts.
+
+---
+
 So, you want to build your first gaming PC?
 Great!
 This can be fun—especially if you understand how to make appropriate tradeoffs and avoid common pitfalls.
 
 There is an endless supply of information about the minutia of PC building and the benchmarks of the latest tech.
 It’s easy to get lost in the details if you can’t evaluate this information critically.
-The good news is that the fundamentals aren’t _that_ complicated and have remained largely unchanged since [3dfx](https://en.wikipedia.org/wiki/3dfx) created the market for PC gaming graphics cards in the late 90s.
+The good news is that the fundamentals aren’t _that_ complicated and have remained largely unchanged since [3dfx][9] created the market for PC gaming graphics cards in the late 90s.
 
 Computer performance is a _balance_ between CPU, memory (RAM), GPU, and disk (SSD).
 Over-power—or under-power—one or two of these core components and you’ll be wasting money on unrealized potential.
@@ -29,7 +42,7 @@ The key design constraints are budget, availability, and the time you’re willi
 	- Focus on the core—CPU and motherboard—first then, work your way out.
 		- For the CPU, find the price/performance cutoff point of the current offerings and decide if it’s worth it to you to go above that point, if not, select a solid CPU that offers a good value.
   		- Motherboards are a bit more complicated. The chipset features, memory configuration, voltage regulator design, and the number and speed of the peripheral busses of a motherboard play a crucial role in how capabable and expandable your machine will be during its functional life. Get a good quality one—but you probably don’t need an ultra-premium gaming-focused one to get the results you want. Don’t get one with integrated graphics for a gaming machine.
-	- If you don’t have a lot of time, just buy a pre-made machine. At the low end, OEMs have economies of scale and supplier arrangements that you don’t have access to as an individual. At the high end, say [Falcon Northwest](https://www.falcon-nw.com/), you’ll get a more powerful, polished result than can be achieved by all but the most dedicated PC builder.
+	- If you don’t have a lot of time, just buy a pre-made machine. At the low end, OEMs have economies of scale and supplier arrangements that you don’t have access to as an individual. At the high end, say [Falcon Northwest][10], you’ll get a more powerful, polished result than can be achieved by all but the most dedicated PC builder.
 
 Other things to avoid:
 
@@ -42,3 +55,13 @@ Other things to avoid:
 
 Go forth and be glorious!
 
+[1]: https://www.dwarkesh.com/p/dylan-patel
+[2]: https://en.wikipedia.org/wiki/Random-access_memory
+[3]: https://pcpartpicker.com/trends/price/memory/
+[4]: https://en.wikipedia.org/wiki/Flash_memory#NAND_flash
+[5]: https://pcpartpicker.com/trends/price/internal-hard-drive/
+[6]: https://en.wikipedia.org/wiki/Micron_Technology
+[7]: https://investors.micron.com/news-releases/news-release-details/micron-announces-exit-crucial-consumer-business
+[8]: https://en.wikipedia.org/wiki/Seagate_Technology
+[9]: https://en.wikipedia.org/wiki/3dfx
+[10]: https://www.falcon-nw.com/
