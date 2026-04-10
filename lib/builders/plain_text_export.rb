@@ -16,6 +16,7 @@ module PlainTextExport
   def self.export(site, resource)
     raw     = File.read(File.join(site.source, resource.relative_path))
     content = raw.sub(FRONT_MATTER_PATTERN, "").lstrip
+    content = "# #{resource.data.title}\n\n#{content}" if resource.data.title
 
     # e.g. output/writing/dash-it-all/index.html → output/writing/dash-it-all.txt
     txt_path = resource.destination.output_path.sub(%r{/index\.html$}, ".txt")
