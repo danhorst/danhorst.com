@@ -752,9 +752,9 @@ p {
   padding-left: 0;
 }
 
+
 .task-list-item {
-  align-items: baseline;
-  display: flex;
+  padding-left: 2.25rem;
   position: relative;
 }
 
@@ -762,10 +762,10 @@ p {
   -webkit-appearance: none;
   appearance: none;
   border: 1px solid;
-  flex-shrink: 0;
   height: 0.75rem;
-  margin-left: 1rem;
-  margin-right: 0.5rem;
+  left: 0.8rem;
+  position: absolute;
+  top: 0.6em;
   width: 0.75rem;
 }
 
@@ -775,7 +775,7 @@ p {
   pointer-events: none;
   position: absolute;
   text-align: center;
-  top: 0;
+  top: -0.1rem;
   width: 0.75rem;
 }
 

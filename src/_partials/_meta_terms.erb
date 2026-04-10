@@ -4,4 +4,4 @@
 <% items = [] %>
 <% cats.each { |c| items << link_to(c, "/categories/#{c.downcase}/", rel: "category tag") } %>
 <% tags.each { |t| items << link_to(t, "/tags/#{t.downcase.gsub(' ', '-')}/", rel: "tag") } %>
-<%= items.join(", ") %>
+<%== items.join(", ") %>

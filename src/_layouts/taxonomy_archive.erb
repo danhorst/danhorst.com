@@ -1,0 +1,31 @@
+---
+layout: default
+---
+<article>
+  <header>
+    <h1><%= page.data.title %></h1>
+  </header>
+  <section>
+    <%
+      resources = collections.writing.resources.select { |r|
+        if page.data.taxonomy_type == "category"
+          Array(r.data.categories).map(&:downcase).include?(page.data.taxonomy_slug)
+        else
+          Array(r.data.tags).map { |t| t.downcase.gsub(" ", "-") }.include?(page.data.taxonomy_slug)
+        end
+      }
+    %>
+    <ol class="post-list">
+      <% resources.each do |post| %>
+      <li>
+        <a href="<%= post.relative_url %>"><%= post.data.title %></a>
+        <small class="post-list-meta">
+          <span class="month"><%= post.data.date&.strftime("%B") %></span>
+          <span class="day"><%= post.data.date&.strftime("%-d") %></span>,
+          <span class="year"><%= post.data.date&.strftime("%Y") %></span>
+        </small>
+      </li>
+      <% end %>
+    </ol>
+  </section>
+</article>
