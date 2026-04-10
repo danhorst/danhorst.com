@@ -1,4 +1,5 @@
 require "cgi"
+require "htmlbeautifier"
 require_relative "../lib/builders/sidenotes"
 require_relative "../lib/builders/lightbox_figures"
 require_relative "../lib/builders/plain_text_export"
@@ -18,6 +19,12 @@ Bridgetown.configure do |config|
     next unless resource.output.include?("image-figure")
 
     resource.output = LightboxFigures.transform(resource.output)
+  end
+
+  hook :resources, :post_render, priority: :low do |resource|
+    next unless resource.output_ext == ".html"
+
+    resource.output = HtmlBeautifier.beautify(resource.output)
   end
 end
 
