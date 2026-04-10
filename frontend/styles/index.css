@@ -52,8 +52,7 @@ body {
   display: flex;
   flex-direction: column;
   font-family: et-book, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
-  margin-left: auto;
-  margin-right: auto;
+  margin: 0 auto;
   max-width: 90em;
   min-height: 100vh;
   padding-left: 1em;
