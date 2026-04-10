@@ -1,10 +1,14 @@
 import build from "./config/esbuild.defaults.js"
+import path from "path"
+import { fileURLToPath } from "url"
+
+const __dirname = path.dirname(fileURLToPath(import.meta.url))
 
 // You can customize this as you wish, perhaps to add new esbuild plugins.
 //
 // ```
 // import { copy } from 'esbuild-plugin-copy'
-// 
+//
 // const esbuildOptions = {
 //   plugins: [
 //     copy({
@@ -18,15 +22,6 @@ import build from "./config/esbuild.defaults.js"
 //   ]
 // }
 // ```
-//
-// You can also support custom base_path deployments via changing `publicPath`.
-//
-// ```
-// const esbuildOptions = {
-//   publicPath: "/my_subfolder/_bridgetown/static",
-//   ...
-// }
-// ```
 
 /**
  * @typedef { import("esbuild").BuildOptions } BuildOptions
@@ -38,7 +33,10 @@ const esbuildOptions = {
   ],
   globOptions: {
     excludeFilter: /\.(dsd|lit)\.css$/
-  }
+  },
+  entryPoints: { "site": "./frontend/javascript/index.js" },
+  publicPath: "/assets",
+  outdir: path.join(__dirname, "output/assets"),
 }
 
 build(esbuildOptions)

@@ -1,5 +1,8 @@
 url: "https://www.danhorst.com"
 
+keep_files:
+  - assets
+
 kramdown:
   parse_block_html: true
 title: "Dan Brubaker Horst"

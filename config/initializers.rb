@@ -4,6 +4,27 @@ require_relative "../lib/builders/sidenotes"
 require_relative "../lib/builders/lightbox_figures"
 require_relative "../lib/builders/plain_text_export"
 
+# Bridgetown hardcodes `/_bridgetown/static` as the asset URL prefix in
+# Utils#static_frontend_path, which is what the `asset_path` helper uses to
+# generate <link> and <script> tags. This patch replaces that prefix with
+# `/assets` to match the custom `publicPath` and `outdir` set in
+# esbuild.config.js. If Bridgetown is upgraded, check whether
+# Utils#static_frontend_path has changed before accepting the update to
+# config/esbuild.defaults.js (run `bridgetown esbuild update`).
+module Bridgetown
+  module Utils
+    def static_frontend_path(site, additional_parts = [])
+      path_parts = [
+        site.base_path.gsub(%r{^/|/$}, ""),
+        "assets",
+        *additional_parts,
+      ]
+      path_parts[0] = "/#{path_parts[0]}" unless path_parts[0].empty?
+      Addressable::URI.parse(path_parts.join("/")).normalize.to_s
+    end
+  end
+end
+
 Bridgetown.configure do |config|
   init :"bridgetown-feed"
 

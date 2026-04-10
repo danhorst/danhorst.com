@@ -208,7 +208,7 @@ const sassPlugin = (options) => ({
 })
 
 // Set up defaults and generate frontend bundling manifest file
-const bridgetownPreset = (bridgetownConfig) => ({
+const bridgetownPreset = (bridgetownConfig, esbuildOptions) => ({
   name: "bridgetownPreset",
   async setup(build) {
     // Ensure any imports anywhere starting with `/` are left verbatim
@@ -236,6 +236,10 @@ const bridgetownPreset = (bridgetownConfig) => ({
         .replace(/^frontend\//, "")
         .replace(RegExp(String.raw`^${bridgetownConfig.source}\/${bridgetownConfig.islandsDir}\/`), "islands/")
 
+      const outdirRelative = esbuildOptions.outdir
+        ? path.relative(process.cwd(), esbuildOptions.outdir)
+        : `${bridgetownConfig.destination}/_bridgetown/static`
+
       // For calculating the file size of bundle output
       const fileSize = (path) => {
         const { size } = fsLib.statSync(path)
@@ -243,7 +247,7 @@ const bridgetownPreset = (bridgetownConfig) => ({
         return (size / Math.pow(1024, i)).toFixed(2) * 1 + ['B', 'KB', 'MB', 'GB', 'TB'][i]
       }
 
-      const pathShortener = new RegExp(String.raw`^${bridgetownConfig.destination}\/_bridgetown\/static\/`, "g")
+      const pathShortener = new RegExp(`^${outdirRelative.replace(/\//g, '\\/')}\\/`, "g")
 
       // Let's loop through all the various outputs
       for (const key in result.metafile.outputs) {
@@ -255,8 +259,8 @@ const bridgetownPreset = (bridgetownConfig) => ({
           // We have an entrypoint!
           manifest[stripPrefix(value.entryPoint)] = outputPath
           entrypoints.push([outputPath, fileSize(key)])
-        } else if (key.match(/index(\.js)?\.[^-.]*\.css/) && inputs.find(item => item.match(/frontend.*\.(s?css|sass)$/))) {
-          // Special treatment for index.css
+        } else if (key.match(/\.[^-.]*\.css$/) && inputs.find(item => item.match(/frontend.*\.(s?css|sass)$/))) {
+          // Special treatment for CSS companion file
           const input = inputs.find(item => item.match(/frontend.*\.(s?css|sass)$/))
           manifest[stripPrefix(input)] = outputPath
           entrypoints.push([outputPath, fileSize(key)])
@@ -310,7 +314,7 @@ export default async (esbuildOptions, ...args) => {
   esbuildOptions.plugins.push(sassPlugin(esbuildOptions.sassOptions || {}))
   if (esbuildOptions.sassOptions) delete esbuildOptions.sassOptions
   // Add the Bridgetown preset
-  esbuildOptions.plugins.push(bridgetownPreset(bridgetownConfig))
+  esbuildOptions.plugins.push(bridgetownPreset(bridgetownConfig, esbuildOptions))
   if (esbuildOptions.bridgetownConfig) delete esbuildOptions.bridgetownConfig
 
   const esbuild = (await import("esbuild")).default
