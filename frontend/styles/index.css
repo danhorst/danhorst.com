@@ -81,6 +81,11 @@ main {
   figure > svg text {
     fill: #efefef;
   }
+
+  a:link, .tufte-underline, .hover-tufte-underline:hover {
+    background: -webkit-linear-gradient(#000, #000), -webkit-linear-gradient(#000, #000), -webkit-linear-gradient(currentColor, currentColor);
+    background: linear-gradient(#000, #000), linear-gradient(#000, #000), linear-gradient(currentColor, currentColor);
+  }
 }
 
 h1 {
@@ -313,7 +318,7 @@ a:link, .tufte-underline, .hover-tufte-underline:hover {
 /* Adds dark mode */
 @media (prefers-color-scheme: dark) {
   a:link, .tufte-underline, .hover-tufte-underline:hover {
-    text-shadow: 0.03em 0 #151515, -0.03em 0 #151515, 0 0.03em #151515, 0 -0.03em #151515, 0.06em 0 #151515, -0.06em 0 #151515, 0.09em 0 #151515, -0.09em 0 #151515, 0.12em 0 #151515, -0.12em 0 #151515, 0.15em 0 #151515, -0.15em 0 #151515;
+    text-shadow: 0.03em 0 #000, -0.03em 0 #000, 0 0.03em #000, 0 -0.03em #000, 0.06em 0 #000, -0.06em 0 #000, 0.09em 0 #000, -0.09em 0 #000, 0.12em 0 #000, -0.12em 0 #000, 0.15em 0 #000, -0.15em 0 #000;
   }
 }
 
