@@ -82,6 +82,17 @@ main {
     fill: #efefef;
   }
 
+  #rum-guide-stamp .a,
+  #rum-guide-stamp .f {
+    fill: #fff;
+  }
+
+  #rum-guide-stamp .b,
+  #rum-guide-stamp .e,
+  #rum-guide-stamp .f {
+    stroke: #fff;
+  }
+
   a:link, .tufte-underline, .hover-tufte-underline:hover {
     background: -webkit-linear-gradient(#000, #000), -webkit-linear-gradient(#000, #000), -webkit-linear-gradient(currentColor, currentColor);
     background: linear-gradient(#000, #000), linear-gradient(#000, #000), linear-gradient(currentColor, currentColor);
