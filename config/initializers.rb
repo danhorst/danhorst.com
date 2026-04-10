@@ -5,20 +5,20 @@ require_relative "../lib/builders/plain_text_export"
 
 Bridgetown.configure do |config|
   init :"bridgetown-feed"
-end
 
-Bridgetown::Hooks.register :resources, :post_render do |resource|
-  next unless resource.output_ext == ".html"
-  next unless resource.output.include?("footnotes")
+  hook :resources, :post_render do |resource|
+    next unless resource.output_ext == ".html"
+    next unless resource.output.include?("footnotes")
 
-  resource.output = Sidenotes.transform(resource.output)
-end
+    resource.output = Sidenotes.transform(resource.output)
+  end
 
-Bridgetown::Hooks.register :resources, :post_render do |resource|
-  next unless resource.output_ext == ".html"
-  next unless resource.output.include?("image-figure")
+  hook :resources, :post_render do |resource|
+    next unless resource.output_ext == ".html"
+    next unless resource.output.include?("image-figure")
 
-  resource.output = LightboxFigures.transform(resource.output)
+    resource.output = LightboxFigures.transform(resource.output)
+  end
 end
 
 Bridgetown::Hooks.register :site, :post_write do |site|
