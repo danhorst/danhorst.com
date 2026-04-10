@@ -1,3 +1,4 @@
+require "cgi"
 require_relative "../lib/builders/sidenotes"
 require_relative "../lib/builders/lightbox_figures"
 require_relative "../lib/builders/plain_text_export"
@@ -29,5 +30,22 @@ Bridgetown::Hooks.register :site, :post_write do |site|
   base_url = site.config.url.chomp("/")
   content  = File.read(feed_path)
   updated  = content.gsub(/(src|href)=&quot;\//, "\\1=&quot;#{base_url}/")
-  File.write(feed_path, updated) if updated != content
+
+  doc = Nokogiri::XML(updated)
+  doc.remove_namespaces!
+  doc.css("entry").each do |entry|
+    id_el = entry.at_css("id")
+    if id_el&.text&.start_with?("repo://")
+      link_el = entry.at_css("link[rel='alternate']")
+      id_el.content = link_el["href"] if link_el
+    end
+
+    content_el = entry.at_css("content[type='html']")
+    if content_el && content_el.text.include?("image-figure")
+      content_el.content = LightboxFigures.transform_fragment(CGI.unescapeHTML(content_el.text))
+    end
+  end
+  updated = doc.to_xml(encoding: "utf-8")
+
+  File.write(feed_path, updated)
 end
