@@ -23,22 +23,12 @@ command = "npm install && npm run esbuild && bundle exec bridgetown build"
     Cache-Control = "public, max-age=31536000, immutable"
 
 [[headers]]
-  for = "/writing/*.txt"
-  [headers.values]
-    Content-Type = "text/markdown; charset=utf-8"
-
-[[headers]]
-  for = "/rum/*.txt"
-  [headers.values]
-    Content-Type = "text/markdown; charset=utf-8"
-
-[[headers]]
-  for = "/health/*.txt"
-  [headers.values]
-    Content-Type = "text/markdown; charset=utf-8"
-
-[[headers]]
   for = "/*.txt"
+  [headers.values]
+    Content-Type = "text/markdown; charset=utf-8"
+
+[[headers]]
+  for = "/:section/*.txt"
   [headers.values]
     Content-Type = "text/markdown; charset=utf-8"
 
