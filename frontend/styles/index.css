@@ -82,7 +82,11 @@ main {
     fill: #efefef;
   }
 
-  #rum-guide-stamp .a,
+  #rum-guide-stamp .a {
+    fill: none;
+    stroke: #fff;
+  }
+
   #rum-guide-stamp .f {
     fill: #fff;
   }
