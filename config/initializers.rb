@@ -31,16 +31,16 @@ Bridgetown::Hooks.register :site, :post_write do |site|
   content  = File.read(feed_path)
   updated  = content.gsub(/(src|href)=&quot;\//, "\\1=&quot;#{base_url}/")
 
+  ns  = { "atom" => "http://www.w3.org/2005/Atom" }
   doc = Nokogiri::XML(updated)
-  doc.remove_namespaces!
-  doc.css("entry").each do |entry|
-    id_el = entry.at_css("id")
+  doc.xpath("//atom:entry", ns).each do |entry|
+    id_el = entry.at_xpath("atom:id", ns)
     if id_el&.text&.start_with?("repo://")
-      link_el = entry.at_css("link[rel='alternate']")
+      link_el = entry.at_xpath("atom:link[@rel='alternate']", ns)
       id_el.content = link_el["href"] if link_el
     end
 
-    content_el = entry.at_css("content[type='html']")
+    content_el = entry.at_xpath("atom:content[@type='html']", ns)
     if content_el && content_el.text.include?("image-figure")
       content_el.content = LightboxFigures.transform_fragment(CGI.unescapeHTML(content_el.text))
     end
