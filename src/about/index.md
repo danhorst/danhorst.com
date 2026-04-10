@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-heading: "Hello, I'm Dan Brubaker Horst"
+heading: "Hello, I’m Dan Brubaker Horst"
 description: "Who am I exactly?"
 markdown_export: true
 ---
@@ -9,7 +9,7 @@ markdown_export: true
 - I use [lists][1] to help organize my life.
 - I have [many interests][2], especially [rockets][3].
 - I live with my partner, our cat, and two dogs in South Bend, IN.
-- I'm open to opportunities. [Work with me][4].
+- I’m open to opportunities. [Work with me][4].
 
 I am a Principal Engineer at [Interfolio][5] by [Elsevier][6].
 But, this is a personal website.
