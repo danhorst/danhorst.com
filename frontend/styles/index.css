@@ -301,6 +301,10 @@ figure.fullwidth figcaption {
   margin-right: 24%;
 }
 
+figure.masthead {
+  padding-top: 1rem;
+}
+
 /* Links: replicate underline that clears descenders */
 a:link,
 a:visited {
