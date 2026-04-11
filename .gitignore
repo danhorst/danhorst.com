@@ -1,10 +1,6 @@
 .DS_store
 *.swp
 *.swo
-public/*
-.hugo_build.lock
-
-_site/*
 output/*
 .bridgetown-cache/
 node_modules/
