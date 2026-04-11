@@ -15,5 +15,27 @@ document.addEventListener("turbo:load", () => {
       }
     })
   })
-  baguetteBox.run(".lightbox")
+  baguetteBox.run(".lightbox", {
+    afterShow: () => {
+      const overlay = document.getElementById("baguetteBox-overlay")
+      if (!overlay || overlay.dataset.touchDismiss) return
+      overlay.dataset.touchDismiss = "1"
+      let startX, startY
+      overlay.addEventListener("touchstart", e => {
+        startX = e.changedTouches[0].pageX
+        startY = e.changedTouches[0].pageY
+      }, { passive: true })
+      // baguetteBox's touchmoveHandler calls preventDefault() before checking
+      // movement thresholds, which cancels synthetic click events on mobile.
+      // Catch taps here on touchend instead and drive close directly.
+      overlay.addEventListener("touchend", e => {
+        const dx = Math.abs(e.changedTouches[0].pageX - startX)
+        const dy = Math.abs(e.changedTouches[0].pageY - startY)
+        if (dx < 20 && dy < 20) {
+          e.preventDefault() // suppress the now-redundant synthetic click
+          document.getElementById("close-button")?.click()
+        }
+      }, { passive: false })
+    }
+  })
 })
