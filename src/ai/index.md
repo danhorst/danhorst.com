@@ -15,15 +15,16 @@ I _do not_ use AI to generate prose, rewrite my drafts, or otherwise interpose o
 Anything I publish on this site—unless explicitly stated otherwise—is written by me.
 
 In the past, I’ve used tools like [Hemingway Editor][3], [Grammarly][4], and the style filters in [iA Writer][5] to trim back my writing to be more bland, digestible, and readable.
-Now, as AI generated slop has become ubiquitous, I have shifted my writing style to track _more closely_ to my personal voice.
+Now, as [AI-generated slop][6] has become ubiquitous, I have shifted my writing style to track _more closely_ to my personal voice.
 That way, my little corner of the Internet will continue to have a soul.
 
 However, I am ambivalent about AI _training_ on my modest corpus of writing.
-The pages on this site are available as Markdown documents (see `<link rel="alternate" type="text/markdown" href="…" />` in the `<head>` of this page for [an example][6]) so they’re ready to be scooped up by future training runs.
+The pages on this site are available as Markdown documents (see `<link rel="alternate" type="text/markdown" href="…" />` in the `<head>` of this page for [an example][7]) so they’re ready to be scooped up by future training runs.
 
 [1]: https://claude.com/product/claude-code
 [2]: https://claude.com/product/overview
 [3]: https://hemingwayapp.com
 [4]: https://www.grammarly.com
 [5]: https://ia.net/writer
-[6]: /ai.txt
+[6]: https://stopsloppypasta.ai/
+[7]: /ai.txt
