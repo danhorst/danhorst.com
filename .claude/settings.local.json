@@ -1,6 +1,7 @@
 {
   "permissions": {
     "allow": [
+      "Bash(BRIDGETOWN_ENV=production bundle exec bridgetown build)",
       "Bash(BRIDGETOWN_LOG_LEVEL=debug bundle exec bridgetown build)",
       "Bash(bin/bridgetown esbuild:*)",
       "Bash(bridgetown:*)",
@@ -13,7 +14,6 @@
       "Bash(do echo:*)",
       "Bash(done)",
       "Bash(find:*)",
-      "Bash(find:*)",
       "Bash(for f:*)",
       "Bash(gem contents:*)",
       "Bash(gem list:*)",
@@ -25,6 +25,7 @@
       "Bash(node:*)",
       "Bash(npm audit:*)",
       "Bash(npm install:*)",
+      "Bash(npm run:*)",
       "Bash(python3:*)",
       "Bash(ruby --version)",
       "Bash(ruby:*)",
