@@ -14,6 +14,7 @@ I ask [Claude][2] to fact-check and link-check articles that aren’t about my l
 I write to deepen and clarify my understanding of my life and the world around me.
 Delegating away the act of composition undermines the entire point of written expression; writing _is_ thinking and I value clarity of thought.
 Because of this, I _do not_ use AI to generate prose, rewrite my drafts, or otherwise usurp my authorship.
+
 Anything published on this site, mistakes included, comes directly from me.
 My commitment to the writing process aligns with this directive from [Simon Willison’s Personal AI Ethics][3]:
 
