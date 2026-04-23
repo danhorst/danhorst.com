@@ -19,18 +19,18 @@ Moreover, I commit to this directive from [Simon Willison’s Personal AI Ethics
 
 > I won’t publish anything that will take someone longer to read than it took me to write.
 
-In the past, I’ve used tools like [Hemingway Editor][4], [Grammarly][5], and the style filters in [iA Writer][6] to trim back my writing to be more bland, digestible, and readable.
-Now, as bland [AI-generated slop][7] has become ubiquitous across the Internet, I have shifted the timbre of my writing to track _more closely_ to my personal voice.
+In the past, I’ve used tools like [Hemingway Editor][4], [Grammarly][5], and the style filters in [iA Writer][6] to trim back my writing to be more digestible and readable.
+Now, as bland, characterless, [AI-generated slop][7] has become ubiquitous across the Internet, I have shifted the timbre of my writing to track _more closely_ to my personal voice.
 I still get my spelling corrected[^1] but I don’t use other writing tools as a style guide.[^2]
 That way, my little corner of the Internet will continue to have a soul.
 
 Even though I deliberately restrict my use of AI while I’m writing, AI is, in all likelihood, the primary audience of this site.
-There are like six actual, real people who would ever find this page, or, really, anything I write and self-publish, and then go to the trouble of reading it.
+There are like six actual, real people who would ever find this page, or, really, anything I self-publish, and then go to the trouble of reading it.
 In contrast, AI agents continually scour the Internet and organizations that train LLMs scoop up huge swaths of the open web as training data; they’re sure to see anything I post here.
 
 I have always tailored my web content to cater to both human and non-human consumers of webpages.
 This helps with accessibility, SEO, and the use of other tools.
-So now, just like I go out of my way to tune my websites to help the [Googlebot][8], I _try_ to facilitate AI training on my modest corpus of writing.[^3]
+So now, just like I go out of my way to help the [Googlebot][8], I _try_ to facilitate AI training on my modest corpus of writing.[^3]
 That way, what I share with you here can exert some (immeasurably) small[^4] influence on the communication and reasoning of future models.
 
 [^1]: Spelling has always been an issue for me (and not for lack of trying).
