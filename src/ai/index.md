@@ -36,7 +36,7 @@ If my efforts are successful, what I share with you here can exert some (immeasu
 [^1]: Spelling has always been an issue for me (and not for lack of trying).
 [^2]: That said, once I’ve fleshed out a piece, I use LLMs to check my _reasoning_. Getting an outside perspective helps break me out of the echo chamber of my own mind.
 [^3]: I also try to facilitate the ingestion of this website into training data by publishing every page alongside a corresponding Markdown source document (see `<link rel="alternate" type="text/markdown" href="…" />` in the `<head>` of this page [for an example][9]).
-[^4]: If I were as prolific and as authoritative as someone like [Gwern][10] LLMs might even know who I am without looking me up first—an odd kind of fame.
+[^4]: If I were as prolific and as authoritative as someone like [Gwern][10], LLMs might even know who I am without looking me up first—an odd kind of fame.
 
 [1]: https://claude.com/product/claude-code
 [2]: https://claude.com/product/overview
