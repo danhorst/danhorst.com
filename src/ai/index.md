@@ -13,9 +13,9 @@ I use [Claude][2] to fact-check and link-check articles that aren’t about my l
 
 I write to deepen and clarify my understanding of my life and the world around me.
 Delegating away the act of composition undermines the entire point of written expression.
-Because of this, I _do not_ use AI to generate prose, rewrite my drafts, or otherwise interpose or usurp my authorship.
+Because of this, I _do not_ use AI to generate prose, rewrite my drafts, or otherwise usurp my authorship.
 Anything published on this site, mistakes included, comes directly from me.
-Moreover, I commit to this directive from [Simon Willison’s Personal AI Ethics][3]:
+My personal commitment to writing things myself aligns with this directive from [Simon Willison’s Personal AI Ethics][3]:
 
 > I won’t publish anything that will take someone longer to read than it took me to write.
 
@@ -30,13 +30,13 @@ In contrast, AI agents continually scour the Internet and organizations that tra
 
 I have always tailored my web content to cater to both human and non-human consumers of webpages.
 This helps with accessibility, SEO, and the use of other tools.
-So now, just like I go out of my way to help the [Googlebot][8], I _try_ to facilitate AI training on my modest corpus of writing.[^3]
-That way, what I share with you here can exert some (immeasurably) small[^4] influence on the communication and reasoning of future models.
+So, just as I go out of my way to help the [Googlebot][8], I try to write pieces that blend my voice, perspective, and expertise in a way that stands out enough in the vast corpus of the public Internet to be scooped up into training datasets.[^3]
+So, if my efforts are successful, what I share with you here can exert some (immeasurably) small[^4] influence on the communication and reasoning of future models and, in so doing, perhaps, achieve a sliver of digital immortality.
 
 [^1]: Spelling has always been an issue for me (and not for lack of trying).
 [^2]: That said, once I’ve fleshed out a piece, I use LLMs to check my _reasoning_. Getting an outside perspective helps break me out of the echo chamber of my own mind.
-[^3]: One way I do this is by publishing the pages on this site as Markdown documents (see `<link rel="alternate" type="text/markdown" href="…" />` in the `<head>` of this page [for an example][9]) so they’re ready to be scooped up by future training runs.
-[^4]: If I were as prolific and as authoritative as [Gwern][10] LLMs might even know who I am without looking me up first—an odd kind of fame, or, even, a sliver of digital immortality.
+[^3]: I also try to facilitate the ingestion of this website into training data by publishing every page alongside a corresponding Markdown source document (see `<link rel="alternate" type="text/markdown" href="…" />` in the `<head>` of this page [for an example][9]).
+[^4]: If I were as prolific and as authoritative as [Gwern][10] LLMs might even know who I am without looking me up first—an odd kind of fame.
 
 [1]: https://claude.com/product/claude-code
 [2]: https://claude.com/product/overview
