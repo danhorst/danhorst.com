@@ -12,7 +12,7 @@ In the scope of this website, I use [Claude Code][1] to assist me with tooling c
 I ask [Claude][2] to fact-check and link-check articles that aren’t about my life experience.
 
 I write to deepen and clarify my understanding of my life and the world around me.
-Delegating away the act of composition undermines the entire point of written expression; [writing  thinking][3][^1] and [sharpening our clarity of thought][4] [is more important than ever][5].
+Delegating away the act of composition undermines the entire point of written expression; [writing _is_ thinking][3][^1] and [sharpening our clarity of thought][4] [is more important than ever][5].
 Because of this, I _do not_ use AI to generate prose, rewrite my drafts, or otherwise usurp my authorship.
 
 Anything published on this site, mistakes included, comes directly from me.
