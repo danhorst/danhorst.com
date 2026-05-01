@@ -1,0 +1,19 @@
+#!/bin/sh
+set -e
+
+CADDY_ROOT_CERT="/usr/local/share/caddy/pki/authorities/local/root.crt"
+
+trust_ca() {
+  fp=$(openssl x509 -in "$CADDY_ROOT_CERT" -fingerprint -sha1 -noout 2>/dev/null | cut -d= -f2 | tr -d : | tr '[:lower:]' '[:upper:]')
+  security find-certificate -a -Z -c "Caddy Local Authority" /Library/Keychains/System.keychain 2>/dev/null \
+    | grep -q "^SHA-1 hash: $fp" && return
+  osascript -e "do shell script \"security add-trusted-cert -d -r trustRoot -k /Library/Keychains/System.keychain '$CADDY_ROOT_CERT'\" with administrator privileges"
+}
+
+if [ -f "$CADDY_ROOT_CERT" ]; then
+  trust_ca
+else
+  ( while [ ! -f "$CADDY_ROOT_CERT" ]; do sleep 2; done; sleep 1; trust_ca ) &
+fi
+
+exec overmind start
