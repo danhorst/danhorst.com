@@ -3,6 +3,7 @@ require "htmlbeautifier"
 require_relative "../lib/builders/sidenotes"
 require_relative "../lib/builders/lightbox_figures"
 require_relative "../lib/builders/plain_text_export"
+require_relative "../lib/builders/llms_txt"
 
 # Bridgetown hardcodes `/_bridgetown/static` as the asset URL prefix in
 # Utils#static_frontend_path, which is what the `asset_path` helper uses to
@@ -51,6 +52,7 @@ end
 
 Bridgetown::Hooks.register :site, :post_write do |site|
   PlainTextExport.run(site)
+  LlmsTxt.run(site)
 
   feed_path = File.join(site.config.destination, "feed")
   next unless File.file?(feed_path)

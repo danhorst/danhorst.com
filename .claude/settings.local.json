@@ -38,7 +38,13 @@
       "WebFetch(domain:github.com)",
       "WebFetch(domain:raw.githubusercontent.com)",
       "WebFetch(domain:www.bridgetownrb.com)",
-      "WebSearch"
+      "WebSearch",
+      "WebFetch(domain:llmstxt.org)",
+      "Bash(sudo lsof *)",
+      "Bash(sudo netstat *)",
+      "Bash(netstat -anp tcp)",
+      "Bash(lsof -iTCP:443 -sTCP:LISTEN -n -P)",
+      "Bash(sudo launchctl *)"
     ]
   }
 }

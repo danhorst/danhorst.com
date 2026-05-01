@@ -5,3 +5,4 @@ output/*
 .bridgetown-cache/
 node_modules/
 tmp
+.claude

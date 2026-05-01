@@ -1,6 +1,7 @@
 ---
 type:        writing
 author:      Dan Brubaker Horst
+date:        2022-02-24
 description: Let's explore the pitfalls and roadblocks employed by my restless, dissatisfied brain
 published: false
 tags:
