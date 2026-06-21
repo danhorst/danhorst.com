@@ -8,7 +8,7 @@
 module MdWrap
   DEFAULT_WIDTH = 60
 
-  def self.wrap(content, width: DEFAULT_WIDTH)
+  def self.wrap(content, width: DEFAULT_WIDTH, wrap_footnotes: false)
     lines = content.split("\n", -1)
     result = []
     i = 0
@@ -80,10 +80,16 @@ module MdWrap
         next
       end
 
-      # Footnote definition  [^label]: ...
+      # Footnote definition (and its continuation lines).  [^label]: ...
+      # Emitted verbatim unless footnote wrapping is requested.
       if footnote_definition?(line)
-        result << line
+        fn_lines = [line]
         i += 1
+        while i < lines.length && footnote_continuation?(lines[i])
+          fn_lines << lines[i]
+          i += 1
+        end
+        result.concat(wrap_footnotes ? wrap_footnote(fn_lines, width) : fn_lines)
         next
       end
 
@@ -198,6 +204,45 @@ module MdWrap
     out
   end
 
+  # Wraps a footnote body to width, keeping "[^label]: " on the first line and
+  # indenting continuation lines four spaces (parsable as footnote continuation).
+  def self.wrap_footnote(lines, width)
+    idx    = lines.first.index("]:")
+    prefix = lines.first[0, idx + 2] + " "
+    body   = [lines.first[(idx + 2)..].strip] + lines[1..]
+    words  = body.join(" ").split
+    return [prefix.rstrip] if words.empty?
+
+    indent     = "    "
+    result     = []
+    cur        = +""
+    first      = true
+    line_width = width - prefix.length
+    flush = lambda do
+      if first
+        result << prefix + cur
+        first = false
+        line_width = width - indent.length
+      else
+        result << indent + cur
+      end
+      cur = +""
+    end
+
+    words.each do |word|
+      if cur.empty?
+        cur << word
+      elsif cur.length + 1 + word.length <= line_width
+        cur << " " << word
+      else
+        flush.call
+        cur << word
+      end
+    end
+    flush.call
+    result
+  end
+
   def self.wrap_blockquote(lines, width)
     prefix        = "> "
     content_width = width - prefix.length
@@ -259,6 +304,18 @@ module MdWrap
   def self.link_ref_definition?(line)
     return false if footnote_definition?(line)
     line.match?(/^\[[^\]]+\]:\s*\S/)
+  end
+
+  # A continuation line of a footnote body: non-blank, not the start of another
+  # block-level construct.
+  def self.footnote_continuation?(line)
+    trimmed = line.strip
+    return false if trimmed.empty?
+    return false if footnote_definition?(line)
+    return false if link_ref_definition?(line)
+    return false if abbreviation_definition?(line)
+    return false if trimmed.start_with?("#", ">", "```", "~~~", "|")
+    !list_item?(line) && !horizontal_rule?(line)
   end
 
   # Kramdown-specific: *[ABBR]: expansion
