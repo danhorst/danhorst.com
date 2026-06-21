@@ -31,12 +31,8 @@ The only effective way to manage these marginal costs is to periodically and rig
 
 
 [^1]: Aside from ephemeral software that is discarded after use.
-[^2]: Marginal cost, by definition, is the change in the total cost when the quantity produced is increased.
-The marginal costs of software increase in a nonlinear fashion as the complexity of the system increases i.e. it is *much* easier to change a simpler thing than a complicated thing.
-The biggest cost centers are engineering time, cloud computing resources, and licensing fees.
-[^3]: Keeping marginal costs low was one of the claimed benefits of [Extreme Programming (XP)][6]; a set of practices that predated Agile.
-There are good ideas in XP but the methodology has fallen out of favor over time.
-Agile software development *should* have similar outcomes but often doesn’t.
+[^2]: Marginal cost, by definition, is the change in the total cost when the quantity produced is increased. The marginal costs of software increase in a nonlinear fashion as the complexity of the system increases i.e. it is *much* easier to change a simpler thing than a complicated thing. The biggest cost centers are engineering time, cloud computing resources, and licensing fees.
+[^3]: Keeping marginal costs low was one of the claimed benefits of [Extreme Programming (XP)][6]; a set of practices that predated Agile. There are good ideas in XP but the methodology has fallen out of favor over time. Agile software development *should* have similar outcomes but often doesn’t.
 
 [1]: https://en.wikipedia.org/wiki/Technical_debt
 [2]: https://www.ramseysolutions.com/ramseyplus/financial-peace
