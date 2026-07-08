@@ -20,6 +20,7 @@ categories:
 | Ellipsis                 | …       | `&hellip;`            | `&#8230;`           |
 | Degree                   | °       | `&deg;`               | `&#176;`            |
 | Plus/minus               | ±       | `&plusmn;`            | `&#177;`            |
+| Multiplication           | ×       | `&times;`             | `&#215;`            |
 | Lozenge                  | ◊       | `&loz;`               | `&#9674;`           |
 | Numero                   | №       | `&numero;`            | `&#8470;`           |
 | Pilcrow                  | ¶       | `&para;`              | `&#182;`            |
