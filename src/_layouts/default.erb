@@ -21,6 +21,8 @@
     <% end %>
     <link rel="preload" as="font" type="font/woff2" href="/font/et-book-ot-roman.woff2" crossorigin />
     <link rel="preload" as="font" type="font/woff2" href="/font/et-book-ot-italic.woff2" crossorigin />
+    <link rel="preload" as="font" type="font/woff2" href="/font/jost-400-normal.woff2" crossorigin />
+    <link rel="preload" as="font" type="font/woff2" href="/font/jost-500-normal.woff2" crossorigin />
     <link rel="stylesheet" href="<%= asset_path :css %>" />
     <meta name="color-scheme" content="light dark" />
     <meta name="theme-color" content="#000000" media="(prefers-color-scheme: dark)" />
@@ -44,14 +46,22 @@
       <nav role="navigation">
         <span><a href="/">Dan Brubaker Horst</a></span>
         <ul>
-          <li><a href="/rum/">Dan’s Rum Guide</a></li>
+      <% if url.eql?("/rum/") %>
+          <li>Da<span class="nospace">n’s</span> Rum Guide</li>
+      <% else %>
+          <li><a href="/rum/">Da<span class="nospace">n’s</span> Rum Guide</a></li>
+      <% end %>
         </ul>
       </nav>
       <% elsif url.start_with?("/health") %>
       <nav role="navigation">
         <span><a href="/">Dan Brubaker Horst</a></span>
         <ul>
-          <li><a href="/health/">Dan’s Health Guide</a></li>
+      <% if url.eql?("/health/") %>
+          <li>Da<span class="nospace">n’s</span> Health Guide</li>
+      <% else %>
+          <li><a href="/health/">Da<span class="nospace">n’s</span> Health Guide</a></li>
+      <% end %>
         </ul>
       </nav>
       <% else %>

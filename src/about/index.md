@@ -1,10 +1,12 @@
 ---
 layout: page
 title: About
-heading: "Hello, I’m Dan Brubaker Horst"
+heading: "Hello"
 description: "Who am I exactly?"
 markdown_export: true
 ---
+
+## I'm Dan Brubaker Horst
 
 - I use [lists][1] to help organize my life.
 - I have [many interests][2], especially [rockets][3].
@@ -16,7 +18,10 @@ But, this is a personal website.
 _The thoughts and ideas I post here represent my opinion and reflect my experience.
 I do not speak on behalf of my employer._
 
-[Contact][7] · [Colophon][8]
+<nav><ul>
+  <li><a href="/contact/">Contact</a></li>
+  <li><a href="/colophon/">Colophon</a></li>
+</ul></nav>
 
 *[IN]: Indiana
 
@@ -26,5 +31,3 @@ I do not speak on behalf of my employer._
 [4]: /work-with-me/
 [5]: https://www.interfolio.com
 [6]: https://www.elsevier.com
-[7]: /contact/
-[8]: /colophon/
