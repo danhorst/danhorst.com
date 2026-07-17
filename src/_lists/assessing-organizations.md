@@ -21,6 +21,7 @@ categories:
 
 - What is your product design process?
 - How do you develop and execute strategy?
+- What is your approach to AI transformation? How do you measure its impact?
 - What is the structure of your technical leadership?
 - What [behaviors do you encourage][1]?
 - How do you [measure software delivery performance][2]?
