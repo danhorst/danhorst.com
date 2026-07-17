@@ -5,9 +5,9 @@ categories:
  - reference
 ---
 
-> These are the questions I draw from evaluating a potential employer or consulting engagement.
+> These are the questions I draw on when evaluating a potential employer.
 
-## Basics
+## Foundation
 
 - How do you measure success?
 - How big is the whole organization? How is it structured?
@@ -36,7 +36,6 @@ categories:
 
 - Are you profitable? If not, what is your path to profitability?
 - What drives revenue growth?
-- How big is the market for your current products?
 - How do you control marginal costs?
 - If you accepted external investment to drive growth, what is your burn rate?
 - Do you give employees equity? If so, what are the details?
