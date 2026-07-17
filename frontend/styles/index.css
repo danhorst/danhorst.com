@@ -160,6 +160,14 @@ h3 {
   margin-top: 2rem;
 }
 
+h1,
+h2,
+h3 {
+  -webkit-hyphens: auto;
+  hyphens: auto;
+  overflow-wrap: break-word;
+}
+
 hr {
   border-top: 1px solid #ccc;
   border: 0;
@@ -650,7 +658,6 @@ header h1 {
   margin-bottom: .5rem;
   margin-left: -.3rem;
   margin-top: 2rem;
-  width: 80%;
 }
 
 header .post-meta {
@@ -1015,6 +1022,18 @@ nav li:first-child {
   section > table,
   .post-meta {
     width: 100%;
+  }
+
+  h1 {
+    font-size: 2.8rem;
+  }
+
+  h2 {
+    font-size: 1.6rem;
+  }
+
+  h3 {
+    font-size: 1.3rem;
   }
 
   pre > code {
