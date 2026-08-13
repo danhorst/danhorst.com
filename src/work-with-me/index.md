@@ -50,113 +50,18 @@ I am equally comfortable:
 - Troubleshooting an issue with a production server or service[^2]
 
 I have extensive technical skills and have been actively growing my expertise in higher-order concerns like product ownership, executive management, and organizational performance.
+My technical foundation is Ruby and Rails, with full-stack depth across JavaScript, relational databases (PostgreSQL, MySQL), and the everyday tooling of shipping software—Git, CI/CD, Linux, and cloud infrastructure on AWS.
 
-APIs
-: 10+ years
-
-AWS
-: 4 years
-
-Agile
-: 10+ years
-
-Application Development
-: 10+ years
-
-Bash
-: 10+ years
-
-Bootstrap
-: 5 years
-
-CI/CD
-: 10+ years
-
-CSS
-: 10+ years
-
-Docker
-: 4 years
-
-Enterprise Architecture
-: 5 years
-
-Git
-: 10+ years
-
-GitHub
-: 10+ years
-
-HTML5
-: 10+ years
-
-JavaScript
-: 10+ years
-
-JSON
-: 10+ years
-
-Linux
-: 10+ years
-
-MySQL
-: 8 years
-
-Okta
-: 4 years
-
-PostgreSQL
-: 5 years
-
-REST
-: 10+ years
-
-Relational databases
-: 10+ years
-
-Ruby on Rails
-: 10+ years
-
-Ruby
-: 10+ years
-
-SDLC
-: 5 years
-
-Software Testing
-: 10+ years
-
-SQL
-: 5 years
-
-SSH
-: 10+ years
-
-SVN
-: 3 years
-
-Technical writing
-: 5 years
-
-User Interface (UI)
-: 10+ years
-
-User Experience (UX)
-: 5+ years
-
-Web design
-: 10+ years
-
-Web development
-: 10+ years
+I (like everyone else) am exploring what [AI][6] can do to transform our industry.
+Change this fast brings instability and opportunity; be clear-eyed and pragmatic.
 
 ### Trivia
 
-- I was the 2132<sup>nd</sup> person to get a [GitHub][6] account when I signed up as [@danhorst][7] in 2008. In June 2022 there were 83 million user accounts on GitHub putting me in the first 0.003% of users.
-- I started working with Rails version [1.2][8]. It's come a _long_ way since then.
+- I was the 2132<sup>nd</sup> person to get a [GitHub][7] account when I signed up as [@danhorst][8] in 2008. In June 2022 there were 83 million user accounts on GitHub putting me in the first 0.003% of users.
+- I started working with Rails version [1.2][9]. It's come a _long_ way since then.
 
 
-[^1]: In-person meetings are invaluable in some circumstances including building relationships and intense bursts of collaboration—like a [pop-up studio][9], or [effective brainstorming][10].
+[^1]: In-person meetings are invaluable in some circumstances including building relationships and intense bursts of collaboration—like a [pop-up studio][10], or [effective brainstorming][11].
 [^2]: Assuming it is some flavor of Linux. My skills and experience with a Microsoft stack are limited.
 
 [1]: https://rocketlabdelta.com/essays/why-i-like-rocketry/
@@ -164,8 +69,9 @@ Web development
 [3]: /lists/implmentation-risks/
 [4]: https://www.calnewport.com/books/deep-work/
 [5]: /lists/organizational-culture/#generative
-[6]: https://github.com
-[7]: https://github.com/danhorst
-[8]: https://rubygems.org/gems/rails/versions/1.2.0
-[9]: https://www.thefieldstudyhandbook.com/
-[10]: https://www.gsb.stanford.edu/insights/thinking-inside-box-why-virtual-meetings-generate-fewer-ideas
+[6]: /ai/
+[7]: https://github.com
+[8]: https://github.com/danhorst
+[9]: https://rubygems.org/gems/rails/versions/1.2.0
+[10]: https://www.thefieldstudyhandbook.com/
+[11]: https://www.gsb.stanford.edu/insights/thinking-inside-box-why-virtual-meetings-generate-fewer-ideas
