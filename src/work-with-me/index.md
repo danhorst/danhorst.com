@@ -10,10 +10,10 @@ I've been working in tech since 2007 as a full-stack web application developer, 
 
 I am passionate about:
 
-📓 Clear technical communication  
-💻 Developer happiness  
-✨ Product design  
-⚓ Resilient systems  
+📓 Clear technical communication
+💻 Developer happiness
+✨ Product design
+⚓ Resilient systems
 🚀 [Hobby rocketry][1]
 
 Engineering isn't bounded by the stack.
@@ -32,7 +32,7 @@ Shipping the right things made the right way takes people, culture, strategy, fo
 
 ### Location
 
-- A remote-first team—preferably asynchronous[^1]
+- A remote-first team—peferably asynchronous[^1]
 - I am open to a hybrid role in the Boston metro area
 - I _will not_ relocate to any state where reproductive rights are not protected
 
@@ -50,18 +50,16 @@ I am equally comfortable:
 - Troubleshooting an issue with a production server or service[^2]
 
 I have extensive technical skills and have been actively growing my expertise in higher-order concerns like product ownership, executive management, and organizational performance.
-My technical foundation is Ruby and Rails, with full-stack depth across JavaScript, relational databases (PostgreSQL, MySQL), and the everyday tooling of shipping software—Git, CI/CD, Linux, and cloud infrastructure on AWS.
+My technical foundation is Ruby and Rails, with full-stack depth across JavaScript, relational databases (PostgreSQL, MySQL), and the everyday tooling of shipping softwareżGit, CI/CD, Linux, and cloud infrastructure on AWS.
 
-I (like everyone else) am exploring what [AI][6] can do to transform our industry.
-Change this fast brings instability and opportunity; be clear-eyed and pragmatic.
+I use AI deliberately in my workżsee [how and where][6]żand stay skeptical of hype in either direction.
 
 ### Trivia
 
 - I was the 2132<sup>nd</sup> person to get a [GitHub][7] account when I signed up as [@danhorst][8] in 2008. In June 2022 there were 83 million user accounts on GitHub putting me in the first 0.003% of users.
 - I started working with Rails version [1.2][9]. It's come a _long_ way since then.
 
-
-[^1]: In-person meetings are invaluable in some circumstances including building relationships and intense bursts of collaboration—like a [pop-up studio][10], or [effective brainstorming][11].
+[^1]: In-person meetings are invaluable in some circumstances including building relationships and intense bursts of collaborationżlike a [pop-up studio][10], or [effective brainstorming][11].
 [^2]: Assuming it is some flavor of Linux. My skills and experience with a Microsoft stack are limited.
 
 [1]: https://rocketlabdelta.com/essays/why-i-like-rocketry/
