@@ -3,3 +3,8 @@ https://loving-ritchie-0e6eda.netlify.com/* https://www.danhorst.com/:splat 301!
 
 # Legacy RSS feed URL
 /index.xml /feed 301
+
+# BusyBusy canonical URLs
+/busybusy/ /busybusy 301
+/busybusy/privacy/ /busybusy/privacy 301
+/busybusy/tos/ /busybusy/tos 301
