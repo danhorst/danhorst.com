@@ -1,0 +1,16 @@
+<article>
+  <header>
+    <h1><%= h(@item[:title]) %></h1>
+    <p class="post-meta">
+      <time datetime="<%= @item[:date]&.strftime("%Y-%m-%dT%H:%M:%S%:z") %>"><%= @item[:date]&.strftime("%A %B %-d, %Y") %></time>
+      by <%= h(@item[:author] || @config[:author]) %>
+      <% if @item[:categories]&.any? || @item[:tags]&.any? %>
+        in <%= render "/meta_terms.erb" %>
+      <% end %>
+    </p>
+  </header>
+
+  <section>
+    <%= @content %>
+  </section>
+</article>

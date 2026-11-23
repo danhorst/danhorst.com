@@ -1,7 +1,7 @@
 import "@hotwired/turbo"
 import baguetteBox from "baguettebox.js"
 import "baguettebox.js/dist/baguetteBox.min.css"
-import "$styles/index.css"
+import "../styles/index.css"
 
 document.addEventListener("turbo:load", () => {
   document.querySelectorAll("input[type='checkbox'][disabled]").forEach(item => {

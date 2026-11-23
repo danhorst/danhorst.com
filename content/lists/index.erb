@@ -1,0 +1,23 @@
+---
+layout: default
+title: Lists
+---
+
+<header>
+  <h1>Lists</h1>
+</header>
+
+<% lists = collection_items("lists") %>
+<% lists.flat_map { |list| Array(list[:categories]) }.uniq.sort.each do |category| %>
+  <%
+    items = lists
+      .select { |r| r[:categories]&.include?(category) }
+      .sort_by { |r| r[:title].to_s }
+  %>
+  <h2 id="<%= h category %>"><%= h category.capitalize %></h2>
+  <ul>
+    <% items.each do |item| %>
+    <li><a href="<%= h(item[:url]) %>"><%= h(item[:title]) %></a></li>
+    <% end %>
+  </ul>
+<% end %>

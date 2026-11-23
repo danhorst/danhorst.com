@@ -1,0 +1,85 @@
+<% url = @item[:url] -%>
+<% guide = guide_title(@item) -%>
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title><%= h document_title(@item) %></title>
+    <% if @item[:description] %>
+    <meta name="description" content="<%= h(@item[:description]) %>" />
+    <% end %>
+    <meta name="author" content="<%= h(@config[:author]) %>" />
+    <link rel="me" href="https://ruby.social/@danhorst" />
+    <link rel="alternate" type="application/rss+xml" href="<%= h(@config[:url]) %>/feed" title="<%= h(@config[:title]) %>" />
+    <% if (plain_text = plain_text_url(@item)) %>
+    <link rel="alternate" type="text/markdown" href="<%= h plain_text %>" />
+    <% end %>
+    <link rel="preload" as="font" type="font/woff2" href="/font/et-book-ot-roman.woff2" crossorigin />
+    <link rel="preload" as="font" type="font/woff2" href="/font/et-book-ot-italic.woff2" crossorigin />
+    <link rel="preload" as="font" type="font/woff2" href="/font/jost-400-normal.woff2" crossorigin />
+    <link rel="preload" as="font" type="font/woff2" href="/font/jost-500-normal.woff2" crossorigin />
+    <link rel="stylesheet" href="<%= h asset_path(:css) %>" />
+    <meta name="color-scheme" content="light dark" />
+    <meta name="theme-color" content="#000000" media="(prefers-color-scheme: dark)" />
+    <meta name="theme-color" content="#fffff8" media="(prefers-color-scheme: light)" />
+    <meta name="darkreader-lock" />
+    <% if url.start_with?("/rum") %>
+    <link rel="icon" type="image/png" sizes="32x32" href="/img/rum-guide-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/img/rum-guide-16x16.png" />
+    <link rel="icon" type="image/x-icon" href="/img/rum-guide.ico" />
+    <% else %>
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+    <% end %>
+    <% if @item[:fediverse_creator] || guide || @item[:layout] == "writing_post" %>
+    <meta name="fediverse:creator" content="@danhorst@ruby.social">
+    <% end %>
+    <script src="<%= h asset_path(:js) %>" defer></script>
+  </head>
+  <body>
+    <header role="banner">
+      <% if url.start_with?("/rum") %>
+      <nav role="navigation">
+        <span><a href="/">Dan Brubaker Horst</a></span>
+        <ul>
+      <% if url.eql?("/rum/") %>
+          <li>Da<span class="nospace">n’s</span> Rum Guide</li>
+      <% else %>
+          <li><a href="/rum/">Da<span class="nospace">n’s</span> Rum Guide</a></li>
+      <% end %>
+        </ul>
+      </nav>
+      <% elsif url.start_with?("/health") %>
+      <nav role="navigation">
+        <span><a href="/">Dan Brubaker Horst</a></span>
+        <ul>
+      <% if url.eql?("/health/") %>
+          <li>Da<span class="nospace">n’s</span> Health Guide</li>
+      <% else %>
+          <li><a href="/health/">Da<span class="nospace">n’s</span> Health Guide</a></li>
+      <% end %>
+        </ul>
+      </nav>
+      <% else %>
+      <nav role="navigation">
+        <span><% if url == "/" %>Dan Brubaker Horst<% else %><a href="/">Dan Brubaker Horst</a><% end %></span>
+        <ul>
+          <% [["Writing", "/writing/"], ["Lists", "/lists/"], ["About", "/about/"]].each do |label, path| %>
+          <li><% if url == path %><%= label %><% else %><a href="<%= path %>"><%= label %></a><% end %></li>
+          <% end %>
+        </ul>
+      </nav>
+      <% end %>
+    </header>
+    <main role="main"<% if @item[:tags]&.include?("interactive") %> class="interactive"<% end %>>
+      <% if @item[:layout] == "writing_post" && @item[:categories]&.include?("Archived") %>
+      <%= render "/archived_post_notice.erb" %>
+      <% end %>
+      <%= @content %>
+    </main>
+    <% if guide %>
+    <%= render "/guide_navigation.erb", guide_title: guide, guide_url: "/#{@item[:collection]}/" %>
+    <% end %>
+  </body>
+</html>

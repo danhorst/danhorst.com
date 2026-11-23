@@ -1,0 +1,14 @@
+<% previous, following = guide_neighbors(@item) %>
+<footer>
+  <nav class="section-navigation">
+    <% if previous %>
+    <a class="prev element" data-turbo-action="advance" href="<%= h previous[:url] %>"><small>Previous</small> <%= h previous[:title] %></a>
+    <% else %>
+    <a class="prev element" data-turbo-action="advance" href="<%= h @guide_url %>"><small>Previous</small> Introduction</a>
+    <% end %>
+    <a class="home element" href="<%= h @guide_url %>"><small>Home</small><%= h @guide_title.delete_prefix("Dan’s ") %></a>
+    <% if following %>
+    <a class="next element" data-turbo-action="advance" href="<%= h following[:url] %>"><small>Next</small> <%= h following[:title] %></a>
+    <% end %>
+  </nav>
+</footer>

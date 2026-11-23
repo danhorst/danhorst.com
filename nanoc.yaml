@@ -1,0 +1,31 @@
+title: "Dan Brubaker Horst"
+author: "Dan Brubaker Horst"
+url: "https://www.danhorst.com"
+timezone: America/Indiana/Indianapolis
+
+kramdown:
+  input: GFM
+  hard_wrap: false
+  parse_block_html: true
+  entity_output: as_char
+  syntax_highlighter: rouge
+  # Kramdown parses this string into a mutable hash.
+  syntax_highlighter_opts: "guess_lang: true"
+
+output_dir: output
+prune:
+  auto_prune: true
+data_sources:
+  - type: filesystem
+  - type: filesystem
+    items_root: /assets/
+    config:
+      content_dir: tmp/frontend
+      layouts_dir: null
+
+text_extensions:
+  - erb
+  - html
+  - json
+  - md
+  - txt

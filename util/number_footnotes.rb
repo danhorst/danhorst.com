@@ -62,7 +62,7 @@ end
 
 changed = 0
 
-Dir.glob("src/**/*.md").sort.each do |path|
+Dir.glob("content/**/*.md").sort.each do |path|
   result = number_footnotes(path)
   next unless result
 

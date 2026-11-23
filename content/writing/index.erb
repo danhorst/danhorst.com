@@ -1,0 +1,21 @@
+---
+layout: default
+title: Writing
+---
+
+<header>
+  <h1>Writing</h1>
+</header>
+
+<ol class="post-list">
+  <% collection_items("writing").each do |post| %>
+  <li>
+    <small class="post-list-meta">
+         <span class="year"><%=  post[:date]&.strftime("%Y") %></span>-<!--
+      --><span class="month"><%= post[:date]&.strftime("%m") %></span>-<!--
+      --><span class="day"><%=   post[:date]&.strftime("%d") %></span>
+    </small>
+    <a href="<%= h(post[:url]) %>"><%= h(post[:title]) %></a>
+  </li>
+  <% end %>
+</ol>

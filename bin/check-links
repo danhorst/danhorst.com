@@ -6,7 +6,7 @@ require "html-proofer"
 output_dir = File.expand_path("../output", __dir__)
 
 unless Dir.exist?(output_dir)
-  warn "No output/ directory found. Run `bin/bridgetown build` first."
+  warn "No output/ directory found. Run `bin/build` first."
   exit 1
 end
 

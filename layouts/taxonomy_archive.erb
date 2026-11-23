@@ -1,0 +1,19 @@
+<article>
+  <header>
+    <h1><%= h(@item[:title]) %></h1>
+  </header>
+  <section>
+    <ol class="post-list">
+      <% taxonomy_posts(@item).each do |post| %>
+      <li>
+        <a href="<%= h(post[:url]) %>"><%= h(post[:title]) %></a>
+        <small class="post-list-meta">
+          <span class="month"><%= post[:date]&.strftime("%B") %></span>
+          <span class="day"><%= post[:date]&.strftime("%-d") %></span>,
+          <span class="year"><%= post[:date]&.strftime("%Y") %></span>
+        </small>
+      </li>
+      <% end %>
+    </ol>
+  </section>
+</article>

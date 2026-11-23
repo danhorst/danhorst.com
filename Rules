@@ -1,0 +1,112 @@
+require "time"
+
+collections = {
+  "food" => "food_single",
+  "health" => "page",
+  "lists" => "list_single",
+  "rum" => "page",
+  "writing" => "writing_post",
+}
+
+preprocess do
+  ENV["TZ"] = @config[:timezone]
+  build_time = Time.now
+
+  @items.each do |item|
+    identifier = item.identifier.to_s
+
+    case identifier
+    when %r{\A/assets/}
+      next
+    when %r{/index\.(?:md|erb)\z}
+      item[:url] = identifier.sub(/index\.(?:md|erb)\z/, "")
+    when %r{\A/([^/]+)/([^/]+)\.md\z}
+      collection, slug = Regexp.last_match.captures
+      item[:collection] = collection if collections.key?(collection)
+      item[:slug] ||= slug.downcase
+      item[:layout] ||= collections[collection]
+      item[:url] = "/#{collection}/#{item[:slug]}/"
+    when /\.md\z/
+      item[:url] = "#{identifier.delete_suffix(".md")}/"
+    when /\.erb\z/
+      path = identifier.delete_suffix(".erb")
+      item[:url] = File.extname(path).empty? ? "#{path}/" : path
+    end
+
+    case item[:date]
+    when Date
+      date = item[:date]
+      item[:date] = Time.local(date.year, date.month, date.day)
+    when String
+      item[:date] = Time.parse(item[:date])
+    end
+
+    item[:url] = item[:permalink] if item[:permalink]
+  end
+
+  @items.delete_if do |item|
+    item[:published] == false || (item[:date] && item[:date] > build_time)
+  end
+
+  writing = @items.select { |item| item[:collection] == "writing" }
+  { "category" => "categories", "tag" => "tags" }.each do |type, directory|
+    terms = writing.flat_map { |item| Array(item[directory.to_sym]) }
+    terms.uniq.group_by { |term| SiteViewHelpers.taxonomy_slug(type, term) }.each do |slug, names|
+      url = "/#{directory}/#{slug}/"
+      @items.create("", {
+        url: url,
+        title: names.first,
+        taxonomy_type: type,
+        taxonomy_slug: slug,
+      }, "#{url}index.html")
+    end
+  end
+end
+
+publishing = %r{\A/(?:feed(?:\.xml)?|sitemap\.xml|llms\.txt)\.erb\z}
+taxonomies = %r{\A/(?:categories|tags)/[^/]+/index\.html\z}
+pages = %r{\.(?:md|erb)\z}
+
+compile publishing do
+  filter :erb, trim_mode: "-"
+  layout "/#{item[:layout]}.erb" if item[:layout] && item[:layout] != "none"
+  write item[:url]
+end
+
+compile taxonomies do
+  layout "/taxonomy_archive.erb"
+  layout "/default.erb"
+  filter :site_html
+  write "#{item[:url]}index.html"
+end
+
+compile pages do
+  if item.identifier.ext == "md"
+    filter :kramdown, config[:kramdown]
+    snapshot :body_html
+  else
+    filter :erb
+  end
+
+  if item[:layout] && item[:layout] != "none"
+    layout "/#{item[:layout]}.erb"
+    layout "/default.erb" unless %w[default empty].include?(item[:layout])
+  end
+
+  filter :site_html
+  url = item[:url]
+  write(url.end_with?("/") ? "#{url}index.html" : url)
+end
+
+compile "/**/*.md", rep: :plain_text do
+  url = item[:url]
+  if url.end_with?("/") && url != "/"
+    filter :plain_text_export, title: item[:title]
+    write "#{url.delete_suffix("/")}.txt"
+  end
+end
+
+ignore "/assets/manifest.json"
+passthrough "/**/*"
+
+layout "/**/*.erb", :erb, trim_mode: "-"

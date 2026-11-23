@@ -111,7 +111,7 @@ end
 
 changed = 0
 
-Dir.glob("src/**/*.md").sort.each do |path|
+Dir.glob("content/**/*.md").sort.each do |path|
   outcome = convert(path)
   next unless outcome
 

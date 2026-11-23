@@ -1,4 +1,6 @@
 danhorst.test {
 	tls internal
+	header /feed Content-Type "application/atom+xml; charset=utf-8"
+	header /*.txt Content-Type "text/markdown; charset=utf-8"
 	reverse_proxy localhost:4000
 }

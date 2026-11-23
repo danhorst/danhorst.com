@@ -1,0 +1,43 @@
+<%
+collection = @item[:feed_collection]
+feed_title = @config[:title]
+feed_title += " | #{collection.capitalize}" if collection
+feed_url = publication_url(@item[:url])
+author = @config[:author]
+-%>
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <generator uri="https://nanoc.app/" version="<%= xml_escape(Nanoc::VERSION) %>">Nanoc</generator>
+  <link href="<%= xml_escape(feed_url) %>" rel="self" type="application/atom+xml"/>
+  <link href="<%= xml_escape(publication_url('/')) %>" rel="alternate" type="text/html"/>
+  <updated><%= Time.now.xmlschema %></updated>
+  <id><%= xml_escape(feed_url) %></id>
+  <title type="html"><%= xml_escape(feed_title) %></title>
+  <author>
+    <name><%= xml_escape(author) %></name>
+  </author>
+<% atom_entries(collection).each do |post| -%>
+<%
+  url = post[:absolute_url] || publication_url(post[:url])
+  title = post[:title]
+  date = post[:date]
+  updated = post[:last_modified_at] || date
+  updated = Time.parse(updated) if updated.is_a?(String)
+  terms = [post[:category], *post[:tags]].compact
+-%>
+  <entry>
+    <title type="html"><%= xml_escape(title) %></title>
+    <link href="<%= xml_escape(url) %>" rel="alternate" type="text/html" title="<%= xml_escape(title) %>"/>
+    <published><%= date.getlocal.xmlschema %></published>
+    <updated><%= updated.getlocal.xmlschema %></updated>
+    <id><%= xml_escape(post[:id] || url) %></id>
+    <content type="html" xml:base="<%= xml_escape(url) %>"><%= xml_escape(atom_content(post)) %></content>
+    <author>
+      <name><%= xml_escape(post[:author] || Array(post[:authors]).first || author) %></name>
+    </author>
+<% terms.each do |term| -%>
+    <category term="<%= xml_escape(term) %>"/>
+<% end -%>
+  </entry>
+<% end -%>
+</feed>

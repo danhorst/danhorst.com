@@ -1,0 +1,13 @@
+---
+layout: default
+title: Food
+---
+
+<h1>Food</h1>
+
+<h2 id="recipes">Recipes</h2>
+<ul>
+  <% collection_items("food").sort_by { |r| r[:title].to_s }.each do |recipe| %>
+  <li><a href="<%= h(recipe[:url]) %>"><%= h(recipe[:title]) %></a></li>
+  <% end %>
+</ul>

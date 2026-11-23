@@ -6,3 +6,6 @@ output/*
 node_modules/
 tmp
 .claude
+
+.nanoc/
+crash.log

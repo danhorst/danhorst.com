@@ -1,0 +1,9 @@
+<%
+  categories = Array(@item[:categories]).map do |name|
+    link_to(h(name), taxonomy_url("category", name), rel: "category tag")
+  end
+  tags = Array(@item[:tags]).map do |name|
+    link_to(h(name), taxonomy_url("tag", name), rel: "tag")
+  end
+-%>
+<%= (categories + tags).join(", ") -%>

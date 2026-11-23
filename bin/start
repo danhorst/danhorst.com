@@ -16,4 +16,4 @@ else
   ( while [ ! -f "$CADDY_ROOT_CERT" ]; do sleep 2; done; sleep 1; trust_ca ) &
 fi
 
-exec overmind start
+exec "$(dirname "$0")/dev"
