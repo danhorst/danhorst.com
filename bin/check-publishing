@@ -1,0 +1,70 @@
+#!/usr/bin/env ruby
+# frozen_string_literal: true
+
+require "nokogiri"
+
+output_dir = File.expand_path("../output", __dir__)
+origin = "https://www.danhorst.com"
+permalink = "/writing/photography/"
+text_path = "/writing/photography.txt"
+image_path = "/photo/unremarkable-photo-1024.jpg"
+atom = { "atom" => "http://www.w3.org/2005/Atom" }
+
+def check(condition, message)
+  abort "Publishing check failed: #{message}" unless condition
+end
+
+def read_output(output_dir, path)
+  File.read(File.join(output_dir, path))
+rescue Errno::ENOENT
+  abort "Publishing check failed: missing #{path}. Run a production build first."
+end
+
+homepage = Nokogiri::HTML5(read_output(output_dir, "index.html"))
+{
+  'link[rel="stylesheet"]' => "href",
+  "script[src]" => "src",
+}.each do |selector, attribute|
+  asset_url = homepage.at_css(selector)&.[](attribute)
+  check(asset_url&.start_with?("/assets/") && File.file?(File.join(output_dir, asset_url)),
+        "expected #{selector} on the homepage to reference a file under /assets/")
+end
+
+writing = Nokogiri::HTML5(read_output(output_dir, "writing/index.html"))
+essay = Nokogiri::HTML5(read_output(output_dir, "#{permalink}index.html"))
+
+check(writing.at_css(%(a[href="#{permalink}"])) && essay.at_css("article h1")&.text == "Photography",
+      "expected Photography at #{permalink}")
+check(essay.at_css("label.sidenote-number + input.margin-toggle + span.sidenote"),
+      "expected a rendered sidenote in Photography")
+check(essay.at_css(%(figure.picture .lightbox a.picture__anchor img[src="#{image_path}"])),
+      "expected a rendered lightbox figure in Photography")
+
+plain_text = read_output(output_dir, text_path)
+check(essay.at_css(%(link[rel="alternate"][type="text/markdown"][href="#{text_path}"])) &&
+      plain_text.start_with?("# Photography\n\n") && plain_text.match?(/^\[\^1\]: /),
+      "expected a discoverable text export with a heading and footnote")
+check(essay.at_css(%(link[rel="alternate"][href="#{origin}/feed"])),
+      "expected a link to the production feed")
+
+feed = Nokogiri::XML(read_output(output_dir, "feed")) { |config| config.nonet }
+check(feed.errors.empty?, "expected well-formed XML in /feed")
+entries = feed.xpath("/atom:feed/atom:entry", atom)
+recent_paths = writing.css(".post-list a").first(10).map { |link| link["href"] }
+expected_urls = recent_paths.map { |path| "#{origin}#{path}" }
+entry_urls = entries.map { |entry| entry.at_xpath("atom:link[@rel='alternate']", atom)&.[]("href") }
+check(entry_urls.sort_by(&:to_s) == expected_urls.sort, "expected the ten most recent essays in /feed")
+
+entries.each do |entry|
+  url = entry.at_xpath("atom:link[@rel='alternate']", atom)["href"]
+  check(entry.at_xpath("atom:id", atom)&.text == url, "expected the Atom ID for #{url} to match its permalink")
+  content = Nokogiri::HTML5.fragment(entry.at_xpath("atom:content[@type='html']", atom)&.text.to_s)
+  content.css("img").each do |img|
+    check(img["src"].to_s.match?(%r{\Ahttps?://}), "expected an absolute Atom image URL for #{url}")
+  end
+  if url == "#{origin}#{permalink}"
+    check(content.at_css(%(figure img[src="#{origin}#{image_path}"])), "expected the Photography figure in /feed")
+  end
+end
+
+puts "Publishing checks passed."

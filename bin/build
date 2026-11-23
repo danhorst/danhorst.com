@@ -1,0 +1,11 @@
+#!/bin/sh
+set -e
+
+cd "$(dirname "$0")/.."
+
+export BRIDGETOWN_ENV=production
+npm ci
+npm run esbuild
+bundle exec bridgetown build
+bundle exec bin/check-links
+bundle exec bin/check-publishing

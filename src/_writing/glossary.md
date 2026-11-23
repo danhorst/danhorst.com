@@ -48,3 +48,4 @@ Web Application
 Web Service
 : A web service is a program which provides data to external programs, but not web pages.
   It may serve some HTML but it’s primary purpose is to serve as a data API rather than provide curated a user experience.
+{: auto_ids}

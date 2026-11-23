@@ -1,6 +1,6 @@
 [build]
 publish = "output"
-command = "npm install && npm run esbuild && bundle exec bridgetown build"
+command = "bin/build"
 
 [[headers]]
   for = "/feed"
@@ -33,8 +33,6 @@ command = "npm install && npm run esbuild && bundle exec bridgetown build"
     Content-Type = "text/markdown; charset=utf-8"
 
 [build.environment]
-RUBY_VERSION = "4.0.2"
+RUBY_VERSION = "4.0.5"
+NODE_VERSION = "24.16.0"
 BUNDLE_VERSION = "4.0.9"
-
-[context.deploy-preview]
-command = "npm install && npm run esbuild && bundle exec bridgetown build"
